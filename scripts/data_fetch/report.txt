@@ -1,0 +1,92 @@
+REPORT-
+
+============================================================
+SAMPLE DATA FROM: all_india_hotels.csv
+============================================================
+Total records: 4052
+Columns: 23
+Data sources: {'OpenStreetMap': 3697, 'Generated': 355}
+Cities: 25 (Panaji, Bangalore, New Delhi, Mumbai, Thiruvananthapuram...)
+
+Sample records:
+                    hotel_name      city hotel_type  star_rating  price_per_night  guest_rating   data_source
+                The Ambassador New Delhi     Budget          NaN              NaN           3.7 OpenStreetMap
+                 Trident Hotel New Delhi     Budget          NaN              NaN           3.5 OpenStreetMap
+Radisson Blu Plaza Delhi Ai... New Delhi     Budget          NaN              NaN           3.4 OpenStreetMap
+                   Hotel Surya New Delhi     Budget          NaN              NaN           3.4 OpenStreetMap
+            Master Guest House New Delhi     Budget          NaN              NaN           3.5 OpenStreetMap
+Jaypee Vasant Continental H... New Delhi     Budget          NaN              NaN           3.5 OpenStreetMap
+                Parkland Hotel New Delhi     Budget          NaN              NaN           3.7 OpenStreetMap
+        Vishal Residency Hotel New Delhi     Budget          NaN              NaN           3.5 OpenStreetMap
+              Yatri Guesthouse New Delhi     Budget          NaN              NaN           3.3 OpenStreetMap
+              Hotel Metropolis New Delhi     Budget          NaN              NaN           4.1 OpenStreetMap
+
+DATA QUALITY SUMMARY:
+Average quality score: 100.0%
+Min quality score: 95%
+Max quality score: 100%
+
+PRICE ANALYSIS:
+Average price: ₹8123
+Price range: ₹1503 - ₹24995
+
+======================================================================
+HOTEL DATA COLLECTION REPORT
+======================================================================
+Total Cities Processed: 25
+Total Hotels Collected: 4052
+Average Hotels per City: 162.1
+Files Generated: 25
+
+Data Sources Breakdown:
+  OpenStreetMap: 3697 hotels (91.2%)
+  Generated: 355 hotels (8.8%)
+
+Hotel Types Distribution:
+  Budget: 3222 hotels (79.5%)
+  Luxury: 461 hotels (11.4%)
+  Business: 200 hotels (4.9%)
+  Resort: 119 hotels (2.9%)
+  Premium: 50 hotels (1.2%)
+
+Cities Successfully Processed:
+  New Delhi, Mumbai, Kolkata, Chennai, Bangalore
+  Hyderabad, Jaipur, Lucknow, Bhopal, Thiruvananthapuram
+  Gandhinagar, Panaji, Shimla, Itanagar, Dispur
+  Pune, Ahmedabad, Surat, Kanpur, Nagpur
+  Indore, Agra, Vadodara, Ghaziabad, Faridabad
+
+Detailed Per-City Statistics:
+  New Delhi      : 420 hotels, Avg Price:      N/A, Avg Rating: 3.8
+  Mumbai         : 264 hotels, Avg Price:      N/A, Avg Rating: 3.8
+  Kolkata        : 126 hotels, Avg Price:      N/A, Avg Rating: 3.8
+  Chennai        : 192 hotels, Avg Price:      N/A, Avg Rating: 3.8
+  Bangalore      : 538 hotels, Avg Price:      N/A, Avg Rating: 3.7
+  Hyderabad      : 228 hotels, Avg Price:      N/A, Avg Rating: 3.8
+  Jaipur         : 158 hotels, Avg Price:      N/A, Avg Rating: 3.8
+  Lucknow        :  60 hotels, Avg Price:    ₹8146, Avg Rating: 3.7
+  Bhopal         :  60 hotels, Avg Price:    ₹8685, Avg Rating: 3.8
+  Thiruvananthapuram: 229 hotels, Avg Price:      N/A, Avg Rating: 3.7
+  Gandhinagar    :  60 hotels, Avg Price:    ₹8363, Avg Rating: 3.9
+  Panaji         : 699 hotels, Avg Price:      N/A, Avg Rating: 3.8
+  Shimla         :  99 hotels, Avg Price:      N/A, Avg Rating: 3.7
+  Itanagar       :  60 hotels, Avg Price:    ₹9240, Avg Rating: 4.0
+  Dispur         : 130 hotels, Avg Price:      N/A, Avg Rating: 3.7
+  Pune           : 131 hotels, Avg Price:      N/A, Avg Rating: 3.8
+  Ahmedabad      :  60 hotels, Avg Price:      N/A, Avg Rating: 3.8
+  Surat          :  60 hotels, Avg Price:    ₹6819, Avg Rating: 3.9
+  Kanpur         :  60 hotels, Avg Price:    ₹8846, Avg Rating: 3.8
+  Nagpur         :  60 hotels, Avg Price:    ₹8298, Avg Rating: 3.9
+  Indore         :  60 hotels, Avg Price:    ₹6854, Avg Rating: 3.8
+  Agra           :  86 hotels, Avg Price:      N/A, Avg Rating: 3.9
+  Vadodara       :  60 hotels, Avg Price:    ₹7722, Avg Rating: 3.9
+  Ghaziabad      :  60 hotels, Avg Price:    ₹8414, Avg Rating: 3.8
+  Faridabad      :  92 hotels, Avg Price:      N/A, Avg Rating: 3.8
+
+=======================================================
+FINAL SUMMARY
+=======================================================
+✓ Individual city files: 25
+✓ Consolidated file: Available
+✓ Total execution time: Check timestamps in logs
+=======================================================

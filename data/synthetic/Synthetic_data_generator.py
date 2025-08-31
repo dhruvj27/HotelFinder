@@ -231,6 +231,111 @@ def generate_user_hotel_interactions(hotels_df, users_df, n_interactions=1200):
     
     return pd.DataFrame(interactions)
 
+# def generate_hotel_reviews(hotels_df, interactions_df, n_reviews=600):
+#     """Generate hotel reviews with Indian context"""
+#     reviews = []
+    
+#     # Get only review interactions
+#     review_interactions = interactions_df[interactions_df['interaction_type'] == 'Reviewed']
+    
+#     # Indian context phrases
+#     cultural_positives = [
+#         "Great vegetarian options", "Staff spoke Hindi", "Understanding of Indian culture",
+#         "Excellent Indian breakfast", "Comfortable for Indian families", "Good value for money",
+#         "Clean and hygienic", "Well-maintained property", "Friendly staff"
+#     ]
+    
+#     cultural_negatives = [
+#         "No vegetarian restaurant", "Language barrier", "Western-only breakfast",
+#         "Overpriced for Indian standards", "Not suitable for Indian families",
+#         "Poor hygiene standards", "No Indian food options", "Staff not helpful"
+#     ]
+    
+#     positive_templates = [
+#         "Great {amenity} and excellent service. Staff was very {adjective}. {cultural}",
+#         "Perfect location near transport. Food experience was amazing. Highly recommend for {traveler_type}",
+#         "Wonderful stay with excellent amenities. {cultural} Will definitely visit again.",
+#         "Comfortable rooms and great hospitality. {cultural} Perfect for {traveler_type} travelers."
+#     ]
+    
+#     negative_templates = [
+#         "{amenity} was not working. Service issues throughout stay. {cultural}",
+#         "Overpriced for the quality. Expected better for this price range. {cultural}",
+#         "Poor maintenance and cleanliness. {cultural} Not recommended for {traveler_type}",
+#         "Disappointing experience overall. {cultural} Staff was not cooperative."
+#     ]
+    
+#     amenities_list = ['room service', 'WiFi', 'AC', 'restaurant', 'pool', 'gym', 'spa']
+#     adjectives = ['helpful', 'professional', 'courteous', 'friendly', 'attentive']
+#     traveler_types = ['business', 'family', 'couple', 'solo']
+    
+#     for _, interaction in review_interactions.iterrows():
+#         if len(reviews) >= n_reviews:
+#             break
+            
+#         hotel = hotels_df[hotels_df['hotel_id'] == interaction['hotel_id']].iloc[0]
+        
+#         # Determine if review is positive or negative based on rating
+#         is_positive = interaction['rating'] >= 3.5
+        
+#         if is_positive:
+#             template = random.choice(positive_templates)
+#             cultural = random.choice(cultural_positives)
+#         else:
+#             template = random.choice(negative_templates)
+#             cultural = random.choice(cultural_negatives)
+        
+#         # Fill template
+#         review_text = template.format(
+#             amenity=random.choice(amenities_list),
+#             adjective=random.choice(adjectives),
+#             cultural=cultural,
+#             traveler_type=random.choice(traveler_types)
+#         )
+        
+#         # Aspect ratings based on overall rating
+#         cleanliness = max(1.0, min(5.0, interaction['rating'] + random.uniform(-0.5, 0.5)))
+#         service = max(1.0, min(5.0, interaction['rating'] + random.uniform(-0.5, 0.5)))
+#         location = max(1.0, min(5.0, interaction['rating'] + random.uniform(-0.3, 0.3)))
+#         value = max(1.0, min(5.0, interaction['rating'] + random.uniform(-0.7, 0.3)))
+        
+#         # Sentiment score (-1 to 1)
+#         sentiment_score = (interaction['rating'] - 1) / 4 * 2 - 1  # Convert 1-5 to -1 to 1
+        
+#         review = {
+#             'review_id': len(reviews) + 1,
+#             'hotel_id': interaction['hotel_id'],
+#             'user_id': interaction['user_id'],
+#             'review_text': review_text,
+#             'overall_rating': interaction['rating'],
+#             'review_date': interaction['interaction_date'],
+#             'reviewer_type': random.choice(['Business', 'Family', 'Solo']),
+#             'sentiment_score': round(sentiment_score, 2)
+#         }
+        
+#         # Enhanced attributes
+#         review['cleanliness_rating'] = round(cleanliness, 1)
+#         review['service_rating'] = round(service, 1)
+#         review['location_rating'] = round(location, 1)
+#         review['value_rating'] = round(value, 1)
+        
+#         # Extract keywords from review
+#         positive_words = ['great', 'excellent', 'wonderful', 'perfect', 'comfortable', 'good']
+#         negative_words = ['poor', 'bad', 'disappointing', 'overpriced', 'not working']
+        
+#         positive_keywords = [word for word in positive_words if word in review_text.lower()]
+#         negative_keywords = [word for word in negative_words if word in review_text.lower()]
+        
+#         review['positive_keywords'] = json.dumps(positive_keywords)
+#         review['negative_keywords'] = json.dumps(negative_keywords)
+#         review['cultural_mentions'] = json.dumps([cultural])
+#         review['review_length_category'] = 'Medium' if 100 <= len(review_text) <= 200 else ('Short' if len(review_text) < 100 else 'Long')
+#         review['language'] = 'en'  # Assuming English reviews
+        
+#         reviews.append(review)
+    
+#     return pd.DataFrame(reviews)
+
 def generate_hotel_reviews(hotels_df, interactions_df, n_reviews=600):
     """Generate hotel reviews with Indian context"""
     reviews = []
@@ -251,23 +356,46 @@ def generate_hotel_reviews(hotels_df, interactions_df, n_reviews=600):
         "Poor hygiene standards", "No Indian food options", "Staff not helpful"
     ]
     
-    positive_templates = [
-        "Great {amenity} and excellent service. Staff was very {adjective}. {cultural}",
-        "Perfect location near transport. Food experience was amazing. Highly recommend for {traveler_type}",
-        "Wonderful stay with excellent amenities. {cultural} Will definitely visit again.",
-        "Comfortable rooms and great hospitality. {cultural} Perfect for {traveler_type} travelers."
-    ]
-    
-    negative_templates = [
-        "{amenity} was not working. Service issues throughout stay. {cultural}",
-        "Overpriced for the quality. Expected better for this price range. {cultural}",
-        "Poor maintenance and cleanliness. {cultural} Not recommended for {traveler_type}",
-        "Disappointing experience overall. {cultural} Staff was not cooperative."
-    ]
+    # Updated review templates with traveler type categorization
+    review_templates = {
+        'positive': {
+            'Business': [
+                "Excellent business facilities and {amenity}. Professional service throughout. {cultural}",
+                "Perfect for business travel with great {amenity}. Location is convenient. {cultural}",
+                "Productive stay with reliable {amenity}. Staff understood business needs. {cultural}"
+            ],
+            'Family': [
+                "Wonderful family experience with {amenity}. Kids loved the facilities. {cultural}",
+                "Great for families - {amenity} was perfect. Safe and comfortable environment. {cultural}",
+                "Family-friendly staff and excellent {amenity}. Will return with family. {cultural}"
+            ],
+            'Solo': [
+                "Comfortable solo stay with good {amenity}. Peaceful atmosphere. {cultural}",
+                "Perfect for solo travelers with reliable {amenity}. Great value. {cultural}",
+                "Enjoyable solo trip with excellent {amenity}. Staff was very accommodating. {cultural}"
+            ]
+        },
+        'negative': {
+            'Business': [
+                "Poor business facilities, {amenity} not working properly. Unprofessional service. {cultural}",
+                "Disappointing for business travel - {amenity} was inadequate. Location inconvenient. {cultural}",
+                "Unproductive stay due to faulty {amenity}. Staff not helpful for business needs. {cultural}"
+            ],
+            'Family': [
+                "Not suitable for families - {amenity} was broken. Safety concerns. {cultural}",
+                "Children were disappointed with {amenity}. Not family-oriented service. {cultural}",
+                "Family vacation ruined by poor {amenity} and unhelpful staff. {cultural}"
+            ],
+            'Solo': [
+                "Uncomfortable for solo traveler - {amenity} was poor. Lonely experience. {cultural}",
+                "Overpriced for solo travel - {amenity} not functional. Poor service. {cultural}",
+                "Disappointing solo stay with broken {amenity}. Will not return. {cultural}"
+            ]
+        }
+    }
     
     amenities_list = ['room service', 'WiFi', 'AC', 'restaurant', 'pool', 'gym', 'spa']
     adjectives = ['helpful', 'professional', 'courteous', 'friendly', 'attentive']
-    traveler_types = ['business', 'family', 'couple', 'solo']
     
     for _, interaction in review_interactions.iterrows():
         if len(reviews) >= n_reviews:
@@ -278,19 +406,23 @@ def generate_hotel_reviews(hotels_df, interactions_df, n_reviews=600):
         # Determine if review is positive or negative based on rating
         is_positive = interaction['rating'] >= 3.5
         
+        # Determine reviewer type (same logic as before)
+        reviewer_type = random.choice(['Business', 'Family', 'Solo'])
+        
         if is_positive:
-            template = random.choice(positive_templates)
+            sentiment = 'positive'
             cultural = random.choice(cultural_positives)
         else:
-            template = random.choice(negative_templates)
+            sentiment = 'negative'
             cultural = random.choice(cultural_negatives)
+        
+        # Select template based on sentiment and reviewer type
+        template = random.choice(review_templates[sentiment][reviewer_type])
         
         # Fill template
         review_text = template.format(
             amenity=random.choice(amenities_list),
-            adjective=random.choice(adjectives),
-            cultural=cultural,
-            traveler_type=random.choice(traveler_types)
+            cultural=cultural
         )
         
         # Aspect ratings based on overall rating
@@ -309,7 +441,7 @@ def generate_hotel_reviews(hotels_df, interactions_df, n_reviews=600):
             'review_text': review_text,
             'overall_rating': interaction['rating'],
             'review_date': interaction['interaction_date'],
-            'reviewer_type': random.choice(['Business', 'Family', 'Solo']),
+            'reviewer_type': reviewer_type,  # Use the determined reviewer type
             'sentiment_score': round(sentiment_score, 2)
         }
         

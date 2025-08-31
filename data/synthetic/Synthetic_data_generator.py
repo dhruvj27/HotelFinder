@@ -195,6 +195,15 @@ def generate_user_hotel_interactions(hotels_df, users_df, n_interactions=1200):
         base_rating = hotel['star_rating'] / 5 * 4 + 1  # Scale to 1-5
         rating = max(1.0, min(5.0, round(base_rating + random.uniform(-0.5, 0.5), 1)))
         
+        # Different stay patterns for different user types
+        # if user['family_type'] == 'Solo':
+        #     nights = random.choices([1, 2, 3], weights=[0.6, 0.3, 0.1])[0]
+        # elif user['family_type'] == 'Family_with_kids':
+        #     nights = random.choices([3, 4, 5, 6, 7], weights=[0.2, 0.3, 0.3, 0.1, 0.1])[0]
+        # else:  # Couple
+        #     nights = random.randint(2, 5)
+
+        # amount = hotel['price_per_night_inr'] * nights
         # Amount based on hotel price and some variation
         amount = hotel['price_per_night_inr'] * random.randint(1, 7)
         

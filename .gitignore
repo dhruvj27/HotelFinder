@@ -1,11 +1,9 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
-*.py[codz]
+*.py[cod]
 *$py.class
 *.so
 .Python
-
-# Build / packaging
 build/
 develop-eggs/
 dist/
@@ -18,59 +16,22 @@ parts/
 sdist/
 var/
 wheels/
+pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
 
-# Virtual Environment
-venv/
+# Virtual Environments
+.env
+.venv
 env/
+venv/
 ENV/
 env.bak/
 venv.bak/
-
-# Database
-*.db
-*.sqlite3
-*.sqlite
-database_backups/
-*.sql.backup
-
-# API Keys & Environment
-.env
-.env.local
-.env.production
-.env.staging
-config/secrets.json
-
-# Data files (large datasets)
-data/raw/*.csv
-data/raw/*.json
-data/processed/*.csv
-data/processed/*.pkl
-data/processed/large_*.csv
-data/synthetic/*.csv
-data/backup/*.sql
-models/*.pkl
-models/*.joblib
-models/*.h5
-models/*.model
-
-# Jupyter Notebooks
-.ipynb_checkpoints
-notebooks/.ipynb_checkpoints/
-notebooks/*-checkpoint.ipynb
-
-# Frontend
-frontend/node_modules/
-frontend/build/
-frontend/dist/
-frontend/.env.local
-frontend/npm-debug.log*
-frontend/yarn-debug.log*
-frontend/yarn-error.log*
+.python-version
 
 # IDE
 .vscode/
@@ -81,57 +42,150 @@ frontend/yarn-error.log*
 
 # OS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
 # Logs
 *.log
-logs/
+logs/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Temporary files
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+public
+
+# Storybook build outputs
+.out
+.storybook-out
+
+# Temporary folders
 tmp/
 temp/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# MODIFIED: Keep essential data files for team collaboration
+# Comment out these lines to include datasets in git:
+# *.csv
+# *.pkl
+# *.json
+
+# KEEP THESE DATA FILES IN GIT FOR TEAM COLLABORATION:
+# data/raw/*.csv
+# data/processed/*.csv  
+# data/synthetic/*.csv
+# data/reference/*.json
+# models/saved/*.pkl
+
+# BUT EXCLUDE these large/temporary data files:
+data/temp/
+data/cache/
 *.tmp
+*.temp
+data/backup/*.sql
+data/logs/
 
-# Model artifacts (too large for git)
-models/large_models/
-models/embeddings/
-*.keras
+# Exclude large model files (>100MB) - use Git LFS or external storage
+models/saved/large_models/
+*.h5
+*.hdf5
 
-# C extensions
-*.so
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
 
-# PyInstaller
-*.manifest
-*.spec
+# Environment variables (KEEP EXAMPLE, EXCLUDE ACTUAL)
+.env
+!.env.example
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+# API Keys and Secrets
+secrets/
+*.key
+*.pem
+config/secrets.json
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py.cover
-.hypothesis/
+# Build artifacts
+frontend/build/
+frontend/dist/
+
+# Package files
+*.tar.gz
+*.zip
+
+# System files
 .pytest_cache/
-cover/
+.mypy_cache/
+.dmypy.json
+dmypy.json
 
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-local_settings.py
-db.sqlite3-journal
-
-# Flask stuff:
+# Flask/FastAPI specific
 instance/
 .webassets-cache
 
@@ -142,38 +196,7 @@ instance/
 docs/_build/
 
 # PyBuilder
-.pybuilder/
 target/
-
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-.python-version
-
-# pipenv
-#Pipfile.lock
-
-# UV
-#uv.lock
-
-# poetry
-#poetry.lock
-#poetry.toml
-
-# pdm
-.pdm-python
-.pdm-build/
-#pdm.lock
-#pdm.toml
-
-# pixi
-#pixi.lock
-.pixi
-
-# PEP 582
-__pypackages__/
 
 # Celery stuff
 celerybeat-schedule
@@ -199,27 +222,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# pytype static type analyzer
-.pytype/
-
-# Cython debug symbols
-cython_debug/
-
-# Abstra
-.abstra/
-
-# Ruff stuff:
-.ruff_cache/
-
-# PyPI configuration file
-.pypirc
-
-# Cursor
-.cursorignore
-.cursorindexingignore
-
-# Marimo
-marimo/_static/
-marimo/_lsp/
-__marimo__/

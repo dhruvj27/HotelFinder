@@ -1,0 +1,301 @@
+user_id,age_group,gender,home_city,home_state,income_bracket_inr,family_type,budget_min_inr,budget_max_inr,vegetarian_preference,business_travel_frequency,travel_frequency,location_preference,booking_advance_days,preferred_amenities,interaction_count
+1,30-40,Male,Pune,Maharashtra,15L+,Family_with_kids,7500,18000,False,0.37,Regular,Transport_hub,1,"[""pool"", ""family_rooms"", ""parking""]",6
+2,50-60,Male,Bangalore,Karnataka,25L+,Couple,9600,24000,False,0.1,Occasional,Transport_hub,2,"[""spa"", ""gym"", ""room_service""]",3
+3,22-30,Male,Chennai,Tamil Nadu,3-6L,Solo,1500,4000,True,0.52,Regular,City_center,10,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",4
+4,22-30,Male,Kolkata,West Bengal,3-6L,Couple,1800,4800,False,0.65,Occasional,City_center,7,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+5,22-30,Male,Chennai,Tamil Nadu,10-15L,Solo,3500,8000,False,0.19,Regular,City_center,35,"[""free_wifi"", ""restaurant"", ""parking""]",5
+6,40-50,Male,Mumbai,Maharashtra,25L+,Family_with_kids,12000,30000,True,0.68,Occasional,City_center,4,"[""pool"", ""family_rooms"", ""parking""]",3
+7,40-50,Male,Lucknow,Uttar Pradesh,15L+,Couple,6000,14400,True,0.4,Regular,City_center,1,"[""spa"", ""gym"", ""room_service""]",4
+8,40-50,Female,Delhi,Delhi,15L+,Family_with_kids,7500,18000,False,0.54,Occasional,City_center,4,"[""pool"", ""family_rooms"", ""parking""]",3
+9,40-50,Female,Chennai,Tamil Nadu,15L+,Family_with_kids,7500,18000,True,0.45,Regular,Transport_hub,8,"[""pool"", ""family_rooms"", ""parking""]",6
+10,30-40,Male,Jaipur,Rajasthan,6-10L,Couple,3000,7200,False,0.03,Occasional,Transport_hub,15,"[""free_wifi"", ""restaurant"", ""parking""]",3
+11,22-30,Male,Pune,Maharashtra,3-6L,Solo,1500,4000,False,0.04,Regular,Quiet_area,17,"[""free_wifi"", ""restaurant"", ""parking""]",6
+12,22-30,Female,Delhi,Delhi,6-10L,Solo,2500,6000,False,0.43,Occasional,Quiet_area,20,"[""free_wifi"", ""restaurant"", ""parking""]",3
+13,22-30,Male,Delhi,Delhi,3-6L,Solo,1500,4000,True,0.06,Frequent,City_center,8,"[""free_wifi"", ""restaurant"", ""parking""]",7
+14,40-50,Female,Chennai,Tamil Nadu,15L+,Family_with_kids,7500,18000,False,0.27,Regular,City_center,4,"[""pool"", ""family_rooms"", ""parking""]",5
+15,50-60,Female,Hyderabad,Telangana,15L+,Couple,6000,14400,True,0.12,Occasional,Transport_hub,11,"[""spa"", ""gym"", ""room_service""]",3
+16,30-40,Female,Mumbai,Maharashtra,6-10L,Family_with_kids,3750,9000,True,0.09,Regular,Transport_hub,1,"[""pool"", ""family_rooms"", ""parking""]",5
+17,30-40,Male,Mumbai,Maharashtra,6-10L,Family_with_kids,3750,9000,False,0.12,Occasional,City_center,26,"[""pool"", ""family_rooms"", ""parking""]",3
+18,40-50,Male,Chennai,Tamil Nadu,10-15L,Couple,4200,9600,False,0.22,Occasional,City_center,23,"[""free_wifi"", ""restaurant"", ""parking""]",3
+19,50-60,Female,Hyderabad,Telangana,25L+,Couple,9600,24000,False,0.11,Regular,City_center,2,"[""spa"", ""gym"", ""room_service""]",7
+20,40-50,Female,Kolkata,West Bengal,15L+,Couple,6000,14400,True,0.63,Occasional,Transport_hub,3,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+21,22-30,Female,Chennai,Tamil Nadu,6-10L,Couple,3000,7200,False,0.63,Occasional,City_center,4,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+22,22-30,Male,Chennai,Tamil Nadu,10-15L,Solo,3500,8000,False,0.3,Occasional,City_center,13,"[""free_wifi"", ""restaurant"", ""parking""]",3
+23,22-30,Male,Ahmedabad,Gujarat,3-6L,Couple,1800,4800,True,0.05,Frequent,City_center,1,"[""free_wifi"", ""restaurant"", ""parking""]",4
+24,50-60,Male,Pune,Maharashtra,15L+,Family_with_kids,7500,18000,False,0.62,Occasional,City_center,9,"[""pool"", ""family_rooms"", ""parking""]",3
+25,50-60,Male,Kochi,Kerala,25L+,Couple,9600,24000,False,0.02,Occasional,Transport_hub,21,"[""spa"", ""gym"", ""room_service""]",3
+26,40-50,Female,Pune,Maharashtra,15L+,Family_with_kids,7500,18000,False,0.58,Frequent,Transport_hub,7,"[""pool"", ""family_rooms"", ""parking""]",4
+27,40-50,Female,Mumbai,Maharashtra,15L+,Family_with_kids,7500,18000,False,0.62,Regular,City_center,7,"[""pool"", ""family_rooms"", ""parking""]",4
+28,30-40,Female,Hyderabad,Telangana,6-10L,Family_with_kids,3750,9000,True,0.02,Occasional,Transport_hub,1,"[""pool"", ""family_rooms"", ""parking""]",3
+29,22-30,Female,Lucknow,Uttar Pradesh,3-6L,Solo,1500,4000,True,0.32,Regular,City_center,16,"[""free_wifi"", ""restaurant"", ""parking""]",4
+30,22-30,Male,Mumbai,Maharashtra,3-6L,Solo,1500,4000,False,0.02,Occasional,Transport_hub,13,"[""free_wifi"", ""restaurant"", ""parking""]",3
+31,30-40,Male,Kolkata,West Bengal,6-10L,Family_with_kids,3750,9000,False,0.17,Occasional,City_center,5,"[""pool"", ""family_rooms"", ""parking""]",3
+32,40-50,Male,Chennai,Tamil Nadu,10-15L,Couple,4200,9600,False,0.02,Occasional,City_center,6,"[""free_wifi"", ""restaurant"", ""parking""]",3
+33,30-40,Female,Kolkata,West Bengal,10-15L,Family_with_kids,5250,12000,True,0.01,Regular,Quiet_area,11,"[""pool"", ""family_rooms"", ""parking""]",6
+34,22-30,Male,Bangalore,Karnataka,3-6L,Couple,1800,4800,True,0.01,Regular,Transport_hub,8,"[""free_wifi"", ""restaurant"", ""parking""]",4
+35,50-60,Male,Mumbai,Maharashtra,15L+,Family_with_kids,7500,18000,False,0.45,Occasional,City_center,1,"[""pool"", ""family_rooms"", ""parking""]",3
+36,30-40,Male,Kolkata,West Bengal,6-10L,Couple,3000,7200,True,0.51,Frequent,Transport_hub,17,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",5
+37,22-30,Female,Bangalore,Karnataka,3-6L,Couple,1800,4800,False,0.44,Occasional,Quiet_area,5,"[""free_wifi"", ""restaurant"", ""parking""]",3
+38,50-60,Male,Chennai,Tamil Nadu,25L+,Couple,9600,24000,True,0.4,Regular,City_center,23,"[""spa"", ""gym"", ""room_service""]",7
+39,30-40,Female,Ahmedabad,Gujarat,6-10L,Family_with_kids,3750,9000,False,0.03,Frequent,Transport_hub,10,"[""pool"", ""family_rooms"", ""parking""]",6
+40,30-40,Female,Mumbai,Maharashtra,6-10L,Couple,3000,7200,True,0.21,Occasional,City_center,8,"[""free_wifi"", ""restaurant"", ""parking""]",3
+41,30-40,Female,Mumbai,Maharashtra,15L+,Couple,6000,14400,True,0.63,Occasional,Transport_hub,1,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+42,40-50,Male,Lucknow,Uttar Pradesh,15L+,Couple,6000,14400,True,0.34,Regular,City_center,1,"[""spa"", ""gym"", ""room_service""]",5
+43,40-50,Female,Bangalore,Karnataka,15L+,Couple,6000,14400,True,0.54,Occasional,City_center,2,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+44,30-40,Female,Delhi,Delhi,10-15L,Family_with_kids,5250,12000,False,0.71,Frequent,City_center,34,"[""pool"", ""family_rooms"", ""parking""]",7
+45,22-30,Female,Chennai,Tamil Nadu,10-15L,Solo,3500,8000,False,0.42,Frequent,Transport_hub,10,"[""free_wifi"", ""restaurant"", ""parking""]",5
+46,30-40,Male,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,True,0.25,Occasional,Quiet_area,23,"[""pool"", ""family_rooms"", ""parking""]",3
+47,30-40,Male,Mumbai,Maharashtra,10-15L,Couple,4200,9600,False,0.3,Frequent,Quiet_area,12,"[""free_wifi"", ""restaurant"", ""parking""]",4
+48,30-40,Male,Jaipur,Rajasthan,6-10L,Family_with_kids,3750,9000,False,0.38,Regular,Quiet_area,13,"[""pool"", ""family_rooms"", ""parking""]",6
+49,30-40,Male,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,True,0.28,Regular,City_center,36,"[""pool"", ""family_rooms"", ""parking""]",7
+50,40-50,Female,Pune,Maharashtra,25L+,Couple,9600,24000,False,0.56,Frequent,Quiet_area,9,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",4
+51,40-50,Female,Chennai,Tamil Nadu,25L+,Family_with_kids,12000,30000,False,0.8,Occasional,Transport_hub,10,"[""pool"", ""family_rooms"", ""parking""]",3
+52,30-40,Female,Chennai,Tamil Nadu,6-10L,Family_with_kids,3750,9000,False,0.23,Frequent,Transport_hub,9,"[""pool"", ""family_rooms"", ""parking""]",7
+53,40-50,Male,Mumbai,Maharashtra,15L+,Couple,6000,14400,False,0.66,Occasional,Transport_hub,5,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+54,30-40,Male,Pune,Maharashtra,15L+,Couple,6000,14400,False,0.77,Frequent,City_center,27,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",6
+55,30-40,Female,Delhi,Delhi,6-10L,Couple,3000,7200,False,0.88,Occasional,City_center,2,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+56,22-30,Female,Jaipur,Rajasthan,3-6L,Couple,1800,4800,False,0.07,Occasional,Transport_hub,2,"[""free_wifi"", ""restaurant"", ""parking""]",3
+57,22-30,Female,Bangalore,Karnataka,3-6L,Solo,1500,4000,True,0.12,Regular,Transport_hub,1,"[""free_wifi"", ""restaurant"", ""parking""]",6
+58,40-50,Male,Delhi,Delhi,15L+,Couple,6000,14400,True,0.3,Occasional,City_center,7,"[""spa"", ""gym"", ""room_service""]",3
+59,30-40,Female,Delhi,Delhi,6-10L,Couple,3000,7200,False,0.44,Regular,Quiet_area,8,"[""free_wifi"", ""restaurant"", ""parking""]",5
+60,30-40,Male,Mumbai,Maharashtra,6-10L,Couple,3000,7200,False,0.33,Occasional,City_center,4,"[""free_wifi"", ""restaurant"", ""parking""]",3
+61,22-30,Male,Chennai,Tamil Nadu,6-10L,Solo,2500,6000,False,0.44,Occasional,Transport_hub,9,"[""free_wifi"", ""restaurant"", ""parking""]",3
+62,40-50,Female,Bangalore,Karnataka,15L+,Couple,6000,14400,False,0.77,Frequent,Transport_hub,3,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",4
+63,22-30,Male,Jaipur,Rajasthan,3-6L,Solo,1500,4000,False,0.09,Occasional,Transport_hub,6,"[""free_wifi"", ""restaurant"", ""parking""]",3
+64,50-60,Male,Pune,Maharashtra,15L+,Couple,6000,14400,True,0.7,Occasional,City_center,12,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+65,50-60,Male,Bangalore,Karnataka,15L+,Couple,6000,14400,False,0.16,Regular,City_center,2,"[""spa"", ""gym"", ""room_service""]",7
+66,30-40,Female,Chennai,Tamil Nadu,6-10L,Family_with_kids,3750,9000,False,0.04,Occasional,City_center,2,"[""pool"", ""family_rooms"", ""parking""]",3
+67,22-30,Female,Chennai,Tamil Nadu,10-15L,Solo,3500,8000,True,0.28,Occasional,Transport_hub,5,"[""free_wifi"", ""restaurant"", ""parking""]",3
+68,50-60,Female,Ahmedabad,Gujarat,25L+,Family_with_kids,12000,30000,False,0.1,Occasional,City_center,14,"[""pool"", ""family_rooms"", ""parking""]",3
+69,30-40,Male,Pune,Maharashtra,15L+,Couple,6000,14400,True,0.42,Regular,Transport_hub,5,"[""spa"", ""gym"", ""room_service""]",6
+70,40-50,Male,Hyderabad,Telangana,15L+,Family_with_kids,7500,18000,False,0.44,Regular,City_center,23,"[""pool"", ""family_rooms"", ""parking""]",7
+71,30-40,Female,Hyderabad,Telangana,10-15L,Family_with_kids,5250,12000,True,0.52,Regular,Transport_hub,23,"[""pool"", ""family_rooms"", ""parking""]",5
+72,40-50,Male,Mumbai,Maharashtra,10-15L,Couple,4200,9600,False,0.05,Regular,Quiet_area,21,"[""free_wifi"", ""restaurant"", ""parking""]",5
+73,22-30,Female,Mumbai,Maharashtra,6-10L,Solo,2500,6000,True,0.45,Occasional,Transport_hub,13,"[""free_wifi"", ""restaurant"", ""parking""]",3
+74,30-40,Male,Delhi,Delhi,10-15L,Family_with_kids,5250,12000,False,0.18,Frequent,Transport_hub,6,"[""pool"", ""family_rooms"", ""parking""]",4
+75,30-40,Female,Pune,Maharashtra,15L+,Couple,6000,14400,True,0.27,Frequent,Transport_hub,12,"[""spa"", ""gym"", ""room_service""]",5
+76,50-60,Male,Ahmedabad,Gujarat,25L+,Couple,9600,24000,False,0.46,Frequent,Transport_hub,2,"[""spa"", ""gym"", ""room_service""]",7
+77,50-60,Female,Chennai,Tamil Nadu,25L+,Couple,9600,24000,False,0.26,Regular,City_center,1,"[""spa"", ""gym"", ""room_service""]",4
+78,22-30,Female,Delhi,Delhi,6-10L,Solo,2500,6000,False,0.09,Occasional,Transport_hub,7,"[""free_wifi"", ""restaurant"", ""parking""]",3
+79,22-30,Female,Bangalore,Karnataka,3-6L,Solo,1500,4000,False,0.33,Frequent,City_center,9,"[""free_wifi"", ""restaurant"", ""parking""]",7
+80,30-40,Male,Chennai,Tamil Nadu,6-10L,Family_with_kids,3750,9000,True,0.11,Regular,City_center,14,"[""pool"", ""family_rooms"", ""parking""]",6
+81,22-30,Male,Bangalore,Karnataka,6-10L,Solo,2500,6000,True,0.08,Regular,City_center,15,"[""free_wifi"", ""restaurant"", ""parking""]",6
+82,30-40,Male,Pune,Maharashtra,10-15L,Couple,4200,9600,False,0.3,Frequent,City_center,4,"[""free_wifi"", ""restaurant"", ""parking""]",5
+83,30-40,Male,Kolkata,West Bengal,10-15L,Couple,4200,9600,False,0.05,Occasional,City_center,3,"[""free_wifi"", ""restaurant"", ""parking""]",3
+84,30-40,Male,Mumbai,Maharashtra,6-10L,Couple,3000,7200,True,0.31,Occasional,Transport_hub,20,"[""free_wifi"", ""restaurant"", ""parking""]",3
+85,40-50,Male,Mumbai,Maharashtra,15L+,Couple,6000,14400,True,0.34,Occasional,City_center,3,"[""spa"", ""gym"", ""room_service""]",3
+86,30-40,Male,Delhi,Delhi,10-15L,Family_with_kids,5250,12000,False,0.44,Occasional,Transport_hub,4,"[""pool"", ""family_rooms"", ""parking""]",3
+87,30-40,Female,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,False,0.16,Frequent,Transport_hub,23,"[""pool"", ""family_rooms"", ""parking""]",5
+88,40-50,Male,Mumbai,Maharashtra,15L+,Couple,6000,14400,False,0.29,Regular,Quiet_area,8,"[""spa"", ""gym"", ""room_service""]",7
+89,22-30,Female,Chennai,Tamil Nadu,3-6L,Solo,1500,4000,False,0.39,Occasional,Transport_hub,11,"[""free_wifi"", ""restaurant"", ""parking""]",3
+90,40-50,Female,Mumbai,Maharashtra,10-15L,Couple,4200,9600,True,0.02,Frequent,Transport_hub,5,"[""free_wifi"", ""restaurant"", ""parking""]",7
+91,30-40,Male,Chennai,Tamil Nadu,6-10L,Couple,3000,7200,False,0.18,Occasional,City_center,4,"[""free_wifi"", ""restaurant"", ""parking""]",3
+92,30-40,Female,Hyderabad,Telangana,10-15L,Couple,4200,9600,True,0.1,Occasional,City_center,4,"[""free_wifi"", ""restaurant"", ""parking""]",3
+93,30-40,Female,Hyderabad,Telangana,6-10L,Couple,3000,7200,False,0.29,Occasional,City_center,14,"[""free_wifi"", ""restaurant"", ""parking""]",3
+94,30-40,Male,Delhi,Delhi,10-15L,Couple,4200,9600,True,0.07,Regular,City_center,1,"[""free_wifi"", ""restaurant"", ""parking""]",4
+95,50-60,Male,Chennai,Tamil Nadu,15L+,Family_with_kids,7500,18000,False,0.14,Frequent,Transport_hub,17,"[""pool"", ""family_rooms"", ""parking""]",6
+96,30-40,Female,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,True,0.1,Regular,Quiet_area,2,"[""pool"", ""family_rooms"", ""parking""]",7
+97,30-40,Male,Ahmedabad,Gujarat,15L+,Couple,6000,14400,False,0.27,Occasional,Quiet_area,19,"[""spa"", ""gym"", ""room_service""]",3
+98,22-30,Male,Kolkata,West Bengal,6-10L,Solo,2500,6000,True,0.31,Occasional,Transport_hub,1,"[""free_wifi"", ""restaurant"", ""parking""]",3
+99,22-30,Male,Jaipur,Rajasthan,3-6L,Couple,1800,4800,False,0.15,Regular,City_center,1,"[""free_wifi"", ""restaurant"", ""parking""]",4
+100,40-50,Female,Kolkata,West Bengal,10-15L,Family_with_kids,5250,12000,False,0.28,Frequent,Quiet_area,15,"[""pool"", ""family_rooms"", ""parking""]",7
+101,30-40,Male,Bangalore,Karnataka,10-15L,Family_with_kids,5250,12000,False,0.05,Occasional,City_center,3,"[""pool"", ""family_rooms"", ""parking""]",3
+102,22-30,Male,Ahmedabad,Gujarat,3-6L,Couple,1800,4800,True,0.08,Regular,City_center,6,"[""free_wifi"", ""restaurant"", ""parking""]",7
+103,40-50,Male,Delhi,Delhi,25L+,Couple,9600,24000,True,0.27,Occasional,City_center,3,"[""spa"", ""gym"", ""room_service""]",3
+104,40-50,Male,Mumbai,Maharashtra,15L+,Couple,6000,14400,False,0.6,Regular,City_center,3,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",7
+105,30-40,Female,Delhi,Delhi,10-15L,Family_with_kids,5250,12000,True,0.05,Occasional,Quiet_area,32,"[""pool"", ""family_rooms"", ""parking""]",3
+106,40-50,Female,Delhi,Delhi,25L+,Couple,9600,24000,True,0.45,Regular,Transport_hub,1,"[""spa"", ""gym"", ""room_service""]",6
+107,22-30,Male,Delhi,Delhi,6-10L,Solo,2500,6000,False,0.56,Regular,Transport_hub,4,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",5
+108,40-50,Female,Kolkata,West Bengal,15L+,Couple,6000,14400,False,0.64,Regular,City_center,22,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",4
+109,40-50,Female,Pune,Maharashtra,10-15L,Family_with_kids,5250,12000,True,0.03,Regular,Transport_hub,1,"[""pool"", ""family_rooms"", ""parking""]",5
+110,22-30,Female,Kolkata,West Bengal,6-10L,Couple,3000,7200,False,0.39,Regular,Quiet_area,2,"[""free_wifi"", ""restaurant"", ""parking""]",7
+111,40-50,Female,Ahmedabad,Gujarat,15L+,Family_with_kids,7500,18000,True,0.93,Regular,City_center,4,"[""pool"", ""family_rooms"", ""parking""]",7
+112,40-50,Male,Lucknow,Uttar Pradesh,10-15L,Couple,4200,9600,True,0.18,Frequent,Transport_hub,2,"[""free_wifi"", ""restaurant"", ""parking""]",7
+113,40-50,Male,Hyderabad,Telangana,10-15L,Couple,4200,9600,False,0.12,Regular,Transport_hub,4,"[""free_wifi"", ""restaurant"", ""parking""]",7
+114,50-60,Male,Mumbai,Maharashtra,15L+,Couple,6000,14400,False,0.04,Regular,Transport_hub,4,"[""spa"", ""gym"", ""room_service""]",4
+115,50-60,Female,Kolkata,West Bengal,15L+,Couple,6000,14400,True,0.38,Occasional,City_center,42,"[""spa"", ""gym"", ""room_service""]",3
+116,30-40,Male,Lucknow,Uttar Pradesh,15L+,Couple,6000,14400,False,0.2,Occasional,Quiet_area,15,"[""spa"", ""gym"", ""room_service""]",3
+117,40-50,Male,Kolkata,West Bengal,25L+,Family_with_kids,12000,30000,True,0.4,Regular,Transport_hub,2,"[""pool"", ""family_rooms"", ""parking""]",6
+118,22-30,Male,Delhi,Delhi,6-10L,Solo,2500,6000,False,0.12,Regular,City_center,7,"[""free_wifi"", ""restaurant"", ""parking""]",4
+119,22-30,Male,Delhi,Delhi,3-6L,Solo,1500,4000,False,0.2,Regular,Quiet_area,16,"[""free_wifi"", ""restaurant"", ""parking""]",7
+120,22-30,Male,Chennai,Tamil Nadu,3-6L,Solo,1500,4000,False,0.03,Occasional,City_center,8,"[""free_wifi"", ""restaurant"", ""parking""]",3
+121,22-30,Male,Mumbai,Maharashtra,3-6L,Solo,1500,4000,False,0.03,Regular,Transport_hub,17,"[""free_wifi"", ""restaurant"", ""parking""]",4
+122,22-30,Female,Hyderabad,Telangana,3-6L,Solo,1500,4000,False,0.13,Regular,City_center,17,"[""free_wifi"", ""restaurant"", ""parking""]",6
+123,22-30,Female,Kolkata,West Bengal,6-10L,Solo,2500,6000,False,0.34,Regular,Transport_hub,1,"[""free_wifi"", ""restaurant"", ""parking""]",4
+124,22-30,Male,Kolkata,West Bengal,3-6L,Solo,1500,4000,False,0.61,Occasional,Transport_hub,13,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+125,22-30,Female,Kolkata,West Bengal,10-15L,Couple,4200,9600,False,0.36,Occasional,City_center,3,"[""free_wifi"", ""restaurant"", ""parking""]",3
+126,30-40,Female,Lucknow,Uttar Pradesh,15L+,Family_with_kids,7500,18000,True,0.3,Occasional,Quiet_area,9,"[""pool"", ""family_rooms"", ""parking""]",3
+127,30-40,Female,Chennai,Tamil Nadu,10-15L,Couple,4200,9600,True,0.46,Frequent,City_center,10,"[""free_wifi"", ""restaurant"", ""parking""]",6
+128,30-40,Male,Mumbai,Maharashtra,10-15L,Couple,4200,9600,False,0.22,Occasional,Quiet_area,2,"[""free_wifi"", ""restaurant"", ""parking""]",3
+129,40-50,Male,Chennai,Tamil Nadu,15L+,Couple,6000,14400,True,0.41,Occasional,City_center,35,"[""spa"", ""gym"", ""room_service""]",3
+130,22-30,Male,Mumbai,Maharashtra,6-10L,Solo,2500,6000,True,0.64,Regular,City_center,18,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",5
+131,30-40,Male,Mumbai,Maharashtra,6-10L,Family_with_kids,3750,9000,False,0.35,Occasional,Transport_hub,11,"[""pool"", ""family_rooms"", ""parking""]",3
+132,30-40,Male,Delhi,Delhi,15L+,Family_with_kids,7500,18000,False,0.7,Occasional,Transport_hub,28,"[""pool"", ""family_rooms"", ""parking""]",3
+133,22-30,Female,Mumbai,Maharashtra,3-6L,Solo,1500,4000,False,0.49,Frequent,Quiet_area,1,"[""free_wifi"", ""restaurant"", ""parking""]",7
+134,50-60,Female,Bangalore,Karnataka,25L+,Family_with_kids,12000,30000,True,0.52,Regular,City_center,1,"[""pool"", ""family_rooms"", ""parking""]",7
+135,22-30,Female,Mumbai,Maharashtra,6-10L,Solo,2500,6000,False,0.39,Regular,Quiet_area,29,"[""free_wifi"", ""restaurant"", ""parking""]",4
+136,30-40,Male,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,False,0.22,Frequent,Transport_hub,12,"[""pool"", ""family_rooms"", ""parking""]",5
+137,22-30,Female,Mumbai,Maharashtra,6-10L,Solo,2500,6000,False,0.25,Frequent,Transport_hub,21,"[""free_wifi"", ""restaurant"", ""parking""]",7
+138,40-50,Male,Pune,Maharashtra,15L+,Family_with_kids,7500,18000,False,0.84,Regular,Quiet_area,6,"[""pool"", ""family_rooms"", ""parking""]",6
+139,40-50,Male,Bangalore,Karnataka,10-15L,Couple,4200,9600,False,0.0,Occasional,Transport_hub,5,"[""free_wifi"", ""restaurant"", ""parking""]",3
+140,30-40,Male,Kolkata,West Bengal,6-10L,Couple,3000,7200,False,0.08,Occasional,City_center,20,"[""free_wifi"", ""restaurant"", ""parking""]",3
+141,30-40,Male,Bangalore,Karnataka,10-15L,Couple,4200,9600,False,0.2,Regular,Transport_hub,10,"[""free_wifi"", ""restaurant"", ""parking""]",7
+142,40-50,Male,Mumbai,Maharashtra,25L+,Family_with_kids,12000,30000,True,0.67,Frequent,City_center,2,"[""pool"", ""family_rooms"", ""parking""]",6
+143,30-40,Male,Kolkata,West Bengal,6-10L,Couple,3000,7200,False,0.11,Regular,City_center,6,"[""free_wifi"", ""restaurant"", ""parking""]",4
+144,22-30,Female,Kolkata,West Bengal,3-6L,Couple,1800,4800,False,0.03,Occasional,Transport_hub,3,"[""free_wifi"", ""restaurant"", ""parking""]",3
+145,50-60,Female,Chennai,Tamil Nadu,15L+,Family_with_kids,7500,18000,False,0.22,Regular,Quiet_area,3,"[""pool"", ""family_rooms"", ""parking""]",5
+146,22-30,Male,Bangalore,Karnataka,6-10L,Solo,2500,6000,False,0.47,Occasional,Quiet_area,4,"[""free_wifi"", ""restaurant"", ""parking""]",3
+147,40-50,Female,Mumbai,Maharashtra,15L+,Couple,6000,14400,True,0.78,Regular,Quiet_area,3,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",5
+148,22-30,Male,Chennai,Tamil Nadu,3-6L,Couple,1800,4800,False,0.52,Occasional,Quiet_area,2,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+149,30-40,Male,Kochi,Kerala,10-15L,Couple,4200,9600,True,0.29,Occasional,City_center,13,"[""free_wifi"", ""restaurant"", ""parking""]",3
+150,30-40,Female,Mumbai,Maharashtra,6-10L,Couple,3000,7200,False,0.07,Regular,City_center,17,"[""free_wifi"", ""restaurant"", ""parking""]",6
+151,22-30,Female,Delhi,Delhi,3-6L,Couple,1800,4800,True,0.39,Occasional,Transport_hub,52,"[""free_wifi"", ""restaurant"", ""parking""]",3
+152,30-40,Female,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,False,0.18,Regular,City_center,8,"[""pool"", ""family_rooms"", ""parking""]",5
+153,22-30,Male,Hyderabad,Telangana,3-6L,Couple,1800,4800,False,0.2,Frequent,City_center,6,"[""free_wifi"", ""restaurant"", ""parking""]",4
+154,22-30,Male,Mumbai,Maharashtra,10-15L,Couple,4200,9600,True,0.22,Regular,City_center,18,"[""free_wifi"", ""restaurant"", ""parking""]",4
+155,40-50,Female,Ahmedabad,Gujarat,15L+,Couple,6000,14400,True,0.86,Regular,City_center,6,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",4
+156,30-40,Male,Kochi,Kerala,10-15L,Family_with_kids,5250,12000,False,0.71,Frequent,City_center,27,"[""pool"", ""family_rooms"", ""parking""]",7
+157,22-30,Male,Delhi,Delhi,6-10L,Solo,2500,6000,True,0.4,Occasional,Transport_hub,2,"[""free_wifi"", ""restaurant"", ""parking""]",3
+158,30-40,Male,Mumbai,Maharashtra,6-10L,Family_with_kids,3750,9000,True,0.24,Frequent,Quiet_area,7,"[""pool"", ""family_rooms"", ""parking""]",7
+159,30-40,Male,Mumbai,Maharashtra,10-15L,Couple,4200,9600,False,0.35,Occasional,City_center,33,"[""free_wifi"", ""restaurant"", ""parking""]",3
+160,30-40,Male,Kolkata,West Bengal,15L+,Couple,6000,14400,False,0.99,Occasional,Transport_hub,11,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+161,22-30,Female,Kochi,Kerala,3-6L,Couple,1800,4800,False,0.16,Occasional,Transport_hub,42,"[""free_wifi"", ""restaurant"", ""parking""]",3
+162,22-30,Male,Chennai,Tamil Nadu,3-6L,Solo,1500,4000,False,0.1,Frequent,Quiet_area,10,"[""free_wifi"", ""restaurant"", ""parking""]",7
+163,22-30,Male,Jaipur,Rajasthan,6-10L,Solo,2500,6000,False,0.24,Occasional,City_center,5,"[""free_wifi"", ""restaurant"", ""parking""]",3
+164,30-40,Male,Hyderabad,Telangana,15L+,Family_with_kids,7500,18000,False,0.97,Occasional,Transport_hub,3,"[""pool"", ""family_rooms"", ""parking""]",3
+165,22-30,Male,Chennai,Tamil Nadu,3-6L,Couple,1800,4800,False,0.38,Occasional,Quiet_area,2,"[""free_wifi"", ""restaurant"", ""parking""]",3
+166,30-40,Female,Bangalore,Karnataka,6-10L,Couple,3000,7200,True,0.26,Occasional,Transport_hub,16,"[""free_wifi"", ""restaurant"", ""parking""]",3
+167,40-50,Female,Pune,Maharashtra,25L+,Family_with_kids,12000,30000,False,0.89,Occasional,Quiet_area,7,"[""pool"", ""family_rooms"", ""parking""]",3
+168,30-40,Male,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,False,0.37,Regular,Transport_hub,12,"[""pool"", ""family_rooms"", ""parking""]",4
+169,22-30,Male,Mumbai,Maharashtra,3-6L,Couple,1800,4800,True,0.02,Frequent,Transport_hub,5,"[""free_wifi"", ""restaurant"", ""parking""]",6
+170,22-30,Male,Kolkata,West Bengal,3-6L,Couple,1800,4800,False,0.35,Regular,City_center,1,"[""free_wifi"", ""restaurant"", ""parking""]",6
+171,22-30,Male,Bangalore,Karnataka,10-15L,Solo,3500,8000,False,0.42,Occasional,City_center,10,"[""free_wifi"", ""restaurant"", ""parking""]",3
+172,40-50,Female,Chennai,Tamil Nadu,15L+,Couple,6000,14400,True,0.36,Regular,Quiet_area,11,"[""spa"", ""gym"", ""room_service""]",7
+173,22-30,Male,Kolkata,West Bengal,3-6L,Couple,1800,4800,False,0.16,Frequent,City_center,2,"[""free_wifi"", ""restaurant"", ""parking""]",5
+174,22-30,Male,Pune,Maharashtra,6-10L,Couple,3000,7200,True,0.37,Regular,Quiet_area,3,"[""free_wifi"", ""restaurant"", ""parking""]",6
+175,40-50,Female,Chennai,Tamil Nadu,15L+,Family_with_kids,7500,18000,False,0.61,Frequent,Quiet_area,1,"[""pool"", ""family_rooms"", ""parking""]",4
+176,22-30,Female,Hyderabad,Telangana,3-6L,Couple,1800,4800,False,0.39,Regular,Transport_hub,8,"[""free_wifi"", ""restaurant"", ""parking""]",7
+177,22-30,Female,Hyderabad,Telangana,3-6L,Couple,1800,4800,False,0.7,Occasional,Transport_hub,1,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+178,22-30,Female,Chennai,Tamil Nadu,6-10L,Couple,3000,7200,False,0.02,Regular,Transport_hub,3,"[""free_wifi"", ""restaurant"", ""parking""]",5
+179,30-40,Male,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,False,0.0,Regular,City_center,32,"[""pool"", ""family_rooms"", ""parking""]",7
+180,30-40,Female,Jaipur,Rajasthan,6-10L,Couple,3000,7200,False,0.19,Regular,City_center,6,"[""free_wifi"", ""restaurant"", ""parking""]",5
+181,30-40,Female,Mumbai,Maharashtra,6-10L,Family_with_kids,3750,9000,True,0.47,Regular,Transport_hub,11,"[""pool"", ""family_rooms"", ""parking""]",4
+182,22-30,Female,Delhi,Delhi,3-6L,Solo,1500,4000,True,0.12,Regular,Transport_hub,1,"[""free_wifi"", ""restaurant"", ""parking""]",4
+183,22-30,Female,Chennai,Tamil Nadu,3-6L,Couple,1800,4800,True,0.21,Occasional,City_center,4,"[""free_wifi"", ""restaurant"", ""parking""]",3
+184,30-40,Male,Kolkata,West Bengal,6-10L,Couple,3000,7200,False,0.23,Regular,City_center,6,"[""free_wifi"", ""restaurant"", ""parking""]",5
+185,40-50,Male,Mumbai,Maharashtra,15L+,Couple,6000,14400,True,0.77,Occasional,Quiet_area,4,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+186,30-40,Female,Pune,Maharashtra,6-10L,Family_with_kids,3750,9000,True,0.2,Regular,City_center,17,"[""pool"", ""family_rooms"", ""parking""]",5
+187,30-40,Male,Hyderabad,Telangana,10-15L,Couple,4200,9600,True,0.03,Regular,City_center,10,"[""free_wifi"", ""restaurant"", ""parking""]",5
+188,22-30,Male,Mumbai,Maharashtra,6-10L,Couple,3000,7200,True,0.32,Occasional,City_center,3,"[""free_wifi"", ""restaurant"", ""parking""]",3
+189,50-60,Female,Bangalore,Karnataka,15L+,Couple,6000,14400,False,0.19,Occasional,City_center,24,"[""spa"", ""gym"", ""room_service""]",3
+190,22-30,Male,Mumbai,Maharashtra,3-6L,Solo,1500,4000,False,0.16,Regular,Quiet_area,9,"[""free_wifi"", ""restaurant"", ""parking""]",5
+191,50-60,Female,Chennai,Tamil Nadu,15L+,Couple,6000,14400,False,0.07,Occasional,Quiet_area,10,"[""spa"", ""gym"", ""room_service""]",3
+192,22-30,Female,Pune,Maharashtra,3-6L,Solo,1500,4000,False,0.19,Regular,Transport_hub,2,"[""free_wifi"", ""restaurant"", ""parking""]",4
+193,40-50,Female,Bangalore,Karnataka,15L+,Couple,6000,14400,False,0.39,Occasional,Quiet_area,19,"[""spa"", ""gym"", ""room_service""]",3
+194,30-40,Male,Pune,Maharashtra,10-15L,Couple,4200,9600,False,0.39,Occasional,City_center,16,"[""free_wifi"", ""restaurant"", ""parking""]",3
+195,22-30,Female,Chennai,Tamil Nadu,3-6L,Solo,1500,4000,False,0.13,Occasional,Quiet_area,22,"[""free_wifi"", ""restaurant"", ""parking""]",3
+196,40-50,Male,Chennai,Tamil Nadu,10-15L,Couple,4200,9600,False,0.62,Occasional,City_center,11,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+197,40-50,Female,Hyderabad,Telangana,15L+,Family_with_kids,7500,18000,False,0.47,Regular,Transport_hub,16,"[""pool"", ""family_rooms"", ""parking""]",7
+198,30-40,Male,Pune,Maharashtra,15L+,Family_with_kids,7500,18000,False,0.22,Frequent,City_center,42,"[""pool"", ""family_rooms"", ""parking""]",7
+199,22-30,Male,Mumbai,Maharashtra,3-6L,Solo,1500,4000,True,0.37,Occasional,Transport_hub,1,"[""free_wifi"", ""restaurant"", ""parking""]",3
+200,40-50,Female,Kolkata,West Bengal,25L+,Couple,9600,24000,False,0.52,Occasional,Quiet_area,6,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+201,22-30,Female,Hyderabad,Telangana,3-6L,Solo,1500,4000,False,0.17,Occasional,Quiet_area,18,"[""free_wifi"", ""restaurant"", ""parking""]",3
+202,30-40,Female,Bangalore,Karnataka,10-15L,Couple,4200,9600,False,0.16,Occasional,Transport_hub,18,"[""free_wifi"", ""restaurant"", ""parking""]",3
+203,22-30,Male,Delhi,Delhi,3-6L,Couple,1800,4800,False,0.43,Occasional,Transport_hub,11,"[""free_wifi"", ""restaurant"", ""parking""]",3
+204,30-40,Female,Kolkata,West Bengal,6-10L,Family_with_kids,3750,9000,False,0.23,Occasional,Transport_hub,4,"[""pool"", ""family_rooms"", ""parking""]",3
+205,30-40,Female,Kolkata,West Bengal,6-10L,Couple,3000,7200,False,0.34,Regular,Transport_hub,4,"[""free_wifi"", ""restaurant"", ""parking""]",6
+206,22-30,Male,Pune,Maharashtra,3-6L,Solo,1500,4000,True,0.35,Regular,Quiet_area,11,"[""free_wifi"", ""restaurant"", ""parking""]",6
+207,22-30,Male,Pune,Maharashtra,10-15L,Couple,4200,9600,False,0.25,Regular,City_center,38,"[""free_wifi"", ""restaurant"", ""parking""]",5
+208,22-30,Male,Delhi,Delhi,3-6L,Solo,1500,4000,False,0.5,Frequent,City_center,25,"[""free_wifi"", ""restaurant"", ""parking""]",6
+209,40-50,Male,Mumbai,Maharashtra,25L+,Couple,9600,24000,True,0.8,Regular,Transport_hub,2,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",7
+210,22-30,Male,Hyderabad,Telangana,3-6L,Solo,1500,4000,False,0.31,Occasional,Quiet_area,20,"[""free_wifi"", ""restaurant"", ""parking""]",3
+211,30-40,Male,Delhi,Delhi,10-15L,Family_with_kids,5250,12000,True,0.05,Regular,City_center,9,"[""pool"", ""family_rooms"", ""parking""]",4
+212,50-60,Female,Mumbai,Maharashtra,25L+,Couple,9600,24000,False,0.02,Frequent,Transport_hub,18,"[""spa"", ""gym"", ""room_service""]",5
+213,40-50,Male,Chennai,Tamil Nadu,15L+,Couple,6000,14400,False,0.84,Frequent,Transport_hub,10,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",4
+214,30-40,Male,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,True,0.29,Occasional,Transport_hub,11,"[""pool"", ""family_rooms"", ""parking""]",3
+215,50-60,Male,Bangalore,Karnataka,25L+,Family_with_kids,12000,30000,False,0.28,Occasional,City_center,2,"[""pool"", ""family_rooms"", ""parking""]",3
+216,22-30,Male,Kolkata,West Bengal,10-15L,Solo,3500,8000,False,0.18,Occasional,City_center,8,"[""free_wifi"", ""restaurant"", ""parking""]",3
+217,22-30,Female,Chennai,Tamil Nadu,3-6L,Solo,1500,4000,True,0.02,Regular,City_center,27,"[""free_wifi"", ""restaurant"", ""parking""]",4
+218,30-40,Male,Chennai,Tamil Nadu,6-10L,Family_with_kids,3750,9000,True,0.07,Frequent,Transport_hub,13,"[""pool"", ""family_rooms"", ""parking""]",4
+219,50-60,Male,Hyderabad,Telangana,15L+,Couple,6000,14400,False,0.43,Regular,City_center,18,"[""spa"", ""gym"", ""room_service""]",4
+220,50-60,Female,Delhi,Delhi,25L+,Couple,9600,24000,True,0.55,Occasional,Transport_hub,12,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+221,22-30,Female,Mumbai,Maharashtra,3-6L,Solo,1500,4000,False,0.16,Occasional,City_center,29,"[""free_wifi"", ""restaurant"", ""parking""]",3
+222,30-40,Female,Kolkata,West Bengal,10-15L,Couple,4200,9600,False,0.4,Frequent,Transport_hub,21,"[""free_wifi"", ""restaurant"", ""parking""]",6
+223,40-50,Female,Bangalore,Karnataka,10-15L,Family_with_kids,5250,12000,False,0.05,Occasional,Transport_hub,9,"[""pool"", ""family_rooms"", ""parking""]",3
+224,22-30,Female,Kolkata,West Bengal,3-6L,Solo,1500,4000,False,0.13,Regular,Transport_hub,6,"[""free_wifi"", ""restaurant"", ""parking""]",6
+225,30-40,Female,Pune,Maharashtra,6-10L,Couple,3000,7200,False,0.22,Frequent,Transport_hub,4,"[""free_wifi"", ""restaurant"", ""parking""]",6
+226,30-40,Male,Bangalore,Karnataka,6-10L,Family_with_kids,3750,9000,False,0.35,Occasional,Transport_hub,2,"[""pool"", ""family_rooms"", ""parking""]",3
+227,40-50,Female,Mumbai,Maharashtra,15L+,Couple,6000,14400,False,0.65,Occasional,City_center,12,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+228,30-40,Female,Bangalore,Karnataka,6-10L,Couple,3000,7200,False,0.38,Occasional,Transport_hub,34,"[""free_wifi"", ""restaurant"", ""parking""]",3
+229,30-40,Female,Mumbai,Maharashtra,6-10L,Couple,3000,7200,False,0.2,Regular,Transport_hub,4,"[""free_wifi"", ""restaurant"", ""parking""]",6
+230,50-60,Female,Lucknow,Uttar Pradesh,15L+,Family_with_kids,7500,18000,True,0.11,Occasional,Quiet_area,5,"[""pool"", ""family_rooms"", ""parking""]",3
+231,30-40,Female,Chennai,Tamil Nadu,6-10L,Family_with_kids,3750,9000,True,0.04,Regular,Quiet_area,6,"[""pool"", ""family_rooms"", ""parking""]",5
+232,22-30,Male,Chennai,Tamil Nadu,3-6L,Solo,1500,4000,True,0.05,Occasional,Transport_hub,2,"[""free_wifi"", ""restaurant"", ""parking""]",3
+233,30-40,Male,Jaipur,Rajasthan,10-15L,Couple,4200,9600,True,0.26,Regular,Transport_hub,10,"[""free_wifi"", ""restaurant"", ""parking""]",4
+234,22-30,Male,Jaipur,Rajasthan,3-6L,Solo,1500,4000,True,0.43,Regular,Transport_hub,21,"[""free_wifi"", ""restaurant"", ""parking""]",7
+235,22-30,Male,Pune,Maharashtra,6-10L,Solo,2500,6000,False,0.34,Frequent,City_center,7,"[""free_wifi"", ""restaurant"", ""parking""]",4
+236,50-60,Female,Hyderabad,Telangana,15L+,Family_with_kids,7500,18000,False,0.49,Occasional,Transport_hub,7,"[""pool"", ""family_rooms"", ""parking""]",3
+237,30-40,Female,Ahmedabad,Gujarat,15L+,Family_with_kids,7500,18000,True,0.38,Occasional,City_center,20,"[""pool"", ""family_rooms"", ""parking""]",3
+238,30-40,Female,Kolkata,West Bengal,15L+,Family_with_kids,7500,18000,True,0.72,Frequent,City_center,7,"[""pool"", ""family_rooms"", ""parking""]",4
+239,30-40,Male,Bangalore,Karnataka,10-15L,Family_with_kids,5250,12000,False,0.03,Regular,City_center,3,"[""pool"", ""family_rooms"", ""parking""]",5
+240,50-60,Female,Hyderabad,Telangana,15L+,Family_with_kids,7500,18000,False,0.37,Regular,Transport_hub,2,"[""pool"", ""family_rooms"", ""parking""]",4
+241,40-50,Female,Bangalore,Karnataka,15L+,Couple,6000,14400,False,0.67,Occasional,Transport_hub,6,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+242,22-30,Female,Mumbai,Maharashtra,3-6L,Solo,1500,4000,True,0.26,Frequent,Transport_hub,4,"[""free_wifi"", ""restaurant"", ""parking""]",7
+243,22-30,Female,Delhi,Delhi,3-6L,Couple,1800,4800,False,0.6,Regular,Quiet_area,6,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",4
+244,50-60,Male,Lucknow,Uttar Pradesh,15L+,Couple,6000,14400,False,0.14,Regular,City_center,11,"[""spa"", ""gym"", ""room_service""]",7
+245,22-30,Female,Kolkata,West Bengal,6-10L,Solo,2500,6000,False,0.08,Occasional,Transport_hub,18,"[""free_wifi"", ""restaurant"", ""parking""]",3
+246,40-50,Male,Delhi,Delhi,15L+,Couple,6000,14400,True,0.86,Occasional,Transport_hub,1,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+247,40-50,Female,Mumbai,Maharashtra,15L+,Couple,6000,14400,True,0.77,Occasional,Transport_hub,4,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+248,22-30,Female,Hyderabad,Telangana,3-6L,Solo,1500,4000,False,0.39,Frequent,Transport_hub,25,"[""free_wifi"", ""restaurant"", ""parking""]",4
+249,30-40,Male,Kolkata,West Bengal,15L+,Couple,6000,14400,False,0.31,Occasional,City_center,13,"[""spa"", ""gym"", ""room_service""]",3
+250,30-40,Male,Hyderabad,Telangana,15L+,Family_with_kids,7500,18000,False,0.59,Regular,City_center,5,"[""pool"", ""family_rooms"", ""parking""]",4
+251,50-60,Female,Mumbai,Maharashtra,15L+,Couple,6000,14400,True,0.25,Regular,Transport_hub,18,"[""spa"", ""gym"", ""room_service""]",4
+252,40-50,Female,Delhi,Delhi,10-15L,Couple,4200,9600,True,0.36,Regular,Transport_hub,4,"[""free_wifi"", ""restaurant"", ""parking""]",7
+253,22-30,Female,Delhi,Delhi,6-10L,Couple,3000,7200,True,0.25,Frequent,City_center,5,"[""free_wifi"", ""restaurant"", ""parking""]",5
+254,22-30,Male,Mumbai,Maharashtra,3-6L,Solo,1500,4000,True,0.05,Occasional,City_center,1,"[""free_wifi"", ""restaurant"", ""parking""]",3
+255,22-30,Female,Bangalore,Karnataka,3-6L,Solo,1500,4000,False,0.06,Frequent,Transport_hub,12,"[""free_wifi"", ""restaurant"", ""parking""]",4
+256,22-30,Female,Mumbai,Maharashtra,6-10L,Couple,3000,7200,False,0.15,Occasional,Quiet_area,17,"[""free_wifi"", ""restaurant"", ""parking""]",3
+257,22-30,Female,Bangalore,Karnataka,3-6L,Solo,1500,4000,True,0.11,Occasional,City_center,11,"[""free_wifi"", ""restaurant"", ""parking""]",3
+258,50-60,Male,Hyderabad,Telangana,25L+,Couple,9600,24000,True,0.27,Occasional,City_center,4,"[""spa"", ""gym"", ""room_service""]",3
+259,22-30,Male,Ahmedabad,Gujarat,3-6L,Solo,1500,4000,True,0.22,Frequent,Quiet_area,48,"[""free_wifi"", ""restaurant"", ""parking""]",4
+260,30-40,Female,Kolkata,West Bengal,15L+,Couple,6000,14400,False,0.87,Regular,Transport_hub,2,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",5
+261,40-50,Male,Delhi,Delhi,15L+,Couple,6000,14400,True,0.69,Occasional,Quiet_area,13,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+262,22-30,Male,Mumbai,Maharashtra,3-6L,Solo,1500,4000,False,0.48,Frequent,Transport_hub,3,"[""free_wifi"", ""restaurant"", ""parking""]",6
+263,30-40,Male,Bangalore,Karnataka,10-15L,Couple,4200,9600,False,0.12,Occasional,City_center,6,"[""free_wifi"", ""restaurant"", ""parking""]",3
+264,22-30,Male,Pune,Maharashtra,3-6L,Couple,1800,4800,True,0.42,Occasional,Quiet_area,3,"[""free_wifi"", ""restaurant"", ""parking""]",3
+265,50-60,Male,Chennai,Tamil Nadu,25L+,Family_with_kids,12000,30000,False,0.83,Occasional,Transport_hub,40,"[""pool"", ""family_rooms"", ""parking""]",3
+266,22-30,Male,Chennai,Tamil Nadu,6-10L,Couple,3000,7200,True,0.45,Frequent,Quiet_area,2,"[""free_wifi"", ""restaurant"", ""parking""]",4
+267,30-40,Male,Hyderabad,Telangana,10-15L,Couple,4200,9600,False,0.42,Occasional,City_center,1,"[""free_wifi"", ""restaurant"", ""parking""]",3
+268,30-40,Female,Hyderabad,Telangana,15L+,Couple,6000,14400,False,0.79,Occasional,Transport_hub,1,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+269,30-40,Male,Jaipur,Rajasthan,10-15L,Couple,4200,9600,False,0.21,Frequent,City_center,15,"[""free_wifi"", ""restaurant"", ""parking""]",4
+270,30-40,Male,Hyderabad,Telangana,6-10L,Family_with_kids,3750,9000,False,0.47,Occasional,Transport_hub,5,"[""pool"", ""family_rooms"", ""parking""]",3
+271,30-40,Male,Chennai,Tamil Nadu,6-10L,Couple,3000,7200,False,0.4,Occasional,City_center,1,"[""free_wifi"", ""restaurant"", ""parking""]",3
+272,22-30,Male,Chennai,Tamil Nadu,6-10L,Solo,2500,6000,False,0.78,Regular,City_center,5,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",6
+273,40-50,Female,Delhi,Delhi,25L+,Family_with_kids,12000,30000,False,0.83,Regular,City_center,5,"[""pool"", ""family_rooms"", ""parking""]",5
+274,40-50,Female,Chennai,Tamil Nadu,10-15L,Couple,4200,9600,False,0.01,Occasional,Quiet_area,19,"[""free_wifi"", ""restaurant"", ""parking""]",3
+275,22-30,Male,Mumbai,Maharashtra,6-10L,Couple,3000,7200,True,0.61,Occasional,Quiet_area,1,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+276,30-40,Male,Delhi,Delhi,10-15L,Couple,4200,9600,True,0.53,Occasional,City_center,1,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+277,40-50,Female,Delhi,Delhi,25L+,Couple,9600,24000,True,0.64,Occasional,Transport_hub,17,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+278,22-30,Male,Mumbai,Maharashtra,3-6L,Couple,1800,4800,False,0.22,Regular,Transport_hub,2,"[""free_wifi"", ""restaurant"", ""parking""]",6
+279,40-50,Male,Hyderabad,Telangana,15L+,Family_with_kids,7500,18000,False,0.22,Regular,City_center,8,"[""pool"", ""family_rooms"", ""parking""]",7
+280,30-40,Female,Hyderabad,Telangana,6-10L,Family_with_kids,3750,9000,False,0.66,Occasional,Quiet_area,12,"[""pool"", ""family_rooms"", ""parking""]",3
+281,40-50,Male,Lucknow,Uttar Pradesh,25L+,Couple,9600,24000,False,0.43,Frequent,Transport_hub,13,"[""spa"", ""gym"", ""room_service""]",6
+282,30-40,Female,Bangalore,Karnataka,15L+,Couple,6000,14400,False,0.51,Occasional,Quiet_area,1,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+283,40-50,Female,Lucknow,Uttar Pradesh,25L+,Couple,9600,24000,True,0.86,Occasional,Transport_hub,13,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+284,40-50,Male,Mumbai,Maharashtra,10-15L,Family_with_kids,5250,12000,False,0.37,Occasional,City_center,21,"[""pool"", ""family_rooms"", ""parking""]",3
+285,30-40,Female,Pune,Maharashtra,10-15L,Couple,4200,9600,False,0.3,Frequent,City_center,12,"[""free_wifi"", ""restaurant"", ""parking""]",6
+286,22-30,Female,Hyderabad,Telangana,3-6L,Solo,1500,4000,False,0.06,Occasional,City_center,16,"[""free_wifi"", ""restaurant"", ""parking""]",3
+287,22-30,Female,Bangalore,Karnataka,3-6L,Couple,1800,4800,False,0.32,Frequent,Transport_hub,12,"[""free_wifi"", ""restaurant"", ""parking""]",6
+288,30-40,Female,Bangalore,Karnataka,6-10L,Couple,3000,7200,True,0.39,Frequent,City_center,8,"[""free_wifi"", ""restaurant"", ""parking""]",7
+289,22-30,Female,Kolkata,West Bengal,10-15L,Solo,3500,8000,False,0.21,Occasional,City_center,6,"[""free_wifi"", ""restaurant"", ""parking""]",3
+290,22-30,Female,Chennai,Tamil Nadu,3-6L,Solo,1500,4000,False,0.06,Occasional,City_center,31,"[""free_wifi"", ""restaurant"", ""parking""]",3
+291,22-30,Male,Delhi,Delhi,3-6L,Solo,1500,4000,True,0.48,Occasional,Quiet_area,3,"[""free_wifi"", ""restaurant"", ""parking""]",3
+292,30-40,Male,Ahmedabad,Gujarat,10-15L,Family_with_kids,5250,12000,False,0.09,Occasional,City_center,29,"[""pool"", ""family_rooms"", ""parking""]",3
+293,40-50,Female,Mumbai,Maharashtra,25L+,Couple,9600,24000,True,0.2,Regular,City_center,6,"[""spa"", ""gym"", ""room_service""]",5
+294,50-60,Female,Lucknow,Uttar Pradesh,15L+,Family_with_kids,7500,18000,True,0.04,Occasional,City_center,6,"[""pool"", ""family_rooms"", ""parking""]",3
+295,22-30,Female,Mumbai,Maharashtra,6-10L,Couple,3000,7200,False,0.22,Regular,Transport_hub,11,"[""free_wifi"", ""restaurant"", ""parking""]",5
+296,22-30,Female,Hyderabad,Telangana,6-10L,Solo,2500,6000,False,0.22,Occasional,City_center,3,"[""free_wifi"", ""restaurant"", ""parking""]",3
+297,22-30,Male,Mumbai,Maharashtra,3-6L,Solo,1500,4000,False,0.13,Frequent,Quiet_area,17,"[""free_wifi"", ""restaurant"", ""parking""]",7
+298,40-50,Female,Chennai,Tamil Nadu,25L+,Couple,9600,24000,False,0.58,Occasional,City_center,26,"[""free_wifi"", ""business_center"", ""airport_shuttle"", ""meeting_rooms""]",3
+299,30-40,Female,Kolkata,West Bengal,10-15L,Couple,4200,9600,False,0.1,Regular,Transport_hub,10,"[""free_wifi"", ""restaurant"", ""parking""]",6
+300,22-30,Female,Pune,Maharashtra,6-10L,Solo,2500,6000,True,0.14,Occasional,Transport_hub,1,"[""free_wifi"", ""restaurant"", ""parking""]",3

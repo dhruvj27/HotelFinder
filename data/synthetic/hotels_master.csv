@@ -1,0 +1,401 @@
+hotel_id,name,city,state,star_rating,price_per_night_inr,property_type,total_rooms,year_established,free_wifi,air_conditioning,parking,room_service,24_7_front_desk,restaurant,gym,pool,spa,business_center,conference_hall,airport_shuttle,meeting_rooms,vegetarian_restaurant,multilingual_staff,local_cuisine,popularity_score,review_count
+1,Leela Wali Group Ahmedabad,Ahmedabad,Gujarat,3,3204,Service Apartment,189,2012,True,True,True,False,False,False,False,False,False,True,True,False,True,False,True,True,2.0,0.0
+2,Royal Pradhan Group Jaipur,Jaipur,Rajasthan,4,4641,Resort,27,1998,True,True,True,True,True,False,True,True,False,False,False,False,False,True,True,True,0.0,0.0
+3,"ITC Sachdev, Biswas and Palan Kolkata",Kolkata,West Bengal,3,3054,Service Apartment,47,1999,True,True,False,False,False,True,True,False,False,False,False,False,False,True,True,True,1.0,0.0
+4,Grand Subramaniam Group Bangalore,Bangalore,Karnataka,4,6118,Hotel,128,2006,True,True,True,True,True,True,False,False,False,False,False,False,False,False,True,False,1.0,0.0
+5,Royal Devan-Hegde Kochi,Kochi,Kerala,5,4984,5-Star Resort,78,2004,True,True,True,True,True,True,True,True,True,False,True,True,True,False,True,False,3.0,0.0
+6,Taj Sekhon-Prasad Kochi,Kochi,Kerala,3,3034,Service Apartment,148,1991,True,True,True,False,False,False,False,False,False,True,True,True,True,False,False,False,3.0,2.0
+7,"Leela Doctor, Dhingra and Dhawan Delhi",Delhi,Delhi,5,8322,5-Star Resort,229,2011,True,True,True,True,True,True,True,False,True,False,False,False,False,True,False,False,1.0,1.0
+8,"Leela Sami, Buch and Gour Hyderabad",Hyderabad,Telangana,4,5558,Hotel,116,2013,True,True,True,True,False,False,True,True,True,False,False,False,False,False,False,True,0.0,0.0
+9,Grand Ram-Hegde Lucknow,Lucknow,Uttar Pradesh,4,4306,Resort,80,1999,True,True,True,True,False,True,False,True,False,True,True,True,True,False,True,False,1.0,0.0
+10,Taj Dash and Sons Jaipur,Jaipur,Rajasthan,3,3963,Hotel,164,2009,True,True,True,False,True,True,True,False,False,False,True,True,False,False,True,False,4.0,1.0
+11,"Leela Toor, Ben and Natt Lucknow",Lucknow,Uttar Pradesh,3,3121,Boutique Hotel,97,2021,True,True,True,False,True,False,False,False,False,False,True,True,False,True,True,True,2.0,0.0
+12,"Taj Raval, Behl and Pingle Mumbai",Mumbai,Maharashtra,4,7105,Business Hotel,293,2014,False,True,True,False,True,False,True,True,False,False,True,False,False,False,True,True,0.0,0.0
+13,Taj Jaggi-Gill Hyderabad,Hyderabad,Telangana,3,4134,Hotel,170,2012,True,True,True,False,True,False,False,False,True,False,False,False,True,True,True,True,1.0,1.0
+14,Taj Tripathi-Sathe Hyderabad,Hyderabad,Telangana,4,5301,Business Hotel,299,2000,True,True,True,True,True,True,True,False,False,False,True,False,False,False,False,True,0.0,0.0
+15,"Taj Sem, Goyal and Khurana Delhi",Delhi,Delhi,5,8697,Luxury Hotel,45,2021,True,True,True,True,True,True,True,True,True,True,False,False,False,True,False,True,8.0,5.0
+16,"Taj Patil, Nayar and Mohan Kolkata",Kolkata,West Bengal,5,5908,5-Star Resort,232,2001,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,9.0,3.0
+17,Leela Bava LLC Chennai,Chennai,Tamil Nadu,5,5929,Business Hotel,207,1995,True,True,True,False,True,True,True,True,False,False,False,True,False,True,False,False,3.0,0.0
+18,Taj Cheema-Arya Pune,Pune,Maharashtra,5,6933,Business Hotel,229,1997,True,True,True,True,True,True,False,True,True,True,False,False,False,True,True,False,6.0,3.0
+19,Taj Pant-Balan Bangalore,Bangalore,Karnataka,3,3927,Hotel,209,2003,True,False,True,True,False,True,False,False,False,False,False,False,False,False,False,True,2.0,0.0
+20,"Taj Dhingra, Bhavsar and Barman Jaipur",Jaipur,Rajasthan,3,3607,Hotel,84,2003,True,True,False,True,False,False,True,False,False,False,False,True,True,False,False,True,1.0,0.0
+21,"Royal Khosla, Edwin and Srivastava Delhi",Delhi,Delhi,4,7504,Business Hotel,185,1991,True,True,True,True,False,False,False,True,False,False,False,False,True,False,True,True,4.0,3.0
+22,Leela Tara Inc Bangalore,Bangalore,Karnataka,4,5489,Resort,238,1996,True,True,True,True,True,True,False,True,True,False,False,False,False,False,False,True,0.0,0.0
+23,"ITC Hayer, Behl and Srivastava Jaipur",Jaipur,Rajasthan,4,5070,Business Hotel,130,2017,True,True,True,True,True,True,False,False,False,True,True,False,True,False,True,True,3.0,2.0
+24,Grand Dave-Borra Jaipur,Jaipur,Rajasthan,4,5241,Business Hotel,188,1997,True,True,True,False,True,True,True,False,False,True,True,True,True,False,True,True,0.0,0.0
+25,Leela Chada-Bose Pune,Pune,Maharashtra,4,5964,Business Hotel,33,2007,True,True,False,False,False,True,True,False,True,False,True,True,False,True,False,True,0.0,0.0
+26,ITC Minhas-Sami Mumbai,Mumbai,Maharashtra,4,7189,Business Hotel,63,1993,True,True,True,True,False,True,True,True,False,True,False,False,True,True,True,False,10.0,3.0
+27,ITC Sant PLC Bangalore,Bangalore,Karnataka,5,6706,Luxury Hotel,23,2003,True,True,True,True,True,True,True,False,True,False,False,False,False,False,True,True,1.0,0.0
+28,"Grand Palla, Savant and Chand Kolkata",Kolkata,West Bengal,5,6098,5-Star Resort,239,2015,True,True,True,True,True,True,True,True,True,False,False,False,False,False,True,True,4.0,2.0
+29,"Royal Zachariah, Dua and Dewan Kochi",Kochi,Kerala,3,3210,Hotel,281,1997,True,True,True,False,False,False,False,True,False,True,False,False,True,True,True,True,5.0,1.0
+30,Leela Thaman-Oommen Ahmedabad,Ahmedabad,Gujarat,5,5931,Business Hotel,185,2010,True,True,True,True,True,True,True,True,True,False,False,True,False,True,True,False,6.0,4.0
+31,Grand Subramaniam Group Bangalore,Bangalore,Karnataka,5,7113,5-Star Resort,116,2010,True,True,True,True,True,True,True,True,True,True,False,False,True,False,True,True,4.0,2.0
+32,"Taj Hayre, Panchal and Deshpande Lucknow",Lucknow,Uttar Pradesh,3,3057,Service Apartment,46,2011,True,True,True,False,True,False,False,True,False,True,True,False,True,True,True,True,1.0,0.0
+33,ITC Buch LLC Delhi,Delhi,Delhi,4,6800,Resort,188,1998,True,True,True,False,False,True,True,True,False,False,False,False,False,True,False,True,4.0,3.0
+34,ITC Banik-Bedi Kochi,Kochi,Kerala,4,4528,Business Hotel,289,1992,True,False,False,True,True,True,True,True,False,True,False,True,False,True,True,False,2.0,1.0
+35,"ITC Dhawan, Lad and Zachariah Kochi",Kochi,Kerala,5,5262,Luxury Hotel,178,2020,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,9.0,2.0
+36,Grand Patel Inc Chennai,Chennai,Tamil Nadu,5,6230,5-Star Resort,62,2000,True,False,True,True,True,True,False,False,False,True,False,False,False,False,True,False,4.0,3.0
+37,Taj Vohra-Buch Kolkata,Kolkata,West Bengal,3,3325,Hotel,90,1992,True,True,True,False,False,False,False,False,False,False,False,True,False,False,True,False,0.0,0.0
+38,"ITC Ranganathan, Sarkar and Menon Kolkata",Kolkata,West Bengal,4,4853,Resort,52,1997,True,True,True,True,True,False,True,True,True,False,False,False,False,True,True,True,2.0,2.0
+39,Leela Nayar Ltd Jaipur,Jaipur,Rajasthan,4,4958,Resort,42,2014,True,True,True,True,True,True,True,True,False,True,False,True,True,False,False,True,2.0,1.0
+40,Royal Patil-Guha Hyderabad,Hyderabad,Telangana,4,5111,Hotel,254,1992,True,True,True,False,True,False,False,True,True,False,False,True,False,False,False,True,1.0,0.0
+41,"Leela Merchant, Vasa and Roy Kolkata",Kolkata,West Bengal,4,4212,Business Hotel,245,2014,True,True,True,True,True,False,True,True,False,True,False,True,True,False,False,True,5.0,1.0
+42,Leela Barad and Sons Hyderabad,Hyderabad,Telangana,5,7356,5-Star Resort,248,1992,True,True,False,True,True,True,True,True,False,False,False,True,False,True,True,True,0.0,0.0
+43,"Taj Bir, Dey and Mahajan Hyderabad",Hyderabad,Telangana,5,6874,5-Star Resort,36,1999,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,True,7.0,3.0
+44,"ITC Vohra, Kala and Narayanan Kochi",Kochi,Kerala,4,4308,Resort,271,2002,True,True,True,True,True,True,True,False,True,True,True,False,True,False,False,True,0.0,0.0
+45,"Taj Pal, Upadhyay and Chandran Delhi",Delhi,Delhi,5,8158,Business Hotel,134,1997,True,True,True,False,True,False,False,True,False,False,False,False,False,False,True,True,3.0,0.0
+46,Taj Sem-Hayer Chennai,Chennai,Tamil Nadu,5,6773,Business Hotel,57,2018,True,True,True,True,True,False,True,False,True,False,False,False,False,False,True,True,2.0,0.0
+47,"Taj Oza, Majumdar and Bhargava Jaipur",Jaipur,Rajasthan,3,3779,Hotel,148,2002,True,True,True,False,True,False,False,False,True,True,True,True,True,False,True,False,1.0,0.0
+48,ITC Nanda-Singhal Kochi,Kochi,Kerala,4,4749,Resort,127,2016,True,True,True,True,True,True,False,True,False,False,True,False,True,False,True,False,5.0,2.0
+49,Taj Edwin Ltd Lucknow,Lucknow,Uttar Pradesh,3,3157,Boutique Hotel,86,2013,True,True,True,False,True,False,False,False,True,True,True,True,True,False,True,False,1.0,1.0
+50,ITC Kala LLC Ahmedabad,Ahmedabad,Gujarat,4,4794,Resort,275,2009,True,True,True,True,True,True,True,False,True,False,True,True,False,True,False,True,6.0,1.0
+51,"Taj Nagar, Morar and Tella Jaipur",Jaipur,Rajasthan,3,3300,Hotel,225,1993,True,True,False,True,True,True,False,False,False,True,True,False,True,False,False,False,2.0,0.0
+52,"Leela Raval, Sharma and Bose Lucknow",Lucknow,Uttar Pradesh,4,4146,Business Hotel,40,1992,True,True,True,True,True,False,False,False,True,True,True,False,True,True,True,True,1.0,0.0
+53,"Grand Mukhopadhyay, Prashad and Maharaj Mumbai",Mumbai,Maharashtra,4,7122,Resort,189,1997,True,True,True,True,True,True,False,True,False,False,False,False,False,False,False,True,4.0,0.0
+54,Royal Chopra Group Pune,Pune,Maharashtra,3,4685,Hotel,76,2002,True,True,True,True,True,False,False,False,False,False,False,True,False,False,False,True,0.0,0.0
+55,ITC Chakrabarti-Gara Mumbai,Mumbai,Maharashtra,4,7589,Resort,299,2012,True,True,True,True,True,True,False,False,False,False,False,False,False,True,False,True,0.0,0.0
+56,Taj Nadkarni-Das Kochi,Kochi,Kerala,3,3441,Boutique Hotel,82,2014,True,True,True,False,True,True,False,False,False,True,True,True,True,True,True,False,11.0,3.0
+57,Royal Kala-Bir Pune,Pune,Maharashtra,5,8169,Luxury Hotel,291,2004,False,True,True,True,True,True,True,True,True,True,False,False,True,True,True,True,10.0,4.0
+58,Grand Mangal Ltd Kochi,Kochi,Kerala,4,4119,Business Hotel,138,1992,True,True,True,False,True,False,False,True,False,False,True,False,False,True,True,True,1.0,0.0
+59,ITC Pandey-Pandey Bangalore,Bangalore,Karnataka,4,5665,Resort,88,2022,True,True,True,False,False,True,False,False,True,True,False,False,False,False,True,True,2.0,0.0
+60,Grand Varughese-Natarajan Jaipur,Jaipur,Rajasthan,3,3482,Hotel,91,2020,True,True,True,False,False,True,False,False,False,True,False,False,True,True,True,True,8.0,3.0
+61,"Taj Raval, Tak and Vohra Hyderabad",Hyderabad,Telangana,3,4383,Service Apartment,80,2008,True,True,True,True,True,False,False,False,False,True,False,False,True,False,False,False,0.0,0.0
+62,Taj Puri Ltd Hyderabad,Hyderabad,Telangana,3,4124,Hotel,77,1993,True,True,True,False,False,True,False,False,False,False,True,False,False,False,True,True,0.0,0.0
+63,Taj Mammen Group Ahmedabad,Ahmedabad,Gujarat,3,3838,Service Apartment,31,2015,True,True,True,False,True,False,False,False,False,True,True,True,True,False,False,True,4.0,2.0
+64,"Leela Dutt, Jhaveri and Doctor Kolkata",Kolkata,West Bengal,5,5954,5-Star Resort,213,2014,True,True,True,True,True,False,False,True,False,True,False,False,True,False,True,True,3.0,1.0
+65,Royal Bhavsar Group Delhi,Delhi,Delhi,4,7297,Resort,197,1999,True,True,True,True,True,True,True,False,True,True,True,False,True,False,True,False,3.0,0.0
+66,ITC Varty LLC Kolkata,Kolkata,West Bengal,4,4200,Hotel,48,1998,True,True,True,False,True,False,False,True,True,False,False,False,False,True,True,True,1.0,0.0
+67,Leela Chatterjee and Sons Ahmedabad,Ahmedabad,Gujarat,3,3902,Service Apartment,273,1993,True,True,True,False,False,False,True,False,False,True,True,True,True,False,False,True,1.0,0.0
+68,Royal Raja-Lad Hyderabad,Hyderabad,Telangana,4,5850,Resort,144,2006,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,2.0,1.0
+69,Taj Parikh PLC Chennai,Chennai,Tamil Nadu,4,4946,Hotel,128,2002,True,True,True,True,False,True,True,False,True,True,False,False,True,True,True,False,1.0,0.0
+70,"Taj Sarna, Sidhu and Muni Delhi",Delhi,Delhi,5,9234,Luxury Hotel,209,2010,True,True,True,True,True,True,True,True,True,False,False,False,False,True,False,False,8.0,2.0
+71,"Leela Uppal, Ghose and Rajan Pune",Pune,Maharashtra,4,5585,Resort,106,2012,True,True,True,True,True,True,True,True,True,False,False,False,False,True,False,True,11.0,2.0
+72,"Leela Garg, Kapoor and Iyengar Bangalore",Bangalore,Karnataka,3,4008,Boutique Hotel,50,2020,True,True,False,False,False,True,False,True,False,True,True,True,True,True,True,True,0.0,0.0
+73,Taj Rege PLC Kochi,Kochi,Kerala,3,3256,Boutique Hotel,223,1995,True,True,True,False,True,False,True,False,False,False,False,True,True,True,True,True,2.0,1.0
+74,"Taj Bhatnagar, Konda and Biswas Hyderabad",Hyderabad,Telangana,4,5869,Business Hotel,68,1992,True,True,True,True,False,True,False,False,True,False,False,False,False,False,True,False,1.0,0.0
+75,Grand Tripathi-Patil Chennai,Chennai,Tamil Nadu,4,4824,Resort,103,2005,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False,True,0.0,0.0
+76,Taj Thaker Ltd Lucknow,Lucknow,Uttar Pradesh,5,5462,Luxury Hotel,159,2018,True,True,True,True,True,False,True,True,False,True,True,False,True,False,False,True,4.0,2.0
+77,"Taj Choudhry, Batta and Swaminathan Jaipur",Jaipur,Rajasthan,4,4599,Resort,204,2007,True,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True,3.0,2.0
+78,ITC Shetty PLC Delhi,Delhi,Delhi,4,6522,Business Hotel,106,2014,True,True,True,True,True,True,True,False,True,False,False,False,True,False,False,False,0.0,0.0
+79,ITC Chadha-Chad Bangalore,Bangalore,Karnataka,4,5343,Resort,188,2018,True,True,True,True,True,True,True,True,True,False,False,True,True,False,False,True,1.0,0.0
+80,"Leela Badal, Gill and Gade Hyderabad",Hyderabad,Telangana,4,5301,Resort,78,2002,True,True,True,True,True,True,True,True,False,False,False,False,False,False,True,True,2.0,0.0
+81,"Leela Biswas, Walia and Shankar Lucknow",Lucknow,Uttar Pradesh,4,4503,Resort,57,2018,True,True,True,False,False,True,False,False,True,False,False,False,True,True,True,True,2.0,1.0
+82,Leela Munshi Inc Lucknow,Lucknow,Uttar Pradesh,4,4078,Resort,240,1996,True,True,False,False,True,False,True,False,False,True,True,False,True,True,False,True,0.0,0.0
+83,Royal Sarkar-Wali Mumbai,Mumbai,Maharashtra,5,8829,5-Star Resort,179,2011,True,True,True,True,True,True,True,True,False,True,False,False,True,False,True,False,6.0,2.0
+84,Taj Saini-Venkatesh Jaipur,Jaipur,Rajasthan,3,3855,Service Apartment,238,2019,True,True,True,False,True,True,True,False,True,True,True,False,False,False,False,True,3.0,1.0
+85,Taj Madan Ltd Chennai,Chennai,Tamil Nadu,4,5424,Resort,120,2019,True,True,True,True,False,False,True,True,True,True,False,False,True,False,False,True,3.0,1.0
+86,Taj Gera LLC Delhi,Delhi,Delhi,4,6705,Hotel,113,2013,True,True,True,True,True,True,True,False,False,False,False,False,False,True,True,True,0.0,0.0
+87,Royal Dutta PLC Bangalore,Bangalore,Karnataka,5,7215,Luxury Hotel,216,2022,True,True,True,True,True,True,True,False,True,False,True,False,False,True,True,True,3.0,0.0
+88,"Grand Mahal, Pall and Deep Kochi",Kochi,Kerala,4,4347,Resort,298,2013,True,True,True,True,True,True,False,True,True,True,True,True,True,False,True,True,3.0,2.0
+89,ITC Walia-Bhat Ahmedabad,Ahmedabad,Gujarat,4,5041,Business Hotel,199,2017,True,True,True,False,True,False,False,True,False,True,True,False,True,False,False,True,0.0,0.0
+90,"Leela Khatri, Lad and Dara Bangalore",Bangalore,Karnataka,3,4420,Hotel,161,1998,True,True,True,False,False,False,True,False,False,False,False,False,False,False,True,False,0.0,0.0
+91,Leela Yohannan-Kadakia Bangalore,Bangalore,Karnataka,5,6839,5-Star Resort,21,1995,True,True,True,True,True,True,True,True,True,False,False,True,False,True,False,True,7.0,2.0
+92,"Leela Raja, Munshi and Upadhyay Jaipur",Jaipur,Rajasthan,3,3746,Hotel,83,2000,True,True,True,True,False,False,False,False,False,True,True,False,True,False,False,True,2.0,0.0
+93,"Royal Sundaram, Konda and Acharya Jaipur",Jaipur,Rajasthan,3,3616,Boutique Hotel,66,1996,False,True,False,False,False,True,False,False,True,True,True,False,True,True,False,False,3.0,1.0
+94,Leela Banik LLC Mumbai,Mumbai,Maharashtra,3,5429,Hotel,93,1994,True,True,True,False,True,True,True,False,False,False,True,True,False,True,True,True,3.0,0.0
+95,Royal Saxena-Guha Ahmedabad,Ahmedabad,Gujarat,4,4795,Resort,63,2005,True,True,True,True,False,False,False,True,True,False,True,True,False,True,True,False,1.0,1.0
+96,ITC Barad-Kannan Ahmedabad,Ahmedabad,Gujarat,3,3623,Hotel,290,1990,True,True,False,True,False,False,True,False,False,True,False,False,True,True,True,True,2.0,2.0
+97,ITC Chowdhury Group Hyderabad,Hyderabad,Telangana,4,5842,Resort,236,2015,True,True,True,True,True,False,False,False,True,True,False,True,True,False,True,True,0.0,0.0
+98,Royal Balay LLC Delhi,Delhi,Delhi,5,9047,Luxury Hotel,242,1997,True,True,True,True,False,False,True,True,True,False,False,False,False,True,False,True,10.0,3.0
+99,"Grand Mahajan, Thaman and Agate Jaipur",Jaipur,Rajasthan,3,3729,Hotel,191,2017,True,True,True,True,True,True,True,False,False,True,False,True,True,False,False,False,6.0,1.0
+100,"Grand Varty, Manne and Basu Kolkata",Kolkata,West Bengal,4,4501,Hotel,43,2020,True,True,True,True,True,True,False,True,True,False,False,False,True,False,True,False,5.0,3.0
+101,ITC Dyal-Shukla Hyderabad,Hyderabad,Telangana,4,5250,Hotel,225,1994,True,True,False,True,False,False,True,True,False,False,False,True,False,False,False,True,0.0,0.0
+102,"Royal Parsa, Datta and Sridhar Jaipur",Jaipur,Rajasthan,3,3915,Hotel,229,1991,True,True,True,False,True,True,False,False,False,True,False,False,True,False,False,False,3.0,2.0
+103,Royal Nigam Group Chennai,Chennai,Tamil Nadu,5,6453,Business Hotel,231,2013,True,True,True,True,True,True,True,True,True,False,False,False,False,True,True,True,5.0,3.0
+104,Grand Venkataraman-Sodhi Jaipur,Jaipur,Rajasthan,3,3994,Hotel,89,1996,True,True,True,False,True,True,False,False,False,True,True,False,True,False,True,True,6.0,3.0
+105,"Royal Saxena, Kalla and Mahajan Bangalore",Bangalore,Karnataka,4,5305,Resort,222,2022,True,True,True,True,False,True,True,False,True,False,False,False,False,True,False,True,2.0,0.0
+106,Grand Tailor Group Mumbai,Mumbai,Maharashtra,4,7952,Business Hotel,152,1994,True,False,True,True,True,False,True,True,False,True,True,False,False,True,False,True,6.0,1.0
+107,"Royal Sachar, Goda and Hora Mumbai",Mumbai,Maharashtra,5,10554,5-Star Resort,163,2018,True,True,True,True,True,True,True,False,True,False,False,False,False,True,True,True,20.0,12.0
+108,Taj Dewan Group Bangalore,Bangalore,Karnataka,5,6529,5-Star Resort,298,2021,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False,6.0,2.0
+109,Grand Madan-Devan Hyderabad,Hyderabad,Telangana,4,5819,Hotel,218,2012,True,True,True,True,True,False,False,True,False,False,False,False,False,True,False,True,2.0,1.0
+110,"Royal Natarajan, Mandal and Barad Bangalore",Bangalore,Karnataka,3,4040,Service Apartment,132,1991,True,True,True,False,True,False,False,False,False,True,False,False,True,False,False,True,0.0,0.0
+111,Leela Kata Group Ahmedabad,Ahmedabad,Gujarat,4,4715,Business Hotel,71,2011,True,True,True,True,True,False,False,True,True,False,True,True,False,True,True,False,3.0,2.0
+112,Royal Palan Inc Kolkata,Kolkata,West Bengal,4,4321,Business Hotel,20,2015,False,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,0.0,0.0
+113,"Leela Chokshi, Varghese and Mallick Lucknow",Lucknow,Uttar Pradesh,4,3712,Hotel,155,2003,True,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,1.0,0.0
+114,Leela Chaudry-Amble Chennai,Chennai,Tamil Nadu,5,6647,Luxury Hotel,37,2008,True,True,True,True,True,True,True,True,False,False,False,False,False,False,True,True,3.0,0.0
+115,"Grand Tank, Gokhale and Chhabra Mumbai",Mumbai,Maharashtra,5,9251,5-Star Resort,125,2002,False,True,True,True,True,True,True,True,True,False,False,True,False,True,False,True,9.0,3.0
+116,Royal Sur-Raman Pune,Pune,Maharashtra,4,6386,Business Hotel,169,1995,True,True,True,True,True,True,True,False,True,False,False,False,False,False,True,True,0.0,0.0
+117,Grand De-Sengupta Jaipur,Jaipur,Rajasthan,3,3898,Hotel,196,2016,True,True,True,False,True,True,True,False,False,True,True,True,True,True,True,False,14.0,5.0
+118,Royal Divan-Palla Lucknow,Lucknow,Uttar Pradesh,4,3872,Hotel,249,2001,True,True,True,False,True,False,True,True,True,True,False,True,True,False,True,False,3.0,1.0
+119,Leela Seshadri-Sagar Bangalore,Bangalore,Karnataka,4,6303,Hotel,287,2016,True,True,True,False,True,False,False,False,True,False,False,True,False,False,True,True,0.0,0.0
+120,"Royal Venkatesh, Kurian and Bandi Delhi",Delhi,Delhi,4,6919,Business Hotel,225,1992,True,True,True,False,False,True,True,True,False,False,False,False,False,False,True,True,2.0,1.0
+121,Taj Vaidya Ltd Pune,Pune,Maharashtra,5,8278,5-Star Resort,233,1995,True,True,True,False,True,True,True,True,True,False,False,True,False,True,False,True,5.0,1.0
+122,Grand Ravel Ltd Chennai,Chennai,Tamil Nadu,5,6325,Luxury Hotel,36,2019,True,True,True,True,True,True,True,True,False,False,False,False,False,True,False,True,3.0,1.0
+123,Grand Sankaran Inc Mumbai,Mumbai,Maharashtra,4,8322,Resort,34,2014,True,True,True,True,True,True,True,True,False,True,False,False,True,True,False,False,9.0,2.0
+124,"Taj Karan, Chopra and Bhandari Mumbai",Mumbai,Maharashtra,3,5371,Service Apartment,160,2017,True,True,False,False,False,True,False,True,False,False,True,False,False,False,True,True,0.0,0.0
+125,Taj Sur PLC Pune,Pune,Maharashtra,4,6576,Business Hotel,186,2007,True,True,True,True,True,True,True,False,False,False,False,False,False,False,True,True,0.0,0.0
+126,"Grand Mammen, Dhillon and Patla Kolkata",Kolkata,West Bengal,5,5774,Business Hotel,117,2011,False,True,True,True,True,True,True,False,True,False,True,True,False,False,False,True,1.0,0.0
+127,Grand Savant-Jayaraman Chennai,Chennai,Tamil Nadu,5,6638,Luxury Hotel,201,2004,True,True,False,True,True,True,True,True,True,False,False,False,False,False,False,False,2.0,1.0
+128,Royal Shan-Mohanty Kolkata,Kolkata,West Bengal,4,4408,Hotel,122,2011,True,True,True,True,True,True,False,False,False,False,True,True,False,False,True,False,2.0,2.0
+129,"Grand Narain, Sarkar and Pall Pune",Pune,Maharashtra,3,5056,Hotel,242,2017,True,False,True,False,True,True,False,False,False,True,False,False,True,False,True,False,3.0,1.0
+130,Taj Warrior-Thakkar Pune,Pune,Maharashtra,5,7570,Luxury Hotel,53,1992,True,True,True,True,False,True,True,True,True,True,False,False,False,True,True,True,2.0,0.0
+131,Grand Mandal LLC Kolkata,Kolkata,West Bengal,4,4881,Business Hotel,278,2000,True,True,True,True,True,True,False,False,False,True,False,False,True,True,False,True,3.0,2.0
+132,Grand Deshmukh-Khanna Delhi,Delhi,Delhi,4,6852,Resort,235,1996,True,True,False,True,True,True,False,False,False,True,False,False,True,False,True,True,0.0,0.0
+133,ITC Mall PLC Kochi,Kochi,Kerala,5,5462,5-Star Resort,126,2020,True,True,True,True,True,True,True,False,True,True,False,False,False,False,True,True,3.0,1.0
+134,Grand Kata-Kadakia Hyderabad,Hyderabad,Telangana,3,3817,Boutique Hotel,204,2010,True,True,True,False,True,False,False,True,False,False,False,False,False,True,True,False,4.0,0.0
+135,Leela Jha-Lata Pune,Pune,Maharashtra,5,8046,Business Hotel,264,2016,True,True,True,True,True,True,True,True,False,False,True,False,False,False,False,True,3.0,1.0
+136,Royal Chada Ltd Kochi,Kochi,Kerala,3,3516,Boutique Hotel,269,1997,True,True,True,False,False,True,False,False,False,True,False,False,True,False,False,False,10.0,2.0
+137,Leela Basak-Narula Pune,Pune,Maharashtra,4,6071,Hotel,47,1990,True,True,True,False,True,False,False,True,False,False,False,False,False,False,False,True,3.0,1.0
+138,Leela Jha-Dubey Kochi,Kochi,Kerala,4,4730,Resort,181,1997,True,True,True,True,False,True,True,True,False,True,True,False,True,False,True,True,4.0,2.0
+139,"Taj Dhillon, Nagy and Modi Jaipur",Jaipur,Rajasthan,3,3826,Service Apartment,262,2013,True,True,True,False,False,False,False,False,False,True,False,True,True,False,False,False,4.0,2.0
+140,"Leela Cheema, Comar and Edwin Jaipur",Jaipur,Rajasthan,5,5610,Luxury Hotel,254,2002,True,True,True,True,False,True,True,True,True,True,True,False,True,True,True,True,4.0,3.0
+141,Royal Rege-Devi Hyderabad,Hyderabad,Telangana,4,4954,Business Hotel,108,1998,True,True,True,True,False,True,False,False,True,False,False,True,False,False,True,True,0.0,0.0
+142,ITC Merchant-Tiwari Delhi,Delhi,Delhi,4,6881,Resort,131,2002,True,True,True,True,False,False,False,True,False,False,False,True,False,False,False,True,1.0,1.0
+143,"ITC Raja, Parekh and Rama Chennai",Chennai,Tamil Nadu,4,5247,Resort,236,1990,True,True,True,False,True,False,True,False,True,True,False,False,True,False,True,False,0.0,0.0
+144,ITC Jaggi-Deo Ahmedabad,Ahmedabad,Gujarat,3,3272,Hotel,219,2005,True,True,True,True,False,False,False,True,True,False,True,False,False,True,False,True,3.0,0.0
+145,Taj Kata-Dube Ahmedabad,Ahmedabad,Gujarat,3,3753,Service Apartment,299,2002,True,True,True,False,True,False,False,False,False,True,True,False,True,False,False,False,3.0,1.0
+146,"Grand Nath, Roy and Bath Chennai",Chennai,Tamil Nadu,3,3681,Service Apartment,174,2021,True,True,True,True,False,True,False,False,True,False,False,False,False,True,True,True,7.0,2.0
+147,"Leela Murthy, Sunder and Hari Lucknow",Lucknow,Uttar Pradesh,3,3102,Service Apartment,24,1997,True,True,True,False,False,False,True,False,False,True,False,False,True,True,False,True,2.0,2.0
+148,Leela Sachar-Goda Kochi,Kochi,Kerala,3,3163,Hotel,171,2002,True,True,False,True,True,False,False,False,True,True,False,True,True,False,False,True,1.0,0.0
+149,Grand Kaur Ltd Hyderabad,Hyderabad,Telangana,5,6738,Business Hotel,98,1991,True,True,False,True,True,True,True,False,False,False,True,False,False,False,True,True,1.0,0.0
+150,ITC Mitra Ltd Jaipur,Jaipur,Rajasthan,4,5074,Hotel,57,2012,True,True,True,True,True,False,False,True,False,True,True,True,True,True,False,True,4.0,1.0
+151,Taj Sinha-Tak Ahmedabad,Ahmedabad,Gujarat,4,4362,Hotel,92,1997,True,True,True,False,True,True,False,False,False,True,True,False,True,False,True,True,4.0,0.0
+152,Grand Arya and Sons Mumbai,Mumbai,Maharashtra,3,5189,Service Apartment,256,1994,True,True,False,True,False,False,False,False,False,False,True,False,False,True,True,False,0.0,0.0
+153,Taj Sule-Kaur Kolkata,Kolkata,West Bengal,4,4633,Resort,106,1990,True,True,True,False,True,True,True,True,True,True,False,False,True,False,True,True,2.0,1.0
+154,ITC Char-Khosla Hyderabad,Hyderabad,Telangana,5,6378,Luxury Hotel,154,1994,True,True,True,True,True,True,True,True,True,False,False,True,False,False,False,True,2.0,0.0
+155,Royal Ramaswamy-Vora Delhi,Delhi,Delhi,4,7592,Resort,276,2022,True,True,True,True,False,True,True,True,False,False,False,True,False,False,True,False,4.0,1.0
+156,Leela Sawhney-Gokhale Delhi,Delhi,Delhi,3,5171,Hotel,52,2006,True,True,True,False,False,True,False,False,False,False,False,False,False,True,True,True,3.0,1.0
+157,Leela Narasimhan-Bhargava Hyderabad,Hyderabad,Telangana,5,6362,5-Star Resort,59,2006,True,True,True,True,False,True,True,True,True,False,False,False,False,False,True,True,4.0,1.0
+158,"Royal Thaman, Nagarajan and Dass Pune",Pune,Maharashtra,5,8406,5-Star Resort,189,1997,True,True,True,True,True,True,True,False,True,True,False,False,True,True,True,False,6.0,3.0
+159,Grand Parikh Group Jaipur,Jaipur,Rajasthan,4,5034,Business Hotel,165,1995,True,True,True,True,True,True,False,True,False,False,True,True,False,False,True,False,3.0,0.0
+160,Grand Rajagopalan LLC Chennai,Chennai,Tamil Nadu,3,3800,Hotel,123,2022,False,True,True,False,False,False,False,True,False,True,False,False,True,False,True,True,1.0,1.0
+161,Taj Morar-Shetty Kochi,Kochi,Kerala,4,4282,Hotel,291,2017,True,True,True,True,True,False,True,True,False,True,False,False,False,False,False,True,0.0,0.0
+162,"Grand Chana, Koshy and Varma Chennai",Chennai,Tamil Nadu,4,5568,Business Hotel,287,1997,True,True,True,False,False,False,True,True,True,False,False,True,False,False,True,True,3.0,0.0
+163,"Taj Sur, Dubey and Wali Ahmedabad",Ahmedabad,Gujarat,4,4269,Business Hotel,267,2006,True,True,True,True,True,True,True,False,False,True,True,False,True,True,False,True,8.0,2.0
+164,"Grand Vasa, Tripathi and Aurora Kolkata",Kolkata,West Bengal,5,5686,Luxury Hotel,94,2020,True,True,True,True,True,True,True,False,True,False,False,False,False,False,True,True,1.0,1.0
+165,ITC Chand LLC Lucknow,Lucknow,Uttar Pradesh,4,4043,Resort,119,1992,True,True,True,True,True,False,False,False,False,True,False,False,True,True,True,True,0.0,0.0
+166,ITC Tak and Sons Lucknow,Lucknow,Uttar Pradesh,4,4104,Business Hotel,198,2012,True,True,True,True,True,False,True,True,False,True,True,True,True,False,False,True,0.0,0.0
+167,"Leela Garg, Rau and Garg Kolkata",Kolkata,West Bengal,3,3176,Service Apartment,267,2005,False,True,True,True,True,True,False,False,False,True,False,False,True,False,True,True,1.0,0.0
+168,Grand Dash-Ramakrishnan Hyderabad,Hyderabad,Telangana,5,7339,5-Star Resort,195,1994,True,True,True,True,True,True,True,False,False,True,False,False,True,True,False,True,4.0,0.0
+169,Grand Khurana LLC Ahmedabad,Ahmedabad,Gujarat,4,5144,Hotel,60,2021,True,True,False,True,False,True,False,False,True,False,False,True,True,True,True,True,0.0,0.0
+170,Leela Ratta Inc Lucknow,Lucknow,Uttar Pradesh,4,3691,Resort,296,1992,True,True,True,True,True,False,False,False,True,True,False,False,True,False,True,True,0.0,0.0
+171,Taj Koshy Inc Ahmedabad,Ahmedabad,Gujarat,3,3443,Boutique Hotel,114,2021,True,True,True,True,False,True,True,False,False,True,True,False,True,True,True,False,17.0,6.0
+172,Grand Batta Group Pune,Pune,Maharashtra,4,5788,Hotel,235,2021,True,True,False,True,True,True,True,True,True,True,True,False,True,True,False,True,3.0,1.0
+173,ITC Nayak-Master Bangalore,Bangalore,Karnataka,5,7913,Business Hotel,151,2012,True,True,True,True,True,True,True,True,False,True,False,False,True,False,True,True,2.0,0.0
+174,Royal Shukla-Chhabra Mumbai,Mumbai,Maharashtra,5,9430,Business Hotel,192,2016,True,True,True,True,True,True,False,True,True,False,False,False,True,False,True,False,5.0,3.0
+175,Grand Dada Ltd Kochi,Kochi,Kerala,5,5562,Luxury Hotel,140,2006,True,True,True,True,True,True,True,True,True,False,False,False,False,False,True,True,2.0,1.0
+176,Royal Chaudhary-Dutta Delhi,Delhi,Delhi,5,8290,Luxury Hotel,289,2000,True,True,False,True,True,True,True,False,True,False,True,False,False,True,True,True,4.0,4.0
+177,"ITC Gade, Mander and Singhal Mumbai",Mumbai,Maharashtra,4,6965,Resort,197,2020,True,True,False,True,False,False,True,True,False,False,False,False,False,False,True,True,0.0,0.0
+178,ITC Lalla PLC Ahmedabad,Ahmedabad,Gujarat,4,4477,Hotel,23,2013,True,True,True,True,True,True,False,True,True,True,False,True,True,True,False,False,9.0,3.0
+179,Leela Reddy-Dora Chennai,Chennai,Tamil Nadu,5,6287,Luxury Hotel,55,2001,True,True,True,True,True,True,True,True,True,False,False,False,False,True,True,False,3.0,1.0
+180,Taj Mitra-Shukla Bangalore,Bangalore,Karnataka,4,5517,Resort,179,2021,True,True,True,True,True,True,True,False,True,True,False,False,True,True,True,True,3.0,2.0
+181,Leela Shetty-Korpal Hyderabad,Hyderabad,Telangana,5,6671,Luxury Hotel,37,2002,True,True,True,False,True,True,True,True,True,False,False,False,False,False,True,False,4.0,1.0
+182,Grand Brahmbhatt-Jani Jaipur,Jaipur,Rajasthan,3,3819,Hotel,242,2010,True,True,True,True,False,False,True,False,False,True,True,True,True,True,True,True,3.0,1.0
+183,Grand Narayan and Sons Mumbai,Mumbai,Maharashtra,4,7169,Resort,98,1996,True,True,True,True,True,False,True,False,True,True,True,True,True,False,False,True,15.0,5.0
+184,ITC Sengupta Ltd Bangalore,Bangalore,Karnataka,5,7182,5-Star Resort,185,2019,True,True,True,True,True,True,True,True,False,True,True,False,True,False,True,True,2.0,0.0
+185,Grand Apte PLC Kolkata,Kolkata,West Bengal,4,4809,Business Hotel,295,2014,True,True,True,True,True,False,True,True,False,False,False,False,False,False,True,True,2.0,2.0
+186,"Leela Dada, Pandya and Magar Chennai",Chennai,Tamil Nadu,4,5144,Business Hotel,151,1993,True,True,True,True,True,True,True,True,False,True,False,False,True,True,True,False,4.0,2.0
+187,Grand Kant Inc Hyderabad,Hyderabad,Telangana,4,5075,Resort,59,2003,True,True,False,True,False,False,True,False,True,False,False,False,False,True,True,True,1.0,0.0
+188,Royal Kar and Sons Ahmedabad,Ahmedabad,Gujarat,3,3265,Service Apartment,225,2022,True,True,True,False,True,False,True,False,False,True,False,True,True,False,False,True,2.0,1.0
+189,Taj Mangat-Barad Hyderabad,Hyderabad,Telangana,4,5545,Resort,249,2015,True,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,2.0,1.0
+190,Grand Deo-Kumar Mumbai,Mumbai,Maharashtra,4,8027,Resort,202,1999,False,True,True,False,True,True,True,False,True,False,False,False,False,False,False,True,1.0,0.0
+191,Grand Goel Ltd Bangalore,Bangalore,Karnataka,5,6861,Business Hotel,215,1995,True,True,True,True,True,True,True,True,True,False,False,False,False,False,True,True,3.0,1.0
+192,Royal Vohra Group Mumbai,Mumbai,Maharashtra,4,8327,Hotel,45,2015,True,True,True,False,True,False,False,False,False,False,False,True,False,True,True,True,3.0,0.0
+193,Leela Rao-Badami Jaipur,Jaipur,Rajasthan,3,3832,Service Apartment,120,2005,True,True,True,False,True,True,False,False,False,True,True,True,True,False,False,True,4.0,1.0
+194,Grand Gera Inc Chennai,Chennai,Tamil Nadu,3,3511,Hotel,122,2013,True,True,False,True,False,True,False,False,False,True,False,False,True,False,True,True,5.0,3.0
+195,Taj Vig-Banerjee Bangalore,Bangalore,Karnataka,5,7571,Business Hotel,267,1999,True,True,True,False,False,True,True,True,False,True,False,True,True,False,True,True,13.0,3.0
+196,Leela Basak-Varghese Kochi,Kochi,Kerala,3,2949,Hotel,214,2022,True,True,True,True,True,False,False,True,False,True,True,True,False,False,False,True,1.0,0.0
+197,ITC Dani-Parmer Delhi,Delhi,Delhi,5,9510,5-Star Resort,51,2006,True,True,True,True,False,True,True,True,False,False,False,False,True,False,True,True,0.0,0.0
+198,ITC Rege and Sons Pune,Pune,Maharashtra,5,8279,5-Star Resort,249,1998,True,True,True,True,True,True,True,True,True,False,False,False,False,True,True,False,6.0,2.0
+199,"Royal Choudhury, Sha and Sachdeva Chennai",Chennai,Tamil Nadu,5,6595,5-Star Resort,94,1991,True,True,True,True,True,True,False,True,False,False,False,False,False,True,True,False,1.0,0.0
+200,Grand Kumar-Dhawan Hyderabad,Hyderabad,Telangana,4,5784,Resort,60,2020,True,True,True,False,False,False,True,False,True,True,False,False,True,False,True,True,0.0,0.0
+201,"Leela Mallick, Balakrishnan and Bakshi Bangalore",Bangalore,Karnataka,5,7203,Business Hotel,270,2010,True,True,True,True,True,True,True,True,False,True,False,False,True,False,True,True,2.0,0.0
+202,Royal Hayer Ltd Jaipur,Jaipur,Rajasthan,3,3930,Service Apartment,295,2015,True,True,True,False,False,True,False,False,False,True,False,True,True,False,False,False,3.0,0.0
+203,Grand Chahal-Magar Mumbai,Mumbai,Maharashtra,5,9710,Luxury Hotel,299,1998,True,True,True,True,True,True,True,True,True,False,True,False,False,False,True,False,22.0,6.0
+204,"Leela Mistry, Hegde and Sule Pune",Pune,Maharashtra,5,7547,Business Hotel,281,2000,True,True,True,True,True,True,True,True,False,False,False,True,True,False,True,True,5.0,0.0
+205,"Grand Borah, Bedi and Baria Pune",Pune,Maharashtra,4,6205,Business Hotel,149,1990,True,True,True,False,False,True,True,False,True,False,False,False,False,True,False,False,4.0,1.0
+206,Grand Shankar-Suri Jaipur,Jaipur,Rajasthan,3,3646,Service Apartment,198,1992,True,True,True,False,True,False,False,False,False,True,False,True,True,False,True,True,2.0,2.0
+207,"Grand Taneja, Nagarajan and Kumer Bangalore",Bangalore,Karnataka,4,6167,Resort,185,2013,True,True,True,False,True,True,True,False,False,False,False,False,False,False,True,False,0.0,0.0
+208,ITC Kota PLC Pune,Pune,Maharashtra,5,8171,Business Hotel,167,2017,True,True,True,True,True,True,True,True,True,True,True,False,False,False,True,False,2.0,1.0
+209,Royal Butala PLC Lucknow,Lucknow,Uttar Pradesh,3,3285,Service Apartment,232,2016,True,True,True,False,False,True,False,False,False,False,True,True,True,True,True,False,10.0,5.0
+210,"Taj Atwal, Bhakta and Parekh Mumbai",Mumbai,Maharashtra,4,7424,Resort,265,2020,True,True,True,True,True,False,True,False,True,True,False,False,True,False,True,True,1.0,0.0
+211,Taj Ramesh-Randhawa Mumbai,Mumbai,Maharashtra,4,7903,Hotel,96,2007,True,True,False,True,True,False,True,False,False,True,False,False,True,True,False,False,5.0,2.0
+212,ITC Mutti-Kannan Mumbai,Mumbai,Maharashtra,5,9291,5-Star Resort,109,1997,True,True,True,True,True,True,True,True,False,False,False,True,False,True,False,True,7.0,2.0
+213,Royal Das LLC Hyderabad,Hyderabad,Telangana,5,7102,Luxury Hotel,38,2019,True,True,True,True,True,True,True,False,False,False,False,True,False,False,False,True,3.0,1.0
+214,Taj Panchal PLC Pune,Pune,Maharashtra,5,8008,Business Hotel,183,2018,True,True,False,True,True,True,True,True,True,False,False,False,False,False,True,True,3.0,1.0
+215,Royal Rai-Verma Kochi,Kochi,Kerala,4,4019,Hotel,261,1993,True,True,True,True,True,True,True,True,True,False,True,True,True,False,True,True,1.0,0.0
+216,Grand Tara LLC Delhi,Delhi,Delhi,4,6876,Business Hotel,259,1996,True,True,True,False,True,True,True,True,True,True,False,False,True,False,False,True,2.0,1.0
+217,"Leela Oza, Sahota and Bobal Jaipur",Jaipur,Rajasthan,3,3509,Boutique Hotel,107,2008,True,True,True,False,True,False,True,False,False,False,True,False,False,False,True,True,2.0,1.0
+218,ITC Nori-Minhas Hyderabad,Hyderabad,Telangana,5,6860,5-Star Resort,242,2011,True,True,True,True,True,True,True,True,True,False,False,False,False,False,True,False,2.0,0.0
+219,"Taj Mishra, Bhargava and Kala Ahmedabad",Ahmedabad,Gujarat,3,3689,Boutique Hotel,51,1995,True,True,True,False,False,True,False,False,True,True,True,True,True,False,False,False,4.0,1.0
+220,Leela Mand-Pall Chennai,Chennai,Tamil Nadu,4,5444,Business Hotel,196,1995,True,True,True,True,True,True,True,True,False,True,False,False,True,False,True,False,3.0,0.0
+221,Leela Sengupta Ltd Lucknow,Lucknow,Uttar Pradesh,3,2769,Boutique Hotel,215,2017,False,True,True,True,True,True,True,False,False,True,False,False,True,False,True,True,0.0,0.0
+222,"Royal Chaudhry, Sehgal and Mannan Ahmedabad",Ahmedabad,Gujarat,3,3346,Service Apartment,232,2019,True,True,True,False,True,True,False,False,True,True,False,True,False,False,False,True,3.0,2.0
+223,"Leela Mohanty, Bhardwaj and Koshy Lucknow",Lucknow,Uttar Pradesh,3,3336,Service Apartment,208,1997,True,True,True,False,True,True,False,True,False,False,False,True,False,False,True,True,5.0,2.0
+224,Taj Dua-Ahluwalia Lucknow,Lucknow,Uttar Pradesh,4,4080,Business Hotel,47,2011,True,True,True,False,False,False,True,True,False,True,True,False,False,True,True,False,2.0,0.0
+225,"Grand Bhargava, Tripathi and Nigam Ahmedabad",Ahmedabad,Gujarat,3,3749,Service Apartment,169,1991,True,True,True,False,True,False,False,False,True,False,False,False,False,True,True,True,2.0,1.0
+226,Royal Kothari Inc Kolkata,Kolkata,West Bengal,4,4466,Business Hotel,36,2011,True,True,True,True,True,True,True,False,False,False,False,False,False,True,False,True,3.0,0.0
+227,Leela Panchal-Sami Delhi,Delhi,Delhi,3,5773,Boutique Hotel,263,2004,True,True,True,False,True,True,False,False,False,False,False,True,False,False,True,True,0.0,0.0
+228,"Taj Majumdar, Mahal and Bora Pune",Pune,Maharashtra,5,7961,5-Star Resort,158,2007,True,True,True,True,True,True,True,True,True,False,True,False,False,False,True,True,6.0,3.0
+229,Taj Bains Inc Delhi,Delhi,Delhi,4,6695,Hotel,165,2006,True,True,True,True,True,False,True,False,False,False,True,True,True,True,True,True,9.0,4.0
+230,"Royal Walia, Goel and Goswami Chennai",Chennai,Tamil Nadu,5,5803,5-Star Resort,170,2019,True,True,True,True,True,True,True,False,True,False,False,False,False,False,True,True,2.0,1.0
+231,Leela Deshmukh and Sons Kochi,Kochi,Kerala,4,4731,Hotel,221,2001,True,True,True,True,False,False,True,True,True,False,True,True,True,False,True,True,0.0,0.0
+232,Taj Bhakta-Merchant Kochi,Kochi,Kerala,3,3258,Hotel,188,2015,True,True,True,False,False,False,True,True,False,True,True,False,True,False,False,True,0.0,0.0
+233,Grand Puri PLC Lucknow,Lucknow,Uttar Pradesh,5,4611,Business Hotel,66,2013,True,True,True,True,True,True,True,True,True,True,False,True,True,False,True,True,4.0,1.0
+234,Grand Atwal-Minhas Ahmedabad,Ahmedabad,Gujarat,5,6338,Luxury Hotel,32,2005,True,True,True,True,True,True,False,True,True,True,True,False,True,False,True,True,2.0,0.0
+235,"ITC Sarkar, Nadkarni and Banerjee Jaipur",Jaipur,Rajasthan,4,4755,Hotel,139,1994,True,True,True,False,False,False,True,True,True,False,True,True,False,False,False,False,1.0,0.0
+236,ITC Sem Group Mumbai,Mumbai,Maharashtra,5,10052,Business Hotel,132,1994,True,True,False,True,True,True,True,True,False,False,True,False,False,True,False,True,23.0,5.0
+237,ITC Ramachandran Ltd Chennai,Chennai,Tamil Nadu,4,5044,Hotel,244,2005,True,False,True,True,False,True,True,False,False,False,False,False,False,True,True,True,0.0,0.0
+238,Taj Barad and Sons Lucknow,Lucknow,Uttar Pradesh,4,3719,Business Hotel,250,2016,True,True,True,False,True,True,True,True,True,True,False,True,True,False,False,True,5.0,1.0
+239,Royal Minhas and Sons Chennai,Chennai,Tamil Nadu,3,4176,Boutique Hotel,126,2007,True,True,True,False,False,False,False,False,True,True,True,False,True,False,False,True,1.0,0.0
+240,"Royal Raman, Bhatt and Lall Mumbai",Mumbai,Maharashtra,3,5407,Hotel,34,2021,True,True,False,False,True,False,True,False,False,False,False,False,False,True,False,False,2.0,1.0
+241,Leela Dhingra PLC Ahmedabad,Ahmedabad,Gujarat,5,5465,Luxury Hotel,130,2019,True,True,True,True,True,True,True,False,True,True,False,False,True,True,True,True,3.0,1.0
+242,ITC Misra-Bera Bangalore,Bangalore,Karnataka,4,5630,Hotel,137,1995,True,True,True,False,True,True,False,True,True,False,False,True,False,False,True,False,2.0,0.0
+243,Grand Sibal-Padmanabhan Pune,Pune,Maharashtra,5,8228,5-Star Resort,278,1992,True,False,True,True,True,True,True,True,True,False,False,False,False,False,True,False,4.0,1.0
+244,"ITC Sen, Nazareth and Borde Pune",Pune,Maharashtra,5,7727,Business Hotel,32,2019,True,True,True,True,True,True,True,True,False,True,False,False,True,False,True,False,6.0,1.0
+245,Grand Mitter-Lanka Jaipur,Jaipur,Rajasthan,4,5128,Business Hotel,191,1993,True,True,True,True,True,True,False,True,False,True,True,True,True,False,True,False,0.0,0.0
+246,ITC Narayanan-Kalita Ahmedabad,Ahmedabad,Gujarat,5,6447,Business Hotel,127,2004,True,True,True,True,True,True,True,True,True,False,True,False,True,True,True,False,4.0,1.0
+247,Grand Balakrishnan-Gaba Hyderabad,Hyderabad,Telangana,4,5217,Hotel,254,1995,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,4.0,1.0
+248,Grand Mitter-Ganesan Delhi,Delhi,Delhi,3,5164,Boutique Hotel,116,1994,True,True,True,True,True,True,True,False,False,True,False,False,False,True,True,False,3.0,2.0
+249,Leela Master and Sons Mumbai,Mumbai,Maharashtra,4,8251,Resort,167,1993,True,True,True,True,True,True,True,False,False,False,False,False,False,False,True,True,1.0,0.0
+250,ITC Prakash-Wason Bangalore,Bangalore,Karnataka,3,4193,Service Apartment,37,2010,True,True,False,False,True,False,False,False,False,True,True,True,True,True,True,True,0.0,0.0
+251,ITC Tripathi-Morar Hyderabad,Hyderabad,Telangana,3,3748,Service Apartment,95,2018,True,True,True,True,True,False,False,False,False,True,False,False,True,False,True,False,1.0,1.0
+252,"ITC Raval, Bajwa and Sarraf Hyderabad",Hyderabad,Telangana,4,5579,Resort,64,2022,True,True,True,True,True,True,False,True,True,True,False,False,True,False,True,True,3.0,2.0
+253,Leela Virk Ltd Pune,Pune,Maharashtra,5,7210,5-Star Resort,167,2000,True,True,False,False,True,True,True,True,True,True,False,False,False,True,True,True,2.0,1.0
+254,ITC Parikh Inc Pune,Pune,Maharashtra,4,6424,Hotel,122,2001,True,True,True,True,True,False,True,True,False,False,False,True,False,True,True,True,1.0,0.0
+255,Royal Sachdeva-Barad Pune,Pune,Maharashtra,4,5885,Hotel,81,2007,True,True,True,True,True,True,True,False,True,False,False,False,False,False,True,True,3.0,3.0
+256,Royal Contractor Inc Jaipur,Jaipur,Rajasthan,4,5344,Resort,103,1993,True,True,True,True,False,True,True,False,True,True,False,False,True,True,True,False,1.0,1.0
+257,"Taj Bedi, Khatri and Prakash Kolkata",Kolkata,West Bengal,4,4355,Hotel,293,2012,True,True,True,True,True,True,True,False,False,False,True,False,False,False,False,True,2.0,1.0
+258,"Grand Goswami, Choudhury and Ghosh Bangalore",Bangalore,Karnataka,3,3899,Boutique Hotel,255,1994,True,True,True,True,False,True,True,False,False,False,False,False,False,False,False,False,2.0,2.0
+259,"Royal Dash, Raj and Brahmbhatt Delhi",Delhi,Delhi,5,9361,Luxury Hotel,86,1995,True,True,True,True,True,True,True,False,True,False,True,False,False,False,True,True,2.0,1.0
+260,Royal Deol PLC Pune,Pune,Maharashtra,5,7973,Business Hotel,122,2001,True,True,True,True,True,True,True,True,True,True,False,True,True,False,True,False,15.0,4.0
+261,ITC Karnik-Sani Kochi,Kochi,Kerala,4,4222,Hotel,70,2003,True,True,False,False,True,True,True,False,True,True,True,False,True,True,True,True,0.0,0.0
+262,"Taj Borde, Palla and Mittal Ahmedabad",Ahmedabad,Gujarat,3,3801,Service Apartment,40,1995,True,True,True,False,True,False,False,False,False,True,False,True,True,True,False,True,5.0,2.0
+263,"Grand Sur, Dewan and De Hyderabad",Hyderabad,Telangana,5,6711,5-Star Resort,244,1995,True,True,True,True,True,True,True,False,True,False,False,False,False,False,True,True,4.0,1.0
+264,"Taj Bhargava, Kapoor and Sampath Delhi",Delhi,Delhi,5,8172,Business Hotel,224,2012,True,True,True,False,False,True,False,True,True,False,True,False,False,True,True,True,6.0,1.0
+265,Taj Mahajan-Lall Jaipur,Jaipur,Rajasthan,4,5026,Hotel,175,1996,False,False,True,True,True,True,True,True,False,True,False,False,True,True,True,True,2.0,1.0
+266,Leela Narula Ltd Delhi,Delhi,Delhi,5,9083,5-Star Resort,38,1992,True,True,True,True,True,True,True,False,True,True,False,False,False,True,True,False,7.0,4.0
+267,"Leela Suri, Padmanabhan and Garde Bangalore",Bangalore,Karnataka,5,7281,Business Hotel,213,2012,True,True,True,True,True,True,True,True,False,False,False,False,False,False,True,True,3.0,2.0
+268,"Grand Wali, Tata and Kanda Kolkata",Kolkata,West Bengal,4,4319,Resort,78,2011,True,True,True,True,False,True,False,True,True,False,False,False,False,True,False,True,4.0,2.0
+269,ITC Bala-De Bangalore,Bangalore,Karnataka,4,5206,Business Hotel,193,2000,True,True,False,True,False,True,False,False,False,False,False,False,False,True,False,True,3.0,1.0
+270,Taj Chander Inc Lucknow,Lucknow,Uttar Pradesh,5,4914,Luxury Hotel,291,2020,False,True,True,False,True,True,True,True,True,True,False,False,False,False,True,True,0.0,0.0
+271,"Royal Mittal, Chanda and Wason Pune",Pune,Maharashtra,5,7234,Business Hotel,259,2007,True,True,True,True,True,True,True,True,False,False,False,True,True,False,False,True,4.0,2.0
+272,Leela Sastry-Nagi Kochi,Kochi,Kerala,3,3285,Boutique Hotel,166,2000,True,True,True,False,False,True,False,True,False,True,True,True,True,False,True,True,3.0,1.0
+273,Grand Cheema-Peri Kolkata,Kolkata,West Bengal,5,5809,Business Hotel,268,1991,True,True,True,True,True,True,True,False,True,False,True,False,True,False,True,True,0.0,0.0
+274,ITC Lal-Rama Mumbai,Mumbai,Maharashtra,4,8232,Resort,274,1995,True,True,False,False,True,True,False,True,False,False,True,True,False,False,True,False,1.0,0.0
+275,Grand Sharma Group Chennai,Chennai,Tamil Nadu,4,5222,Resort,299,2017,True,True,True,False,False,False,False,True,True,True,False,False,False,True,True,True,4.0,2.0
+276,Taj Chandran-Chaudhari Jaipur,Jaipur,Rajasthan,4,5041,Business Hotel,205,1997,False,True,False,True,False,False,True,False,False,False,False,False,False,False,True,True,1.0,0.0
+277,Grand Bhandari Ltd Ahmedabad,Ahmedabad,Gujarat,5,6354,5-Star Resort,61,2021,True,True,False,True,False,True,True,False,True,True,False,False,True,False,True,True,1.0,0.0
+278,"Leela Sangha, Rege and Balan Jaipur",Jaipur,Rajasthan,5,6368,Business Hotel,89,1990,True,True,True,False,True,True,True,True,True,False,True,True,False,False,True,True,1.0,0.0
+279,"Taj Raman, Lad and Rastogi Pune",Pune,Maharashtra,4,5775,Resort,121,1995,True,True,True,True,False,False,False,True,False,False,False,False,False,True,True,True,0.0,0.0
+280,Royal Swamy-Divan Pune,Pune,Maharashtra,4,5981,Hotel,208,2000,True,True,True,True,True,True,True,False,True,True,False,False,False,True,True,True,4.0,2.0
+281,Taj Narang-De Lucknow,Lucknow,Uttar Pradesh,3,2836,Service Apartment,116,2016,True,True,False,False,False,True,False,False,False,False,True,True,True,False,False,False,2.0,0.0
+282,Taj Grewal-Saha Bangalore,Bangalore,Karnataka,5,7068,Luxury Hotel,68,1993,True,True,True,True,False,True,True,True,True,True,False,False,True,False,True,False,1.0,1.0
+283,Taj Sahota LLC Mumbai,Mumbai,Maharashtra,5,9279,Luxury Hotel,277,2021,True,True,False,False,False,True,True,True,True,False,False,False,False,False,True,True,0.0,0.0
+284,Taj Sule-Chadha Hyderabad,Hyderabad,Telangana,5,7227,5-Star Resort,104,2010,True,True,True,True,True,True,True,False,False,False,False,False,False,False,True,True,1.0,0.0
+285,Leela Prabhu-Buch Jaipur,Jaipur,Rajasthan,4,5120,Resort,272,1997,True,True,True,False,True,True,True,True,True,False,True,False,False,True,True,False,3.0,0.0
+286,"Taj Toor, Arora and Lata Bangalore",Bangalore,Karnataka,5,6658,Luxury Hotel,165,1997,True,True,True,True,True,True,True,True,True,False,False,False,False,True,True,True,7.0,2.0
+287,ITC Bal and Sons Pune,Pune,Maharashtra,4,5988,Hotel,128,1993,True,True,True,True,True,True,True,False,True,False,False,True,False,False,False,False,3.0,2.0
+288,Taj Mall PLC Kochi,Kochi,Kerala,3,3122,Boutique Hotel,241,2009,True,True,True,False,True,True,True,False,False,True,True,True,True,False,False,True,9.0,4.0
+289,Royal Dubey-Banerjee Kochi,Kochi,Kerala,3,3331,Service Apartment,99,2021,True,True,True,True,True,True,False,False,True,True,True,True,True,True,False,False,10.0,2.0
+290,Grand Jaggi-Mitra Ahmedabad,Ahmedabad,Gujarat,4,4858,Resort,149,2012,True,True,True,False,True,True,True,False,False,True,True,True,True,True,True,True,4.0,0.0
+291,Royal Sarraf-Dugar Kolkata,Kolkata,West Bengal,5,5695,Luxury Hotel,114,1995,True,True,True,True,True,True,True,True,False,False,False,False,False,False,True,False,2.0,0.0
+292,Leela Dua Ltd Lucknow,Lucknow,Uttar Pradesh,3,2924,Boutique Hotel,64,1998,True,True,True,True,True,False,False,False,False,False,False,True,False,False,False,False,2.0,0.0
+293,Royal Guha-Ravi Bangalore,Bangalore,Karnataka,5,6499,Business Hotel,247,2021,True,True,False,True,True,True,True,True,False,False,True,False,False,False,True,True,5.0,2.0
+294,"ITC Sankaran, Bhatti and Bhargava Jaipur",Jaipur,Rajasthan,3,3297,Service Apartment,269,2004,True,True,True,False,True,True,True,False,False,True,True,False,True,False,True,True,6.0,2.0
+295,Taj Amble-Dada Mumbai,Mumbai,Maharashtra,4,7723,Business Hotel,259,1998,True,True,True,False,True,True,True,False,True,False,True,False,False,True,True,True,7.0,1.0
+296,"Leela Vyas, Bail and Padmanabhan Kolkata",Kolkata,West Bengal,5,5849,5-Star Resort,140,2003,True,True,False,True,True,True,False,True,True,False,True,False,False,True,True,False,2.0,0.0
+297,ITC Roy PLC Ahmedabad,Ahmedabad,Gujarat,4,4306,Resort,97,2022,True,True,True,True,False,False,True,True,False,True,True,True,True,True,True,True,3.0,1.0
+298,"Royal Parekh, Khanna and Krishnan Lucknow",Lucknow,Uttar Pradesh,4,4234,Business Hotel,169,2018,True,True,True,True,False,True,True,False,False,False,False,True,True,False,False,False,1.0,1.0
+299,Royal Vig PLC Ahmedabad,Ahmedabad,Gujarat,3,3550,Hotel,291,2016,True,True,True,False,True,True,False,False,True,False,True,True,True,True,False,True,11.0,2.0
+300,"Leela Biswas, Wali and Swaminathan Chennai",Chennai,Tamil Nadu,4,4749,Hotel,97,1993,True,True,False,False,True,True,False,True,False,False,False,True,False,False,False,True,2.0,1.0
+301,"ITC Reddy, Batta and Oza Kochi",Kochi,Kerala,4,4769,Business Hotel,246,2012,True,True,False,True,False,True,False,False,True,True,False,False,True,True,True,True,0.0,0.0
+302,ITC Sood Ltd Kochi,Kochi,Kerala,4,4268,Resort,143,2009,True,True,True,True,False,False,True,False,True,True,True,False,True,True,True,False,4.0,2.0
+303,ITC Roy-Sami Pune,Pune,Maharashtra,4,6742,Business Hotel,139,2012,True,True,True,True,True,True,False,True,True,False,False,False,False,False,True,False,3.0,1.0
+304,Leela Devan-Ramakrishnan Kolkata,Kolkata,West Bengal,5,5358,Luxury Hotel,248,1994,True,True,True,True,True,True,True,True,False,False,True,False,False,True,True,False,6.0,3.0
+305,ITC Menon-Chaudry Hyderabad,Hyderabad,Telangana,4,5566,Business Hotel,80,2003,True,True,True,False,True,True,False,False,False,False,False,True,False,False,True,False,1.0,0.0
+306,"ITC Palla, Banik and Jhaveri Jaipur",Jaipur,Rajasthan,4,4838,Resort,44,2009,True,True,True,False,True,True,True,False,True,True,True,False,True,False,False,True,0.0,0.0
+307,"Leela Rana, Johal and Chandra Kolkata",Kolkata,West Bengal,5,5281,Business Hotel,249,1999,True,True,True,True,True,True,True,True,False,False,False,False,False,False,True,True,0.0,0.0
+308,"ITC Jani, Gulati and Sampath Hyderabad",Hyderabad,Telangana,4,4934,Hotel,118,1993,True,True,True,False,True,True,False,True,True,True,True,True,True,False,True,True,1.0,0.0
+309,Grand Devan-Ramanathan Lucknow,Lucknow,Uttar Pradesh,3,3085,Boutique Hotel,243,2001,True,True,True,False,False,False,False,False,False,False,False,True,False,True,False,True,3.0,0.0
+310,Grand Dara-Bose Pune,Pune,Maharashtra,5,6948,5-Star Resort,92,2016,True,True,True,False,True,True,True,False,True,False,False,True,False,True,True,True,2.0,1.0
+311,Grand Chhabra Ltd Hyderabad,Hyderabad,Telangana,5,6394,5-Star Resort,71,2005,True,True,True,True,True,True,True,True,False,True,False,False,True,True,True,False,7.0,4.0
+312,ITC Contractor-Ramaswamy Ahmedabad,Ahmedabad,Gujarat,4,4879,Resort,105,1990,True,True,True,False,True,False,True,False,True,True,False,False,True,True,False,False,3.0,1.0
+313,"Taj Chopra, Jaggi and Tank Mumbai",Mumbai,Maharashtra,5,10432,5-Star Resort,127,2022,True,True,True,True,True,True,True,True,True,False,False,False,False,True,True,True,29.0,8.0
+314,Royal Shere and Sons Hyderabad,Hyderabad,Telangana,5,7236,5-Star Resort,270,2015,True,True,False,True,True,True,True,True,False,False,False,True,False,False,True,True,0.0,0.0
+315,Royal Goda-Tak Ahmedabad,Ahmedabad,Gujarat,5,5424,5-Star Resort,24,2004,True,True,True,True,True,True,True,False,True,True,True,False,True,False,True,True,1.0,0.0
+316,Grand Mitra Group Mumbai,Mumbai,Maharashtra,4,8076,Resort,276,2021,True,True,True,False,True,False,True,False,False,True,False,False,True,True,False,True,1.0,0.0
+317,ITC Dey Group Bangalore,Bangalore,Karnataka,4,5819,Business Hotel,149,2019,True,True,True,True,True,True,True,True,False,True,False,False,True,False,False,True,1.0,1.0
+318,Grand Shetty-Dash Mumbai,Mumbai,Maharashtra,4,8352,Resort,119,2011,True,True,True,False,True,False,True,False,False,False,False,False,False,True,True,True,0.0,0.0
+319,"Royal Chakrabarti, Dutta and Sekhon Delhi",Delhi,Delhi,4,7575,Hotel,262,2005,True,False,True,False,False,False,True,True,True,False,True,False,True,False,False,False,5.0,0.0
+320,Leela Pathak Inc Hyderabad,Hyderabad,Telangana,4,5733,Hotel,174,2017,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,True,2.0,0.0
+321,"Grand Contractor, Bhalla and Dara Delhi",Delhi,Delhi,4,6479,Resort,284,2011,True,True,True,True,True,True,False,False,False,False,False,False,False,True,False,True,3.0,3.0
+322,"Taj Bath, Sule and Merchant Lucknow",Lucknow,Uttar Pradesh,5,4805,5-Star Resort,297,1999,True,True,True,True,True,True,True,True,True,False,True,True,False,True,True,True,3.0,3.0
+323,Leela Kale PLC Bangalore,Bangalore,Karnataka,4,5724,Business Hotel,259,2011,True,True,False,True,True,True,True,False,False,True,False,False,True,True,True,True,1.0,1.0
+324,Leela Dalal and Sons Lucknow,Lucknow,Uttar Pradesh,4,4150,Hotel,224,2001,True,True,True,True,False,False,True,False,False,True,True,True,True,False,False,False,0.0,0.0
+325,"Grand Kurian, Krish and Anne Mumbai",Mumbai,Maharashtra,4,7469,Hotel,154,1996,True,True,True,True,True,True,False,True,True,True,True,False,True,True,True,True,2.0,0.0
+326,Royal Vig and Sons Mumbai,Mumbai,Maharashtra,3,6141,Hotel,118,2014,True,True,False,True,True,True,False,False,False,False,False,False,False,False,True,False,2.0,1.0
+327,Leela Kaul-Jani Hyderabad,Hyderabad,Telangana,3,3885,Service Apartment,53,2000,True,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,0.0,0.0
+328,Leela Chakraborty Group Ahmedabad,Ahmedabad,Gujarat,3,3472,Hotel,222,2003,True,True,True,False,True,False,False,False,False,True,False,False,True,False,True,False,2.0,0.0
+329,Taj Chandran Group Kolkata,Kolkata,West Bengal,3,3309,Boutique Hotel,32,2001,True,True,True,True,True,False,False,False,False,True,False,False,True,False,True,True,0.0,0.0
+330,Taj Goswami PLC Jaipur,Jaipur,Rajasthan,4,4605,Hotel,90,2006,True,True,True,False,True,True,False,False,True,True,True,True,True,True,True,False,6.0,3.0
+331,ITC Kashyap and Sons Mumbai,Mumbai,Maharashtra,5,10118,5-Star Resort,256,2011,True,True,False,False,True,True,True,True,False,False,False,False,False,True,True,True,10.0,6.0
+332,"Leela Lad, Memon and Manne Delhi",Delhi,Delhi,5,8471,Business Hotel,295,2009,True,True,True,True,True,True,True,True,True,False,True,False,False,True,True,True,13.0,4.0
+333,Leela Choudhry PLC Hyderabad,Hyderabad,Telangana,5,6836,Business Hotel,175,1995,True,True,True,False,False,True,True,False,True,False,False,False,True,False,True,True,3.0,1.0
+334,Royal Wason Inc Bangalore,Bangalore,Karnataka,4,5304,Hotel,86,2016,True,True,True,True,True,True,False,True,True,False,True,True,False,True,False,True,1.0,1.0
+335,Leela Singh PLC Jaipur,Jaipur,Rajasthan,4,5100,Business Hotel,146,2011,True,True,True,False,True,False,False,True,False,True,True,False,True,True,False,True,3.0,0.0
+336,Royal Kalla-Brar Lucknow,Lucknow,Uttar Pradesh,4,4406,Business Hotel,68,2015,True,True,True,True,False,True,False,False,True,True,False,True,True,False,False,True,2.0,0.0
+337,"Leela Lala, Sibal and Rege Mumbai",Mumbai,Maharashtra,4,7280,Hotel,149,2003,True,True,True,True,False,True,False,True,False,False,False,False,True,True,False,True,2.0,1.0
+338,Leela Keer-Ramanathan Ahmedabad,Ahmedabad,Gujarat,4,4304,Hotel,261,2007,True,True,True,True,True,True,True,True,True,False,True,False,False,True,True,True,4.0,1.0
+339,"ITC Om, Mander and Parekh Bangalore",Bangalore,Karnataka,4,5380,Business Hotel,72,2014,True,True,True,True,True,True,False,False,True,False,True,True,False,True,False,False,3.0,1.0
+340,Royal Prabhakar-Yadav Kolkata,Kolkata,West Bengal,5,5537,Business Hotel,105,1992,True,True,True,True,True,False,True,True,True,True,False,False,True,False,True,False,1.0,0.0
+341,Taj Chahal PLC Pune,Pune,Maharashtra,5,7699,Business Hotel,208,1992,True,True,True,True,False,True,True,True,True,False,True,False,True,True,True,True,8.0,3.0
+342,Royal Arora Ltd Delhi,Delhi,Delhi,3,5687,Service Apartment,182,2020,True,True,True,False,False,False,False,False,False,True,False,False,True,False,False,True,1.0,1.0
+343,"Taj Sibal, Contractor and Dubey Delhi",Delhi,Delhi,5,8509,Luxury Hotel,97,2014,True,True,True,True,True,True,False,True,True,False,False,False,False,False,True,True,5.0,1.0
+344,Royal Pandit-Srinivas Chennai,Chennai,Tamil Nadu,5,6581,Business Hotel,47,2005,True,True,False,True,True,True,True,False,True,False,False,False,False,True,True,True,2.0,0.0
+345,ITC Rajan and Sons Kochi,Kochi,Kerala,5,5653,Luxury Hotel,238,2019,True,True,True,True,True,True,True,False,True,False,False,True,True,False,True,True,6.0,1.0
+346,Royal Upadhyay Inc Kolkata,Kolkata,West Bengal,4,4179,Resort,30,2014,True,True,True,True,True,False,True,False,False,False,False,False,False,False,True,True,0.0,0.0
+347,ITC Deo-Chauhan Pune,Pune,Maharashtra,5,8223,Business Hotel,211,2021,True,True,True,True,True,True,True,True,True,False,True,True,False,True,True,True,9.0,2.0
+348,ITC Nath-Ghose Pune,Pune,Maharashtra,3,5000,Service Apartment,270,2013,True,True,True,False,False,False,False,True,False,False,False,True,False,True,False,False,3.0,2.0
+349,"Grand Upadhyay, Tata and Ranganathan Mumbai",Mumbai,Maharashtra,4,7911,Hotel,67,2014,True,True,True,True,False,True,False,False,False,True,False,False,True,False,False,False,3.0,2.0
+350,ITC Nagy PLC Pune,Pune,Maharashtra,3,4797,Boutique Hotel,93,2007,False,True,False,False,True,True,False,False,False,False,False,False,False,False,False,True,0.0,0.0
+351,"Leela Patla, Choudhry and Pandey Chennai",Chennai,Tamil Nadu,5,6950,Business Hotel,128,2001,True,True,False,True,True,True,True,True,False,False,True,False,False,True,True,False,2.0,0.0
+352,Grand Bobal Group Chennai,Chennai,Tamil Nadu,5,5835,Luxury Hotel,51,2007,True,True,True,False,True,True,True,False,True,True,False,False,True,False,True,True,0.0,0.0
+353,"Taj Narang, Samra and Yogi Mumbai",Mumbai,Maharashtra,5,9917,Business Hotel,224,2014,True,True,True,True,True,True,False,True,True,False,False,False,False,True,True,True,10.0,3.0
+354,Leela Jain-Lal Lucknow,Lucknow,Uttar Pradesh,5,4666,Business Hotel,231,2002,True,True,True,True,True,True,True,True,True,False,True,False,False,True,True,True,3.0,0.0
+355,"Grand Ramakrishnan, Dey and Walla Mumbai",Mumbai,Maharashtra,3,6320,Service Apartment,217,2008,False,True,True,True,True,False,False,False,False,False,False,True,False,False,False,False,1.0,0.0
+356,Royal Kota LLC Lucknow,Lucknow,Uttar Pradesh,3,2884,Hotel,65,1996,True,True,True,False,False,True,False,False,False,True,False,True,True,True,False,True,8.0,3.0
+357,"ITC Walla, Chandra and Ganesh Pune",Pune,Maharashtra,3,5062,Service Apartment,53,2011,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,True,1.0,1.0
+358,"Taj Majumdar, Panchal and Parekh Pune",Pune,Maharashtra,4,6648,Resort,20,2009,True,True,True,False,False,True,True,True,True,True,False,False,True,False,True,True,3.0,2.0
+359,Leela Nadig Ltd Mumbai,Mumbai,Maharashtra,4,7818,Hotel,165,1999,True,True,True,False,False,False,True,False,False,True,True,False,True,False,True,True,2.0,0.0
+360,Royal Parsa-Vasa Kochi,Kochi,Kerala,3,3491,Service Apartment,46,2001,True,True,True,False,False,True,False,False,False,True,True,False,True,False,True,False,2.0,1.0
+361,"Grand Mukherjee, Mand and Dalal Jaipur",Jaipur,Rajasthan,3,3813,Hotel,185,1993,True,True,False,True,True,True,False,False,False,True,True,False,True,False,False,True,2.0,1.0
+362,Royal Gour Ltd Kolkata,Kolkata,West Bengal,3,3331,Hotel,69,2012,True,True,True,True,True,True,False,False,True,False,False,False,False,True,False,True,6.0,1.0
+363,Grand Lalla-Dubey Jaipur,Jaipur,Rajasthan,3,3414,Boutique Hotel,215,2007,True,False,True,False,False,False,False,True,False,True,False,False,True,True,False,False,0.0,0.0
+364,ITC Pingle-Ray Kochi,Kochi,Kerala,3,3364,Hotel,70,2010,True,True,True,False,False,True,True,False,False,True,False,False,True,False,False,True,3.0,1.0
+365,Grand Panchal-Khurana Delhi,Delhi,Delhi,5,9176,Luxury Hotel,112,1990,True,True,True,True,True,True,True,True,True,False,False,False,False,False,True,True,4.0,2.0
+366,"ITC Bhargava, Bhasin and Mannan Ahmedabad",Ahmedabad,Gujarat,4,4686,Resort,293,2018,True,True,True,True,True,True,False,True,True,True,False,True,False,False,True,True,4.0,0.0
+367,Royal Gola-Kamdar Bangalore,Bangalore,Karnataka,5,7310,Business Hotel,236,1994,True,True,False,True,True,True,True,False,True,True,False,False,False,False,True,True,1.0,1.0
+368,ITC Saha and Sons Ahmedabad,Ahmedabad,Gujarat,3,3377,Hotel,234,1999,True,True,True,True,True,True,False,False,True,False,False,False,True,True,False,False,10.0,2.0
+369,"Royal Mukhopadhyay, Chokshi and Gola Hyderabad",Hyderabad,Telangana,4,5905,Resort,73,1997,True,True,True,True,True,True,True,True,False,False,False,False,False,True,True,True,3.0,1.0
+370,ITC Loyal-Rout Bangalore,Bangalore,Karnataka,5,7238,Business Hotel,226,2020,True,True,True,True,True,True,True,True,True,True,False,False,True,False,True,False,2.0,2.0
+371,ITC Dhillon Ltd Lucknow,Lucknow,Uttar Pradesh,3,2843,Boutique Hotel,161,2017,True,True,True,True,True,False,True,False,False,False,True,False,False,True,False,False,2.0,0.0
+372,Grand Kothari-Baria Ahmedabad,Ahmedabad,Gujarat,3,3865,Boutique Hotel,280,1998,True,True,True,False,False,True,False,True,True,False,False,True,True,False,False,True,4.0,2.0
+373,ITC Gaba Ltd Jaipur,Jaipur,Rajasthan,3,3646,Hotel,249,2000,True,True,True,True,True,True,False,True,False,True,True,False,True,False,False,False,6.0,1.0
+374,Leela Edwin-Thakur Kochi,Kochi,Kerala,3,3544,Boutique Hotel,155,2003,True,True,True,True,True,True,True,False,False,False,True,False,False,False,False,True,1.0,1.0
+375,"Royal Mukhopadhyay, Bahl and Dugar Mumbai",Mumbai,Maharashtra,4,8045,Resort,201,1990,True,True,True,False,True,False,True,True,False,False,False,False,False,True,True,False,4.0,2.0
+376,Leela Subramaniam-Kibe Delhi,Delhi,Delhi,4,6942,Hotel,91,2012,True,True,False,True,False,True,False,True,False,False,False,False,False,True,False,True,2.0,0.0
+377,"Royal Aurora, Ratta and Kata Pune",Pune,Maharashtra,5,6920,5-Star Resort,224,2022,True,True,True,True,True,True,True,True,False,False,False,False,True,False,True,True,1.0,0.0
+378,"ITC Arya, Borra and Thaker Pune",Pune,Maharashtra,3,4268,Hotel,147,2007,False,True,True,True,True,False,True,False,False,False,True,False,False,True,True,True,1.0,1.0
+379,"Royal Goel, Deshpande and Khurana Delhi",Delhi,Delhi,4,7552,Resort,29,2002,False,True,True,True,False,False,False,False,True,False,False,False,False,True,True,False,4.0,2.0
+380,Grand Choudhry-Bhatia Delhi,Delhi,Delhi,5,9441,Luxury Hotel,184,2003,True,True,True,False,True,True,True,True,True,True,False,False,True,True,False,True,3.0,0.0
+381,Taj Nazareth-Pau Kolkata,Kolkata,West Bengal,3,3341,Hotel,216,1995,True,True,True,False,True,True,True,True,False,False,False,False,False,False,False,True,6.0,3.0
+382,Royal Babu Inc Delhi,Delhi,Delhi,4,6519,Resort,149,2012,True,True,True,False,True,True,False,False,True,False,False,False,False,True,False,True,4.0,2.0
+383,"ITC Joshi, Minhas and Mane Hyderabad",Hyderabad,Telangana,5,6650,Business Hotel,58,2000,True,True,True,True,False,True,True,True,False,True,True,False,True,False,True,True,1.0,1.0
+384,ITC Arya Group Jaipur,Jaipur,Rajasthan,3,3830,Hotel,107,2004,True,True,True,True,True,True,True,False,False,False,True,False,False,True,True,False,10.0,5.0
+385,ITC Chawla PLC Mumbai,Mumbai,Maharashtra,3,5798,Boutique Hotel,88,2016,True,True,False,True,True,False,True,False,False,True,True,False,True,False,True,False,3.0,2.0
+386,"ITC Radhakrishnan, Sankar and Tara Lucknow",Lucknow,Uttar Pradesh,3,2945,Service Apartment,125,2018,False,True,True,True,False,True,True,True,False,False,False,False,False,False,False,True,2.0,1.0
+387,"Taj Soman, Sani and Misra Chennai",Chennai,Tamil Nadu,4,4940,Hotel,178,2000,True,True,False,True,True,True,True,True,False,False,False,False,False,False,False,True,0.0,0.0
+388,"Grand Sabharwal, Dhaliwal and Nayak Bangalore",Bangalore,Karnataka,4,6125,Hotel,147,1995,True,True,True,True,True,True,True,False,True,False,True,True,False,True,True,False,2.0,0.0
+389,Taj Vala-Mukhopadhyay Kolkata,Kolkata,West Bengal,5,5199,Business Hotel,298,1997,True,True,False,False,True,True,True,True,True,False,False,False,False,False,True,True,2.0,0.0
+390,Royal Borde-Kuruvilla Mumbai,Mumbai,Maharashtra,3,6134,Hotel,134,1996,True,True,True,False,True,False,True,False,False,False,True,False,False,False,False,True,0.0,0.0
+391,"Leela Boase, Bali and Walla Kolkata",Kolkata,West Bengal,4,4352,Business Hotel,208,2006,True,True,False,False,False,True,True,False,False,False,True,False,False,False,True,True,0.0,0.0
+392,"Taj Datta, Bhasin and Mishra Delhi",Delhi,Delhi,4,7446,Resort,273,2017,True,True,True,True,True,True,False,False,False,True,False,False,True,True,True,False,3.0,0.0
+393,Royal Chowdhury LLC Jaipur,Jaipur,Rajasthan,3,3789,Service Apartment,64,2005,True,True,True,False,False,True,False,False,False,True,False,True,True,True,False,True,15.0,9.0
+394,Royal Cheema-Rao Hyderabad,Hyderabad,Telangana,5,6051,Luxury Hotel,90,1997,False,True,True,False,False,True,True,False,False,False,False,True,False,False,False,True,0.0,0.0
+395,"Royal Dhar, Kant and Wali Bangalore",Bangalore,Karnataka,4,5618,Business Hotel,290,2009,True,True,True,False,True,True,False,False,True,False,True,True,False,False,True,True,3.0,0.0
+396,"ITC Venkatesh, More and Saxena Jaipur",Jaipur,Rajasthan,3,3583,Boutique Hotel,136,2017,True,True,True,True,True,False,True,False,False,True,False,False,False,False,False,False,0.0,0.0
+397,Grand Gola Inc Bangalore,Bangalore,Karnataka,3,4122,Boutique Hotel,237,2002,True,True,False,False,True,True,False,False,False,False,True,False,False,False,True,True,0.0,0.0
+398,"ITC Ramachandran, Kulkarni and Hayre Kolkata",Kolkata,West Bengal,4,4129,Resort,43,1993,True,True,True,True,True,True,True,False,False,False,False,False,True,False,False,True,2.0,1.0
+399,Leela Bhargava Inc Hyderabad,Hyderabad,Telangana,4,4938,Resort,39,2008,True,False,True,False,True,True,True,True,True,False,False,False,False,False,False,True,0.0,0.0
+400,Taj Sunder and Sons Bangalore,Bangalore,Karnataka,5,6698,5-Star Resort,204,2017,True,True,True,True,True,True,True,False,True,False,False,False,False,False,True,False,4.0,2.0

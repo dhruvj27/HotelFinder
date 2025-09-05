@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "The Taj Mahal Palace",
+    "location": "Mumbai, Maharashtra",
+    "price": 15000,
+    "rating": 4.8,
+    "score": 9.2,
+    "reviews": 2847,
+    "description": "An iconic luxury hotel overlooking the Gateway of India, offering world-class amenities and impeccable service. This heritage property combines traditional Indian hospitality with modern luxury.",
+    "images": [
+      "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Free Wi-Fi", "Swimming Pool", "Spa", "Fitness Center", "Restaurant", "Room Service", "Concierge", "Valet Parking"],
+    "roomTypes": [
+      {
+        "type": "Deluxe Room",
+        "description": "Elegant room with city or sea views",
+        "price": 12000,
+        "features": ["King Bed", "City View", "Mini Bar", "Air Conditioning"]
+      },
+      {
+        "type": "Palace Suite",
+        "description": "Luxurious suite with premium amenities",
+        "price": 25000,
+        "features": ["Separate Living Room", "Sea View", "Butler Service", "Marble Bathroom"]
+      }
+    ],
+    "policies": {
+      "checkIn": "3:00 PM",
+      "checkOut": "12:00 PM",
+      "cancellation": "Free cancellation up to 24 hours before check-in",
+      "pets": "Pets allowed with prior approval"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Oberoi Udaivilas",
+    "location": "Udaipur, Rajasthan",
+    "price": 18000,
+    "rating": 4.9,
+    "score": 9.5,
+    "reviews": 1923,
+    "description": "A magnificent palace hotel on the banks of Lake Pichola, featuring traditional Rajasthani architecture and royal hospitality. Experience the grandeur of Mewar royalty.",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Free Wi-Fi", "Swimming Pool", "Spa", "Boat Service", "Restaurant", "Bar", "Garden", "Lake View"],
+    "roomTypes": [
+      {
+        "type": "Premier Room",
+        "description": "Spacious room with courtyard or garden view",
+        "price": 15000,
+        "features": ["King Bed", "Garden View", "Marble Bathroom", "Sitting Area"]
+      },
+      {
+        "type": "Luxury Suite",
+        "description": "Opulent suite with lake view and private terrace",
+        "price": 30000,
+        "features": ["Lake View", "Private Terrace", "Living Room", "Premium Amenities"]
+      }
+    ],
+    "policies": {
+      "checkIn": "2:00 PM",
+      "checkOut": "12:00 PM",
+      "cancellation": "Free cancellation up to 48 hours before check-in",
+      "pets": "Pets not allowed"
+    }
+  },
+  {
+    "id": 3,
+    "name": "The Leela Palace",
+    "location": "New Delhi",
+    "price": 12000,
+    "rating": 4.7,
+    "score": 8.9,
+    "reviews": 3156,
+    "description": "A luxury hotel in the heart of New Delhi, blending contemporary design with Indian cultural elements. Perfect for business and leisure travelers.",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Free Wi-Fi", "Swimming Pool", "Spa", "Fitness Center", "Business Center", "Multiple Restaurants", "Bar", "Airport Transfer"],
+    "roomTypes": [
+      {
+        "type": "Deluxe Room",
+        "description": "Modern room with city views",
+        "price": 10000,
+        "features": ["Queen Bed", "City View", "Work Desk", "Premium Linens"]
+      },
+      {
+        "type": "Royal Suite",
+        "description": "Spacious suite with separate living area",
+        "price": 20000,
+        "features": ["Separate Living Room", "City View", "Dining Area", "Butler Service"]
+      }
+    ],
+    "policies": {
+      "checkIn": "3:00 PM",
+      "checkOut": "11:00 AM",
+      "cancellation": "Free cancellation up to 24 hours before check-in",
+      "pets": "Service animals only"
+    }
+  },
+  {
+    "id": 4,
+    "name": "ITC Grand Chola",
+    "location": "Chennai, Tamil Nadu",
+    "price": 8500,
+    "rating": 4.6,
+    "score": 8.7,
+    "reviews": 2634,
+    "description": "A magnificent hotel inspired by the grandeur of the Chola dynasty. Features world-class amenities and authentic South Indian hospitality.",
+    "images": [
+      "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Free Wi-Fi", "Swimming Pool", "Spa", "Fitness Center", "Business Center", "Restaurants", "Shopping Arcade", "Banquet Halls"],
+    "roomTypes": [
+      {
+        "type": "Executive Room",
+        "description": "Well-appointed room with modern amenities",
+        "price": 7000,
+        "features": ["King Bed", "City View", "Mini Bar", "High-speed Internet"]
+      },
+      {
+        "type": "Presidential Suite",
+        "description": "Luxurious suite with panoramic city views",
+        "price": 15000,
+        "features": ["Panoramic View", "Living Room", "Dining Area", "Private Butler"]
+      }
+    ],
+    "policies": {
+      "checkIn": "2:00 PM",
+      "checkOut": "12:00 PM",
+      "cancellation": "Free cancellation up to 24 hours before check-in",
+      "pets": "Pets allowed with additional charges"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Taj Lake Palace",
+    "location": "Udaipur, Rajasthan",
+    "price": 22000,
+    "rating": 4.8,
+    "score": 9.3,
+    "reviews": 1456,
+    "description": "A floating palace on Lake Pichola, this white marble wonder offers an unparalleled luxury experience. Once a royal summer palace, now a world-renowned heritage hotel.",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Free Wi-Fi", "Lake Views", "Boat Transfer", "Spa", "Fitness Center", "Restaurants", "Bar", "Cultural Performances"],
+    "roomTypes": [
+      {
+        "type": "Palace Room",
+        "description": "Elegant room with traditional decor and lake views",
+        "price": 20000,
+        "features": ["Lake View", "Traditional Decor", "Marble Bathroom", "Private Balcony"]
+      },
+      {
+        "type": "Grand Presidential Suite",
+        "description": "The ultimate in luxury with panoramic lake views",
+        "price": 45000,
+        "features": ["360° Lake View", "Private Terrace", "Living Room", "Royal Butler Service"]
+      }
+    ],
+    "policies": {
+      "checkIn": "2:00 PM",
+      "checkOut": "12:00 PM",
+      "cancellation": "Free cancellation up to 72 hours before check-in",
+      "pets": "Pets not allowed"
+    }
+  },
+  {
+    "id": 6,
+    "name": "The Oberoi",
+    "location": "Bengaluru, Karnataka",
+    "price": 9500,
+    "rating": 4.7,
+    "score": 8.8,
+    "reviews": 2891,
+    "description": "A contemporary luxury hotel in the heart of Bengaluru, offering sophisticated accommodation and world-class amenities for discerning travelers.",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Free Wi-Fi", "Swimming Pool", "Spa", "Fitness Center", "Business Center", "Restaurants", "Bar", "Garden"],
+    "roomTypes": [
+      {
+        "type": "Deluxe Room",
+        "description": "Spacious room with garden or city views",
+        "price": 8000,
+        "features": ["King Bed", "Garden View", "Work Area", "Premium Amenities"]
+      },
+      {
+        "type": "Luxury Suite",
+        "description": "Elegant suite with separate living area",
+        "price": 16000,
+        "features": ["Separate Living Area", "City View", "Dining Space", "Premium Service"]
+      }
+    ],
+    "policies": {
+      "checkIn": "3:00 PM",
+      "checkOut": "12:00 PM",
+      "cancellation": "Free cancellation up to 24 hours before check-in",
+      "pets": "Pets allowed with prior approval"
+    }
+  }
+]

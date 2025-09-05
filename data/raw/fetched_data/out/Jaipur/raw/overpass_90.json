@@ -1,0 +1,609 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:17:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3083894535,
+        "lat": 26.8645463,
+        "lon": 75.7958423,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:country": "IN",
+          "addr:state": "Rajasthan",
+          "addr:street": "Tonk road",
+          "name": "Big Bazar",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4571213589,
+        "lat": 26.866179,
+        "lon": 75.7908165,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Lalit"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6158494085,
+        "lat": 26.8615784,
+        "lon": 75.7956052,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "CHANMAN"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7025288970,
+        "lat": 26.8620783,
+        "lon": 75.7926258,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Gopalpura By Pass, Near Police Chowki , Mahavir Nagar",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Amarnath Allergy And General Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030319497,
+        "lat": 26.8631143,
+        "lon": 75.7916013,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Grab A Coffee"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030319501,
+        "lat": 26.8645183,
+        "lon": 75.7966356,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Tan-Sukh"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030319503,
+        "lat": 26.8676258,
+        "lon": 75.8034563,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Advanced Heart Care Center"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030351333,
+        "lat": 26.8636395,
+        "lon": 75.7937336,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "138-A, Vasundhra Colony, Gopalpura ByPass, Tonk Road",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Bhandari Hospital and Research Centre",
+          "source": "OpenGovernmentData",
+          "website": "https://bhandarihospital.net/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030532555,
+        "lat": 26.8640511,
+        "lon": 75.7916602,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "267-A, Vasundhara Colony, Tonk Road",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr Satish Chandra Mathur",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030741596,
+        "lat": 26.8564929,
+        "lon": 75.7960518,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "160-161, Kailash Puri Tonk Road",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Khandaka Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030874903,
+        "lat": 26.8678938,
+        "lon": 75.7970676,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "74-B, Jawahar Nagar, Near Glass Factory,Tonk Road",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Somvati Memorial Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7036732214,
+        "lat": 26.8735212,
+        "lon": 75.7962294,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "F-27, Ruchika Shopping Complix, Madhuban Colony, Kisan Marg, Tonk Road",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Gupta Dental Clinic and Perio Surgery Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7037563460,
+        "lat": 26.8691625,
+        "lon": 75.79438,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "D-7, Opposite Samudayik Kendra, Dev Nagar, Tonk Road",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Retina Care Foundation and Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7037738561,
+        "lat": 26.8710868,
+        "lon": 75.8003439,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "A-31B, Anita Colony.Bajaj Nagar,Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Krishna Ram Hospital and Research Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040112723,
+        "lat": 26.8630701,
+        "lon": 75.8055353,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Jawahar Lal Nehru Marg",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Bhagwan Mahaveer Cancer Hospital and Research Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040571420,
+        "lat": 26.8650943,
+        "lon": 75.8007684,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "E-19, New Light Colony, Tonk Phatak",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Nalini Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048876677,
+        "lat": 26.8676272,
+        "lon": 75.8050489,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135299,
+        "lat": 26.86138,
+        "lon": 75.7907111,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Muktanand Nagar, Gopal Pura, Jaipur",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Siradhna Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135301,
+        "lat": 26.857354,
+        "lon": 75.795004,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Tonk Road, Mahaveer Nagar",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Jaipur Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135310,
+        "lat": 26.8716945,
+        "lon": 75.800694,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Anita Colony, Bajaj Nagar, Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Madan Mohan Bhojak",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135313,
+        "lat": 26.8701736,
+        "lon": 75.8018925,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Bajaj Nagar",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Pooja Mukul",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135317,
+        "lat": 26.8599747,
+        "lon": 75.7895584,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Mahaveer Nagar, Jaipur",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Deepak Jain",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135336,
+        "lat": 26.872107,
+        "lon": 75.800163,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Anita Colony, Bajaj Nagar",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Yadav Homeopathic Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135346,
+        "lat": 26.85808,
+        "lon": 75.7944915,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Mahaveer Nagar",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "name": "Dr. Yogeshwari Gupta",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135349,
+        "lat": 26.862661,
+        "lon": 75.797406,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Himmat Nagar, Bajaj Nagar",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Shashi Kant Jain",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135350,
+        "lat": 26.8626499,
+        "lon": 75.7918082,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Muktanand Nagar, Durgapura, Jaipur",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Renu Saigal Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135354,
+        "lat": 26.8596067,
+        "lon": 75.7900594,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Mahaveer Nagar",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. D. S. Poonia",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135355,
+        "lat": 26.8637101,
+        "lon": 75.7966736,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Gopalpura Bypass Road, Himmat Nagar, Tonk Phatak",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Suraksha Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135382,
+        "lat": 26.857568,
+        "lon": 75.794879,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Muktanand Nagar, Durgapura",
+          "addr:postcode": "302018",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "name": "Dr. Pushpa Jain",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10917746182,
+        "lat": 26.8685465,
+        "lon": 75.7969727,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:housenumber": "Plot No. 1-A, 1st Floor, Jawahar Nagar Colony",
+          "addr:postcode": "302018",
+          "addr:street": "Tonk Road",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "cuisine": "indian;pizza;italian;chinese;mexican",
+          "delivery": "yes",
+          "diet:vegetarian": "yes",
+          "email": "roseberry.dine@gmail.com",
+          "name": "Roseberry",
+          "opening_hours": "Mo-Su 12:30 - 23:30",
+          "phone": "+91 78921022278",
+          "website": "https://www.theroseberry.in"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:17:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1753726590,
+        "lat": 26.8728017,
+        "lon": 75.7992199,
+        "tags": {
+          "internet_access": "no",
+          "name": "Gandhi Nagar Jaipur",
+          "name:de": "Gandhinagar Jaipur",
+          "network": "Indian Railways",
+          "operator": "North Western Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GADJ",
+          "train": "yes",
+          "wikidata": "Q5520716",
+          "wikipedia": "en:Gandhinagar Jaipur railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2188691233,
+        "lat": 26.855093,
+        "lon": 75.7870163,
+        "tags": {
+          "internet_access": "no",
+          "name": "Durgapura",
+          "network": "IR",
+          "operator": "NWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DPA",
+          "train": "yes",
+          "wikidata": "Q17052166",
+          "wikipedia": "en:Durgapura railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894238,
+        "lat": 26.8528101,
+        "lon": 75.7798893,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894733,
+        "lat": 26.8470878,
+        "lon": 75.8084963,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:country": "IN",
+          "addr:state": "Rajasthan",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "Shaheed Amit Bharadwaj Petrol Pump",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894833,
+        "lat": 26.864811,
+        "lon": 75.796631,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894834,
+        "lat": 26.8726037,
+        "lon": 75.7971444,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4226413890,
+        "lat": 26.8595478,
+        "lon": 75.8088895,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8457296102,
+        "lat": 26.8734837,
+        "lon": 75.7990968,
+        "tags": {
+          "name": "Gandhi Nagar Jaipur",
+          "name:de": "Gandhinagar Jaipur Gleis 1",
+          "operator": "Ministry of Railway",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8457296104,
+        "lat": 26.872581,
+        "lon": 75.7992029,
+        "tags": {
+          "name": "Gandhi Nagar Jaipur",
+          "name:de": "Gandhinagar Jaipur Gleis 2",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      }
+    ]
+  }
+}

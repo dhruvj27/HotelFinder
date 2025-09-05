@@ -1,0 +1,680 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:57:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3306683611,
+        "lat": 23.0388835,
+        "lon": 72.5880366,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Yes Bank",
+          "brand:wikidata": "Q2040394",
+          "operator": "Yes Bank",
+          "operator:wikidata": "Q2040394"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968282377,
+        "lat": 23.0495869,
+        "lon": 72.5928806,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Near Shahibag Railway Crossing, Shahibag",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shree Bharti Vallabh Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970446765,
+        "lat": 23.0494136,
+        "lon": 72.5906771,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "3, Madhavbaug Apts. & Shopping Centre, 2 Nd Floor, Opposite Police Comissioner's Office, Shashibaug",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Jeevandeep Hospital, Shashibaug",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970462555,
+        "lat": 23.0462013,
+        "lon": 72.5887862,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Pramukh Vatika, Shahibaug, BAPS Shri Swaminarayan Mandir",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Shahibaug",
+          "amenity": "hospital",
+          "contact:mobile": "9998991702",
+          "email": "info@swaminarayan.org",
+          "name": "Baps Yogiji Maharaj Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://www.baps.org/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970923829,
+        "lat": 23.0488268,
+        "lon": 72.5948212,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Narmadashanker Road, Near Post Office Shahibuag, Giridhar Nagar",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Shahibaug",
+          "amenity": "hospital",
+          "name": "Chandramani Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982028883,
+        "lat": 23.049363,
+        "lon": 72.594506,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "66,Mahalaxmi Society,B/H.Sujata Flat, OppositeRushika Appt. Shahibaug",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Kalptaru Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058612,
+        "lat": 23.045083,
+        "lon": 72.5815979,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Bharatnagar, Shahpur",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Krishna Maternity and Nursing Home",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058625,
+        "lat": 23.048956,
+        "lon": 72.581574,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Tavdipura, Kazipur Dariyapur",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Sagar Multi Speciality Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058642,
+        "lat": 23.035637,
+        "lon": 72.588423,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Gheekanta, Bhadra",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Bachardas Lashkari Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058660,
+        "lat": 23.045993,
+        "lon": 72.589386,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Dudheshwar",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Clear Vision Eye Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172958956,
+        "lat": 23.0493049,
+        "lon": 72.5944694,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kalptaru Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10591957830,
+        "lat": 23.0446678,
+        "lon": 72.5880349,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:postcode": "380004",
+          "addr:street": "Dr. Ambedkar Road",
+          "image": "https://th.bing.com/th/id/OIP.XTNNcp1ST8kf4F0ZqymFVgHaFB?w=266&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+          "name": "Reliance mart",
+          "opening_hours": "su-Sa 10:00-21:00",
+          "payment:cash": "yes",
+          "payment:contactless": "yes",
+          "payment:credit_cards": "yes",
+          "phone": "079 4008 8488",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11083136960,
+        "lat": 23.0522056,
+        "lon": 72.5921024,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:housenumber": "708",
+          "addr:postcode": "380004",
+          "addr:street": "7th Floor, A Park, Sanidev Mandir To Underbridge Road, Nr. Panchal Milan Mandir Hall, Shahibaug",
+          "amenity": "doctors",
+          "contact:facebook": "https://www.facebook.com/skinfluentclinic",
+          "description": "Skinfluent Clinic, led by Dr. Rutva Amlani (M.B.B.S, M.D Dermatologist & Cosmetologist), is a patient-centric, advanced, and fully equipped dermatology center that offers a comprehensive range of services to address various skin and hair concerns.",
+          "email": "info@skinfluentclinic.com",
+          "healthcare": "doctor",
+          "healthcare:speciality": "dermatology;skin_treatment;hair_treatment;laser_treatment;aesthetic_treatment",
+          "image": "https://skinfluentclinic.com/wp-content/uploads/2023/05/pexels-ivan-babydov-7789649.jpg",
+          "mobile": "+91-8141-149999",
+          "name": "Skinfluent Clinic",
+          "opening_hours": "Mo-Sa 09:00-20:00",
+          "operator": "Dr Rutva Amlani",
+          "website": "https://skinfluentclinic.com/"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:57:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 429460556,
+        "lat": 23.0241439,
+        "lon": 72.5804883,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 566222693,
+        "lat": 23.0440925,
+        "lon": 72.6132157,
+        "tags": {
+          "internet_access": "no",
+          "name": "Asarva",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ASV",
+          "train": "yes",
+          "wikidata": "Q24949933"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1206485486,
+        "lat": 23.0251057,
+        "lon": 72.6017011,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1206485574,
+        "lat": 23.0251068,
+        "lon": 72.6020896,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1206490577,
+        "lat": 23.0251064,
+        "lon": 72.6019452,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1782729611,
+        "lat": 23.0268403,
+        "lon": 72.5806381,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2377178512,
+        "lat": 23.0263196,
+        "lon": 72.5841287,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2669084968,
+        "lat": 23.0263312,
+        "lon": 72.601,
+        "tags": {
+          "addr:postcode": "380001",
+          "addr:street": "Station Road",
+          "alt_name": "Kalupur Railway Station",
+          "historic:ref": "ADIJ",
+          "internet_access": "wlan",
+          "name": "Ahmedabad Junction",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ADI",
+          "train": "yes",
+          "wikidata": "Q4696124",
+          "wikipedia": "en:Ahmedabad Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683587,
+        "lat": 23.0282432,
+        "lon": 72.5814362,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683590,
+        "lat": 23.0326462,
+        "lon": 72.5701007,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683591,
+        "lat": 23.0338698,
+        "lon": 72.5695244,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683598,
+        "lat": 23.035934,
+        "lon": 72.568865,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683612,
+        "lat": 23.0396523,
+        "lon": 72.5955759,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683627,
+        "lat": 23.0423375,
+        "lon": 72.5695809,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683628,
+        "lat": 23.0433539,
+        "lon": 72.5697209,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683629,
+        "lat": 23.0519878,
+        "lon": 72.5902552,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683638,
+        "lat": 23.0555329,
+        "lon": 72.5719936,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683639,
+        "lat": 23.0560223,
+        "lon": 72.5910561,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683642,
+        "lat": 23.0603256,
+        "lon": 72.5919869,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683643,
+        "lat": 23.0612354,
+        "lon": 72.580309,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683644,
+        "lat": 23.0621551,
+        "lon": 72.5952829,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683645,
+        "lat": 23.0645512,
+        "lon": 72.5996029,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3355794772,
+        "lat": 23.0241902,
+        "lon": 72.5785562,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Lal Darwaja AMTS Bus Stop",
+          "operator": "Ahmedabad Municipal Transport Service",
+          "public_transport": "station",
+          "wikidata": "Q4696119",
+          "wikipedia": "en:Ahmedabad Municipal Transport Service"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4483474713,
+        "lat": 23.0400891,
+        "lon": 72.5781297,
+        "tags": {
+          "addr:street": "Kasturba Gandhi Road",
+          "amenity": "fuel",
+          "name": "CNG Bharat petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4530241653,
+        "lat": 23.0251063,
+        "lon": 72.6018905,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701055,
+        "lat": 23.0287794,
+        "lon": 72.586749,
+        "tags": {
+          "name": "Gheekanta",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701067,
+        "lat": 23.0375426,
+        "lon": 72.5670608,
+        "tags": {
+          "name": "Old High Court",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7020233387,
+        "lat": 23.0430359,
+        "lon": 72.5895319,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name:ko": "Bus stand(from Jodhpur)",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7707519216,
+        "lat": 23.025107,
+        "lon": 72.6021398,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944287421,
+        "lat": 23.0392105,
+        "lon": 72.5810327,
+        "tags": {
+          "name": "Shahpur Station",
+          "name:gu": "\u0ab6\u0abe\u0ab9\u0aaa\u0ac1\u0ab0",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944287424,
+        "lat": 23.028794,
+        "lon": 72.5867752,
+        "tags": {
+          "name": "Gheekanta",
+          "name:gu": "\u0a98\u0ac0\u0a95\u0abe\u0a82\u0a9f\u0abe",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076537516,
+        "lat": 23.0287972,
+        "lon": 72.5868045,
+        "tags": {
+          "name": "Gheekanta",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565224,
+        "lat": 23.0392509,
+        "lon": 72.5810332,
+        "tags": {
+          "name": "Shahpur Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565225,
+        "lat": 23.0391575,
+        "lon": 72.5810285,
+        "tags": {
+          "name": "Shahpur Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565256,
+        "lat": 23.0375956,
+        "lon": 72.5670605,
+        "tags": {
+          "name": "Old High Court",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616759,
+        "lat": 23.0374805,
+        "lon": 72.5670541,
+        "tags": {
+          "name": "Old High Court",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616764,
+        "lat": 23.0374696,
+        "lon": 72.5668751,
+        "tags": {
+          "name": "Old High Court",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11991899052,
+        "lat": 23.0710381,
+        "lon": 72.6208273,
+        "tags": {
+          "aeroway": "terminal",
+          "name": "Terminal 4 Building"
+        }
+      }
+    ]
+  }
+}

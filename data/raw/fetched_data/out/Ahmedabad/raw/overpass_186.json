@@ -1,0 +1,170 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:33:51Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4547563289,
+        "lat": 23.044384,
+        "lon": 72.657885,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975627959,
+        "lat": 23.0379081,
+        "lon": 72.6442704,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "B-05, Tf Sardar Patel Mall, Diamond Mill Compound, Nikolgam Road",
+          "addr:postcode": "382350",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sanket Children's Speciality Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6980252896,
+        "lat": 23.0381006,
+        "lon": 72.6439887,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "B-6,Sardar Patel Mall,Near Diamond Mill,Nikol Gam Road,Bapunagar",
+          "addr:postcode": "382350",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Hari Krishna Uro Surgical Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981981192,
+        "lat": 23.0380179,
+        "lon": 72.6445547,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Sardar Patel Moll,Nikol Gam Road , N. H -8 (East)",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sardar Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6986605752,
+        "lat": 23.0436594,
+        "lon": 72.6502608,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, C-Block, Madhav Mall, Oppsite Ratanba School, Thakkar Bapa Nagar",
+          "addr:postcode": "382350",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Aagman Maternity and Gynec Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6986625078,
+        "lat": 23.0377884,
+        "lon": 72.6440035,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "B-11, Third Floor,Sardar Patel Mall-B,Nikol Gam Road, Bapunagar",
+          "addr:postcode": "382350",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:phone": "9974276176",
+          "healthcare": "hospital",
+          "name": "Ano Care Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6988042721,
+        "lat": 23.0405269,
+        "lon": 72.6583895,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1 St Floor, Giriraj Complex , Opp Jeevan Wadi , Nikol Gam Road",
+          "addr:postcode": "382350",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kalrav Maternity Hospital and Sonography Centre",
+          "source": "OpenGovernmentData"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:33:51Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4358631802,
+        "lat": 23.0579511,
+        "lon": 72.6431616,
+        "tags": {
+          "amenity": "fuel",
+          "fuel:cng": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4358646485,
+        "lat": 23.0523451,
+        "lon": 72.6319464,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Cng Petrol pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4412725295,
+        "lat": 23.0219685,
+        "lon": 72.6508243,
+        "tags": {
+          "addr:street": "Odhav Road",
+          "amenity": "fuel",
+          "name": "Petrol CNG pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11991899052,
+        "lat": 23.0710381,
+        "lon": 72.6208273,
+        "tags": {
+          "aeroway": "terminal",
+          "name": "Terminal 4 Building"
+        }
+      }
+    ]
+  }
+}

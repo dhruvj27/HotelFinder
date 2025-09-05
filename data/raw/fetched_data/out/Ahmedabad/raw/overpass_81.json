@@ -1,0 +1,354 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:11:17Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4199023904,
+        "lat": 23.0385865,
+        "lon": 72.5126614,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Honest"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4199023905,
+        "lat": 23.0385075,
+        "lon": 72.512884,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "brand:ur": "\u0633\u0628 \u0648\u06d2",
+          "brand:wikidata": "Q244457",
+          "brand:wikipedia": "en:Subway (restaurant)",
+          "cuisine": "sandwich",
+          "name": "Subway",
+          "name:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "name:ur": "\u0633\u0628 \u0648\u06d2",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4199023907,
+        "lat": 23.0381817,
+        "lon": 72.5122645,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Havmor"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4445025289,
+        "lat": 23.0381074,
+        "lon": 72.5138086,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "delivery": "yes",
+          "name": "Atithi Dining Hall",
+          "name:en": "Atithi Dining Hall",
+          "opening_hours": "Mo-Su 11:00-15:00,19:00-22:00",
+          "takeaway": "yes",
+          "website": "http://www.atithiindia.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4534049990,
+        "lat": 23.035392,
+        "lon": 72.5065,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Cooking Culture",
+          "name:en": "Cooking Culture"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6649963089,
+        "lat": 23.0355672,
+        "lon": 72.5061396,
+        "tags": {
+          "addr:city": "ahmedabad",
+          "addr:housenumber": "0",
+          "addr:postcode": "380054",
+          "addr:street": "behind bogarosa, rajpath club, bodakdev.",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "cuisine": "pizza;italian;coffee_shop;indian",
+          "delivery": "yes",
+          "name": "cabana lounge",
+          "outdoor_seating": "yes",
+          "phone": "+919998822297"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970544615,
+        "lat": 23.0457442,
+        "lon": 72.5139306,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "G-K, Mondeal Business Park, Near Gurudwara, S.G.Highway",
+          "addr:postcode": "380054",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Apex Heart Institute",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7137331982,
+        "lat": 23.034043,
+        "lon": 72.5018226,
+        "tags": {
+          "amenity": "cafe",
+          "name": "The Cafe Date"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9123477265,
+        "lat": 23.0359596,
+        "lon": 72.5111196,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:postcode": "380054",
+          "addr:street": "Shapath Tower Ground Floor Sarkhej Gandhi Nagar Highway, Near State Bank Of India, Thaltej",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "cuisine": "gujarati;regional;indian",
+          "diet:vegetarian": "yes",
+          "name": "Gordhan Thal",
+          "name:gu": "\u0a97\u0acb\u0ab0\u0aa7\u0aa8 \u0aa5\u0abe\u0ab2",
+          "opening_hours": "Mo-Su 11:00-15:00,03:45-21:45",
+          "outdoor_seating": "no",
+          "reservation": "recommended",
+          "website": "http://thegordhangroup.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9123574763,
+        "lat": 23.0361967,
+        "lon": 72.5110489,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "pizza;burger;sandwich;fast_food;tea_shop;juice",
+          "drive_through": "no",
+          "name": "Deva's Coffee Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12809739186,
+        "lat": 23.0362706,
+        "lon": 72.5034854,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "asian",
+          "name": "Timtim",
+          "survey:date": "2025-05-04"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:11:17Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 429790303,
+        "lat": 23.0245953,
+        "lon": 72.5072957,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Wide Angle"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1746677973,
+        "lat": 23.0331106,
+        "lon": 72.5139509,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP Fuel Station",
+          "official_name": "Hindustan Petroleum",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2376612715,
+        "lat": 23.0535306,
+        "lon": 72.4934085,
+        "tags": {
+          "internet_access": "no",
+          "name": "Ambli Road",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ABD",
+          "train": "yes",
+          "wikidata": "Q63355331"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3247497622,
+        "lat": 23.0490934,
+        "lon": 72.5160613,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:postcode": "380054",
+          "amenity": "cinema",
+          "name": "PVR, acropolis mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701095,
+        "lat": 23.04814,
+        "lon": 72.5245036,
+        "tags": {
+          "name": "Doordarshan Kendra",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701102,
+        "lat": 23.0497505,
+        "lon": 72.5159937,
+        "tags": {
+          "name": "Thaltej",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9117287086,
+        "lat": 23.0263829,
+        "lon": 72.5097931,
+        "tags": {
+          "addr:level": "4",
+          "amenity": "cinema",
+          "name": "Mukta A2 Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565352,
+        "lat": 23.0481838,
+        "lon": 72.5245109,
+        "tags": {
+          "name": "Doordarshan Kendra",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565366,
+        "lat": 23.049782,
+        "lon": 72.5160136,
+        "tags": {
+          "name": "Thaltej",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115111903,
+        "lat": 23.0501817,
+        "lon": 72.5070211,
+        "tags": {
+          "name": "Thaltej Gam",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115111904,
+        "lat": 23.050233,
+        "lon": 72.5070056,
+        "tags": {
+          "name": "Thaltej Gam",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12406995811,
+        "lat": 23.049748,
+        "lon": 72.5160152,
+        "tags": {
+          "name": "Thaltej",
+          "name:gu": "\u0aa5\u0ab2\u0aa4\u0ac7\u0a9c",
+          "network": "Ahmedabad Metro",
+          "network:wikidata": "Q1895288",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q114400494"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12408894281,
+        "lat": 23.0502062,
+        "lon": 72.5070123,
+        "tags": {
+          "name": "Thaltej Gam",
+          "name:gu": "\u0aa5\u0ab2\u0aa4\u0ac7\u0a9c",
+          "network": "Ahmedabad Metro",
+          "network:wikidata": "Q1895288",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

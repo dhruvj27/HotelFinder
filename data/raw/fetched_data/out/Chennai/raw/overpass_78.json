@@ -1,0 +1,1375 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:14:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 560177568,
+        "lat": 12.9462009,
+        "lon": 80.1382285,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "muniyandi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 560603709,
+        "lat": 12.9464913,
+        "lon": 80.1381423,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "rajkumaran clinical laboratory",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 560603714,
+        "lat": 12.9463512,
+        "lon": 80.1384651,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "no",
+          "healthcare": "pharmacy",
+          "name": "Sreedevi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 560636420,
+        "lat": 12.9460679,
+        "lon": 80.1382245,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "lakshmi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 560652261,
+        "lat": 12.9513752,
+        "lon": 80.1426466,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Karur Vysya Bank",
+          "brand:wikidata": "Q6373724",
+          "brand:wikipedia": "en:Karur Vysya Bank",
+          "name": "Karur Vysya Bank",
+          "operator": "Karur Vysya Bank",
+          "operator:wikidata": "Q6373724",
+          "operator:wikipedia": "en:Karur Vysya Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 560652262,
+        "lat": 12.9513346,
+        "lon": 80.1427536,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Karur Vysya Bank",
+          "brand:wikidata": "Q6373724",
+          "brand:wikipedia": "en:Karur Vysya Bank",
+          "name": "Karur Vysya Bank",
+          "name:en": "Karur Vysya Bank",
+          "short_name": "KVB",
+          "website": "https://www.kvb.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 560652266,
+        "lat": 12.9516296,
+        "lon": 80.1431223,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "brand:wikipedia": "en:Indian Bank",
+          "name": "Indian Bank",
+          "name:en": "Indian Bank",
+          "website": "https://www.indianbank.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 582573940,
+        "lat": 12.949222,
+        "lon": 80.1389598,
+        "tags": {
+          "brand": "More",
+          "brand:wikidata": "Q6910891",
+          "brand:wikipedia": "en:More (store)",
+          "name": "More",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 582573957,
+        "lat": 12.9494253,
+        "lon": 80.1390878,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Vasantha Bhavan",
+          "opening_hours": "Mo-Su,PH 06:00-23:00",
+          "website": "https://www.vasantabhavan.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 582775117,
+        "lat": 12.9516523,
+        "lon": 80.1418062,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "manikandan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 582775120,
+        "lat": 12.9515234,
+        "lon": 80.1423983,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Nazeer"
+        }
+      },
+      {
+        "type": "node",
+        "id": 593999571,
+        "lat": 12.9518868,
+        "lon": 80.1408436,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "brand:wikipedia": "en:Canara Bank",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 598565196,
+        "lat": 12.9546627,
+        "lon": 80.1353506,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Indian Overseas Bank",
+          "brand:wikidata": "Q2003611",
+          "brand:wikipedia": "en:Indian Overseas Bank",
+          "name": "Indian Overseas Bank",
+          "operator": "Indian Overseas Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2091840500,
+        "lat": 12.9580686,
+        "lon": 80.1444994,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "brand:wikipedia": "en:Pizza Hut",
+          "cuisine": "pizza",
+          "name": "Pizza Hut",
+          "name:en": "Pizza Hut Chromepet"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2091842232,
+        "lat": 12.9577703,
+        "lon": 80.1443434,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Sri balaji bavan",
+          "name:en": "Chromepet  Balaji Bhavan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2091842236,
+        "lat": 12.9575007,
+        "lon": 80.1435066,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:postcode": "600044",
+          "addr:street": "Grand Southern Trunk Road",
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "diet:vegetarian": "only",
+          "name": "Adyar Anand Bhavan",
+          "name:en": "Adyar Ananda Bhavan Chromepet",
+          "phone": "+91 9566222595",
+          "website": "https://aabsweets.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3736313474,
+        "lat": 12.9519172,
+        "lon": 80.136095,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Ramana Children's Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5873481587,
+        "lat": 12.9536862,
+        "lon": 80.1420885,
+        "tags": {
+          "addr:postcode": "600044",
+          "addr:street": "Lakshmi Nagar, Santhi Nagar",
+          "amenity": "restaurant",
+          "name": "Anjappar Chetinad Restaurant",
+          "name:en": "Hotel Varshaa Bhavan",
+          "opening_hours": "Mo-Su 08:00-22:50",
+          "phone": "+91-97898-91798"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6329556672,
+        "lat": 12.9540866,
+        "lon": 80.1422301,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Karur Vysya Bank",
+          "brand:wikidata": "Q6373724",
+          "brand:wikipedia": "en:Karur Vysya Bank",
+          "check_date": "2019-02-23",
+          "name": "Karur Vysya Bank",
+          "operator": "Karur Vysya Bank",
+          "operator:wikidata": "Q6373724",
+          "operator:wikipedia": "en:Karur Vysya Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6387287262,
+        "lat": 12.9541712,
+        "lon": 80.1422743,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2019-02-23",
+          "cuisine": "south_indian",
+          "diet:vegetarian": "yes",
+          "name": "Loiee"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6914767985,
+        "lat": 12.9504411,
+        "lon": 80.1438314,
+        "tags": {
+          "addr:district": "Kanchipuram",
+          "addr:full": "A.G Trust, No. 2, Bharathi Street,Radha Nagar,Chrompet,Chennai",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "A G Chrompet Health And Maternity Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6931435323,
+        "lat": 12.9512606,
+        "lon": 80.1384495,
+        "tags": {
+          "addr:block": "Tambaram Mpty",
+          "addr:district": "Kancheepuram",
+          "addr:full": "Near Pallavaram Municipality, Chrompet, No.16, 6Th Cross Street, New Colony, Chrompet, Chennai - 600044",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "addr:subdistrict": "Tambaram",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr.Kumar'S Ortho Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6933510862,
+        "lat": 12.9548325,
+        "lon": 80.141636,
+        "tags": {
+          "addr:district": "Kanchipuram",
+          "addr:full": "No-26, Pammal Mn Road ,Muthamizh Ngr,Pammal , Chennai",
+          "addr:postcode": "600074",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Jip Diabetic and Heart Care Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6934271042,
+        "lat": 12.9521441,
+        "lon": 80.1438126,
+        "tags": {
+          "addr:district": "Kanchipuram",
+          "addr:full": "8/26 Sarathy Kalyana Mandapam",
+          "addr:postcode": "600043",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "M.S.M. Skin and Hair Care Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6936149808,
+        "lat": 12.953421,
+        "lon": 80.1411398,
+        "tags": {
+          "addr:block": "Tambaram Mpty",
+          "addr:district": "Kancheepuram",
+          "addr:full": "No: 172, Old No: 298 G S T Road, Chromepet Chennai",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "addr:subdistrict": "Tambaram",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Rrase Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7236980633,
+        "lat": 12.9546852,
+        "lon": 80.1427039,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Thalappakatti"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7257421563,
+        "lat": 12.9521921,
+        "lon": 80.1442251,
+        "tags": {
+          "addr:block": "Tambaram Mpty",
+          "addr:district": "Kancheepuram",
+          "addr:full": "Canara Bank, Chrompet, Radha Nagar Main Road",
+          "addr:postcode": "603044",
+          "addr:state": "Tamil Nadu",
+          "addr:subdistrict": "Tambaram",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shree Eye & Maternity Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7257421607,
+        "lat": 12.9488228,
+        "lon": 80.1376942,
+        "tags": {
+          "addr:block": "Tambaram Mpty",
+          "addr:district": "Kancheepuram",
+          "addr:full": "Chennai - Theni Hwy, Rajaji Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "addr:subdistrict": "Tambaram",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Agash Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7277049461,
+        "lat": 12.9563557,
+        "lon": 80.1435952,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Daalchini"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7652447648,
+        "lat": 12.9581432,
+        "lon": 80.1434078,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "kebab",
+          "name": "Faruzzi Multi cusine restaurant",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7652601460,
+        "lat": 12.9564331,
+        "lon": 80.142844,
+        "tags": {
+          "name": "Nuts 'n' Spices",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543394,
+        "lat": 12.9561969,
+        "lon": 80.1338146,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Ponnappa Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Anbu Multi Speciality Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543396,
+        "lat": 12.9497553,
+        "lon": 80.1426332,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Gandhiji Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Swathi Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543402,
+        "lat": 12.955108,
+        "lon": 80.131944,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Madhuvappar Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr. Gomathi Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543404,
+        "lat": 12.9575583,
+        "lon": 80.1394665,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Tamilarasan Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543406,
+        "lat": 12.9549234,
+        "lon": 80.1340441,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Nagappa Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Ray's Head, Neck Care Centre-ENT and Dental Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543408,
+        "lat": 12.9586767,
+        "lon": 80.1439954,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Lakshman Nagar, Pallavaram",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "The Perima Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543410,
+        "lat": 12.9548395,
+        "lon": 80.1334652,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Madhuvappar Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. R. Prameela",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543417,
+        "lat": 12.957374,
+        "lon": 80.1453708,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Lakshmi Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Triveni Nursing Home",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543418,
+        "lat": 12.948073,
+        "lon": 80.135929,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Santhanam R",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543423,
+        "lat": 12.9540623,
+        "lon": 80.1339845,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chandran Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sri Venkateshwara Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543426,
+        "lat": 12.9499064,
+        "lon": 80.1349811,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600047",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sri Ram Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543427,
+        "lat": 12.9583302,
+        "lon": 80.1360407,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Ambedkar Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Premalatha Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543429,
+        "lat": 12.952496,
+        "lon": 80.137893,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Pallavapuram, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kidney Hospital and Diagnostic Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543433,
+        "lat": 12.9575434,
+        "lon": 80.143138,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Kothandam Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "HCG Cancer Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543434,
+        "lat": 12.9521949,
+        "lon": 80.1432074,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sayee Hospitals",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543447,
+        "lat": 12.9505932,
+        "lon": 80.1446637,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Radha Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Hima Bindhu Maternity Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543448,
+        "lat": 12.9478556,
+        "lon": 80.1370503,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600047",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Puthur Kattu",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543450,
+        "lat": 12.9547249,
+        "lon": 80.1447551,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Minks Homeo Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543459,
+        "lat": 12.960669,
+        "lon": 80.139703,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kokila Siddha Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543460,
+        "lat": 12.9521469,
+        "lon": 80.1443271,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Rajaji Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Shyam Child Care Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543461,
+        "lat": 12.9522733,
+        "lon": 80.1432799,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. S.K Naturals",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543463,
+        "lat": 12.9519542,
+        "lon": 80.1450975,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Srinivasapuram, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Ambe Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543464,
+        "lat": 12.947995,
+        "lon": 80.136977,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600047",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Suji Siddha Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543466,
+        "lat": 12.951829,
+        "lon": 80.1380888,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Pallavapuram, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Smriti's Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543467,
+        "lat": 12.9503116,
+        "lon": 80.1382643,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600047",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Chrompet Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543468,
+        "lat": 12.9491605,
+        "lon": 80.1348885,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600047",
+          "addr:state": "Tamil Nadu",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Satyanarayan",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543469,
+        "lat": 12.9544931,
+        "lon": 80.1439701,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Thomas Health Care Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543477,
+        "lat": 12.9537198,
+        "lon": 80.143246,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Lakshmi Nagar, Rajaji Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sun Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543481,
+        "lat": 12.95183,
+        "lon": 80.1454692,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Srinivasapuram, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "KGS Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543484,
+        "lat": 12.9520555,
+        "lon": 80.1372784,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Pallavapuram, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Apollo Hospitals",
+          "operator": "Apollo Hospitals",
+          "operator:wikidata": "Q4780321",
+          "operator:wikipedia": "en:Apollo Hospitals",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543488,
+        "lat": 12.9467287,
+        "lon": 80.1342709,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Mahalakshmi Colony, Chromepet",
+          "addr:postcode": "600047",
+          "addr:state": "Tamil Nadu",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Devakanthan",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543489,
+        "lat": 12.9531004,
+        "lon": 80.1440661,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shailaja Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543491,
+        "lat": 12.954659,
+        "lon": 80.134998,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Nagappa Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr. Ashok Kumar Children's Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543493,
+        "lat": 12.9520678,
+        "lon": 80.1447664,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Radha Nagar, Srinivasapuram, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Shri Heart and Diabetes Care Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543495,
+        "lat": 12.9545155,
+        "lon": 80.1346704,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chandran Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Senthilnathan",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543497,
+        "lat": 12.9513527,
+        "lon": 80.1381858,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Mahalakshmi Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543502,
+        "lat": 12.9569609,
+        "lon": 80.1424509,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Chambers Colony, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Al Elaj Accupressure and Health Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543510,
+        "lat": 12.9576893,
+        "lon": 80.1429026,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Kothandam Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Daisy Hospitals",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822543511,
+        "lat": 12.9555946,
+        "lon": 80.133598,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Ponnappa Nagar, Chromepet",
+          "addr:postcode": "600044",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Shri Sarvesh Fertility and Childcare Clinic",
+          "source": "Local Knowledge"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:14:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 252171381,
+        "lat": 12.9679,
+        "lon": 80.1524,
+        "tags": {
+          "name": "Pallavaram",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 340042533,
+        "lat": 12.9404439,
+        "lon": 80.1505864,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Hasthinapuram MTC Terminus",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 340082450,
+        "lat": 12.9377562,
+        "lon": 80.1390581,
+        "tags": {
+          "amenity": "cinema",
+          "check_date": "2024-08-11",
+          "name": "Varadaraja Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 559841147,
+        "lat": 12.9437458,
+        "lon": 80.1347202,
+        "tags": {
+          "amenity": "fuel",
+          "name": "petrol bunk",
+          "operator": "Bharat petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 559841148,
+        "lat": 12.9441544,
+        "lon": 80.1352387,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 560212200,
+        "lat": 12.9436249,
+        "lon": 80.1389873,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP petrol bunk",
+          "official_name": "Hindustan Petroleum",
+          "operator": "mahalakshmi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1008034381,
+        "lat": 12.9679789,
+        "lon": 80.1522522,
+        "tags": {
+          "name": "Pallavaram",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1884890517,
+        "lat": 12.9678546,
+        "lon": 80.1524644,
+        "tags": {
+          "name": "Pallavaram",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2439092458,
+        "lat": 12.9678842,
+        "lon": 80.1524305,
+        "tags": {
+          "name": "Pallavaram",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3029329419,
+        "lat": 12.9548164,
+        "lon": 80.1416826,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Rakesh Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3029341993,
+        "lat": 12.9545964,
+        "lon": 80.1416992,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Vetri Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4435694788,
+        "lat": 12.9675742,
+        "lon": 80.1520504,
+        "tags": {
+          "internet_access": "no",
+          "name": "Pallavaram",
+          "name:hi": "\u092a\u0932\u094d\u0932\u093e\u0935\u0930\u092e",
+          "name:ml": "\u0d2a\u0d32\u0d4d\u0d32\u0d3e\u0d35\u0d30\u0d02",
+          "name:pa": "\u0a2a\u0a71\u0a32\u0a3e\u0a35\u0a30\u0a2e",
+          "name:ta": "\u0baa\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5\u0bb0\u0bae\u0bcd",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PV",
+          "wikidata": "Q7127768",
+          "wikipedia": "en:Pallavaram railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5273733276,
+        "lat": 12.9521897,
+        "lon": 80.1411677,
+        "tags": {
+          "internet_access": "no",
+          "name": "Chromepet",
+          "name:ml": "\u0d15\u0d4d\u0d30\u0d4b\u0d02\u0d2a\u0d47\u0d1f\u0d4d\u0d1f",
+          "name:ta": "\u0b95\u0bc1\u0bb0\u0bcb\u0bae\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CMP",
+          "wikidata": "Q5113793",
+          "wikipedia": "en:Chromepet railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5311775880,
+        "lat": 12.9369591,
+        "lon": 80.1307034,
+        "tags": {
+          "internet_access": "no",
+          "name": "Tambaram Sanatorium",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TBMS",
+          "wikidata": "Q7681014",
+          "wikipedia": "en:Tambaram Sanatorium railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6166092572,
+        "lat": 12.9512199,
+        "lon": 80.1406421,
+        "tags": {
+          "name": "Chrompet",
+          "name:ml": "\u0d15\u0d4d\u0d30\u0d4b\u0d02\u0d2a\u0d47\u0d1f\u0d4d\u0d1f",
+          "name:ta": "\u0b95\u0bc1\u0bb0\u0bcb\u0bae\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "public_transport": "station",
+          "wikidata": "Q5113793",
+          "wikipedia": "en:Chromepet railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6299266860,
+        "lat": 12.9695901,
+        "lon": 80.1499164,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6299266897,
+        "lat": 12.9684621,
+        "lon": 80.1499328,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6329440330,
+        "lat": 12.965443,
+        "lon": 80.1484205,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "check_date": "2019-02-23",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7205568985,
+        "lat": 12.9371949,
+        "lon": 80.1272849,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "\u0ba4\u0bbe\u0bae\u0bcd\u0baa\u0bb0\u0bae\u0bcd \u0b9a\u0bbe\u0ba9\u0b9f\u0bcb\u0bb0\u0bbf\u0baf\u0bae\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+          "name:en": "Tambaram sanatorium bus stand",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7277050428,
+        "lat": 12.9408086,
+        "lon": 80.1317666,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11906447554,
+        "lat": 12.9712243,
+        "lon": 80.1430289,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      }
+    ]
+  }
+}

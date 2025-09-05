@@ -1,0 +1,155 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:38:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4226415589,
+        "lat": 26.8228017,
+        "lon": 75.8482272,
+        "tags": {
+          "addr:postcode": "302017",
+          "amenity": "hospital",
+          "name": "Krishna Ram Charitable Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5033546322,
+        "lat": 26.8149712,
+        "lon": 75.8628121,
+        "tags": {
+          "addr:postcode": "302017",
+          "amenity": "cafe",
+          "name:en": "chai ki thadi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7695123040,
+        "lat": 26.8248986,
+        "lon": 75.8474328,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Jagatpura",
+          "addr:postcode": "302017",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Jaipur Eye and Dental Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7695123053,
+        "lat": 26.8247648,
+        "lon": 75.8473899,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Rohini Nagar, Vidhyadhar Nagar, Keshar Vihar, Jagatpura",
+          "addr:postcode": "302017",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "name": "Maheshwari Child Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8882615136,
+        "lat": 26.8243157,
+        "lon": 75.8475471,
+        "tags": {
+          "addr:postcode": "302017",
+          "addr:street": "Mahal Road",
+          "amenity": "bank",
+          "name": "HDFC Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10904677031,
+        "lat": 26.8226139,
+        "lon": 75.8647334,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Arora Bakers"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10904677037,
+        "lat": 26.8265338,
+        "lon": 75.8492276,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian;punjabi",
+          "diet:vegetarian": "yes",
+          "name": "Punjab Rasoi Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10904677049,
+        "lat": 26.8266309,
+        "lon": 75.8496289,
+        "tags": {
+          "addr:street": "C-27,Kusum Vihar, Ram Nagariya Rd, Railway Colony, Jagatpura, Jaipur, Rajasthan 302017",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Panwar Medical & Provision Store"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:38:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 8883763422,
+        "lat": 26.8032504,
+        "lon": 75.8598257,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Bharat Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11773201162,
+        "lat": 26.8173467,
+        "lon": 75.8632763,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11919671025,
+        "lat": 26.8359784,
+        "lon": 75.8534224,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      }
+    ]
+  }
+}

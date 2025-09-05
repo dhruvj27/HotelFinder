@@ -1,0 +1,224 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:36:46Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1666439286,
+        "lat": 18.5743426,
+        "lon": 73.8905658,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Union Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7226727390,
+        "lat": 18.5770661,
+        "lon": 73.8990724,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "MLS Colony, Dhanori, Pune",
+          "addr:postcode": "411032",
+          "addr:state": "Maharashtra",
+          "addr:subdistrict": "Pune City",
+          "amenity": "hospital",
+          "name": "Chris Rock Edward Paul Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11258979436,
+        "lat": 18.5760084,
+        "lon": 73.8931105,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "MAHARASHTRA",
+          "addr:housenumber": "Street name",
+          "addr:postcode": "411032",
+          "addr:street": "Lane No 10",
+          "name": "Grosery store",
+          "opening_hours": "Mo-Su 09:00-22:00",
+          "operator": "Private",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11258989071,
+        "lat": 18.5774544,
+        "lon": 73.8930906,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "MAHARASHTRA",
+          "addr:housenumber": "Street Name",
+          "addr:postcode": "411032",
+          "addr:street": "Lane No 10",
+          "amenity": "bank",
+          "name": "ATM",
+          "name:hi": "UNION BANK ATM",
+          "opening_hours": "24/7",
+          "operator": "UNION BANK"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11629521539,
+        "lat": 18.5749562,
+        "lon": 73.8953692,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "sudama"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:36:46Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 763513035,
+        "lat": 18.5751841,
+        "lon": 73.8995588,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "509",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 763515722,
+        "lat": 18.5751028,
+        "lon": 73.8970804,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Kekan Petrol Pump (HP)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 763515723,
+        "lat": 18.5736645,
+        "lon": 73.8849523,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil",
+          "operator": "Sawant Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 763515724,
+        "lat": 18.5752812,
+        "lon": 73.8765095,
+        "tags": {
+          "amenity": "fuel",
+          "fuel:petrol": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9152005063,
+        "lat": 18.5778259,
+        "lon": 73.903067,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Kendriya Vidyalaya Lohgaon",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9152005064,
+        "lat": 18.5778484,
+        "lon": 73.9029879,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Kendriya Vidyalaya Lohgaon",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10678061028,
+        "lat": 18.5903084,
+        "lon": 73.8891015,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "check_date": "2023-02-03",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "internet_access": "no",
+          "name": "HP Petrol Pump",
+          "official_name": "Hindustan Petroleum",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "self_service": "no",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10799704632,
+        "lat": 18.5773606,
+        "lon": 73.8763027,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petrolium",
+          "name": "Petrol Stations"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10844985580,
+        "lat": 18.5778315,
+        "lon": 73.9073489,
+        "tags": {
+          "access": "yes",
+          "addr:floor": "1",
+          "amenity": "charging_station",
+          "capacity": "2",
+          "description": "60kW charger. Space for 2 cars.",
+          "fee": "yes",
+          "level": "1",
+          "source": "local knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12863629710,
+        "lat": 18.5795095,
+        "lon": 73.9099537,
+        "tags": {
+          "aeroway": "terminal"
+        }
+      }
+    ]
+  }
+}

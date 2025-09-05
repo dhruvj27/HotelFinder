@@ -1,0 +1,2238 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:40:29Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 610270325,
+        "lat": 18.9598264,
+        "lon": 72.81716,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Ever Green"
+        }
+      },
+      {
+        "type": "node",
+        "id": 610271821,
+        "lat": 18.959522,
+        "lon": 72.8172244,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Shriram"
+        }
+      },
+      {
+        "type": "node",
+        "id": 705149077,
+        "lat": 18.9544525,
+        "lon": 72.8184244,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Little Italy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1316273888,
+        "lat": 18.9593243,
+        "lon": 72.810115,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1704060904,
+        "lat": 18.9579491,
+        "lon": 72.8109515,
+        "tags": {
+          "addr:postcode": "400007",
+          "amenity": "restaurant",
+          "name": "New York Restaurant & Bar",
+          "wifi": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2457605418,
+        "lat": 18.9581972,
+        "lon": 72.8172841,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "North Kanara Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2457605419,
+        "lat": 18.9587228,
+        "lon": 72.8169969,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Yes Bank",
+          "brand:wikidata": "Q2040394",
+          "name": "Yes Bank",
+          "operator": "Yes Bank",
+          "operator:wikidata": "Q2040394"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2457605420,
+        "lat": 18.9587891,
+        "lon": 72.8170226,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306535080,
+        "lat": 18.9546257,
+        "lon": 72.8147495,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "ice_cream",
+          "name": "Ice Cream Works"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3420965905,
+        "lat": 18.9671423,
+        "lon": 72.8145625,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4209578999,
+        "lat": 18.9656765,
+        "lon": 72.8135089,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Chikalwadi, J Dadaji Road, Tardeo",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "addr:street": "Tukaram Javji Marg",
+          "amenity": "hospital",
+          "email": "info@bhatiahospital.org",
+          "healthcare": "hospital",
+          "name": "Bhatia",
+          "name:en": "Bhatia Hospital",
+          "opening_hours": "24/7",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "www.bhatiahospital.org"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4232929346,
+        "lat": 18.9613711,
+        "lon": 72.8232846,
+        "tags": {
+          "addr:housenumber": "186/188",
+          "addr:postcode": "400004",
+          "addr:street": "Patthe Bapurao Marg (Falkland Road)",
+          "amenity": "restaurant",
+          "name": "king Falcon"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4503511183,
+        "lat": 18.9692689,
+        "lon": 72.8149081,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4513420193,
+        "lat": 18.9655394,
+        "lon": 72.8194252,
+        "tags": {
+          "amenity": "bank",
+          "name:en": "Dhanlaxmi bank (western Union)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4513445593,
+        "lat": 18.96762,
+        "lon": 72.8199601,
+        "tags": {
+          "name:en": "Reliance Smart",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4657376591,
+        "lat": 18.9664905,
+        "lon": 72.8134201,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400007",
+          "addr:street": "Javji Dadaji Marg",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name:en": "Swati snacks",
+          "opening_hours": "Mo-Su 11:45-22:45",
+          "phone": "022 6580 8406"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4844675139,
+        "lat": 18.9543399,
+        "lon": 72.8152093,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Paramount"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4900246921,
+        "lat": 18.9653015,
+        "lon": 72.8127963,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400007",
+          "addr:street": "Javji Dadaji Marg",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name:en": "Amar Restaurant",
+          "opening_hours": "Mo-Su 09:00-00:00",
+          "outdoor_seating": "no",
+          "phone": "23854153",
+          "smoking": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4901027721,
+        "lat": 18.9629206,
+        "lon": 72.8108579,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "New Ideal"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4937125521,
+        "lat": 18.9620493,
+        "lon": 72.8131613,
+        "tags": {
+          "addr:postcode": "400007",
+          "addr:street": "Javji Dadaji Marg",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name:en": "Shree Krishna Vegetarian Restaurant",
+          "opening_hours": "Mo-Su 07:00-00:00",
+          "phone": "022 2386 7544"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5085177523,
+        "lat": 18.9569492,
+        "lon": 72.8157222,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "south_Indian",
+          "name:en": "Vanakkam Vihar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5085177621,
+        "lat": 18.9559804,
+        "lon": 72.8151134,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "3 Kala Bhavan",
+          "addr:postcode": "400010",
+          "addr:street": "Mathew Road",
+          "addr:unit": "14",
+          "amenity": "clinic",
+          "description": "Eye and Dental Clinic\nEmergency Appointments available",
+          "email": "areteclinics@gmail.com",
+          "healthcare": "clinic",
+          "name": "Arete Clinics- Eye and Dental",
+          "name:en": "Arete Clinics- Eye and Dental",
+          "opening_hours": "Mo-Sa 10:00-19:00",
+          "phone": "+912223645350",
+          "website": "http://www.areteclinics.in",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5090943810,
+        "lat": 18.9564555,
+        "lon": 72.8159459,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:postcode": "400004",
+          "addr:street": "Mama Paramanand Marg",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "email": "hello@tewaris.com",
+          "name": "Tewari Brothers Mithaiwala",
+          "opening_hours": "Mo-Su 08:00-21:30",
+          "phone": "+91-7666235386"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5091220114,
+        "lat": 18.9569144,
+        "lon": 72.8153932,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Rainbow Chemist"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5206554121,
+        "lat": 18.9645402,
+        "lon": 72.8054881,
+        "tags": {
+          "addr:housenumber": "7",
+          "addr:street": "August Kranti Marg",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name:en": "Dr. Sunil n. vasani",
+          "opening_hours": "Mo-Su 16:00-18:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5208044723,
+        "lat": 18.9632877,
+        "lon": 72.8106975,
+        "tags": {
+          "addr:housenumber": "7",
+          "addr:street": "August Kranti Marg",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "internet_access": "wlan",
+          "name:ar": "\u0645\u0633\u062a\u0634\u0641\u0649 \u0627\u0644\u0639\u064a\u0648\u0646 \u0627\u0644\u062a\u062e\u0635\u0635\u064a/ \u062f\u0643\u062a\u0648\u0631 \u0633\u0648\u0646\u064a\u0644 \u0641\u0627\u0633\u0627\u0646\u064a",
+          "name:en": "Eyesrus Ophthalmic/eye hospital",
+          "opening_hours": "Mo-Su 10:00-20:00",
+          "operator": "Dr. Sunil N. Vasani",
+          "phone": "00912223873899",
+          "website": "http://www.eyesrus.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5283982922,
+        "lat": 18.9554204,
+        "lon": 72.8137657,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Third Wave Coffee"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6292840586,
+        "lat": 18.9617036,
+        "lon": 72.8195439,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Nicholson Eye Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6356585085,
+        "lat": 18.9597133,
+        "lon": 72.8197009,
+        "tags": {
+          "addr:postcode": "400004",
+          "addr:street": "Grant Road",
+          "amenity": "restaurant",
+          "cuisine": "chicken;indian",
+          "diet:vegetarian": "yes",
+          "name:en": "Mughlai Fusion",
+          "phone": "+91 22 2382 2402"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6494986078,
+        "lat": 18.9574682,
+        "lon": 72.8089759,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "Indian-_Gujarati rajasthani Chaat",
+          "name": "Soam Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6608966495,
+        "lat": 18.9574536,
+        "lon": 72.8101721,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6614922840,
+        "lat": 18.9570729,
+        "lon": 72.81022,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "1st floot, Soni Building",
+          "addr:postcode": "400007",
+          "addr:street": "P Ramabai Marg",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "bar": "no",
+          "cuisine": "indian;regional",
+          "name": "The Culture House",
+          "opening_hours": "Mo-Su 11:00-23:30",
+          "phone": "+91 22 2361 4477 / +91 22 23614466",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6816067581,
+        "lat": 18.9698483,
+        "lon": 72.8148737,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "166-A",
+          "addr:street": "Pandit Madan Mohan Malviya Marg",
+          "amenity": "restaurant",
+          "name": "Sardar Pav Phaji"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6965624162,
+        "lat": 18.9573572,
+        "lon": 72.8132718,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "2, Parmanand Building",
+          "addr:postcode": "400007",
+          "addr:street": "A R Rangnekar Marg",
+          "air_conditioning": "no",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Narayan Dosa",
+          "opening_hours": "Mo-Su 12:00-23:00",
+          "phone": "+919819057490 +919920793287"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6965624171,
+        "lat": 18.9573588,
+        "lon": 72.8132296,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "1 & 2 Parmanand Building",
+          "addr:postcode": "400007",
+          "addr:street": "A R Rangnekar Marg",
+          "air_conditioning": "no",
+          "amenity": "fast_food",
+          "cuisine": "pizza;chinese;italian;burger;sandwich;salads;soup",
+          "delivery": "yes",
+          "drive_through": "no",
+          "name": "Mama Mia!",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "phone": "+91226520 7659 +917304480113 +917304480112"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043071383,
+        "lat": 18.9678956,
+        "lon": 72.8090102,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "5,Pashmina Peddar Road",
+          "addr:postcode": "400026",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Soonawala Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043448094,
+        "lat": 18.9603152,
+        "lon": 72.8102066,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "(Dr Mangeshikar Clinic) Madhav Niwas , 8. Laburnum Road , Bombay",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Mangeshikar Access Gynecology and Infertility Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7044466685,
+        "lat": 18.9576821,
+        "lon": 72.821319,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "E -1st Floor, Bhaveshwar Vihar Svp Road, Prathna Samaj,Opposite Hurkiondas Hospital, Girgaum",
+          "addr:postcode": "400004",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr. Yash Shah Total Eye Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7045681876,
+        "lat": 18.9557453,
+        "lon": 72.8082579,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:full": "31 Surya Prakash Ground Floor, Babulnath Road, Chowpatty",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "addr:street": "Babulnath Marg",
+          "amenity": "doctors",
+          "email": "info@eyeqvisioncare.com",
+          "healthcare": "doctor",
+          "healthcare:speciality": "ophthalmology",
+          "mobile": "+91-9821032683, +91-9821320493, +91-9892936296, +91-9967241887",
+          "name": "Eye-Q Vision Care",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "operator": "Dr. Sanjeev Upadhyaya",
+          "phone": "+91-22-23637745, +91-22-23637746",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7047712193,
+        "lat": 18.9633325,
+        "lon": 72.8072011,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "409 , Om Kemp Corner",
+          "addr:postcode": "400089",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Kapoor Eye Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7047845077,
+        "lat": 18.9656357,
+        "lon": 72.8068606,
+        "tags": {
+          "addr:city": "Mumbai",
+          "amenity": "cafe",
+          "name": "Koinonia Coffee Roasters"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7047947069,
+        "lat": 18.9585078,
+        "lon": 72.8109965,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "15 Dar Ui Muluk 26 Pandita Ramabai Road",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "The Vascular Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048433639,
+        "lat": 18.956311,
+        "lon": 72.8133863,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "105 A&C & 405 A Sukh Sagar, N.S. Patkar Marg, Opera House",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Foresight Eye Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048777736,
+        "lat": 18.9590608,
+        "lon": 72.8116697,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Modi Bhavan, Pandita Ramabai Road, Gamdevi, Grant Road (W)",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Dr. Nisars Eye Care Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052365607,
+        "lat": 18.9568031,
+        "lon": 72.8190404,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "9,Dr, D.D. Sathe Marg",
+          "addr:postcode": "400004",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "general;gynaecology",
+          "name": "Brahman Sabha, Mhaskar Gruh and General Nursing Home",
+          "phone": "+91 22 23871999",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052771941,
+        "lat": 18.9610166,
+        "lon": 72.81344,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "6, Kailas Darshan, 2nd Floor,Nana Chowk, Kennedy Bridge, Marine Lines",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Gala's Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7055432245,
+        "lat": 18.9565951,
+        "lon": 72.8142688,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "534, Bombay Mutual Terrace, 4Th Floor, Opera House",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Palshetkar Patil Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7066505700,
+        "lat": 18.9580372,
+        "lon": 72.8095293,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Apex centre, 5 Babulnath Road, OppositeBabulnath Temple, Grant Road",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "email": "Contact@EyeCareForAll.in",
+          "name": "Bombay City Eye Institute and Research Centre",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "http://www.eyecareforall.in/eyecareforall/index.html"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7066505804,
+        "lat": 18.9547128,
+        "lon": 72.8182693,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "266 , Patel Bldg Opposite Central Cinema Girgaum",
+          "addr:postcode": "400004",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Beramjis Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7068194935,
+        "lat": 18.9565215,
+        "lon": 72.8141896,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Goola Mansion, Jam-E-Jamshed Road, Near Five Gardens",
+          "addr:postcode": "400019",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Narvekar Clinics",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7069814052,
+        "lat": 18.9634974,
+        "lon": 72.8087763,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "93/95, August Kranti Marg, August Kranti Maidan",
+          "addr:postcode": "400036",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "email": "support@cumbalahillhospital.com",
+          "healthcare": "hospital",
+          "name": "Cumbala Hill Hospital and Heart Institute",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "www.chh.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7070857459,
+        "lat": 18.9661811,
+        "lon": 72.8195715,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Bldg. No.2, 1st Floor, R.No. 4, 5 & 10, Navjivan Society, Lamington Road",
+          "addr:postcode": "400008",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Sadhu-Kamal Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073949849,
+        "lat": 18.9563909,
+        "lon": 72.8133488,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "202-A, Sukh Sagar,2nd Floor, N S Patkar Marg",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Samyak Drishti Eye Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7080205222,
+        "lat": 18.9639954,
+        "lon": 72.8078722,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Mumbai",
+          "addr:postcode": "400026",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Gynaecworld",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7086734179,
+        "lat": 18.9654379,
+        "lon": 72.8116241,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "6,Jaymahal,French Bridge,Opera House, Next To Patidar Samaj Hall",
+          "addr:postcode": "400007",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Infiniti Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7118934813,
+        "lat": 18.9572494,
+        "lon": 72.8195089,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "273, Prathana Samaj Corner",
+          "addr:postcode": "400004",
+          "addr:street": "Vithalbhai Patel Marg",
+          "amenity": "restaurant",
+          "cuisine": "indian;chinese;pizza;sandwich;juice",
+          "delivery": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Nityanand Fast Food",
+          "opening_hours": "Mo-Su 10:00-00:30",
+          "phone": "+91 22 2380 9614;+91 22 6635 7182"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7213733383,
+        "lat": 18.958225,
+        "lon": 72.8112146,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400007",
+          "addr:street": "N S Patkar Marg",
+          "amenity": "restaurant",
+          "cuisine": "burger;mexican;pizza",
+          "name": "Poco Loco Restaurant & Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032195,
+        "lat": 18.964553,
+        "lon": 72.814186,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "Bhatia Hospital, Tardeo Road, Grant Road, West Grant Road, (W), Tardeo, Mumbai",
+          "addr:postcode": "400007",
+          "addr:state": "Maharastra",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Nitin Gupta ENT Specialist",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032197,
+        "lat": 18.956001,
+        "lon": 72.807685,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "Dadyseth Road, Opp Bombay Garage, Chowpatty, Mumbai",
+          "addr:postcode": "400007",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Desa's Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032199,
+        "lat": 18.9584181,
+        "lon": 72.8114136,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "Geeta Smriti Building, B-42,44, Pandita Ramabai Marg, Gamdevi, Mumbai",
+          "addr:postcode": "400007",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "Ria Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032200,
+        "lat": 18.9570962,
+        "lon": 72.8115973,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "KM Munshi Road, Gamdevi, Mumbai",
+          "addr:postcode": "400007",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Dolby Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032205,
+        "lat": 18.96436,
+        "lon": 72.805654,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "White Hall Building, Next to Shalimar Hotel, Kemps Corner, Mumbai",
+          "addr:postcode": "400036",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Cheers Child Care Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032206,
+        "lat": 18.9642646,
+        "lon": 72.807013,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "C/1, August Kranti Road, Cumballa Hill, Mumbai",
+          "addr:postcode": "400026",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Nilen Shah's Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032207,
+        "lat": 18.9586366,
+        "lon": 72.8136684,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "Ground Floor, Shiv Tapi Building, H.Goregaonkar Road, Gamdevi, Mumbai",
+          "addr:postcode": "400007",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Cods Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032214,
+        "lat": 18.9582867,
+        "lon": 72.8102818,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "N S Patkar Marg, Opp Westside, Babulnath, Dadi Sheth Wadi, Gamdevi, Mumbai",
+          "addr:postcode": "400007",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Smt. Motiben B. Dalvi Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032220,
+        "lat": 18.957089,
+        "lon": 72.807333,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "Rambha Bhavan, Near Babulnath Temple, Khareghat Colony, Malabar Hill, Mumbai",
+          "addr:postcode": "400007",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Hospital For Women Care",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032225,
+        "lat": 18.9559782,
+        "lon": 72.8084083,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "Baig Mansion, Chowpatty Medical Centre 3, Babulnath Road, Mumbai",
+          "addr:postcode": "400007",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Dr. Nadeem Rais Endocrinologist",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032239,
+        "lat": 18.9659479,
+        "lon": 72.8160928,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "9th Floor, Flat No 43, Joothica, Sleater Road, Grant Road, West Grant Road, Mumbai",
+          "addr:postcode": "400007",
+          "addr:state": "Maharastra",
+          "amenity": "doctors",
+          "name": "Dr. A G Kamat",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8261466698,
+        "lat": 18.9686893,
+        "lon": 72.8204271,
+        "tags": {
+          "addr:city": "East Mumbai",
+          "addr:postcode": "400008",
+          "addr:street": "DR PLUS HEALTH CARE NATHANI HEIGHTS, Opposite Mumbai Central",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "ORTHOPEDIC;surgery",
+          "name": "MUMBAI SPINE CARE CLINIC",
+          "website": "https://www.mumbaispinecareclinic.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8839016427,
+        "lat": 18.959596,
+        "lon": 72.8196746,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Noble Chemist"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8839119222,
+        "lat": 18.9585769,
+        "lon": 72.8219474,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400004",
+          "addr:street": "A B Kolhatkar Marg",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Mumbai Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9990028713,
+        "lat": 18.9630505,
+        "lon": 72.8099188,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:postcode": "400036",
+          "addr:street": "Tejpal Marg",
+          "amenity": "clinic",
+          "email": "spjmcgowaliatank@gmail.com",
+          "healthcare": "clinic",
+          "healthcare:speciality": "ophthalmology;gynaecology;dentist;general;paediatrics;orthopaedics;dermatology;physiotherapy;radiology;diagnostic_radiology;vaccination;obstetrics",
+          "name": "Shri Gowalia Tank Shankheswara Parshwanath Jain Medical Centre & Kankutara Diagnostic Medical Centre",
+          "opening_hours": "Mo-Sa 08:00-20:00",
+          "phone": "+91-22-23823583, +91-22-23823584, +91-22-23823531, +91-22-23823532, +91-8282825836, +91-8282825837"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10220942701,
+        "lat": 18.9691612,
+        "lon": 72.8167078,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "335, Akhil Bharatiya Bhavan",
+          "addr:postcode": "400034",
+          "addr:street": "J Boman Behram Marg",
+          "amenity": "restaurant",
+          "cuisine": "indian;chinese;sandwich",
+          "diet:vegetarian": "yes",
+          "name": "Hotel Hindmata",
+          "opening_hours": "Mo-Su 11:00-00:00",
+          "phone": "+91 22 2380 9955;+91 22 2381 1483;+91 22 2380 6501"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11159452449,
+        "lat": 18.9561284,
+        "lon": 72.8131928,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Belgian Waffle"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11159468367,
+        "lat": 18.95647,
+        "lon": 72.8140224,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Canto Cafe & Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11159473009,
+        "lat": 18.9589107,
+        "lon": 72.8173066,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Vasant Bhuvan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11443658469,
+        "lat": 18.955594,
+        "lon": 72.8133136,
+        "tags": {
+          "addr:postcode": "400007",
+          "addr:street": "Marine Drive",
+          "amenity": "restaurant",
+          "cuisine": "indian;mexican",
+          "name:en": "Cream Centre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11443658569,
+        "lat": 18.9556326,
+        "lon": 72.8132334,
+        "tags": {
+          "addr:postcode": "400007",
+          "addr:street": "Marine Drive",
+          "amenity": "restaurant",
+          "cuisine": "indian;mexican",
+          "name:en": "New Yorker"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11456147261,
+        "lat": 18.959466,
+        "lon": 72.8173294,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11456227673,
+        "lat": 18.9686154,
+        "lon": 72.8210412,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Anna Leela Veg Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11456230009,
+        "lat": 18.9686237,
+        "lon": 72.8208979,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Central Sweets"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11456249200,
+        "lat": 18.9578805,
+        "lon": 72.8166755,
+        "tags": {
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11456281494,
+        "lat": 18.9664278,
+        "lon": 72.8192196,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Portico Restaurant and Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11542402054,
+        "lat": 18.9546757,
+        "lon": 72.8148499,
+        "tags": {
+          "addr:housenumber": "39B",
+          "addr:street": "Chowpatty Seaface",
+          "amenity": "restaurant",
+          "name": "Revival"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11637734870,
+        "lat": 18.9560118,
+        "lon": 72.8127956,
+        "tags": {
+          "amenity": "cafe",
+          "internet_access": "wlan",
+          "name:en": "Belgian waffles and ice cream",
+          "name:ru": "\u0412\u0430\u0444\u043b\u0438 \u0438 \u043c\u043e\u0440\u043e\u0436\u0435\u043d\u043e\u0435"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11962469384,
+        "lat": 18.9571447,
+        "lon": 72.8172193,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:housenumber": "Shop No. 4,",
+          "addr:street": "487, Murad Mansion, Sardar Vallabhbhai Patel Road",
+          "amenity": "restaurant",
+          "name": "7th Heaven Girgaon"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12508947804,
+        "lat": 18.9636696,
+        "lon": 72.8079229,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai City",
+          "addr:postcode": "400026",
+          "addr:street": "Kemps Corner Flyover",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop;sandwich;donut;hot_chocolate;pizza",
+          "internet_access": "yes",
+          "internet_access:fee": "customers",
+          "name": "Starbucks coffee",
+          "opening_hours": "Mo-Su 09:00-22:00",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12509250152,
+        "lat": 18.9687093,
+        "lon": 72.8073895,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "MUMBAI",
+          "addr:housenumber": "292",
+          "addr:postcode": "400026",
+          "addr:street": "Altamount Road (S K Barodawala Marg)",
+          "name": "orbits mall",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "operator": "benny",
+          "payment:app": "yes",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:visa": "yes",
+          "phone": "00978654321",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12529723939,
+        "lat": 18.956454,
+        "lon": 72.8119758,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "outdoor_seating": "yes",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12582378802,
+        "lat": 18.9618863,
+        "lon": 72.8137743,
+        "tags": {
+          "addr:postcode": "400007",
+          "addr:street": "Frere Bridge Lower Level South",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Shetty",
+          "opening_hours": "We-Mo 08:00-22:00",
+          "phone": "+912223876279;+912223816279;+912223826279;+919136966279"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12679813301,
+        "lat": 18.9640179,
+        "lon": 72.8079079,
+        "tags": {
+          "addr:housenumber": "109",
+          "addr:postcode": "400036",
+          "addr:street": "August Kranti Marg;August Kranti Marg (Gowalia Tank Road)",
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name": "Gustoso",
+          "opening_hours": "Mo-Su 12:00-15:00, 19:00-23:30",
+          "phone": "0704500020",
+          "website": "http://gustoso.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12843656848,
+        "lat": 18.9563946,
+        "lon": 72.81902,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:housenumber": "210",
+          "addr:postcode": "400004",
+          "addr:street": "Raja Ram Mohan Roy Road (Charni Road)",
+          "amenity": "clinic",
+          "email": "shreechandraprabhmedical@gmail.com",
+          "healthcare": "clinic",
+          "healthcare:speciality": "general;ophthalmology;gynaecology;paediatrics;dentist;dermatology;psychiatry;otolaryngology;radiology;physiotherapy;urology;blood_check;child_psychiatry;pathology",
+          "name": "Shree Chandraprabh Jain Medical Centre",
+          "opening_hours": "Mo-Sa 09:00-20:00",
+          "phone": "+91-9324292935, +91-22-23804129"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12960706001,
+        "lat": 18.9559591,
+        "lon": 72.8162091,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:housenumber": "463",
+          "addr:postcode": "400004",
+          "addr:street": "Dr Dadasaheb Bhadkamkar Marg",
+          "amenity": "restaurant",
+          "cuisine": "indian;juice;fast_food;pizza;pasta;sandwich;asian;ice_cream;dessert",
+          "diet:vegetarian": "yes",
+          "name": "Juice Time",
+          "opening_hours": "Mo-Su 13:00-02:00",
+          "phone": "+91-7045111122"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12960706002,
+        "lat": 18.9563929,
+        "lon": 72.8155788,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:postcode": "400004",
+          "addr:street": "Mama Paramanand Marg",
+          "amenity": "restaurant",
+          "cuisine": "salad;soup;juice;pizza;burger;breakfast;dessert;coffee_shop;tea;european;mediterranean;asian;indian;thai;lebanese",
+          "diet:gluten_free": "yes",
+          "diet:healthy": "yes",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Sante Spa Cuisine",
+          "opening_hours": "Mo-Su 12:00-00:00",
+          "phone": "+91-9011223344,+91-8767862222, +91-9820297879"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13121666901,
+        "lat": 18.9621211,
+        "lon": 72.8132636,
+        "tags": {
+          "addr:postcode": "400004",
+          "addr:street": "Javji Dadaji Marg",
+          "amenity": "restaurant",
+          "cuisine": "indian;italian",
+          "name": "Sudama Pure Veg"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:40:29Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 245657999,
+        "lat": 18.9784419,
+        "lon": 72.8140041,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position",
+          "source": "AND"
+        }
+      },
+      {
+        "type": "node",
+        "id": 342120224,
+        "lat": 18.9624027,
+        "lon": 72.8091494,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Tejpal Hall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 456203872,
+        "lat": 18.9652526,
+        "lon": 72.8040921,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 462270914,
+        "lat": 18.9605094,
+        "lon": 72.8012499,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 527987797,
+        "lat": 18.9632656,
+        "lon": 72.8159839,
+        "tags": {
+          "loc_ref": "2",
+          "name": "Grant Road",
+          "public_transport": "stop_position",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 527987828,
+        "lat": 18.9520361,
+        "lon": 72.8179252,
+        "tags": {
+          "name": "Charni Road",
+          "name:hi": "\u091a\u0930\u094d\u0928\u0940 \u0930\u094b\u0921",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 528074073,
+        "lat": 18.962847,
+        "lon": 72.8159021,
+        "tags": {
+          "loc_ref": "3",
+          "name": "Grant Road",
+          "public_transport": "stop_position",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 528074116,
+        "lat": 18.9626624,
+        "lon": 72.815886,
+        "tags": {
+          "loc_ref": "4",
+          "name": "Grant Road",
+          "public_transport": "stop_position",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 528079150,
+        "lat": 18.9527932,
+        "lon": 72.8168508,
+        "tags": {
+          "name": "Charni Road",
+          "name:hi": "\u091a\u0930\u094d\u0928\u0940 \u0930\u094b\u0921",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 528082473,
+        "lat": 18.9521256,
+        "lon": 72.818007,
+        "tags": {
+          "name": "Charni Road",
+          "name:hi": "\u091a\u0930\u094d\u0928\u0940 \u0930\u094b\u0921",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 528082558,
+        "lat": 18.9520922,
+        "lon": 72.8179808,
+        "tags": {
+          "name": "Charni Road",
+          "name:hi": "\u091a\u0930\u094d\u0928\u0940 \u0930\u094b\u0921",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 528115484,
+        "lat": 18.9465849,
+        "lon": 72.8230857,
+        "tags": {
+          "local_ref": "2",
+          "name": "Marine Lines",
+          "name:hi": "\u092e\u0930\u0940\u0928 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 528115491,
+        "lat": 18.9465688,
+        "lon": 72.8230534,
+        "tags": {
+          "local_ref": "1",
+          "name": "Marine Lines",
+          "name:hi": "\u092e\u0930\u0940\u0928 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 528216004,
+        "lat": 18.9707096,
+        "lon": 72.8188347,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "2",
+          "name": "Mumbai Central (local)",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "WR",
+          "old_name": "Bellasis Road",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MMCT",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619344379,
+        "lat": 18.9620981,
+        "lon": 72.8186387,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Goodwill Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619377230,
+        "lat": 18.9612251,
+        "lon": 72.8234361,
+        "tags": {
+          "amenity": "cinema",
+          "name": "New Roshan Talkies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619377234,
+        "lat": 18.9615152,
+        "lon": 72.8231708,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Alfred Talkies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619377620,
+        "lat": 18.9618801,
+        "lon": 72.821185,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Super Plaza Cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 631579580,
+        "lat": 18.9633549,
+        "lon": 72.8158261,
+        "tags": {
+          "internet_access": "no",
+          "name": "Grant Road",
+          "name:hi": "\u0917\u094d\u0930\u093e\u0902\u091f \u0930\u094b\u0921",
+          "name:ml": "\u0d17\u0d4d\u0d30\u0d3e\u0d28\u0d4d\u0d31\u0d4d \u0d31\u0d4b\u0d21\u0d4d",
+          "name:mr": "\u0917\u094d\u0930\u0901\u091f \u0930\u094b\u0921",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GTR",
+          "train": "yes",
+          "wikidata": "Q5226483",
+          "wikipedia": "en:Grant Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1236410131,
+        "lat": 18.9466312,
+        "lon": 72.8231784,
+        "tags": {
+          "local_ref": "3",
+          "name": "Marine Lines",
+          "name:hi": "\u092e\u0930\u0940\u0928 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1236410240,
+        "lat": 18.9466502,
+        "lon": 72.8232164,
+        "tags": {
+          "local_ref": "4",
+          "name": "Marine Lines",
+          "name:hi": "\u092e\u0930\u0940\u0928 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1236589819,
+        "lat": 18.9688493,
+        "lon": 72.808826,
+        "tags": {
+          "amenity": "fuel",
+          "cmt": "30-JAN-10 10:32:53",
+          "description": "30-JAN-10 10:32:53",
+          "ele": "48.672119",
+          "name": "Fuel",
+          "source": "GPS",
+          "sym": "Gas Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178025599,
+        "lat": 18.9700757,
+        "lon": 72.8195845,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "5",
+          "name": "Mumbai Central",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MMCT",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178025600,
+        "lat": 18.9700768,
+        "lon": 72.8195436,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "4",
+          "name": "Mumbai Central",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MMCT",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178025601,
+        "lat": 18.9700908,
+        "lon": 72.8193557,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "3",
+          "name": "Mumbai Central",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MMCT",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178025602,
+        "lat": 18.970091,
+        "lon": 72.8193067,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "2",
+          "name": "Mumbai Central",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MMCT",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178254482,
+        "lat": 18.9765515,
+        "lon": 72.8326776,
+        "tags": {
+          "name": "Byculla",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178269313,
+        "lat": 18.9706926,
+        "lon": 72.8190255,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "4",
+          "name": "Mumbai Central (local)",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "WR",
+          "old_name": "Bellasis Road",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MMCT",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178269316,
+        "lat": 18.9707063,
+        "lon": 72.8188911,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "3",
+          "name": "Mumbai Central (local)",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "WR",
+          "old_name": "Bellasis Road",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MMCT",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075002,
+        "lat": 18.9518437,
+        "lon": 72.8182401,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "ele": "9",
+          "internet_access": "no",
+          "name": "Charni Road",
+          "name:hi": "\u091a\u0930\u094d\u0928\u0940 \u0930\u094b\u0921",
+          "name:ml": "\u0d1a\u0d7c\u0d23\u0d3f \u0d31\u0d4b\u0d21\u0d4d",
+          "name:mr": "\u091a\u0930\u094d\u0928\u0940 \u0930\u094b\u0921",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CYR",
+          "start_date": "1867",
+          "train": "yes",
+          "wikidata": "Q5121186",
+          "wikipedia": "en:Charni Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075006,
+        "lat": 18.945764,
+        "lon": 72.8237193,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "ele": "7",
+          "internet_access": "no",
+          "name": "Marine Lines",
+          "name:hi": "\u092e\u0930\u0940\u0928 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "name:ml": "\u0d2e\u0d31\u0d48\u0d7b \u0d32\u0d48\u0d7b\u0d38\u0d4d",
+          "name:mr": "\u092e\u0930\u0940\u0928 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MEL",
+          "start_date": "1867",
+          "train": "yes",
+          "wikidata": "Q6764160",
+          "wikipedia": "en:Marine Lines railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075008,
+        "lat": 18.9695855,
+        "lon": 72.8193152,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "ele": "6.62",
+          "historic:name": "Bombay Central Terminal",
+          "historic:ref": "BCT",
+          "internet_access": "yes",
+          "name": "Mumbai Central",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:ml": "\u0d2e\u0d41\u0d02\u0d2c\u0d48 \u0d38\u0d46\u0d7b\u0d1f\u0d4d\u0d30\u0d7d",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "IR",
+          "old_name": "Bellasis Road",
+          "old_ref": "BCT",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MMCT",
+          "start_date": "1930-12-18",
+          "station": "terminal",
+          "train": "yes",
+          "wikidata": "Q3539796",
+          "wikipedia": "en:Mumbai Central railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306535086,
+        "lat": 18.9543825,
+        "lon": 72.8149815,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306535087,
+        "lat": 18.9550813,
+        "lon": 72.8045683,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306535088,
+        "lat": 18.9553543,
+        "lon": 72.8047381,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306535090,
+        "lat": 18.9557422,
+        "lon": 72.8089986,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306535092,
+        "lat": 18.9771509,
+        "lon": 72.8115505,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position",
+          "ref": "124"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306535093,
+        "lat": 18.9781036,
+        "lon": 72.8108602,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3501419617,
+        "lat": 18.9765511,
+        "lon": 72.8327203,
+        "tags": {
+          "name": "Byculla",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4264478427,
+        "lat": 18.9825203,
+        "lon": 72.8242196,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "alt_name": "Mahalakshmi Railway Station",
+          "internet_access": "no",
+          "name": "Mahalaxmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "name:ml": "\u0d2e\u0d39\u0d3e\u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2e\u0d3f",
+          "name:mr": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MX",
+          "start_date": "1867",
+          "train": "yes",
+          "wikidata": "Q6732924",
+          "wikipedia": "en:Mahalaxmi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4655092790,
+        "lat": 18.9760562,
+        "lon": 72.8088408,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4844675131,
+        "lat": 18.9558692,
+        "lon": 72.8325809,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil",
+          "name:en": "Indian oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4844717526,
+        "lat": 18.95806,
+        "lon": 72.8252896,
+        "tags": {
+          "amenity": "fuel",
+          "name:en": "Bharat"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4844717822,
+        "lat": 18.9580205,
+        "lon": 72.8254129,
+        "tags": {
+          "amenity": "cinema",
+          "name:en": "Alankar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5085177522,
+        "lat": 18.9560477,
+        "lon": 72.8155711,
+        "tags": {
+          "addr:street": "Mama Paramanand Marg",
+          "amenity": "theatre",
+          "name:en": "Royal Opera House",
+          "phone": "+912223690511",
+          "wikidata": "Q3210038",
+          "wikimedia_commons": "Category:Royal Opera House (Mumbai)",
+          "wikipedia": "en:Royal Opera House (Mumbai)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5091222622,
+        "lat": 18.953846,
+        "lon": 72.8163006,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6166727726,
+        "lat": 18.970701,
+        "lon": 72.8186917,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "1",
+          "name": "Mumbai Central (local)",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "WR",
+          "old_name": "Bellasis Road",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MMCT",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6168435926,
+        "lat": 18.9785446,
+        "lon": 72.8139768,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position",
+          "source": "AND"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6661895499,
+        "lat": 18.9632818,
+        "lon": 72.8159514,
+        "tags": {
+          "loc_ref": "1",
+          "name": "Grant Road",
+          "public_transport": "stop_position",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7511298719,
+        "lat": 18.9821386,
+        "lon": 72.8240475,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "2",
+          "name": "Mahalaxmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7511298720,
+        "lat": 18.982232,
+        "lon": 72.8239368,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "1",
+          "name": "Mahalaxmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7553582481,
+        "lat": 18.9701022,
+        "lon": 72.8191416,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "1",
+          "name": "Mumbai Central",
+          "name:hi": "\u092e\u0941\u092e\u094d\u092c\u0908 \u0938\u0947\u0928\u094d\u091f\u094d\u0930\u0932",
+          "name:mr": "\u092e\u0941\u0902\u092c\u0908 \u0938\u0947\u0902\u091f\u094d\u0930\u0932",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MMCT",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11456249853,
+        "lat": 18.9777892,
+        "lon": 72.8239971,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11456250689,
+        "lat": 18.9645936,
+        "lon": 72.8198705,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13039612521,
+        "lat": 18.944006,
+        "lon": 72.8232477,
+        "tags": {
+          "amenity": "fuel",
+          "name": "IndianOil",
+          "name:en": "IndianOil",
+          "name:mr": "\u092a\u0947\u091f\u094d\u0930\u094b\u0932 \u092a\u0902\u092a"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13112030001,
+        "lat": 18.9552767,
+        "lon": 72.816446,
+        "tags": {
+          "addr:housenumber": "5th",
+          "addr:postcode": "400004",
+          "addr:street": "Tata Road 2",
+          "amenity": "theatre",
+          "level": "0",
+          "name": "Roxy Cinemas",
+          "phone": "093241 28520",
+          "website": "http://www.muktaa2cinemas.com"
+        }
+      }
+    ]
+  }
+}

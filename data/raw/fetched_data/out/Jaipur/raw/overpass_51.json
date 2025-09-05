@@ -1,0 +1,339 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:09:43Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4547443698,
+        "lat": 26.9483121,
+        "lon": 75.8404444,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "indian",
+          "internet_access": "wlan",
+          "name": "Rainbow Cafe, Jaipur",
+          "name:en": "Rainbow Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4810721421,
+        "lat": 26.9543753,
+        "lon": 75.8420064,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "SBI ATM JAL MAHAL , JAIPUR",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5016200924,
+        "lat": 26.9408543,
+        "lon": 75.8384138,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "international;indian;chinese",
+          "name": "Parampara",
+          "name:en": "Parampara"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5074567726,
+        "lat": 26.942206,
+        "lon": 75.8374738,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Jal Mahal"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5227030921,
+        "lat": 26.9498381,
+        "lon": 75.8421508,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "RESTAURANT , JAIPUR",
+          "name:ja": "\u3042\u3042\u3042"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5603023822,
+        "lat": 26.94956,
+        "lon": 75.837543,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Restaurant , Jaipur",
+          "name:ja": "Pink City Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6029009694,
+        "lat": 26.9396438,
+        "lon": 75.8369237,
+        "tags": {
+          "amenity": "restaurant",
+          "internet_access": "wlan",
+          "name:en": "green pigeon"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6029038596,
+        "lat": 26.9397188,
+        "lon": 75.8369813,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Green pigeon"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6029038599,
+        "lat": 26.9397212,
+        "lon": 75.8370234,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6254109685,
+        "lat": 26.9455632,
+        "lon": 75.840143,
+        "tags": {
+          "addr:street": "Jamwa Ramgarh Road",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name:en": "Shree Khandelwal Pavitra Bhojanalaya (2nd floor)",
+          "opening_hours": "Mo-Su 10:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6331987313,
+        "lat": 26.9519305,
+        "lon": 75.8414705,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030319490,
+        "lat": 26.9388107,
+        "lon": 75.8379353,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Aanandam"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040281162,
+        "lat": 26.9457016,
+        "lon": 75.8421032,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "No.27, Govindpuri East,Near Ramgarh Mode",
+          "addr:postcode": "302001",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Pawan Hospital Pvt. Ltd. , Jaipur",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040342448,
+        "lat": 26.9476694,
+        "lon": 75.8520998,
+        "tags": {
+          "addr:district": "Alwar",
+          "addr:full": "23,Krishna Colony, Near Ambedkar Circle",
+          "addr:postcode": "301001",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Mendiratta Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698578049,
+        "lat": 26.9447157,
+        "lon": 75.8470388,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Hussain Colony, Shankar Nagar",
+          "addr:postcode": "302002",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Khan Clinic , JAIPUR",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698578092,
+        "lat": 26.9464166,
+        "lon": 75.8481731,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Fatima Colony",
+          "addr:postcode": "302002",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Jalmahal Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698578097,
+        "lat": 26.9443804,
+        "lon": 75.8470097,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Hussain Colony, Shankar Nagar",
+          "addr:postcode": "302002",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Tosif Poly Clinic , JAIPUR",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12045501005,
+        "lat": 26.9386122,
+        "lon": 75.8394878,
+        "tags": {
+          "addr:housenumber": "6",
+          "addr:street": "Amer Road",
+          "amenity": "clinic",
+          "name": "Anjali Acupressure Treatment & Yoga Center | Anjali Yoga Center | Yoga classes in Jaipur"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12395867028,
+        "lat": 26.9415187,
+        "lon": 75.8386718,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:district": "Rajasthan",
+          "addr:housenumber": "665",
+          "addr:postcode": "302002",
+          "addr:street": "Amer Road",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "branch": "Amer Road",
+          "brand": "TVG - The Vegetarian Grill",
+          "contact:facebook": "https://www.facebook.com/tvg.amerroad",
+          "cuisine": "north_indian;mexican;multicusion;pizza;italian;indian;kebab;ice_cream;fine_dining;regional;fries;pasta",
+          "delivery": "yes",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "email": "jaipurbitesamerroad@gmail.com",
+          "name": "TVG AMER RESTAURANT",
+          "opening_hours": "24/7",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:contactless": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:google_pay": "yes",
+          "payment:mastercard": "yes",
+          "payment:phonepe": "yes",
+          "payment:upi": "yes",
+          "payment:visa": "yes",
+          "payment:zomato_pay": "yes",
+          "phone": "+91 8955559670",
+          "takeaway": "yes",
+          "website": "https://www.zomato.com/jaipur/tvg-the-vegetarian-grill-amer-road"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:09:43Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6163167185,
+        "lat": 26.9459487,
+        "lon": 75.8472052,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian oil , JAIPUR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631002785,
+        "lat": 26.9544638,
+        "lon": 75.8421347,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP GAS STATION NEAR JAL MAHAL , JAIPUR",
+          "name:en": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10936795789,
+        "lat": 26.9321131,
+        "lon": 75.832446,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "BP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10936810154,
+        "lat": 26.93144,
+        "lon": 75.8321956,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "HP"
+        }
+      }
+    ]
+  }
+}

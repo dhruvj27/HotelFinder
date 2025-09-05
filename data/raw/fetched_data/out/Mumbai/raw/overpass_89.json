@@ -1,0 +1,1116 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:46:34Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1855429901,
+        "lat": 19.2009492,
+        "lon": 72.9732782,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1864486763,
+        "lat": 19.206881,
+        "lon": 72.9720383,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "brand:wikipedia": "en:Bank of Baroda",
+          "name": "Bank of Baroda",
+          "name:en": "Bank of Baroda",
+          "short_name": "BoB",
+          "website": "http://www.bankofbaroda.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1864486770,
+        "lat": 19.2072103,
+        "lon": 72.9723521,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI",
+          "website": "https://www.sbi.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2430874434,
+        "lat": 19.2103843,
+        "lon": 72.9771188,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:housename": "Majiwada Branch",
+          "addr:postcode": "400601",
+          "addr:street": "Lal Bahadur Shastri Marg",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2430893870,
+        "lat": 19.2118213,
+        "lon": 72.984852,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:housename": "Ground Floor, Lodha Boulevard",
+          "addr:street": "Eastern Express Highway",
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "brand:wikidata": "Q38076",
+          "brand:wikipedia": "en:McDonald's",
+          "brand:wikipedia:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:wikipedia:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "name:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "name:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4369113591,
+        "lat": 19.2042435,
+        "lon": 72.9699084,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Bombay Barbeque"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4517313291,
+        "lat": 19.2007568,
+        "lon": 72.9772104,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5394830056,
+        "lat": 19.202469,
+        "lon": 72.9755742,
+        "tags": {
+          "leisure": "garden",
+          "name": "Bramhala Lake Garden"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805070185,
+        "lat": 19.2091799,
+        "lon": 72.9712303,
+        "tags": {
+          "level": "0",
+          "name": "Reliance Mart",
+          "name:en": "Reliance Mart",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043670893,
+        "lat": 19.2111354,
+        "lon": 72.9770842,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Golden Park Lbs Road, Opp Navneet Motors Thane - West",
+          "addr:postcode": "400602",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr Bansal's Arogya Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7045681875,
+        "lat": 19.2029832,
+        "lon": 72.9719143,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "1st Floor, Tawde Niwas, Opposite Thane Janata Sahakari Bank, Khopat, Thane(w)",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sahil Hospital, Thane",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048944239,
+        "lat": 19.2037608,
+        "lon": 72.9770654,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Savio Apts. Kolbad Naka Old Agra Road",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Akshaya Surgical and Maternity Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049068219,
+        "lat": 19.2035122,
+        "lon": 72.9741385,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "101, Kalika Towers, Opposite Pratap Cinema, Kolbad Road",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Pioneer Health Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049728571,
+        "lat": 19.2037393,
+        "lon": 72.9704558,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "White House Apt, Opp Punjabi Estate, Khopar, Thane West",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Ajinkya Nursing Home, Thane",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7051342876,
+        "lat": 19.2010303,
+        "lon": 72.9756794,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Darshan Tower, Dr. Ambedkar Road, Thane (W)",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Aishwarya Nursing Home - Thane",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054297836,
+        "lat": 19.2024899,
+        "lon": 72.9778835,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "A-101, Dharmaveer Building, Opposite Municipal School No.7, Uthlasar Naka",
+          "addr:postcode": "400602",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Laxmi Jyot Eye Hospital, Thane",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054818486,
+        "lat": 19.2030668,
+        "lon": 72.9725271,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "101, A-Wing, Golden Heavens Apartments, Khopat Road, Khopat",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr Manish Patankar's Nath Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054878679,
+        "lat": 19.2028047,
+        "lon": 72.9799998,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "1st Floor, Adnaan Mahal, Near Holy Cross High School , Thane West",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sunjeevan Hospital and I C U",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7067093655,
+        "lat": 19.2027667,
+        "lon": 72.9720712,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "1st Floor, Damodar Apartments, Behind Ashok Talkies Datta Mandir, Thane(w)",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shree Swami Samartha Netralaya",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7069927158,
+        "lat": 19.2030934,
+        "lon": 72.9731347,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "2nd Flr, Beauty Arcade, OppositePratap, Cinema,Khopat,Next To Fishland Hotel,Thane(W)",
+          "addr:postcode": "400602",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Senses Eye and Ent Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7070264519,
+        "lat": 19.2079224,
+        "lon": 72.9832292,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Bldg No-3-B, Brindavan Society",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shilotri Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073827666,
+        "lat": 19.2112775,
+        "lon": 72.977051,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "2nd Floor, Golden Park, Gokul Nagar, Next To Wood Plaza, L B S Road",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Param Hospital and Icu",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7076620107,
+        "lat": 19.2008612,
+        "lon": 72.9740057,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Govardhan Dham,1st Floor, OppositeS.T.Workshop, Ambedkar Road",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Renuka Nursing Home, Thane",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7083324267,
+        "lat": 19.2035582,
+        "lon": 72.9727846,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Thane(W)",
+          "addr:postcode": "400602",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr.Kshirsagars Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7085988150,
+        "lat": 19.2135618,
+        "lon": 72.977964,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Ghodbunder Rd, Sainath Nagar, Majiwada, Thane",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Aditya Orthopedic Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7087636862,
+        "lat": 19.2036861,
+        "lon": 72.9743792,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "104/105, Kaalika Tower, Kolbad Road, Opp. Pratap Cinema, Khopat",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "ophthalmology",
+          "name": "Jyotimay Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7213475575,
+        "lat": 19.2026156,
+        "lon": 72.9722268,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Shiv Tower, Opposite TJSB Bank, Thane West, Thane",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Lifeline Hospital Thane",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663684024,
+        "lat": 19.2038631,
+        "lon": 72.9823379,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Vishwashanthi Bunglaow, Plot No-2,Tapasya Nagar, Second Rabodi, Thane West",
+          "addr:postcode": "400601",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Suleman Mulla Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663684054,
+        "lat": 19.2046897,
+        "lon": 72.9778364,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Castle Mill Agra, Runwal Nagar Road, Uthalsar, Thane West",
+          "addr:postcode": "400601",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Royal Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663684055,
+        "lat": 19.205935,
+        "lon": 72.980195,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "F-13, Hathyogi Nikam Guruji Road, Shrirang Society, Near UCO Bank, Thane West",
+          "addr:postcode": "400601",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Aarambh Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663684060,
+        "lat": 19.2135151,
+        "lon": 72.9769221,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Oswal Park, Thane West, Thane",
+          "addr:postcode": "400606",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sai Ashutosh Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663684065,
+        "lat": 19.211178,
+        "lon": 72.979072,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "F- BUILDING, DEVESHREE GArdEN, Majiwada, Road, Rutu Park, Panchsheel Nagar, Thane West",
+          "addr:postcode": "400601",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Ekta Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8567243275,
+        "lat": 19.2081415,
+        "lon": 72.9834626,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:postcode": "400601",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:non-vegetarian": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Gauri Poli Bhaji Kendra",
+          "opening_hours": "Mo-Su 07:00-22:00",
+          "payment:upi": "yes",
+          "phone:mobile": "9819077212",
+          "takeaway": "only"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8816407650,
+        "lat": 19.1991907,
+        "lon": 72.9774014,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Dhobi Ali, Charai, Thane",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Civil Hospital ,Thane",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9216095818,
+        "lat": 19.2124005,
+        "lon": 72.9805872,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Opposite Mahindra Global Gallery, Near , Tatvagyan Vidyapeeth,Ghodbunder Road",
+          "addr:postcode": "400601",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Infinity Medisurge Centre Speciality Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9506857908,
+        "lat": 19.213726,
+        "lon": 72.9841583,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:housenumber": "athene, lodha paradise",
+          "addr:postcode": "400601",
+          "addr:street": "lodha complex",
+          "name": "kalash mart",
+          "opening_hours": "Tu-Su 09:00-22:00",
+          "payment:cash": "yes",
+          "payment:coins": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:visa": "yes",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9730185558,
+        "lat": 19.2082685,
+        "lon": 72.9716917,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "name": "Rajdhani Thali",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10142230846,
+        "lat": 19.2073123,
+        "lon": 72.9710155,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Utsav"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12193705140,
+        "lat": 19.2091884,
+        "lon": 72.9766311,
+        "tags": {
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12193705154,
+        "lat": 19.2093844,
+        "lon": 72.9766031,
+        "tags": {
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12395612693,
+        "lat": 19.2082957,
+        "lon": 72.9717451,
+        "tags": {
+          "amenity": "restaurant",
+          "level": "1",
+          "name": "The Irish House"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:46:34Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 246582717,
+        "lat": 19.186483,
+        "lon": 72.9757664,
+        "tags": {
+          "alt_name:ar": "\u062b\u064a\u0646",
+          "internet_access": "wlan",
+          "name": "Thane",
+          "name:ar": "\u062a\u0627\u0646\u064a",
+          "name:fa": "\u062a\u0627\u0646\u0647",
+          "name:hi": "\u0920\u093e\u0923\u0947",
+          "name:ml": "\u0d24\u0d3e\u0d28\u0d46",
+          "name:mr": "\u0920\u093e\u0923\u0947",
+          "name:pnb": "\u062a\u06c1\u0627\u0646\u06c1",
+          "name:ps": "\u062a\u0627\u0646\u06cc",
+          "name:ur": "\u062a\u06be\u0627\u0646\u06d2",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TNA",
+          "train": "yes",
+          "wikidata": "Q7710247",
+          "wikipedia": "en:Thane railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619119023,
+        "lat": 19.1952243,
+        "lon": 72.9963331,
+        "tags": {
+          "internet_access": "no",
+          "name": "Kalva",
+          "name:hi": "\u0915\u0932\u0935\u093e",
+          "name:mr": "\u0915\u0933\u0935\u093e",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KLVA",
+          "wikidata": "Q6354779",
+          "wikipedia": "en:Kalwa railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 630671870,
+        "lat": 19.1856924,
+        "lon": 72.9761105,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 630673338,
+        "lat": 19.1863556,
+        "lon": 72.9759,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1235821132,
+        "lat": 19.2211918,
+        "lon": 72.9771567,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:street": "Thane Ghodbunder Road",
+          "amenity": "cinema",
+          "name": "Cinemax -WonderMall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1235843196,
+        "lat": 19.2029104,
+        "lon": 72.9652147,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:housename": "3rd floor, Korum Mall",
+          "addr:street": "eastern Express Highway",
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "Inox",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1647133382,
+        "lat": 19.1858218,
+        "lon": 72.9760694,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "9",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1647133389,
+        "lat": 19.1858488,
+        "lon": 72.9760608,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1647133401,
+        "lat": 19.1859651,
+        "lon": 72.9760239,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1647133407,
+        "lat": 19.1859987,
+        "lon": 72.9760133,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1647133433,
+        "lat": 19.1861263,
+        "lon": 72.9759727,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1647133443,
+        "lat": 19.1861975,
+        "lon": 72.9759502,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1647133450,
+        "lat": 19.186318,
+        "lon": 72.9759119,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855429900,
+        "lat": 19.1950784,
+        "lon": 72.9708952,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855429904,
+        "lat": 19.1927201,
+        "lon": 72.9701552,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855429906,
+        "lat": 19.2026927,
+        "lon": 72.9760078,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855463959,
+        "lat": 19.2149383,
+        "lon": 72.9774444,
+        "tags": {
+          "amenity": "fuel",
+          "compressed_air": "yes",
+          "fuel:cng": "yes",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "BPCL Fuel Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855463961,
+        "lat": 19.2196746,
+        "lon": 72.9783436,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855463962,
+        "lat": 19.2238361,
+        "lon": 72.9769694,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2430895505,
+        "lat": 19.2171097,
+        "lon": 72.9813156,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:housename": "3rd Floor, High Street Mall",
+          "addr:street": "Agra Road",
+          "amenity": "cinema",
+          "name": "CinemaStar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2440266920,
+        "lat": 19.1879291,
+        "lon": 72.9797476,
+        "tags": {
+          "addr:street": "Chendani Bunder Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name:en": "Cidco Bus Depot (Thane)",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4181542989,
+        "lat": 19.1949379,
+        "lon": 72.9709699,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Vandana Talkies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4647685694,
+        "lat": 19.1914245,
+        "lon": 72.9883018,
+        "tags": {
+          "addr:postcode": "400605",
+          "addr:street": "Thane Belapur Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name:en": "Kalwa Depot",
+          "operator": "TMT",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5224511221,
+        "lat": 19.2090014,
+        "lon": 72.9712169,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cin\u00e9polis",
+          "brand:wikidata": "Q5686673",
+          "level": "2",
+          "name": "Cinepolis",
+          "name:en": "Cinepolis",
+          "screen": "14"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899110,
+        "lat": 19.2115581,
+        "lon": 72.9757702,
+        "tags": {
+          "construction": "stop",
+          "name": "Majiwadi Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5689747204,
+        "lat": 19.1953415,
+        "lon": 72.9967893,
+        "tags": {
+          "name": "Kalwa",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6176092580,
+        "lat": 19.1962265,
+        "lon": 72.9978364,
+        "tags": {
+          "name": "Kalwa",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817476530,
+        "lat": 19.1860864,
+        "lon": 72.9744113,
+        "tags": {
+          "name": "Thane",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8342841400,
+        "lat": 19.2208048,
+        "lon": 72.9777973,
+        "tags": {
+          "construction": "stop",
+          "name": "Kapurbawdi Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8537895380,
+        "lat": 19.1918095,
+        "lon": 72.9757131,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9121318237,
+        "lat": 19.2012539,
+        "lon": 72.9650642,
+        "tags": {
+          "construction": "stop",
+          "name": "Mahapalika Bhavan Marg Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9121318238,
+        "lat": 19.2064179,
+        "lon": 72.9704485,
+        "tags": {
+          "construction": "stop",
+          "name": "Cadbury Junction Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9126268648,
+        "lat": 19.1934011,
+        "lon": 72.9627249,
+        "tags": {
+          "construction": "stop",
+          "name": "RTO Thane Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603060,
+        "lat": 19.2012863,
+        "lon": 72.9650295,
+        "tags": {
+          "construction": "stop",
+          "name": "Mahapalika Bhavan Marg Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603749,
+        "lat": 19.2115902,
+        "lon": 72.9757352,
+        "tags": {
+          "construction": "stop",
+          "name": "Majiwadi Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603793,
+        "lat": 19.1933948,
+        "lon": 72.9626765,
+        "tags": {
+          "construction": "stop",
+          "name": "RTO Thane Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2"
+        }
+      }
+    ]
+  }
+}

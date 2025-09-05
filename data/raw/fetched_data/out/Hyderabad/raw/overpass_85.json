@@ -1,0 +1,1943 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:45:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 355647256,
+        "lat": 17.442516,
+        "lon": 78.4483863,
+        "tags": {
+          "amenity": "bank",
+          "atm": "no",
+          "branch": "Balkampet",
+          "brand": "SBI",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "name:te": "\u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d \u0c2c\u0c4d\u0c2f\u0c3e\u0c02\u0c15\u0c4d \u0c06\u0c2b\u0c4d \u0c07\u0c02\u0c21\u0c3f\u0c2f\u0c3e, \u0c2c\u0c32\u0c4d\u0c15\u0c02\u0c2a\u0c47\u0c1f\u0c4d \u0c2c\u0c4d\u0c30\u0c3e\u0c02\u0c1a\u0c3f",
+          "operator": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 355647266,
+        "lat": 17.4393202,
+        "lon": 78.4473624,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Bowl O China",
+          "name:te": "\u0c2c\u0c4c\u0c32\u0c4d \u0c06' \u0c1a\u0c48\u0c28\u0c3e"
+        }
+      },
+      {
+        "type": "node",
+        "id": 513439512,
+        "lat": 17.4417142,
+        "lon": 78.4478775,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Ameerpet Government Hospital",
+          "name:te": "\u0c05\u0c2e\u0c40\u0c30\u0c4d\u200c\u0c2a\u0c47\u0c1f \u0c2a\u0c4d\u0c30\u0c2d\u0c41\u0c24\u0c4d\u0c35 \u0c06\u0c38\u0c41\u0c2a\u0c24\u0c4d\u0c30\u0c3f"
+        }
+      },
+      {
+        "type": "node",
+        "id": 513439517,
+        "lat": 17.4422795,
+        "lon": 78.4480341,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Sri Vijaya Hospitals",
+          "name:te": "\u0c36\u0c4d\u0c30\u0c40 \u0c35\u0c3f\u0c1c\u0c2f \u0c39\u0c3e\u0c38\u0c4d\u0c2a\u0c3f\u0c1f\u0c32\u0c4d\u0c38\u0c4d"
+        }
+      },
+      {
+        "type": "node",
+        "id": 538419187,
+        "lat": 17.4380102,
+        "lon": 78.4484466,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank",
+          "short_name": "HDFC",
+          "website": "https://www.hdfcbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 538425757,
+        "lat": 17.4376555,
+        "lon": 78.4484419,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500016",
+          "addr:street": "Ameerpet-Fateh Nagar Road",
+          "name": "Spenser's Supermarket",
+          "name:te": "\u0c38\u0c4d\u0c2a\u0c46\u0c28\u0c4d\u0c38\u0c30\u0c4d\u0c38\u0c4d",
+          "organic": "yes",
+          "shop": "supermarket",
+          "website": "https://www.spencers.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 538425758,
+        "lat": 17.4385109,
+        "lon": 78.4481174,
+        "tags": {
+          "brand": "Reliance Fresh",
+          "brand:wikidata": "Q7311014",
+          "brand:wikipedia": "en:Reliance Fresh",
+          "name": "Reliance Fresh",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 538425759,
+        "lat": 17.4387093,
+        "lon": 78.4503714,
+        "tags": {
+          "amenity": "pharmacy",
+          "branch": "Dharam Karam Road",
+          "brand": "Apollo Pharmacy",
+          "brand:wikidata": "Q62562612",
+          "dispensing": "yes",
+          "drive_through": "no",
+          "healthcare": "pharmacy",
+          "loc_name": "Apollo pharmacy",
+          "name": "Apollo Pharmacy",
+          "name:te": "\u0c39\u0c46\u0c30\u0c3f\u0c1f\u0c47\u0c1c\u0c4d \u0c2b\u0c4d\u0c30\u0c46\u0c37\u0c4d",
+          "opening_hours": "Mo-Su 07:00-23:00",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:upi": "yes",
+          "payment:upi_qr": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 817354362,
+        "lat": 17.43336,
+        "lon": 78.45607,
+        "tags": {
+          "amenity": "atm",
+          "cash_in": "no",
+          "check_date": "2025-01-07",
+          "name": "State Bank of India",
+          "operator": "State Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 889650690,
+        "lat": 17.4362425,
+        "lon": 78.457117,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Haveli"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1334686105,
+        "lat": 17.4413319,
+        "lon": 78.448238,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "indian",
+          "name": "Good Luck Cafe",
+          "name:te": "\u0c17\u0c41\u0c21\u0c4d\u200c\u0c32\u0c15\u0c4d \u0c15\u0c2b\u0c47"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1891041167,
+        "lat": 17.4325165,
+        "lon": 78.4574227,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "ITC Kakatiya"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2208171899,
+        "lat": 17.4302674,
+        "lon": 78.4564539,
+        "tags": {
+          "description": "it is a place for groceries",
+          "name": "Oasis Centre",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2590035130,
+        "lat": 17.4354982,
+        "lon": 78.4577331,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Ohri's Restaurant",
+          "note": "Vegeterian Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2712512903,
+        "lat": 17.4421937,
+        "lon": 78.4634506,
+        "tags": {
+          "leisure": "park",
+          "name": "Alam Thota Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3777423105,
+        "lat": 17.4304083,
+        "lon": 78.455843,
+        "tags": {
+          "addr:postcode": "500082",
+          "addr:street": "Raj Bhavan Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "Kotak Mahindra"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4214136895,
+        "lat": 17.4395391,
+        "lon": 78.4481,
+        "tags": {
+          "addr:street": "Ameerpet",
+          "amenity": "restaurant",
+          "name": "Roti Wala"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4320741194,
+        "lat": 17.4303803,
+        "lon": 78.4562201,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500016",
+          "addr:street": "Greenlands Road",
+          "brand": "Spar",
+          "brand:wikidata": "Q610492",
+          "brand:wikipedia": "en:Spar (retailer)",
+          "description": "it is a place where all groceries,electronic goods,children stuff,clothes and entertainment zone for kids\n",
+          "name": "Spar",
+          "organic": "yes",
+          "shop": "supermarket",
+          "website": "https://www.sparindia.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4486627616,
+        "lat": 17.4412523,
+        "lon": 78.4484844,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Suprabhat Tiffins",
+          "name:te": "\u0c38\u0c41\u0c2a\u0c4d\u0c30\u0c2d\u0c3e\u0c24\u0c4d \u0c1f\u0c3f\u0c2b\u0c3f\u0c28\u0c4d\u0c38\u0c4d",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4486660717,
+        "lat": 17.4396192,
+        "lon": 78.450794,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "7-1-71/A/1, Dharam Karam Road, Ameerpet",
+          "addr:postcode": "500016",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:email": "info@challahospital.com",
+          "contact:mobile": "9441318181",
+          "health_facility:type": "Multi Speciality OPD;Five Major Operation Theatres;Septic Operation Theatre;Post Op Ward;Neonatal ICU;Critical Care Unit;Critical Care Unit;Psychological Consultation",
+          "healthcare:speciality": "multi specialty",
+          "medical_system": "Allopathic",
+          "name": "Challa Hospital",
+          "name:te": "\u0c1a\u0c32\u0c4d\u0c32\u0c3e \u0c39\u0c38\u0c4d\u0c2a\u0c3f\u0c1f\u0c32\u0c4d",
+          "operator:type": "private",
+          "phone": "040 23744444;040 23731215;040 23731515;040 23734182",
+          "source": "OpenGovernmentData",
+          "website": "http://www.challahospital.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4486683632,
+        "lat": 17.4423416,
+        "lon": 78.4483312,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand:wikidata": "Q19882235",
+          "brand:wikipedia": "en:Bandhan Bank",
+          "name": "Bandhan Bank",
+          "name:en": "Bandhan Bank",
+          "name:te": "\u0c2c\u0c02\u0c27\u0c28\u0c4d \u0c2c\u0c4d\u0c2f\u0c3e\u0c02\u0c15\u0c41",
+          "website": "https://www.bandhanbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4504592549,
+        "lat": 17.4422362,
+        "lon": 78.4483264,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "ICICI Bank ATM",
+          "name:te": "\u0c10\u0c38\u0c40\u0c10\u0c38\u0c40\u0c10 \u0c2c\u0c4d\u0c2f\u0c3e\u0c02\u0c15\u0c41 \u0c0f\u0c1f\u0c40\u0c0e\u0c2e\u0c4d"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4516712844,
+        "lat": 17.443429,
+        "lon": 78.4488577,
+        "tags": {
+          "amenity": "atm",
+          "name": "SBI ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4516712845,
+        "lat": 17.443383,
+        "lon": 78.4488725,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Greenland",
+          "name:te": "\u0c17\u0c4d\u0c30\u0c40\u0c28\u0c4d\u200c\u0c32\u0c3e\u0c02\u0c21\u0c4d"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4516712848,
+        "lat": 17.4430016,
+        "lon": 78.4487515,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "breakfast"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4526392727,
+        "lat": 17.4375828,
+        "lon": 78.4484518,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "regional",
+          "name": "Amoga",
+          "name:te": "\u0c05\u0c2e\u0c4b\u0c17\u0c3e"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4526392729,
+        "lat": 17.4414545,
+        "lon": 78.4476425,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Cafe Bahar",
+          "name:te": "\u0c15\u0c2b\u0c46 \u0c2c\u0c39\u0c3e\u0c30\u0c4d"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4615723290,
+        "lat": 17.4363559,
+        "lon": 78.4565678,
+        "tags": {
+          "name": "Lifestyle",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6212803089,
+        "lat": 17.4379741,
+        "lon": 78.4563758,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "7-1-21, RAILWAY STATION ROAD, UMA NAGAR, BEGUMPET",
+          "addr:postcode": "500016",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:phone": "9000387345",
+          "healthcare": "hospital",
+          "name": "VINN Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6212803090,
+        "lat": 17.4443541,
+        "lon": 78.4625019,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Paradise Biryani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6488599602,
+        "lat": 17.4354676,
+        "lon": 78.4514661,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "7-1-59/4/8, Near Lal Bunglow, Ameerpet",
+          "addr:postcode": "500016",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "fax": "23735335",
+          "name": "Sri Sai Kidney Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6494235890,
+        "lat": 17.4312043,
+        "lon": 78.4553486,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "6-3-871/A, Greenlands Road, Behind Snehalata Complex, Begumpet",
+          "addr:postcode": "500016",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "check_date": "2025-01-07",
+          "name": "Vivekananda Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6494952509,
+        "lat": 17.4405861,
+        "lon": 78.4503195,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "2nd Floor, Bhaskara Hospital, Shivbagh Colony, Balkampet Road, Ameerpet",
+          "addr:postcode": "500016",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Vatsalya Institute Of Pediatrics Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6496916240,
+        "lat": 17.4376427,
+        "lon": 78.4524706,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "7-1-57/B&C, Shyam Karan Road, Anandbagh, Ameerpet",
+          "addr:postcode": "500016",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "fax": "23782333",
+          "healthcare": "hospital",
+          "name": "Apollo Spectra Hospitals",
+          "source": "OpenGovernmentData",
+          "wikidata": "Q52856798"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6504255627,
+        "lat": 17.4407735,
+        "lon": 78.4492117,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "7-1-212/5, Shiv Bagh, Balkampety Road, Ameerpet",
+          "addr:postcode": "500016",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Bhavika Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6549122751,
+        "lat": 17.435904,
+        "lon": 78.4499786,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "D.NO. 7-1-79/A & 79/B, DHARAM KARAM ROAD, AMEERPET",
+          "addr:postcode": "500016",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:email": "info@wellnesshospital.in",
+          "contact:phone": "040-66667779",
+          "healthcare": "hospital",
+          "name": "Wellness Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://www.wellnesshospital.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6771713700,
+        "lat": 17.4296516,
+        "lon": 78.4554308,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sri Kanya Comfort"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6811749114,
+        "lat": 17.4452339,
+        "lon": 78.4617537,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "1-11-240/2D, Shyamalal Building, Near Ganesh Temple,Begumpet",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Sri Sai Rama Clinic",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6850830333,
+        "lat": 17.4455149,
+        "lon": 78.4613656,
+        "tags": {
+          "name": "Vegetable And Fruit Market",
+          "shop": "supermarket",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6935611887,
+        "lat": 17.4410591,
+        "lon": 78.4626247,
+        "tags": {
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7088365504,
+        "lat": 17.4376637,
+        "lon": 78.4484512,
+        "tags": {
+          "name": "Spencars",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7088365506,
+        "lat": 17.4394005,
+        "lon": 78.4483772,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Ayyangar Bakery"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7113495585,
+        "lat": 17.4386398,
+        "lon": 78.4472845,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7113730487,
+        "lat": 17.4386513,
+        "lon": 78.4491007,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "name": "Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7114512486,
+        "lat": 17.4402997,
+        "lon": 78.4471777,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Care medical shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140556933,
+        "lat": 17.4421722,
+        "lon": 78.4504951,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:housenumber": "7-1-68/69",
+          "addr:postcode": "500016",
+          "addr:street": "Dharam Karan Road,Ameerpet",
+          "addr:street:en": "Dharam Karam Road",
+          "internet_access": "yes",
+          "leisure": "park",
+          "name": "S J Patel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7171348236,
+        "lat": 17.437253,
+        "lon": 78.4481274,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500016",
+          "addr:street": "sathyam theater road",
+          "amenity": "fast_food",
+          "name": "Midland",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7174145047,
+        "lat": 17.4377437,
+        "lon": 78.4621371,
+        "tags": {
+          "amenity": "atm",
+          "cash_in": "yes",
+          "currency:INR": "yes",
+          "network": "State bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7174406403,
+        "lat": 17.4386462,
+        "lon": 78.4596617,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Diners Restaurant",
+          "opening_hours": "Mo-Su 09:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244229677,
+        "lat": 17.4349848,
+        "lon": 78.4498652,
+        "tags": {
+          "branch": "Ameerpet",
+          "check_date": "2025-01-02",
+          "level": "0",
+          "name": "Ratnadeep Supermarkets",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "operator": "Ratnadeep Retail Pvt. Ltd.",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:rupay": "yes",
+          "payment:upi": "yes",
+          "payment:visa": "yes",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244230209,
+        "lat": 17.4389061,
+        "lon": 78.448525,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244300075,
+        "lat": 17.4413765,
+        "lon": 78.4481893,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Paradise - Take Away",
+          "note": "Only take away counter"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8386162493,
+        "lat": 17.4364234,
+        "lon": 78.4596158,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Uma Nagar",
+          "brand": "Karnataka Bank",
+          "brand:wikidata": "Q2042632",
+          "brand:wikipedia": "en:Karnataka Bank",
+          "name": "Karnataka Bank",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8759356830,
+        "lat": 17.438752,
+        "lon": 78.4505019,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "7-1-201/2, Above Food World Supermarket, Preeth Complex, Dharam Karam Road, Ameerpet, Hyderabad",
+          "addr:postcode": "500016",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Partha Dental Skin Hair Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8941597911,
+        "lat": 17.4410576,
+        "lon": 78.4492145,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:housenumber": "KL Health Centre,7-1-215 C/1",
+          "addr:postcode": "500082",
+          "addr:street": "Ameerpet- Balkampet Main Road, Ameerpet,",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "Spine_Surgery",
+          "name": "KL HEALTH CENTRE CLINIC",
+          "website": "https://www.klspinesurgeon.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9611895277,
+        "lat": 17.438001,
+        "lon": 78.4563763,
+        "tags": {
+          "amenity": "hospital",
+          "emergency": "yes",
+          "healthcare": "hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10279582855,
+        "lat": 17.44101,
+        "lon": 78.4509941,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:street": "DharamKaram Road",
+          "name": "Ratnadeep Super Market",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11934109534,
+        "lat": 17.4412713,
+        "lon": 78.4487486,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "S. R. Nagar",
+          "addr:state": "Telangana",
+          "addr:street": "S. R. Nagar",
+          "addr:subdistrict": "Ameerpet",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Government Homoeo Dispensary, Ameerpet",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11940214216,
+        "lat": 17.4418967,
+        "lon": 78.4481001,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Sr Nagar",
+          "addr:state": "Telangana",
+          "addr:street": "OPP. SR Nagar Police Station",
+          "addr:subdistrict": "Ameerpet",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Urban Primary Health Centre, Ameerpet",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:45:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 289582012,
+        "lat": 17.4245107,
+        "lon": 78.4626514,
+        "tags": {
+          "name": "Necklace Road",
+          "name:te": "\u0c28\u0c46\u0c15\u0c4d\u0c32\u0c46\u0c38\u0c4d \u0c30\u0c4b\u0c21\u0c4d\u0c21\u0c41",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 289582401,
+        "lat": 17.4233355,
+        "lon": 78.4631857,
+        "tags": {
+          "internet_access": "no",
+          "name": "Necklace Road",
+          "name:te": "\u0c28\u0c46\u0c15\u0c4d\u0c32\u0c46\u0c38\u0c4d \u0c30\u0c4b\u0c21\u0c4d\u0c21\u0c41",
+          "name:ur": "\u0646\u06a9\u0644\u06cc\u0633 \u0631\u0648\u0688",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NLRD",
+          "train": "yes",
+          "wikidata": "Q6985575",
+          "wikipedia": "en:Necklace Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 343319245,
+        "lat": 17.4456571,
+        "lon": 78.4521487,
+        "tags": {
+          "internet_access": "no",
+          "name": "Nature Cure Hospital",
+          "name:te": "\u0c2a\u0c4d\u0c30\u0c15\u0c43\u0c24\u0c3f \u0c1a\u0c3f\u0c15\u0c3f\u0c24\u0c4d\u0c38\u0c3e\u0c32\u0c2f \u0c30\u0c48\u0c32\u0c4d\u0c35\u0c47 \u0c38\u0c4d\u0c1f\u0c47\u0c37\u0c28\u0c4d",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NCHS",
+          "train": "yes",
+          "wikidata": "Q6980906",
+          "wikipedia": "en:Nature Cure Hospital railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 343641073,
+        "lat": 17.4386951,
+        "lon": 78.4580969,
+        "tags": {
+          "internet_access": "no",
+          "name": "Begumpet",
+          "name:te": "\u0c2c\u0c47\u0c17\u0c02\u0c2a\u0c47\u0c1f\u0c4d",
+          "name:ur": "\u0628\u06cc\u06af\u0645 \u067e\u06cc\u0679",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BMT",
+          "train": "yes",
+          "wikidata": "Q4880629",
+          "wikipedia": "en:Begumpet railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 813570842,
+        "lat": 17.4263594,
+        "lon": 78.451396,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 814748141,
+        "lat": 17.4273769,
+        "lon": 78.4395446,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 817353703,
+        "lat": 17.4449593,
+        "lon": 78.4671058,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 817354434,
+        "lat": 17.4445955,
+        "lon": 78.4616641,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 890312487,
+        "lat": 17.418803,
+        "lon": 78.4484007,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "INOX Cinema",
+          "name:te": "\u0c10\u0c28\u0c3e\u0c15\u0c4d\u0c38\u0c4d \u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1666010778,
+        "lat": 17.4232572,
+        "lon": 78.4589653,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "fuel:diesel": "yes",
+          "fuel:octane_91": "yes",
+          "name": "Shell Petrol Bunk",
+          "operator": "Shell"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1883484106,
+        "lat": 17.4302638,
+        "lon": 78.4484072,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:state": "Telangana",
+          "addr:street": "Ameerpet Road",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "name": "Platinum Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2352099065,
+        "lat": 17.4211261,
+        "lon": 78.4559994,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "Indian Oil Fuel Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2352100154,
+        "lat": 17.4206051,
+        "lon": 78.4563468,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "building": "yes",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422172970,
+        "lat": 17.4375661,
+        "lon": 78.4569341,
+        "tags": {
+          "name": "Begumpet",
+          "name:ml": "\u0d2c\u0d47\u0d17\u0d02\u0d2a\u0d47\u0d1f\u0d4d\u0d1f\u0d4d",
+          "name:te": "\u0c2c\u0c47\u0c17\u0c02\u0c2a\u0c47\u0c1f\u0c4d",
+          "name:ur": "\u0628\u06cc\u06af\u0645 \u067e\u06cc\u0679",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422172987,
+        "lat": 17.4375612,
+        "lon": 78.4569588,
+        "tags": {
+          "name": "Begumpet",
+          "name:te": "\u0c2c\u0c47\u0c17\u0c02\u0c2a\u0c47\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q84301996",
+          "wikipedia": "en:Begumpet metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422172989,
+        "lat": 17.436951,
+        "lon": 78.4391108,
+        "tags": {
+          "alt_name": "Taruni Madhura Nagar",
+          "name": "Madhura Nagar",
+          "name:te": "\u0c2e\u0c27\u0c41\u0c30 \u0c28\u0c17\u0c30\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422172990,
+        "lat": 17.4448686,
+        "lon": 78.4658736,
+        "tags": {
+          "name": "Prakash Nagar",
+          "name:te": "\u0c2a\u0c4d\u0c30\u0c15\u0c3e\u0c36\u0c4d\u200c\u0c28\u0c17\u0c30\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173010,
+        "lat": 17.4435921,
+        "lon": 78.4764056,
+        "tags": {
+          "name": "Rasoolpura",
+          "name:te": "\u0c30\u0c38\u0c42\u0c32\u0c4d\u200c\u0c2a\u0c41\u0c30",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173110,
+        "lat": 17.4353341,
+        "lon": 78.4446031,
+        "tags": {
+          "name": "Ameerpet",
+          "name:te": "\u0c05\u0c2e\u0c40\u0c30\u0c4d\u200c\u0c2a\u0c47\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q56701862",
+          "wikipedia": "en:Ameerpet metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422988997,
+        "lat": 17.4355002,
+        "lon": 78.4447343,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Ameerpet",
+          "name:te": "\u0c05\u0c2e\u0c40\u0c30\u0c4d\u200c\u0c2a\u0c47\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q56701862",
+          "wikipedia": "en:Ameerpet metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422989191,
+        "lat": 17.4202292,
+        "lon": 78.4563489,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Irrum Manzil",
+          "name:ml": "\u0d0e\u0d31\u0d02 \u0d2e\u0d7b\u0d38\u0d3f\u0d7d",
+          "name:te": "\u0c07\u0c31\u0c02 \u0c2e\u0c02\u0c1c\u0c3f\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422989193,
+        "lat": 17.443146,
+        "lon": 78.4408077,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "S. R. Nagar",
+          "name:te": "\u0c0e\u0c38\u0c4d.\u0c06\u0c30\u0c4d. \u0c28\u0c17\u0c30\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2424019772,
+        "lat": 17.4284456,
+        "lon": 78.4513095,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Panjagutta",
+          "name:ml": "\u0d2a\u0d1e\u0d4d\u0d1a\u0d17\u0d41\u0d1f\u0d4d\u0d1f",
+          "name:te": "\u0c2a\u0c02\u0c1c\u0c3e\u0c17\u0c41\u0c1f\u0c4d\u0c1f",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2425474186,
+        "lat": 17.4470156,
+        "lon": 78.438567,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "ESI Hospital",
+          "name:ml": "\u0d07.\u0d0e\u0d38\u0d4d.\u0d10 \u0d06\u0d36\u0d41\u0d2a\u0d24\u0d4d\u0d30\u0d3f",
+          "name:te": "\u0c08.\u0c0e\u0c38\u0c4d.\u0c10 \u0c06\u0c38\u0c4d\u0c2a\u0c24\u0c4d\u0c30\u0c3f",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2461447890,
+        "lat": 17.4385942,
+        "lon": 78.458062,
+        "tags": {
+          "name": "Begumpet",
+          "name:kn": "\u0cac\u0cc7\u0c97\u0c82\u0caa\u0cc7\u0c9f\u0cc6",
+          "name:ur": "\u0628\u06cc\u06af\u0645 \u067e\u06cc\u0679",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "2",
+          "train": "yes",
+          "wikidata": "Q4880629",
+          "wikipedia": "en:Begumpet railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2461447891,
+        "lat": 17.4386323,
+        "lon": 78.4580666,
+        "tags": {
+          "name": "Begumpet",
+          "name:kn": "\u0cac\u0cc7\u0c97\u0c82\u0caa\u0cc7\u0c9f\u0cc6",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2528192961,
+        "lat": 17.4356742,
+        "lon": 78.4763981,
+        "tags": {
+          "name": "Sanjeevaiah Park",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2528193014,
+        "lat": 17.4562011,
+        "lon": 78.4499241,
+        "tags": {
+          "internet_access": "no",
+          "name": "Fateh Nagar",
+          "name:ur": "\u0641\u062a\u062d \u0646\u06af\u0631",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "FNB",
+          "train": "yes",
+          "wikidata": "Q5437396",
+          "wikipedia": "en:Fateh Nagar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3159027221,
+        "lat": 17.4362648,
+        "lon": 78.4381583,
+        "tags": {
+          "addr:street": "Yousufguda Main Road",
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil",
+          "opening_hours": "11:00-22:00",
+          "operator": "Indian oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3272863814,
+        "lat": 17.45498,
+        "lon": 78.4478717,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500018",
+          "addr:street": "Sanath Nagar Main Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Sanath Nagar Bus Depot",
+          "operator": "Government",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3784388218,
+        "lat": 17.4245006,
+        "lon": 78.4626111,
+        "tags": {
+          "name": "Necklace Road",
+          "name:te": "\u0c28\u0c46\u0c15\u0c4d\u0c32\u0c46\u0c38\u0c4d \u0c30\u0c4b\u0c21\u0c4d\u0c21\u0c41",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4556707782,
+        "lat": 17.4457469,
+        "lon": 78.4522785,
+        "tags": {
+          "local_ref": "1",
+          "name": "Nature Cure Hospital",
+          "name:te": "\u0c2a\u0c4d\u0c30\u0c15\u0c43\u0c24\u0c3f \u0c1a\u0c3f\u0c15\u0c3f\u0c24\u0c4d\u0c38\u0c3e\u0c32\u0c2f \u0c30\u0c48\u0c32\u0c4d\u0c35\u0c47 \u0c38\u0c4d\u0c1f\u0c47\u0c37\u0c28\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4556707783,
+        "lat": 17.445761,
+        "lon": 78.4523207,
+        "tags": {
+          "local_ref": "2",
+          "name": "Nature Cure Hospital",
+          "name:te": "\u0c2a\u0c4d\u0c30\u0c15\u0c43\u0c24\u0c3f \u0c1a\u0c3f\u0c15\u0c3f\u0c24\u0c4d\u0c38\u0c3e\u0c32\u0c2f \u0c30\u0c48\u0c32\u0c4d\u0c35\u0c47 \u0c38\u0c4d\u0c1f\u0c47\u0c37\u0c28\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4915906017,
+        "lat": 17.4306214,
+        "lon": 78.4556721,
+        "tags": {
+          "amenity": "fuel",
+          "compressed_air": "yes",
+          "name": "Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5620024293,
+        "lat": 17.4195272,
+        "lon": 78.4486519,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "INOX",
+          "name:te": "\u0c10\u0c28\u0c3e\u0c15\u0c4d\u0c38\u0c4d",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787787982,
+        "lat": 17.4353528,
+        "lon": 78.4446353,
+        "tags": {
+          "name": "Ameerpet",
+          "name:te": "\u0c05\u0c2e\u0c40\u0c30\u0c4d\u200c\u0c2a\u0c47\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q56701862",
+          "wikipedia": "en:Ameerpet metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787787991,
+        "lat": 17.4354849,
+        "lon": 78.4447024,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Ameerpet",
+          "name:te": "\u0c05\u0c2e\u0c40\u0c30\u0c4d\u200c\u0c2a\u0c47\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q56701862",
+          "wikipedia": "en:Ameerpet metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787787993,
+        "lat": 17.4431312,
+        "lon": 78.4407689,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "S. R. Nagar",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788011,
+        "lat": 17.4289005,
+        "lon": 78.4508989,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Panjagutta",
+          "name:ml": "\u0d2a\u0d1e\u0d4d\u0d1a\u0d17\u0d41\u0d1f\u0d4d\u0d1f",
+          "name:te": "\u0c2a\u0c02\u0c1c\u0c3e\u0c17\u0c41\u0c1f\u0c4d\u0c1f",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788969,
+        "lat": 17.4375841,
+        "lon": 78.456906,
+        "tags": {
+          "name": "Begumpet",
+          "name:te": "\u0c2c\u0c47\u0c17\u0c02\u0c2a\u0c47\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q84301996",
+          "wikipedia": "en:Begumpet metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788982,
+        "lat": 17.4449044,
+        "lon": 78.465879,
+        "tags": {
+          "name": "Prakash Nagar",
+          "name:te": "\u0c2a\u0c4d\u0c30\u0c15\u0c3e\u0c36\u0c4d\u200c\u0c28\u0c17\u0c30\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6444553238,
+        "lat": 17.4431396,
+        "lon": 78.4407903,
+        "tags": {
+          "name": "S. R. Nagar",
+          "name:ml": "\u0d0e\u0d38\u0d4d \u0d06\u0d7c \u0d28\u0d17\u0d7c",
+          "name:te": "\u0c0e\u0c38\u0c4d.\u0c06\u0c30\u0c4d. \u0c28\u0c17\u0c30\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q83175963"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6447191882,
+        "lat": 17.4357214,
+        "lon": 78.4447933,
+        "tags": {
+          "name": "Ameerpet (Red Line)",
+          "name:ml": "\u0d05\u0d2e\u0d40\u0d7c\u0d2a\u0d47\u0d1f\u0d4d\u0d1f\u0d4d",
+          "name:te": "\u0c05\u0c2e\u0c40\u0c30\u0c4d\u200c\u0c2a\u0c47\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q56701862",
+          "wikipedia": "en:Ameerpet metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6700511122,
+        "lat": 17.4352864,
+        "lon": 78.4447834,
+        "tags": {
+          "name": "Ameerpet (Blue Line)",
+          "name:ml": "\u0d05\u0d2e\u0d40\u0d7c\u0d2a\u0d47\u0d1f\u0d4d\u0d1f\u0d4d",
+          "name:te": "\u0c05\u0c2e\u0c40\u0c30\u0c4d\u200c\u0c2a\u0c47\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q56701862",
+          "wikipedia": "en:Ameerpet metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6771713701,
+        "lat": 17.4267669,
+        "lon": 78.4531002,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:state": "Telangana",
+          "addr:street": "Punjagutta",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "description": "it is a place for wa\ntching movies",
+          "name": "PVR Cinemas",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069760,
+        "lat": 17.443612,
+        "lon": 78.4764053,
+        "tags": {
+          "name": "Rasoolpura",
+          "name:ml": "\u0d31\u0d38\u0d42\u0d7d\u0d2a\u0d41\u0d30",
+          "name:te": "\u0c30\u0c38\u0c42\u0c32\u0c4d\u200c\u0c2a\u0c41\u0c30",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q84358120"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069761,
+        "lat": 17.443638,
+        "lon": 78.4764095,
+        "tags": {
+          "name": "Rasoolpura",
+          "name:te": "\u0c30\u0c38\u0c42\u0c32\u0c4d\u200c\u0c2a\u0c41\u0c30",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069766,
+        "lat": 17.4448889,
+        "lon": 78.4658749,
+        "tags": {
+          "name": "Prakash Nagar",
+          "name:ml": "\u0d2a\u0d4d\u0d30\u0d15\u0d3e\u0d36\u0d4d \u0d28\u0d17\u0d7c",
+          "name:te": "\u0c2a\u0c4d\u0c30\u0c15\u0c3e\u0c36\u0c4d\u200c\u0c28\u0c17\u0c30\u0c4d",
+          "name:ur": "\u067e\u0631\u06a9\u0627\u0634 \u0646\u06af\u0631",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q84499965"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069769,
+        "lat": 17.4369785,
+        "lon": 78.4390865,
+        "tags": {
+          "alt_name": "Taruni Madhura Nagar",
+          "name": "Madhura Nagar",
+          "name:te": "\u0c2e\u0c27\u0c41\u0c30 \u0c28\u0c17\u0c30\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069770,
+        "lat": 17.4369652,
+        "lon": 78.4390993,
+        "tags": {
+          "alt_name": "Taruni Madhura Nagar",
+          "name": "Madhura Nagar",
+          "name:ml": "\u0d2e\u0d27\u0d41\u0d30 \u0d28\u0d17\u0d7c",
+          "name:te": "\u0c2e\u0c27\u0c41\u0c30 \u0c28\u0c17\u0c30\u0c4d",
+          "name:ur": "\u0645\u062f\u06be\u0648\u0631\u0627 \u0646\u06af\u0631",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q63250572"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636066509,
+        "lat": 17.4568537,
+        "lon": 78.4500012,
+        "tags": {
+          "name": "Fateh Nagar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636066510,
+        "lat": 17.456849,
+        "lon": 78.4499607,
+        "tags": {
+          "name": "Fateh Nagar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8113828150,
+        "lat": 17.449229,
+        "lon": 78.4496696,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500018",
+          "addr:street": "Balakampet",
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10789422582,
+        "lat": 17.4346495,
+        "lon": 78.448776,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:state": "Telangana",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "min_age": "18",
+          "name": "Sheesh Mahal"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10789422583,
+        "lat": 17.4371929,
+        "lon": 78.448703,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:state": "Telangana",
+          "addr:street": "Ameerpet",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "branch": "Ameerpet",
+          "brand": "Asian",
+          "name": "AAA Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10789477897,
+        "lat": 17.4286801,
+        "lon": 78.4504275,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:state": "Telangana",
+          "addr:street": "Punjagutta",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "branch": "Punjagutta",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR Next Galleria",
+          "short_name": "PVR",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10789488362,
+        "lat": 17.4208001,
+        "lon": 78.4554217,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:state": "Telangana",
+          "addr:street": "Irrum manzil Road",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "branch": "Irrum Manzil",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR Next premia",
+          "short_name": "PVR",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11027534565,
+        "lat": 17.4304735,
+        "lon": 78.4483917,
+        "tags": {
+          "amenity": "cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179192,
+        "lat": 17.4209654,
+        "lon": 78.4558011,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Irrum Manzil",
+          "name:ml": "\u0d0e\u0d31\u0d02 \u0d2e\u0d7b\u0d38\u0d3f\u0d7d",
+          "name:te": "\u0c07\u0c31\u0c02 \u0c2e\u0c02\u0c1c\u0c3f\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179193,
+        "lat": 17.4205559,
+        "lon": 78.456101,
+        "tags": {
+          "internet_access": "no",
+          "name": "Irrum Manzil",
+          "name:ml": "\u0d0e\u0d31\u0d02 \u0d2e\u0d7b\u0d38\u0d3f\u0d7d",
+          "name:te": "\u0c07\u0c31\u0c02 \u0c2e\u0c02\u0c1c\u0c3f\u0c32\u0c4d",
+          "name:ur": "\u0627\u0631\u0645 \u0645\u0646\u0632\u0644",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://hmrl.co.in",
+          "wheelchair": "yes",
+          "wikidata": "Q85770033"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179195,
+        "lat": 17.4474042,
+        "lon": 78.4383501,
+        "tags": {
+          "internet_access": "no",
+          "name": "ESI Hospital",
+          "name:ml": "\u0d07.\u0d0e\u0d38\u0d4d.\u0d10 \u0d06\u0d36\u0d41\u0d2a\u0d24\u0d4d\u0d30\u0d3f",
+          "name:te": "\u0c08.\u0c0e\u0c38\u0c4d.\u0c10 \u0c06\u0c38\u0c4d\u0c2a\u0c24\u0c4d\u0c30\u0c3f",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://hmrl.co.in",
+          "wheelchair": "yes",
+          "wikidata": "Q83008743"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179216,
+        "lat": 17.4477279,
+        "lon": 78.4381333,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "ESI Hospital",
+          "name:ml": "\u0d07.\u0d0e\u0d38\u0d4d.\u0d10 \u0d06\u0d36\u0d41\u0d2a\u0d24\u0d4d\u0d30\u0d3f",
+          "name:te": "\u0c08.\u0c0e\u0c38\u0c4d.\u0c10 \u0c06\u0c38\u0c4d\u0c2a\u0c24\u0c4d\u0c30\u0c3f",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738663633,
+        "lat": 17.4286312,
+        "lon": 78.4511322,
+        "tags": {
+          "internet_access": "no",
+          "name": "Panjagutta",
+          "name:ml": "\u0d2a\u0d1e\u0d4d\u0d1a\u0d17\u0d41\u0d1f\u0d4d\u0d1f",
+          "name:te": "\u0c2a\u0c02\u0c1c\u0c3e\u0c17\u0c41\u0c1f\u0c4d\u0c1f",
+          "name:ur": "\u067e\u0646\u062c\u06c1 \u06af\u0679\u06c1",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://hmrl.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12114475129,
+        "lat": 17.435725,
+        "lon": 78.4764076,
+        "tags": {
+          "name": "Sanjeevaiah Park",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12231561141,
+        "lat": 17.4356998,
+        "lon": 78.4764022,
+        "tags": {
+          "internet_access": "no",
+          "name": "Sanjeevaiah Park",
+          "name:te": "\u0c38\u0c02\u0c1c\u0c40\u0c35\u0c2f\u0c4d\u0c2f \u0c2a\u0c3e\u0c30\u0c4d\u0c15\u0c4d",
+          "name:ur": "\u0633\u0646\u062c\u06cc\u0648\u06cc\u0627 \u067e\u0627\u0631\u06a9",
+          "network": "Indian Railways",
+          "operator": "South Central Railway",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SJVP",
+          "train": "yes",
+          "wikidata": "Q7418525",
+          "wikipedia": "en:Sanjeevaiah Park railway station"
+        }
+      }
+    ]
+  }
+}

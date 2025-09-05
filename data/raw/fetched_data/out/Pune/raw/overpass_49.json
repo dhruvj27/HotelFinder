@@ -1,0 +1,384 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:16:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1800027123,
+        "lat": 18.5685148,
+        "lon": 73.9074459,
+        "tags": {
+          "addr:city": "pune",
+          "addr:housenumber": "No. 3, Town Square",
+          "addr:postcode": "411047",
+          "addr:street": "Shopping Center Sr.No. 230A, Hissa, 1, New Airport Rd, Viman Nagar, Pune, Maharashtra 411047, India",
+          "name": "Dorabjee's - Viman Nagar",
+          "organic": "yes",
+          "shop": "supermarket",
+          "website": "https://dorabjeesonline.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7226727390,
+        "lat": 18.5770661,
+        "lon": 73.8990724,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "MLS Colony, Dhanori, Pune",
+          "addr:postcode": "411032",
+          "addr:state": "Maharashtra",
+          "addr:subdistrict": "Pune City",
+          "amenity": "hospital",
+          "name": "Chris Rock Edward Paul Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8266542196,
+        "lat": 18.5689702,
+        "lon": 73.9071595,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Poona Superspeciality Clinic, Viman Nagar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "Surgical_Oncologist",
+          "name": "Dr Sanket Bankar - oncosurgeon",
+          "website": "https://www.oncosurgeonpune.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9866082391,
+        "lat": 18.568648,
+        "lon": 73.9084491,
+        "tags": {
+          "addr:floor": "9",
+          "amenity": "restaurant",
+          "name": "The Mafia Sky Lounge",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9889701510,
+        "lat": 18.5686242,
+        "lon": 73.9074649,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "102, First Floor, Town Square, Above Dorabjee\u2019s,, B/H Symbiosis Law School VIP Viman Nagar, New Airport Rd, Mhada Colony,, Viman Nagar,Maharashtra, India",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "urology",
+          "name": "Urozoone Kidney care clinic",
+          "opening_hours": "available on call",
+          "operator": "Novosalus",
+          "operator:type": "private",
+          "website": "https://www.urozoone.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10284239781,
+        "lat": 18.5685732,
+        "lon": 73.9070999,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "306A",
+          "addr:postcode": "411014",
+          "addr:street": "3rd Floor, Healing Touch Multispeciality Clinic, Town Square Bldg, Off, New Airport Rd, Mhada Colony, Viman Nagar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "athritis_treatment",
+          "name": "Healing Touch Multispeciality Clinic",
+          "opening_hours": "Mo-Sa 10:00-22:00",
+          "operator": "Novosalus",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10567167410,
+        "lat": 18.5697167,
+        "lon": 73.9108986,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Planet Chemist"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10755920583,
+        "lat": 18.5755375,
+        "lon": 73.9069211,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "Shope 127,  First Floor, Shubh Gateway",
+          "addr:postcode": "411014",
+          "addr:street": "Airport New Road",
+          "amenity": "hospital",
+          "description": "Well maintained dental clinic with highly experienced doctor.",
+          "email": "whiteshineclinic@gmail.com",
+          "emergency": "yes",
+          "healthcare": "hospital",
+          "healthcare:speciality": "dentist",
+          "name": "White Shine Multispeciality Dental Clinic",
+          "operator": "Dr Heena Sonawane Sharma",
+          "operator:type": "business",
+          "phone": "+919067440494"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11065644757,
+        "lat": 18.5678173,
+        "lon": 73.9099372,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Dei Gratia, Viman nagar",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop;pizza;burger;italian;sandwich;chicken;french;pasta;indian;ice_cream;dessert;chocolate",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Backseat Brews",
+          "opening_hours": "Mo-Su 09:00-23:00",
+          "phone": "+918888437374"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11955615324,
+        "lat": 18.577677,
+        "lon": 73.907668,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "Restaurant No.01, Second Floor, Aero Mall,",
+          "addr:postcode": "411014",
+          "addr:street": "Airport New Road",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "capacity": "200+",
+          "cuisine": "seafood;pizza;coffee;italian;chicken;indian;asian;fish;dessert;chocolate;chinese",
+          "description": "\ud83c\udfa3 Reel in the Goan Experience | The Fisherman's Wharf Bar & Restaurant \ud83c\udf7d\ufe0f | Savour seafood delights & global vibes! \ud83c\udf0a |",
+          "diet:chicken": "yes",
+          "diet:fish": "yes",
+          "diet:local": "yes",
+          "diet:non-vegetarian": "yes",
+          "diet:seafood": "yes",
+          "diet:vegetarian": "yes",
+          "email": "tfwpune@gmail.com",
+          "highchair": "yes",
+          "internet_access": "wlan",
+          "name": "The Fisherman's Wharf",
+          "opening_hours": "Mo-Su 10:00-04:00",
+          "outdoor_seating": "yes",
+          "phone": "7558478444",
+          "smoking": "isolated",
+          "takeaway": "yes",
+          "toilets": "yes",
+          "website": "https://www.thefishermanswharf.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12383884204,
+        "lat": 18.5668819,
+        "lon": 73.9106949,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Viman Nagar Road",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "internet_access": "no",
+          "name": "Brew Culture",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12383891002,
+        "lat": 18.5697053,
+        "lon": 73.910701,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Pratapkumar Path",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "name": "alag aasmaan",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12794484463,
+        "lat": 18.5682355,
+        "lon": 73.9060958,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "name": "Cafe A26"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:16:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 763513035,
+        "lat": 18.5751841,
+        "lon": 73.8995588,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "509",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 763515722,
+        "lat": 18.5751028,
+        "lon": 73.8970804,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Kekan Petrol Pump (HP)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 763515723,
+        "lat": 18.5736645,
+        "lon": 73.8849523,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil",
+          "operator": "Sawant Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9152005063,
+        "lat": 18.5778259,
+        "lon": 73.903067,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Kendriya Vidyalaya Lohgaon",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9152005064,
+        "lat": 18.5778484,
+        "lon": 73.9029879,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Kendriya Vidyalaya Lohgaon",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10844985580,
+        "lat": 18.5778315,
+        "lon": 73.9073489,
+        "tags": {
+          "access": "yes",
+          "addr:floor": "1",
+          "amenity": "charging_station",
+          "capacity": "2",
+          "description": "60kW charger. Space for 2 cars.",
+          "fee": "yes",
+          "level": "1",
+          "source": "local knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340494,
+        "lat": 18.5571164,
+        "lon": 73.9085719,
+        "tags": {
+          "layer": "2",
+          "name": "Ramwadi",
+          "name:mr": "\u0930\u093e\u092e\u0935\u093e\u0921\u0940",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340656,
+        "lat": 18.5570831,
+        "lon": 73.9085916,
+        "tags": {
+          "layer": "2",
+          "name": "Ramwadi",
+          "name:mr": "\u0930\u093e\u092e\u0935\u093e\u0921\u0940",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340657,
+        "lat": 18.5571183,
+        "lon": 73.9086071,
+        "tags": {
+          "name": "Ramwadi",
+          "name:mr": "\u0930\u093e\u092e\u0935\u093e\u0921\u0940",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikipedia": "en:Ramwadi metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12863629710,
+        "lat": 18.5795095,
+        "lon": 73.9099537,
+        "tags": {
+          "aeroway": "terminal"
+        }
+      }
+    ]
+  }
+}

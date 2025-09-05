@@ -1,0 +1,722 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:29:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4351104821,
+        "lat": 26.8907248,
+        "lon": 75.7728969,
+        "tags": {
+          "name": "Palika Bazaar",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4351104822,
+        "lat": 26.8906866,
+        "lon": 75.7724248,
+        "tags": {
+          "name": "Big Bazaar",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4623697391,
+        "lat": 26.8933272,
+        "lon": 75.7694168,
+        "tags": {
+          "amenity": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5144800321,
+        "lat": 26.8945386,
+        "lon": 75.7683878,
+        "tags": {
+          "addr:street": "Janpath",
+          "amenity": "restaurant",
+          "name:en": "Food court Indian/Belgium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7024812754,
+        "lat": 26.8944983,
+        "lon": 75.7640308,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "B 36 Shyam Nagar Sodala",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Sharad Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7027768952,
+        "lat": 26.8940283,
+        "lon": 75.7694166,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "D-27, Shyam Nagar, New Sanganer Road, Sodala",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Vardhman Hospital, Jaipur",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7038146063,
+        "lat": 26.8982742,
+        "lon": 75.765447,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "S-9, Ajmer Road, Shyam Nagar, Near Vipul Motors, Sodala",
+          "addr:postcode": "302003",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Dwarka Orthopaedic and Trauma Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7038167921,
+        "lat": 26.9012953,
+        "lon": 75.7702173,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Sodala, Ajmer Road",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Sevayatan Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7039387654,
+        "lat": 26.8974788,
+        "lon": 75.7717301,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "18-19, Kailash Puri - A, New Sanganer Road, Opposite Bank Of Baroda, Sodala",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Atulya Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040129019,
+        "lat": 26.8979859,
+        "lon": 75.7679924,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "A-1-A Shyam Nagar Sodala",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Manu Hospital and Research Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040147102,
+        "lat": 26.893209,
+        "lon": 75.7630987,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "B, 106, Janpath, Shyam Nagar",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Bansal Hospital,Jaipur",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040217320,
+        "lat": 26.8941293,
+        "lon": 75.7708476,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "D-135, Jawpath, New Sanganer Road",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Dr. Goyal's Path Lab and Imaging Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040396604,
+        "lat": 26.9026061,
+        "lon": 75.7708114,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Sodala",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Kabra Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135342,
+        "lat": 26.8942626,
+        "lon": 75.7642069,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Ajmer Road, Sodala, Jaipur",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Dwarka Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409951,
+        "lat": 26.901622,
+        "lon": 75.7712774,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Jamuna Nagar, Sodala",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "name": "Kaveri Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410032,
+        "lat": 26.9023025,
+        "lon": 75.7704951,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Jamuna Nagar, Sodala",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "name": "Dr. Rajeev Soni",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11760727012,
+        "lat": 26.9021987,
+        "lon": 75.7726597,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:street": "Ajmer Road",
+          "amenity": "cafe",
+          "cuisine": "indian",
+          "name": "Laxmi"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:29:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1946919383,
+        "lat": 26.9017919,
+        "lon": 75.7895065,
+        "tags": {
+          "internet_access": "no",
+          "name": "Bais Godam",
+          "network": "IR",
+          "operator": "NWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BSGD",
+          "train": "no",
+          "wikidata": "Q24949515",
+          "wikipedia": "en:Bais Godam railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2690970281,
+        "lat": 26.9026493,
+        "lon": 75.7923721,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894235,
+        "lat": 26.8798892,
+        "lon": 75.758088,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "name": "Ganga Jamuna"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894236,
+        "lat": 26.8797346,
+        "lon": 75.7639391,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3139919926,
+        "lat": 26.9094527,
+        "lon": 75.7811364,
+        "tags": {
+          "name": "Civil Lines",
+          "name:hi": "\u0938\u093f\u0935\u093f\u0932 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "CLJP",
+          "shelter": "yes",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3139920401,
+        "lat": 26.9017699,
+        "lon": 75.7746219,
+        "tags": {
+          "layer": "1",
+          "name": "Ram Nagar",
+          "name:hi": "\u0930\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "RMNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3139920402,
+        "lat": 26.8964858,
+        "lon": 75.7706033,
+        "tags": {
+          "name": "Shyam Nagar",
+          "name:hi": "\u0936\u094d\u092f\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "SMNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3139920403,
+        "lat": 26.8884622,
+        "lon": 75.7683818,
+        "tags": {
+          "name": "Vivek Vihar",
+          "name:hi": "\u0935\u093f\u0935\u0947\u0915 \u0935\u093f\u0939\u093e\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "VKVR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3566139322,
+        "lat": 26.8801786,
+        "lon": 75.764461,
+        "tags": {
+          "name": "New Aatish Market",
+          "name:hi": "\u0928\u092f\u093e \u0906\u0924\u093f\u0936 \u092e\u093e\u0930\u094d\u0915\u0947\u091f",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "NAMT",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4466634254,
+        "lat": 26.901561,
+        "lon": 75.7827,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6783208321,
+        "lat": 26.9096783,
+        "lon": 75.7812494,
+        "tags": {
+          "name": "Civil Lines",
+          "name:hi": "\u0938\u093f\u0935\u093f\u0932 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "CLJP",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28180430",
+          "wikipedia": "en:Civil Lines metro station (Jaipur)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6938645049,
+        "lat": 26.8954164,
+        "lon": 75.7486286,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:postcode": "302021",
+          "addr:street": "Ajmer Road",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "name": "Inox Movies Cinema",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:online_booking": "yes",
+          "screen": "2"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230709,
+        "lat": 26.9059908,
+        "lon": 75.7519889,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP - GURU JAMBESHWAR PETRO SERVICES",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230710,
+        "lat": 26.914146,
+        "lon": 75.7528759,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230711,
+        "lat": 26.897245,
+        "lon": 75.7532693,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230712,
+        "lat": 26.9004314,
+        "lon": 75.7691078,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230713,
+        "lat": 26.901353,
+        "lon": 75.7709911,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8042098373,
+        "lat": 26.9017572,
+        "lon": 75.7746732,
+        "tags": {
+          "layer": "1",
+          "name": "Ram Nagar",
+          "name:hi": "\u0930\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "RMNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8042107918,
+        "lat": 26.880132,
+        "lon": 75.7644774,
+        "tags": {
+          "name": "New Aatish Market",
+          "name:hi": "\u0928\u092f\u093e \u0906\u0924\u093f\u0936 \u092e\u093e\u0930\u094d\u0915\u0947\u091f",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "NAMT",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8042595542,
+        "lat": 26.8884508,
+        "lon": 75.7684353,
+        "tags": {
+          "name": "Vivek Vihar",
+          "name:hi": "\u0935\u093f\u0935\u0947\u0915 \u0935\u093f\u0939\u093e\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "VKVR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8042595579,
+        "lat": 26.9094099,
+        "lon": 75.7811653,
+        "tags": {
+          "name": "Civil Lines",
+          "name:hi": "\u0938\u093f\u0935\u093f\u0932 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "CLJP",
+          "shelter": "yes",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8042602063,
+        "lat": 26.8964694,
+        "lon": 75.7706558,
+        "tags": {
+          "name": "Shyam Nagar",
+          "name:hi": "\u0936\u094d\u092f\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "SMNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8149193787,
+        "lat": 26.8964768,
+        "lon": 75.7706279,
+        "tags": {
+          "name": "Shyam Nagar",
+          "name:hi": "\u0936\u094d\u092f\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "SMNR",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28180421",
+          "wikipedia": "en:Shyam Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8149193788,
+        "lat": 26.8884539,
+        "lon": 75.768407,
+        "tags": {
+          "name": "Vivek Vihar",
+          "name:hi": "\u0935\u093f\u0935\u0947\u0915 \u0935\u093f\u0939\u093e\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "VKVR",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28180413",
+          "wikipedia": "en:Vivek Vihar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8149193789,
+        "lat": 26.880154,
+        "lon": 75.764466,
+        "tags": {
+          "name": "New Aatish Market",
+          "name:hi": "\u0928\u092f\u093e \u0906\u0924\u093f\u0936 \u092e\u093e\u0930\u094d\u0915\u0947\u091f",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "NAMT",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28180408",
+          "wikipedia": "en:New Aatish Market metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8167940763,
+        "lat": 26.9115355,
+        "lon": 75.7850152,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11747571769,
+        "lat": 26.9027002,
+        "lon": 75.7903837,
+        "tags": {
+          "amenity": "fuel",
+          "name:en": "BPCL BAIS GODAM PETROL PUMP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11747573469,
+        "lat": 26.9035483,
+        "lon": 75.7887016,
+        "tags": {
+          "amenity": "fuel",
+          "name:en": "BPCL BAIS GODAM PETROL PUMP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11765686547,
+        "lat": 26.9017025,
+        "lon": 75.7825909,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

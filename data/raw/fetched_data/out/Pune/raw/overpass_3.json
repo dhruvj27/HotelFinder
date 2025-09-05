@@ -1,0 +1,661 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:07:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 670298363,
+        "lat": 18.5659084,
+        "lon": 73.7715441,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Baner",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "name": "Bank of Baroda",
+          "name:mr": "\u0926\u0947\u0928\u093e \u092c\u0901\u0915",
+          "operator": "Dena Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 871497176,
+        "lat": 18.5683679,
+        "lon": 73.7666377,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sadanand Resorts"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2323348299,
+        "lat": 18.5765004,
+        "lon": 73.7645476,
+        "tags": {
+          "addr:city": "Balewadi",
+          "addr:postcode": "411045",
+          "addr:street": "Echinus Court road",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Sumitz",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2973333090,
+        "lat": 18.567225,
+        "lon": 73.7689211,
+        "tags": {
+          "addr:neighbourhood": "Laxman Nagar",
+          "addr:street": "Baner Road",
+          "addr:suburb": "Baner",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Accord Hospital",
+          "phone": "077740 98697",
+          "website": "https://accordhospitals.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2973334946,
+        "lat": 18.5669885,
+        "lon": 73.7696587,
+        "tags": {
+          "addr:street": "Gopal Hari Deshmukh Marg",
+          "brand": "DMart",
+          "brand:wikidata": "Q5203271",
+          "name": "DMart",
+          "name:mr": "\u0921\u0940\u092e\u093e\u0930\u094d\u091f",
+          "organic": "yes",
+          "shop": "supermarket",
+          "website": "https://www.dmart.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3168576966,
+        "lat": 18.5712329,
+        "lon": 73.7656509,
+        "tags": {
+          "addr:city": "pune",
+          "addr:postcode": "411045",
+          "addr:street": "Baner Exit Ramp",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of Maharashtra",
+          "brand:wikidata": "Q2004304",
+          "brand:wikipedia": "en:Bank of Maharashtra",
+          "name": "Bank of Maharashtra",
+          "name:en": "Bank of Maharashtra",
+          "opening_hours": "Mo-Sa 08:00-18:00",
+          "website": "https://www.bankofmaharashtra.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3206031010,
+        "lat": 18.5752201,
+        "lon": 73.7662513,
+        "tags": {
+          "addr:city": "pune",
+          "addr:postcode": "411045",
+          "addr:street": "moze College Road",
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "mothers kitchen",
+          "opening_hours": "Mo-Su 10:00-22:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5877068745,
+        "lat": 18.5741788,
+        "lon": 73.7731743,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "opening_hours": "Tu-Su 10:00-16:30",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6116153828,
+        "lat": 18.5674237,
+        "lon": 73.7715042,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "The Poona Canteen",
+          "name:mr": "\u0926 \u092a\u0942\u0928\u093e \u0915\u0901\u091f\u0940\u0928"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6116153829,
+        "lat": 18.5675463,
+        "lon": 73.7715074,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Elora Artisan Kitchen",
+          "name:mr": "\u090f\u0932\u094b\u0930\u093e \u0906\u0930\u094d\u091f\u093f\u0938\u0928 \u0915\u093f\u091a\u0928"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6116153830,
+        "lat": 18.5674835,
+        "lon": 73.7714472,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "No Strings Attached",
+          "name:mr": "\u0928\u094b \u0938\u094d\u091f\u094d\u0930\u093f\u0902\u0917\u094d\u091c \u0905\u091f\u0945\u091a\u094d\u0921"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6116153831,
+        "lat": 18.5676329,
+        "lon": 73.7715096,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "1BHK Superbar",
+          "name:mr": "\u0967\u092c\u0940\u090f\u091a\u0915\u0947 \u0938\u0941\u092a\u0930\u092c\u093e\u0930"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6116153847,
+        "lat": 18.566277,
+        "lon": 73.7713547,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Nirvana",
+          "name:mr": "\u0928\u093f\u0930\u094d\u0935\u093e\u0923"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6128879919,
+        "lat": 18.5662338,
+        "lon": 73.7713031,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Equitas Small Finance Bank",
+          "brand:wikidata": "Q29467249",
+          "name": "Equitas Small Finance Bank",
+          "name:mr": "\u090f\u0915\u094d\u0935\u093f\u0902\u091f\u093e\u0938 \u0938\u094d\u092e\u0949\u0932 \u092b\u093e\u092f\u0928\u093e\u0928\u094d\u0938 \u092c\u0901\u0915",
+          "operator": "Equitas Small Finance Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6258893451,
+        "lat": 18.570359,
+        "lon": 73.7738338,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "27",
+          "addr:postcode": "411045",
+          "addr:street": "Balewadi High Street",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "check_date": "2022-06-20",
+          "delivery": "yes",
+          "delivery:partner": "Zomato;Swiggy",
+          "name": "Iron Bar & Grill",
+          "opening_hours": "12:00-01:30",
+          "operator": "Innvenue Hospitality Management Pvt. Ltd.",
+          "outdoor_seating": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "smoking": "outside",
+          "takeaway": "yes",
+          "toilets": "customers",
+          "website": "http://www.ironbar.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9348378747,
+        "lat": 18.5709469,
+        "lon": 73.7739096,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411045",
+          "addr:street": "Balewadi High Street",
+          "amenity": "fast_food",
+          "brand": "Taco Bell",
+          "brand:wikidata": "Q752941",
+          "brand:wikipedia": "en:Taco Bell",
+          "check_date": "2023-08-06",
+          "cuisine": "tex-mex",
+          "drive_through": "no",
+          "name": "Taco Bell",
+          "name:mr": "\u0924\u093e\u0915\u094b \u092c\u0947\u0932",
+          "operator": "Burman Hospitality Pvt. Ltd.",
+          "phone": "+91 9289072095",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10010729790,
+        "lat": 18.5663598,
+        "lon": 73.7695757,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "Survey No 111, 11/1",
+          "addr:postcode": "411045",
+          "addr:street": "Veerbhadra Nagar Rd, opposite D-MART, Veerbhadra Nagar, Baner,",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "general",
+          "name": "Manipal Hospital",
+          "opening_hours": "24/7",
+          "operator": "Novosalus",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10259378215,
+        "lat": 18.5709759,
+        "lon": 73.7735923,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:wikidata": "Q177054",
+          "cuisine": "burger",
+          "name": "Burger King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10264300539,
+        "lat": 18.5709532,
+        "lon": 73.7737189,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housename": "Panchshil Business Park",
+          "addr:housenumber": "Unit 1",
+          "addr:postcode": "411045",
+          "addr:street": "Balewadi High Street",
+          "addr:suburb": "Balewadi",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "portuguese;italian;fast_food;breakfast;greek;indian;lebanese",
+          "delivery": "yes",
+          "highchair": "yes",
+          "name": "L'Apicio",
+          "opening_hours": "Mo-Su 12:00-23:30",
+          "outdoor_seating": "yes",
+          "payment:cash": "yes",
+          "payment:contactless": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:google_pay": "yes",
+          "phone": "+91 8766559498"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10285662752,
+        "lat": 18.575393,
+        "lon": 73.768043,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Crazy Cheezy Cafe",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10692785902,
+        "lat": 18.5768409,
+        "lon": 73.7611053,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Bank of Maharashtra",
+          "brand:wikidata": "Q2004304",
+          "name": "Bank of maharashtra",
+          "operator": "Bank of Maharashtra",
+          "operator:wikidata": "Q2004304"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10692796478,
+        "lat": 18.5680055,
+        "lon": 73.7698855,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10692810663,
+        "lat": 18.5734479,
+        "lon": 73.7561416,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10692810830,
+        "lat": 18.5666451,
+        "lon": 73.7714749,
+        "tags": {
+          "amenity": "bank",
+          "brand": "CSB Bank",
+          "brand:wikidata": "Q5053244",
+          "name": "CSB Bank",
+          "official_name": "Catholic Syrian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10692829782,
+        "lat": 18.5738235,
+        "lon": 73.756337,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "icici bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10712226560,
+        "lat": 18.5636485,
+        "lon": 73.7661263,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11299739784,
+        "lat": 18.5664874,
+        "lon": 73.7707133,
+        "tags": {
+          "addr:postcode": "411045",
+          "amenity": "restaurant",
+          "check_date": "2023-10-30",
+          "cuisine": "konkani;south Indian",
+          "name": "Way Down South",
+          "name:en": "Way Down South",
+          "name:mr": "\u0935\u0947 \u0921\u093e\u0909\u0928 \u0938\u093e\u0909\u0925",
+          "phone": "+91 20 4677 9131"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12030675221,
+        "lat": 18.5766309,
+        "lon": 73.7652146,
+        "tags": {
+          "amenity": "clinic",
+          "check_date": "2024-06-05",
+          "healthcare": "clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12104074791,
+        "lat": 18.5678435,
+        "lon": 73.7683866,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Karnataka Bank",
+          "brand:wikidata": "Q2042632",
+          "name": "Karnataka Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12104074792,
+        "lat": 18.5678031,
+        "lon": 73.7683812,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Karnataka Bank",
+          "brand:wikidata": "Q2042632",
+          "name": "Karnataka Bank",
+          "operator": "Karnataka Bank",
+          "operator:wikidata": "Q2042632"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12307079670,
+        "lat": 18.5707641,
+        "lon": 73.7719493,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Circuit House",
+          "name:en": "Circuit House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12307314917,
+        "lat": 18.5687621,
+        "lon": 73.7717719,
+        "tags": {
+          "addr:floor": "1",
+          "amenity": "restaurant",
+          "check_date": "2024-11-02",
+          "level": "1",
+          "name": "Maratha Samrat",
+          "name:mr": "\u092e\u0930\u093e\u0920\u093e \u0938\u092e\u094d\u0930\u093e\u091f",
+          "payment:cash": "yes",
+          "payment:upi": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12770261254,
+        "lat": 18.5665855,
+        "lon": 73.7692255,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "takeaway": "yes"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:07:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1684953195,
+        "lat": 18.5920603,
+        "lon": 73.7611058,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "fuel:diesel": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6116153836,
+        "lat": 18.567214,
+        "lon": 73.7719864,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "PowerUP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944597702,
+        "lat": 18.5905891,
+        "lon": 73.7575185,
+        "tags": {
+          "construction": "subway",
+          "name": "Wakad Chowk\u00a0metro Station",
+          "name:en": "Wakad Chowk\u00a0metro Station",
+          "name:mr": "\u0935\u093e\u0915\u0921 \u091a\u094c\u0915 \u092e\u0947\u091f\u094d\u0930\u094b \u0938\u094d\u0925\u093e\u0928\u0915",
+          "public_transport": "station",
+          "railway": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9194870255,
+        "lat": 18.5522808,
+        "lon": 73.7559139,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411021",
+          "addr:street": "Sus Road, Sus",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "fuel:petrol": "yes",
+          "name": "Hindustan Petroleum Petrol Pump",
+          "official_name": "Hindustan Petroleum",
+          "operator": "Hindustan Petroleum Corporation Ltd",
+          "self_service": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9887954431,
+        "lat": 18.5897385,
+        "lon": 73.774282,
+        "tags": {
+          "addr:street": "Mankar chowk",
+          "bus": "yes",
+          "name": "Mankar chowk",
+          "name:en": "Mankar chowk",
+          "name:mr": "\u092e\u093e\u0928\u0915\u0930 \u091a\u094c\u0915",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10290789663,
+        "lat": 18.5788787,
+        "lon": 73.7624887,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Go Ego"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10603598575,
+        "lat": 18.552645,
+        "lon": 73.7574904,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "sus",
+          "addr:postcode": "411021",
+          "addr:street": "Sus Road",
+          "amenity": "fuel",
+          "brand": "MNGL",
+          "fuel:cng": "yes",
+          "name": "CHANDERE CNG Station",
+          "operator": "CHANDERE CNG Station",
+          "self_service": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10671202586,
+        "lat": 18.5857278,
+        "lon": 73.7817517,
+        "tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "Shell",
+          "brand:en": "Shell",
+          "brand:mr": "\u0936\u0947\u0932",
+          "brand:wikidata": "Q110716465",
+          "capacity": "3",
+          "fee": "yes",
+          "operator": "Shell",
+          "operator:wikidata": "Q110716465"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10725542119,
+        "lat": 18.5917027,
+        "lon": 73.7561869,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Kaspte Bharat Gas Agency"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10745044185,
+        "lat": 18.5858816,
+        "lon": 73.7817171,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "name": "Shell",
+          "name:en": "Shell",
+          "name:mr": "\u0936\u0947\u0932"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12484089401,
+        "lat": 18.5517365,
+        "lon": 73.7609474,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Shell Petrol Pump - Sus",
+          "opening_hours": "24/7",
+          "website": "https://find.shell.com/"
+        }
+      }
+    ]
+  }
+}

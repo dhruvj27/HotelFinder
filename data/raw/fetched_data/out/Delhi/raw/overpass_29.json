@@ -1,0 +1,433 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:04:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 995630812,
+        "lat": 28.5866431,
+        "lon": 77.0573761,
+        "tags": {
+          "addr:district": "South West",
+          "addr:full": "Sec-10, Dwarka, Golok Dham Mandir",
+          "addr:postcode": "110075",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "contact:phone": "25081423",
+          "name": "Govt Dispensory",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4353515889,
+        "lat": 28.5829447,
+        "lon": 77.0514424,
+        "tags": {
+          "amenity": "atm",
+          "operator": "sbi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138493138,
+        "lat": 28.5777752,
+        "lon": 77.0483255,
+        "tags": {
+          "addr:district": "South West",
+          "addr:full": "Sec-19, Dwarka, Near Amrahi Village",
+          "addr:postcode": "110075",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "contact:phone": "28041571",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "DGD Sec 19 Dwarka",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12615380101,
+        "lat": 28.5861038,
+        "lon": 77.0563737,
+        "tags": {
+          "addr:housenumber": "Shop No 4",
+          "addr:postcode": "110075",
+          "amenity": "pharmacy",
+          "name": "Vi Care Pharmacy",
+          "opening_hours": "Mo-Su 08:00-22:00"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:04:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 249235041,
+        "lat": 28.5922515,
+        "lon": 77.0407464,
+        "tags": {
+          "name": "Dwarka Sector 12",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347688420,
+        "lat": 28.586462,
+        "lon": 77.0494551,
+        "tags": {
+          "name": "Dwarka Sector 11",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 11",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSE",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347688434,
+        "lat": 28.5810731,
+        "lon": 77.0575146,
+        "tags": {
+          "name": "Dwarka Sector 10",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DST",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347688615,
+        "lat": 28.5742819,
+        "lon": 77.0653509,
+        "tags": {
+          "name": "Dwarka Sector 9",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSN",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347688730,
+        "lat": 28.5656075,
+        "lon": 77.0670615,
+        "tags": {
+          "name": "Dwarka Sector 8",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSET",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 723739718,
+        "lat": 28.5910461,
+        "lon": 77.037474,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 723739767,
+        "lat": 28.5790955,
+        "lon": 77.0552344,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 728300511,
+        "lat": 28.5733376,
+        "lon": 77.0639396,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1480729647,
+        "lat": 28.5750095,
+        "lon": 77.0675759,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "compressed_air": "yes",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1480729649,
+        "lat": 28.5752361,
+        "lon": 77.067756,
+        "tags": {
+          "amenity": "fuel",
+          "compressed_air": "yes",
+          "name": "Indraprastha CNG gas station pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4453247292,
+        "lat": 28.5906402,
+        "lon": 77.0369101,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "IGL",
+          "name": "CNG Fuel Station",
+          "operator": "IGL",
+          "self_service": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4453248391,
+        "lat": 28.577472,
+        "lon": 77.0533799,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737168005,
+        "lat": 28.5656128,
+        "lon": 77.0670148,
+        "tags": {
+          "name": "Dwarka Sector 8",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSET",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737168016,
+        "lat": 28.574263,
+        "lon": 77.065309,
+        "tags": {
+          "name": "Dwarka Sector 9",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSN",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737168024,
+        "lat": 28.5810402,
+        "lon": 77.0574861,
+        "tags": {
+          "name": "Dwarka Sector 10",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 10",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DST",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737168025,
+        "lat": 28.586443,
+        "lon": 77.0494433,
+        "tags": {
+          "name": "Dwarka Sector 11",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 11",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSE",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q5317945",
+          "wikipedia": "en:Dwarka Sector 11 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737168034,
+        "lat": 28.5922186,
+        "lon": 77.0407179,
+        "tags": {
+          "name": "Dwarka Sector 12",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6539894848,
+        "lat": 28.5922362,
+        "lon": 77.0407315,
+        "tags": {
+          "name": "Dwarka Sector 12",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 12",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSW",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5317946",
+          "wikipedia": "en:Dwarka Sector 12 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6539894859,
+        "lat": 28.5810577,
+        "lon": 77.0574996,
+        "tags": {
+          "name": "Dwarka Sector 10",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 10",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DST",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q5317944",
+          "wikipedia": "en:Dwarka Sector 10 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6539894860,
+        "lat": 28.574272,
+        "lon": 77.0653316,
+        "tags": {
+          "name": "Dwarka Sector 9",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 9",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSN",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q5317951",
+          "wikipedia": "en:Dwarka Sector 9 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6539894861,
+        "lat": 28.5656109,
+        "lon": 77.0670366,
+        "tags": {
+          "name": "Dwarka Sector 8",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 8",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSET",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5317949",
+          "wikipedia": "en:Dwarka Sector 8 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7661805973,
+        "lat": 28.586429,
+        "lon": 77.0494267,
+        "tags": {
+          "name": "Dwarka Sector 11",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 11",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSE",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647193426,
+        "lat": 28.5910595,
+        "lon": 77.0429824,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Yuma",
+          "charging_station:battery_swapping": "yes",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    ]
+  }
+}

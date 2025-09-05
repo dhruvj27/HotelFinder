@@ -1,0 +1,551 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:21:56Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3788605554,
+        "lat": 26.8808849,
+        "lon": 75.7980181,
+        "tags": {
+          "amenity": "restaurant",
+          "capacity": "50",
+          "cuisine": "regional",
+          "name": "Vitthal's Kitchen",
+          "opening_hours": "10:00-23:00",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4880275221,
+        "lat": 26.875564,
+        "lon": 75.792605,
+        "tags": {
+          "addr:housenumber": "1337",
+          "addr:postcode": "302015",
+          "addr:street": "kisan marg",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name:en": "Jeevan Jyoti",
+          "opening_hours": "Mo-Su 09:30-12:59",
+          "phone": "01412595176"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7027616575,
+        "lat": 26.8815962,
+        "lon": 75.7987918,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "B - 14, Lal Kothi Shopping Centre, Behind Times Of India, Tonk Road, Near Laxmi Mandir Cinema",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "J P Eye Hospital, Jaipur",
+          "source": "OpenGovernmentData",
+          "website": "https://jpkabraeyehospital.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7036732214,
+        "lat": 26.8735212,
+        "lon": 75.7962294,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "F-27, Ruchika Shopping Complix, Madhuban Colony, Kisan Marg, Tonk Road",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Gupta Dental Clinic and Perio Surgery Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040143007,
+        "lat": 26.8823601,
+        "lon": 75.7991289,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "B-35-36 Lalkothi Shopping Centre Tank Road",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Rajasthan Hopsital and Gastroenology Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040146307,
+        "lat": 26.8830108,
+        "lon": 75.7929209,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "1, J.P. Colony, Main Road, Laxmi Mandir Phatak, Tonk Road",
+          "addr:postcode": "302001",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sun Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040194284,
+        "lat": 26.874099,
+        "lon": 75.804105,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Bajaj Nagar",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "CGHS Polyclinic, A.G.Colony",
+          "operator:type": "government",
+          "source": "OpenGovernmentData",
+          "website": "http://nb.bsf.gov.in/CGHS%20DIspenseries.pdf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040336692,
+        "lat": 26.8810467,
+        "lon": 75.8007932,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Tonk Phatak, Behind Mahindra Showroom, Opp Sahara Chambers, Gandhi Nagar, Tonk Road, Jaipur Clinic - 104, Shyam Anukampa, Opp Hdfc, Ashok Marg, C-Scheme",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr. Virendra Laser and Phaco Surgery Centre - Jaipur",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040591725,
+        "lat": 26.887387,
+        "lon": 75.7925528,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "4, Janakpuri First, Imliwala Phatak Imliwala Phatak",
+          "addr:postcode": "302005",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Bansal Hospital and Research Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7042855467,
+        "lat": 26.8816311,
+        "lon": 75.805087,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "c-630,Gandhi Nagar",
+          "addr:postcode": "302016",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Tb Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7066248292,
+        "lat": 26.8867051,
+        "lon": 75.8031081,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "Hdfc atm",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698135282,
+        "lat": 26.874256,
+        "lon": 75.804437,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "AG Colony, Bajaj Nagar",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Dogras Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409953,
+        "lat": 26.8853533,
+        "lon": 75.8020995,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Gandhi Nagar, Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Jatin Mishra",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409957,
+        "lat": 26.8887859,
+        "lon": 75.7983179,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Krishna Nagar, Sawai Ram Singh Road, Lalkothi",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Lal Kothi Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410014,
+        "lat": 26.8799063,
+        "lon": 75.8000326,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Gandhi Nagar, Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "jagdamba Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410042,
+        "lat": 26.8802982,
+        "lon": 75.7996245,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Tonk Road, Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Krishnam Homoeo Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410055,
+        "lat": 26.8846698,
+        "lon": 75.793007,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Imliwala Phatak",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Bugaliya Bahadur Singh",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410057,
+        "lat": 26.8812378,
+        "lon": 75.7916861,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Tonk Phatak, Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Purohit Eye Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8075691814,
+        "lat": 26.8811756,
+        "lon": 75.7990402,
+        "tags": {
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10554368725,
+        "lat": 26.881962,
+        "lon": 75.7974672,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "addr:street": "Sahkar Marg",
+          "amenity": "restaurant",
+          "name": "Terrazzo"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10554368726,
+        "lat": 26.8824325,
+        "lon": 75.797106,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "restaurant",
+          "name": "Talk Of The Town, Lal Kothi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10554368728,
+        "lat": 26.8819484,
+        "lon": 75.7975186,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "addr:street": "Sahakar Marg",
+          "amenity": "cafe",
+          "name": "The Khopcha Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10899269954,
+        "lat": 26.8860135,
+        "lon": 75.8036761,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:postcode": "302015",
+          "addr:street": "Gandhi Marg",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "capacity": "45",
+          "cuisine": "coffee_shop;chinese;asian;ice_cream;chocolate",
+          "name": "The Warehouse Cafe",
+          "opening_hours": "Mo-Su 10:00-20:00"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:21:56Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1753726590,
+        "lat": 26.8728017,
+        "lon": 75.7992199,
+        "tags": {
+          "internet_access": "no",
+          "name": "Gandhi Nagar Jaipur",
+          "name:de": "Gandhinagar Jaipur",
+          "network": "Indian Railways",
+          "operator": "North Western Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GADJ",
+          "train": "yes",
+          "wikidata": "Q5520716",
+          "wikipedia": "en:Gandhinagar Jaipur railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1946919383,
+        "lat": 26.9017919,
+        "lon": 75.7895065,
+        "tags": {
+          "internet_access": "no",
+          "name": "Bais Godam",
+          "network": "IR",
+          "operator": "NWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BSGD",
+          "train": "no",
+          "wikidata": "Q24949515",
+          "wikipedia": "en:Bais Godam railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2690970281,
+        "lat": 26.9026493,
+        "lon": 75.7923721,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894833,
+        "lat": 26.864811,
+        "lon": 75.796631,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894834,
+        "lat": 26.8726037,
+        "lon": 75.7971444,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4226410891,
+        "lat": 26.8726988,
+        "lon": 75.8209348,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Shaheed Basti Ram Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8084157103,
+        "lat": 26.9020437,
+        "lon": 75.7930168,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "22 Godam Public Bus Stop",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8457296102,
+        "lat": 26.8734837,
+        "lon": 75.7990968,
+        "tags": {
+          "name": "Gandhi Nagar Jaipur",
+          "name:de": "Gandhinagar Jaipur Gleis 1",
+          "operator": "Ministry of Railway",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8457296104,
+        "lat": 26.872581,
+        "lon": 75.7992029,
+        "tags": {
+          "name": "Gandhi Nagar Jaipur",
+          "name:de": "Gandhinagar Jaipur Gleis 2",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11586819554,
+        "lat": 26.8959825,
+        "lon": 75.8093318,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11763619972,
+        "lat": 26.8892423,
+        "lon": 75.8043641,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11765964116,
+        "lat": 26.8988076,
+        "lon": 75.7935498,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

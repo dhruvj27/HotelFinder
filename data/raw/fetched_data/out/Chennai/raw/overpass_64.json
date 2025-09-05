@@ -1,0 +1,998 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:10:59Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1237042999,
+        "lat": 12.972808,
+        "lon": 80.2580237,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "fee": "no",
+          "indoor": "yes",
+          "name": "HDFC Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1241205340,
+        "lat": 12.9712514,
+        "lon": 80.2583585,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Al Reef Restaurant",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1446415367,
+        "lat": 12.9663879,
+        "lon": 80.2474724,
+        "tags": {
+          "addr:city": "CHENNAI",
+          "addr:interpolation": "KANDANCHAVADI",
+          "addr:postcode": "600096",
+          "addr:street": "PERUNGUDI",
+          "amenity": "hospital",
+          "name": "Bhadra Homeo"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1450869063,
+        "lat": 12.9739862,
+        "lon": 80.2581256,
+        "tags": {
+          "amenity": "restaurant",
+          "is_in": "Kottivakkam",
+          "name": "Hotel Mathus"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1450869067,
+        "lat": 12.9737686,
+        "lon": 80.2580999,
+        "tags": {
+          "name": "J.K. Stores",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1450869068,
+        "lat": 12.9738813,
+        "lon": 80.2581824,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Meiyappan Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1450869071,
+        "lat": 12.9735902,
+        "lon": 80.2580826,
+        "tags": {
+          "name": "Sri Murugan Stores",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4218907921,
+        "lat": 12.9692702,
+        "lon": 80.2453673,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Gaurav Vada Pav Centre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5332436330,
+        "lat": 12.9752059,
+        "lon": 80.2588333,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "Apollo Pharmacy",
+          "brand:wikidata": "Q62562612",
+          "healthcare": "pharmacy",
+          "name": "Apollo Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5332436802,
+        "lat": 12.9710351,
+        "lon": 80.2582089,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Tamilnad Mercantile Bank Limited",
+          "brand:wikidata": "Q2044991",
+          "name": "Tamilnad Mercantile Bank Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5332437283,
+        "lat": 12.9738038,
+        "lon": 80.2584682,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Sri Meyyappa Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5332437963,
+        "lat": 12.975198,
+        "lon": 80.2588165,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "HDFC Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6048855050,
+        "lat": 12.9774665,
+        "lon": 80.2513951,
+        "tags": {
+          "addr:postcode": "600041",
+          "name": "Nathan Stores",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6048856186,
+        "lat": 12.9775683,
+        "lon": 80.2514393,
+        "tags": {
+          "amenity": "atm",
+          "brand": "IndusInd Bank",
+          "brand:wikidata": "Q2040323",
+          "name": "IndusInd Bank",
+          "operator": "IndusInd Bank",
+          "operator:wikidata": "Q2040323"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6048856379,
+        "lat": 12.9774476,
+        "lon": 80.2513119,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6048859681,
+        "lat": 12.9774372,
+        "lon": 80.2512818,
+        "tags": {
+          "amenity": "atm",
+          "brand": "City Union Bank",
+          "brand:en": "City Union Bank",
+          "brand:hi": "\u0938\u093f\u091f\u0940 \u092f\u0942\u0928\u093f\u092f\u0928 \u092c\u0948\u0902\u0915",
+          "brand:ta": "\u0b9a\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0baf\u0bc2\u0ba9\u0bbf\u0baf\u0ba9\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+          "brand:wikidata": "Q2040264",
+          "name:en": "City Union Bank",
+          "name:hi": "\u0938\u093f\u091f\u0940 \u092f\u0942\u0928\u093f\u092f\u0928 \u092c\u0948\u0902\u0915",
+          "name:ta": "\u0b9a\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0baf\u0bc2\u0ba9\u0bbf\u0baf\u0ba9\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+          "operator": "City Union Bank",
+          "operator:wikidata": "Q2040264",
+          "short_name": "CUB"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6048864832,
+        "lat": 12.9773441,
+        "lon": 80.2510412,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:en": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "ICICI Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:en": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6048992977,
+        "lat": 12.9801406,
+        "lon": 80.2509345,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "check_date": "2022-03-05",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "State Bank of India",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6049002236,
+        "lat": 12.9801314,
+        "lon": 80.2509637,
+        "tags": {
+          "addr:postcode": "600041",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank Of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6934018874,
+        "lat": 12.969346,
+        "lon": 80.2573344,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "1/28, Vasudevan Street East Coast Road",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "S.S Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7551657315,
+        "lat": 12.9695845,
+        "lon": 80.2439087,
+        "tags": {
+          "addr:city": "Perungudi",
+          "addr:housenumber": "40, Global Infocity",
+          "addr:postcode": "600096",
+          "addr:street": "Dr MGR Main Road",
+          "name": "WhatsFresh",
+          "operator": "WhatsFresh",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823212559,
+        "lat": 12.9753651,
+        "lon": 80.2543198,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Valmiki Nagar, Kannappa Nagar, Thiruvanmiyur",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shakthi Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823212570,
+        "lat": 12.9757686,
+        "lon": 80.2590077,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Thiruvanmiyur",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Hale and Healthy Hospitals",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823212571,
+        "lat": 12.9752589,
+        "lon": 80.2594925,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Thiruvanmiyur",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Noble Super Speciality Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823212572,
+        "lat": 12.9753853,
+        "lon": 80.2555078,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Thiruvanmiyur",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Turiya Care",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823212607,
+        "lat": 12.9751423,
+        "lon": 80.2582571,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Kottivakkam, Near Tiruvanmiyur",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Promed Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823212610,
+        "lat": 12.9693629,
+        "lon": 80.2566138,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Kottivakkam",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Happy Clinic Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823212613,
+        "lat": 12.9726702,
+        "lon": 80.2595079,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Karpagambal Nagar, Kottivakkam",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Smiles Nature Cure",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823415064,
+        "lat": 12.9767853,
+        "lon": 80.2587762,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Netaji Nagar, Thiruvanmiyur",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Remedy Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823415070,
+        "lat": 12.9774564,
+        "lon": 80.2589969,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Netaji Nagar, Thiruvanmiyur",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Suryakumari",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823415090,
+        "lat": 12.9787624,
+        "lon": 80.2580809,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Thiruvanmiyur",
+          "addr:postcode": "600041",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Sreehareeyam Ayurveda",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8432253222,
+        "lat": 12.97435,
+        "lon": 80.2441455,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "burmese",
+          "name": "Burma Square"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12381739164,
+        "lat": 12.97419,
+        "lon": 80.2507436,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Yes Bank",
+          "brand:wikidata": "Q2040394",
+          "name": "Yes Bank",
+          "operator": "Yes Bank",
+          "operator:wikidata": "Q2040394"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:10:59Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 243041698,
+        "lat": 12.9958128,
+        "lon": 80.24981,
+        "tags": {
+          "name": "Indira Nagar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 243041721,
+        "lat": 12.9786135,
+        "lon": 80.2410567,
+        "tags": {
+          "name": "Taramani",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 243041731,
+        "lat": 12.9758476,
+        "lon": 80.2320097,
+        "tags": {
+          "name": "Perungudi",
+          "name:ta": "\u0baa\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 246866326,
+        "lat": 12.9873013,
+        "lon": 80.2594187,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Thiruvanmiyur Moffusil bus stop",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 249110189,
+        "lat": 12.9888263,
+        "lon": 80.2515797,
+        "tags": {
+          "name": "Tiruvanmiyur",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 306113099,
+        "lat": 12.9854773,
+        "lon": 80.2405635,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Taramani",
+          "operator": "MTC",
+          "public_transport": "station",
+          "route_ref": "5C"
+        }
+      },
+      {
+        "type": "node",
+        "id": 312826838,
+        "lat": 12.9895127,
+        "lon": 80.2563784,
+        "tags": {
+          "amenity": "cinema",
+          "name": "S2 Theyagaraja"
+        }
+      },
+      {
+        "type": "node",
+        "id": 317827746,
+        "lat": 12.9885068,
+        "lon": 80.2558808,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Jayanti",
+          "name:ta": "\u0b9c\u0bc6\u0baf\u0ba8\u0bcd\u0ba4\u0bbf",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 317827781,
+        "lat": 12.9883987,
+        "lon": 80.255959,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Jayanti",
+          "name:ta": "\u0b9c\u0bc6\u0baf\u0ba8\u0bcd\u0ba4\u0bbf",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 318066696,
+        "lat": 12.9853009,
+        "lon": 80.2596367,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Marudeeswarar Temple",
+          "public_transport": "stop_position",
+          "ref": "mtcstop#1027"
+        }
+      },
+      {
+        "type": "node",
+        "id": 318069500,
+        "lat": 12.9858076,
+        "lon": 80.2597253,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Thiruvanmiyur ECR Moffusil Bus stop",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 319489527,
+        "lat": 12.9847385,
+        "lon": 80.2522404,
+        "tags": {
+          "bus": "yes",
+          "name": "National Institute of Fashion Technology (N.I.F.T)",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 322719303,
+        "lat": 12.9876477,
+        "lon": 80.2553395,
+        "tags": {
+          "bus": "yes",
+          "name": "Jayanthi",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 340891549,
+        "lat": 12.988175,
+        "lon": 80.2649839,
+        "tags": {
+          "amenity": "theatre",
+          "name:en": "Kalakshetra",
+          "name:es": "Kalakshetra",
+          "wikidata": "Q1431414",
+          "wikimedia_commons": "Category:Kalakshetra",
+          "wikipedia": "en:Kalakshetra Foundation"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1240545660,
+        "lat": 12.9880545,
+        "lon": 80.2524511,
+        "tags": {
+          "bus": "yes",
+          "name": "Tidel Park",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1275649007,
+        "lat": 12.9771589,
+        "lon": 80.2511612,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1450886364,
+        "lat": 12.9686473,
+        "lon": 80.2571319,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "fuel:diesel": "no",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1451948429,
+        "lat": 12.9672226,
+        "lon": 80.2573585,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1453437494,
+        "lat": 12.967692,
+        "lon": 80.2574844,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3546221883,
+        "lat": 12.9674951,
+        "lon": 80.2485479,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4358666333,
+        "lat": 12.981636,
+        "lon": 80.2334748,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Bharathi Nagar",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5310193401,
+        "lat": 12.9758902,
+        "lon": 80.231976,
+        "tags": {
+          "name": "Perungudi",
+          "name:ta": "\u0baa\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5310193408,
+        "lat": 12.990525,
+        "lon": 80.251076,
+        "tags": {
+          "name": "Tiruvanmiyur",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5310193409,
+        "lat": 12.9786784,
+        "lon": 80.2410508,
+        "tags": {
+          "name": "Taramani",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5311755239,
+        "lat": 12.9889822,
+        "lon": 80.2515865,
+        "tags": {
+          "internet_access": "no",
+          "name": "Tiruvanmiyur",
+          "name:ta": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd\u0bae\u0bbf\u0baf\u0bc2\u0bb0\u0bcd",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TYMR",
+          "train": "yes",
+          "wikidata": "Q16956408",
+          "wikipedia": "en:Thiruvanmiyur railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5311755240,
+        "lat": 12.9786584,
+        "lon": 80.2416441,
+        "tags": {
+          "internet_access": "no",
+          "name": "Taramani",
+          "name:ta": "\u0ba4\u0bb0\u0bae\u0ba3\u0bbf",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TRMN",
+          "train": "yes",
+          "wikidata": "Q7685362",
+          "wikipedia": "en:Taramani railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5311755241,
+        "lat": 12.9760584,
+        "lon": 80.2321916,
+        "tags": {
+          "name": "Perungudi",
+          "name:ta": "\u0baa\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PRGD",
+          "train": "yes",
+          "wikidata": "Q7171100",
+          "wikipedia": "en:Perungudi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7412854052,
+        "lat": 12.9729954,
+        "lon": 80.2502408,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "IGP",
+          "network": "MTC",
+          "operator": "Metropolitan Transport Corporation (Chennai) Ltd.",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7412932332,
+        "lat": 12.9862169,
+        "lon": 80.2468241,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Ascendas IT park",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7424295245,
+        "lat": 12.9854059,
+        "lon": 80.2406319,
+        "tags": {
+          "bus": "yes",
+          "name": "Taramani",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9399815495,
+        "lat": 12.9814019,
+        "lon": 80.2427193,
+        "tags": {
+          "bus": "yes",
+          "name": "Taramani 100 Feet Road",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9399815496,
+        "lat": 12.9812981,
+        "lon": 80.2427155,
+        "tags": {
+          "bus": "yes",
+          "name": "Taramani 100 Feet Road",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9500730217,
+        "lat": 12.9815365,
+        "lon": 80.2334379,
+        "tags": {
+          "bus": "yes",
+          "name": "Bharathi Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9500730219,
+        "lat": 12.9873981,
+        "lon": 80.2516421,
+        "tags": {
+          "bus": "yes",
+          "name": "Tidel Park",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9500730222,
+        "lat": 12.9831713,
+        "lon": 80.2525253,
+        "tags": {
+          "bus": "yes",
+          "name": "N.I.F.T.",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9500730223,
+        "lat": 12.9803011,
+        "lon": 80.2514556,
+        "tags": {
+          "bus": "yes",
+          "name": "SRP Tools",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9500730228,
+        "lat": 12.9802174,
+        "lon": 80.2514209,
+        "tags": {
+          "bus": "yes",
+          "name": "SRP Tools",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9925164641,
+        "lat": 12.9767683,
+        "lon": 80.2591481,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9925164642,
+        "lat": 12.9911149,
+        "lon": 80.2506166,
+        "tags": {
+          "bus": "yes",
+          "name": "Tidel Park",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

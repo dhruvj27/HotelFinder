@@ -1,0 +1,747 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:33:41Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1316290929,
+        "lat": 18.5509546,
+        "lon": 73.9376534,
+        "tags": {
+          "addr:housename": "Vascon Almonte",
+          "addr:postcode": "411014",
+          "check_date": "2024-06-18",
+          "name": "Reliance Smart",
+          "opening_hours": "08:00-22:00",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "shop": "supermarket",
+          "website": "https://stores.reliancesmartbazaar.com/reliance-smart-superstore-shopping-outlet-haveli-pune-280435/Home"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1800033826,
+        "lat": 18.5532327,
+        "lon": 73.9378665,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Great Kebab Factory"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2183552800,
+        "lat": 18.5508077,
+        "lon": 73.9392535,
+        "tags": {
+          "brand": "More",
+          "brand:wikidata": "Q6910891",
+          "name": "More",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2183587173,
+        "lat": 18.5497509,
+        "lon": 73.9413781,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2183587174,
+        "lat": 18.5527181,
+        "lon": 73.9375801,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "website": "https://www.axisbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2183587175,
+        "lat": 18.5483672,
+        "lon": 73.9362368,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Kharadi",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4082977297,
+        "lat": 18.55301,
+        "lon": 73.9490208,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "World Trade Center, Kharadi",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "drive_through": "no",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "short_name": "ICICI",
+          "website": "https://www.icicibank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7070859090,
+        "lat": 18.5518547,
+        "lon": 73.9368054,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Sr No- 8, Yashwant Nagar Chowk, Hadapsar Bye Pass Road, OppositeBalaji Palace, Chandan Nagar",
+          "addr:postcode": "411035",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Prathmesh Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7649461732,
+        "lat": 18.5537182,
+        "lon": 73.9395977,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "4/1, Gold Road, Pandhari Nagar, Rakshak Nagar, Kharadi, Pune",
+          "addr:postcode": "411014",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Goodwill Icon Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7649461792,
+        "lat": 18.5515015,
+        "lon": 73.9411724,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "7/3/B, Gulmohar Sociaty, Behind Radisson Blue Hotel, Kharadi, Pune",
+          "addr:postcode": "411014",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Shree Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8378143820,
+        "lat": 18.5506888,
+        "lon": 73.9393079,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "MedPlus",
+          "brand:wikidata": "Q65684234",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "MedPlus"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8813801075,
+        "lat": 18.5537402,
+        "lon": 73.9393307,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Kharadi, Pune",
+          "addr:postcode": "411014",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Rising Medicare Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9215836851,
+        "lat": 18.5503243,
+        "lon": 73.9372721,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Thite Nagar, Kharadi",
+          "addr:postcode": "411014",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Shree laxmi Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9317265349,
+        "lat": 18.5519038,
+        "lon": 73.9367351,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Shop No. U4, Springfield building, opp. Reliance mart, Kharadi,",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "cardiology;general_physician;diabetology",
+          "name": "Hridan Speciality Clinic",
+          "opening_hours": "24/7",
+          "operator": "Novosalus",
+          "operator:type": "private",
+          "website": "https://www.hridanclinic.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10082191330,
+        "lat": 18.5534615,
+        "lon": 73.9481004,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "american",
+          "name": "Brgrmeister",
+          "phone": "+91 98907 40312",
+          "source": "survey",
+          "survey:date": "2022-09-28"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10082191331,
+        "lat": 18.5523494,
+        "lon": 73.9480824,
+        "tags": {
+          "addr:postcode": "411014",
+          "addr:street": "Fountain Road",
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "internet_access": "wlan",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "opening_hours": "Mo-Fr 08:00-23:00",
+          "source": "survey",
+          "survey:date": "2022-09-28",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10560852509,
+        "lat": 18.5539513,
+        "lon": 73.94288,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Mannu Fish",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10561733009,
+        "lat": 18.551297,
+        "lon": 73.9481567,
+        "tags": {
+          "addr:housenumber": "3/4",
+          "addr:postcode": "411 014",
+          "addr:street": "Fountain Road",
+          "amenity": "fast_food",
+          "cuisine": "breakfast;indian",
+          "name": "\u0915\u094d\u0932\u093e\u0938\u093f\u0915",
+          "name:en": "Classic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10561756209,
+        "lat": 18.5521983,
+        "lon": 73.9480521,
+        "tags": {
+          "addr:housenumber": "3",
+          "addr:postcode": "411014",
+          "addr:street": "Fountain Road",
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:wikidata": "Q244457",
+          "cuisine": "sandwich",
+          "name": "Subway",
+          "name:en": "Subway",
+          "opening_hours": "Mo-Su 07:00-01:00",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10563131009,
+        "lat": 18.5532675,
+        "lon": 73.9371612,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Swad",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10563131109,
+        "lat": 18.5531267,
+        "lon": 73.9369377,
+        "tags": {
+          "amenity": "atm",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10563131110,
+        "lat": 18.5533712,
+        "lon": 73.9364365,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Desi Tadka",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10563131209,
+        "lat": 18.5531446,
+        "lon": 73.9364539,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Pankj's Sambar",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10564140509,
+        "lat": 18.554025,
+        "lon": 73.9443047,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Shreyas Kitchen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10564938411,
+        "lat": 18.5550815,
+        "lon": 73.9476461,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "pizza",
+          "name": "La Pino'z Pizza"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10564950109,
+        "lat": 18.5553824,
+        "lon": 73.9476311,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:wikidata": "Q38076",
+          "brand:wikipedia": "en:McDonald's",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10564950110,
+        "lat": 18.5551826,
+        "lon": 73.9476418,
+        "tags": {
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10564950309,
+        "lat": 18.5552898,
+        "lon": 73.9476376,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "ice_cream",
+          "name": "Huber & Holly"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10564970710,
+        "lat": 18.5538418,
+        "lon": 73.940056,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Shagun Thal",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10565288809,
+        "lat": 18.5533078,
+        "lon": 73.936556,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Helpline Medicare",
+          "shop": "convenience",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10565439409,
+        "lat": 18.5540714,
+        "lon": 73.9355132,
+        "tags": {
+          "amenity": "atm",
+          "network": "ICICI Bank",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10565458909,
+        "lat": 18.5540399,
+        "lon": 73.9353365,
+        "tags": {
+          "amenity": "atm",
+          "network": "HDFC Bank",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10565458910,
+        "lat": 18.554122,
+        "lon": 73.935268,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Shiv Sai",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10565462909,
+        "lat": 18.5534592,
+        "lon": 73.9360477,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "chinese",
+          "name": "Chinese Station",
+          "source": "survey 2023"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10567044011,
+        "lat": 18.5593908,
+        "lon": 73.9385849,
+        "tags": {
+          "amenity": "atm",
+          "network": "ICICI Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10603459255,
+        "lat": 18.5466762,
+        "lon": 73.9358492,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11527156958,
+        "lat": 18.543552,
+        "lon": 73.9399663,
+        "tags": {
+          "access": "yes",
+          "addr:city": "pune",
+          "addr:district": "pune",
+          "addr:street": "mundhwa",
+          "leisure": "park",
+          "name": "lonkar",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "operator": "lonkar",
+          "operator:type": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11935053307,
+        "lat": 18.5524886,
+        "lon": 73.9371731,
+        "tags": {
+          "addr:city": "Kharadi",
+          "addr:district": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Kharadi Bypass",
+          "amenity": "hospital",
+          "emergency": "no",
+          "healthcare": "hospital",
+          "healthcare:speciality": "internal",
+          "name": "PMC Health Center",
+          "operator": "Pune Municipal Corporation(PMC)",
+          "operator:type": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11987757562,
+        "lat": 18.5500556,
+        "lon": 73.9400642,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-06-17",
+          "cuisine": "indian;chinese",
+          "diet:vegetarian": "yes",
+          "name": "Cream House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11991266936,
+        "lat": 18.5539925,
+        "lon": 73.9430546,
+        "tags": {
+          "amenity": "pharmacy",
+          "check_date": "2024-06-19",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11993067595,
+        "lat": 18.5497304,
+        "lon": 73.941634,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-06-20",
+          "cuisine": "kebab;chinese",
+          "name": "Al Zohra"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12040193953,
+        "lat": 18.551475,
+        "lon": 73.9482835,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2024-06-17",
+          "name": "Trida"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12370744401,
+        "lat": 18.5535718,
+        "lon": 73.9481192,
+        "tags": {
+          "addr:housenumber": "2",
+          "addr:postcode": "411014",
+          "addr:street": "Dhole Patil Road",
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12372950601,
+        "lat": 18.5531592,
+        "lon": 73.9484568,
+        "tags": {
+          "addr:housenumber": "2",
+          "addr:postcode": "411014",
+          "addr:street": "EON IT free Zone",
+          "amenity": "cafe",
+          "name": "Kannu Ki Chai"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12385845001,
+        "lat": 18.5528006,
+        "lon": 73.9484373,
+        "tags": {
+          "addr:housenumber": "Tower 2",
+          "addr:postcode": "411014",
+          "addr:street": "Dhole Patil Road",
+          "amenity": "food_court",
+          "name": "Trida"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12609976601,
+        "lat": 18.5536815,
+        "lon": 73.939838,
+        "tags": {
+          "addr:street": "Divine Suite",
+          "amenity": "cafe",
+          "name": "Cafe Rova",
+          "phone": "+919637908083"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12721907099,
+        "lat": 18.5569717,
+        "lon": 73.9466635,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:housenumber": "Office No.26, 5th Floor",
+          "addr:postcode": "411014",
+          "addr:street": "B-Building, City Vista Fountain Road, Ashoka Nagar, Kharadi",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "cardiology",
+          "name": "Hridayam Health Care",
+          "operator": "Novosalus Technology",
+          "operator:type": "private"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:33:41Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3522891765,
+        "lat": 18.5320031,
+        "lon": 73.9328051,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "name": "Shell",
+          "source": "GPS"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3523531813,
+        "lat": 18.5450743,
+        "lon": 73.9353949,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum",
+          "source": "GPS"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11688010839,
+        "lat": 18.5323221,
+        "lon": 73.9318645,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "MNGL",
+          "fuel:cng": "yes",
+          "name": "Gaikwad CNG station",
+          "self_service": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11690681124,
+        "lat": 18.5469569,
+        "lon": 73.9294557,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Bollywood",
+          "name:mr": "\u092c\u0949\u0932\u093f\u0935\u0942\u0921"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11862093825,
+        "lat": 18.5652196,
+        "lon": 73.944362,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "name": "Indian Oil Petrol Pump",
+          "not:brand:wikidata": "Q1289348"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12863629710,
+        "lat": 18.5795095,
+        "lon": 73.9099537,
+        "tags": {
+          "aeroway": "terminal"
+        }
+      }
+    ]
+  }
+}

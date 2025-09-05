@@ -1,0 +1,115 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:07:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6824640954,
+        "lat": 26.858999,
+        "lon": 81.0211491,
+        "tags": {
+          "leisure": "park",
+          "name": "zhar",
+          "opening_hours": "24/7",
+          "operator": "atul"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8933098358,
+        "lat": 26.854554,
+        "lon": 81.012462,
+        "tags": {
+          "leisure": "park",
+          "name": "Anand Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698513949,
+        "lat": 26.8607845,
+        "lon": 81.0208903,
+        "tags": {
+          "leisure": "park",
+          "name": "Park4"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698552022,
+        "lat": 26.8606455,
+        "lon": 81.0220681,
+        "tags": {
+          "leisure": "park",
+          "name": "Park 3"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698560364,
+        "lat": 26.8617658,
+        "lon": 81.0211378,
+        "tags": {
+          "leisure": "park",
+          "name": "Park 1233"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:07:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 535121349,
+        "lat": 26.8605833,
+        "lon": 81.0029055,
+        "tags": {
+          "name": "Gomti Nagar",
+          "operator": "NER",
+          "railway": "station",
+          "ref": "GTNR",
+          "wikidata": "Q24949486",
+          "wikipedia": "en:Gomti Nagar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2196598017,
+        "lat": 26.8536826,
+        "lon": 81.040798,
+        "tags": {
+          "name": "Malhaur",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ML",
+          "wikidata": "Q63370017"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4165961096,
+        "lat": 26.8625882,
+        "lon": 81.0105719,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cinepolis",
+          "brand:wikidata": "Q5686673",
+          "name": "Cinepolis"
+        }
+      }
+    ]
+  }
+}

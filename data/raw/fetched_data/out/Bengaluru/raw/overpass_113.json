@@ -1,0 +1,1918 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:20:35Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 608958729,
+        "lat": 13.0273219,
+        "lon": 77.5389577,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 608959102,
+        "lat": 13.0266571,
+        "lon": 77.5391304,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Raju Samosa"
+        }
+      },
+      {
+        "type": "node",
+        "id": 610337028,
+        "lat": 13.0266169,
+        "lon": 77.5346987,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Corporation Bank",
+          "brand:wikidata": "Q2003387",
+          "operator": "Corporation Bank",
+          "operator:wikidata": "Q2003387"
+        }
+      },
+      {
+        "type": "node",
+        "id": 738573635,
+        "lat": 13.0261316,
+        "lon": 77.5379964,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Samosa"
+        }
+      },
+      {
+        "type": "node",
+        "id": 738573648,
+        "lat": 13.0281211,
+        "lon": 77.5360606,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Hotel Madeshwara",
+          "name:kn": "\u0cae\u0cbe\u0ca6\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1473014762,
+        "lat": 13.0271417,
+        "lon": 77.5438625,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hotel Prabha International",
+          "name:kn": "\u0cb9\u0ccb\u0c9f\u0cc6\u0cb2\u0ccd \u0caa\u0ccd\u0cb0\u0cad\u0cbe \u0c87\u0c82\u0c9f\u0cb0\u0ccd\u200c\u0ca8\u0ccd\u0caf\u0cbe\u0cb6\u0ca8\u0cb2\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1473023593,
+        "lat": 13.0275337,
+        "lon": 77.5397051,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "No. 35/6, Industrial Suburb, Goragunte Palya, Yashwantpur",
+          "addr:postcode": "560022",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "Mysore Hospital",
+          "name:kn": "\u0cae\u0cc8\u0cb8\u0cc2\u0cb0\u0cc1 \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1473023915,
+        "lat": 13.027027,
+        "lon": 77.539442,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Prakash Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2027760047,
+        "lat": 13.0250549,
+        "lon": 77.546176,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Andhra Bank",
+          "brand:wikidata": "Q2003476",
+          "brand:wikipedia": "en:Andhra Bank",
+          "name": "Andhra Bank",
+          "name:en": "Andhra Bank",
+          "name:kn": "\u0c86\u0c82\u0ca7\u0ccd\u0cb0 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "website": "https://www.andhrabank.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2027760048,
+        "lat": 13.024952,
+        "lon": 77.5463641,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "name:kn": "\u0c86\u0c95\u0ccd\u0cb8\u0cbf\u0cb8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "website": "https://www.axisbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2027760049,
+        "lat": 13.0240517,
+        "lon": 77.5479481,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "brand:wikipedia": "en:Bank of Baroda",
+          "name": "Bank of Baroda",
+          "name:en": "Bank of Baroda",
+          "name:kn": "\u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd \u0c86\u0cab\u0ccd \u0cac\u0cb0\u0ccb\u0ca1",
+          "short_name": "BoB",
+          "website": "http://www.bankofbaroda.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2027760050,
+        "lat": 13.0250934,
+        "lon": 77.5461198,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "brand:wikipedia": "en:Canara Bank",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "website": "https://www.canarabank.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2027760051,
+        "lat": 13.023952,
+        "lon": 77.5481032,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Corporation Bank",
+          "brand:wikidata": "Q2003387",
+          "brand:wikipedia": "en:Corporation Bank",
+          "name": "Corporation Bank",
+          "name:en": "Corporation Bank",
+          "name:kn": "\u0c95\u0cbe\u0cb0\u0ccd\u0caa\u0cb0\u0cc7\u0cb7\u0ca8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "website": "https://corpbank.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2027760052,
+        "lat": 13.0248684,
+        "lon": 77.5465159,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "name:kn": "\u0c90\u0cb8\u0cbf\u0c90\u0cb8\u0cbf\u0c90 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0cc1",
+          "short_name": "ICICI",
+          "website": "https://www.icicibank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2027760053,
+        "lat": 13.0251231,
+        "lon": 77.5460394,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:postcode": "560022",
+          "addr:street": "Tumkur Road",
+          "amenity": "bank",
+          "atm": "no",
+          "name": "LIC (61U/CB-20)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2027760054,
+        "lat": 13.0237386,
+        "lon": 77.5481786,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "name:kn": "\u0cad\u0cbe\u0cb0\u0ca4\u0cc0\u0caf \u0cb8\u0ccd\u0c9f\u0cc7\u0c9f\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "short_name": "SBI",
+          "website": "https://www.sbi.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2027760055,
+        "lat": 13.024923,
+        "lon": 77.5464169,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "Union Bank",
+          "name:kn": "\u0caf\u0cc2\u0ca8\u0cbf\u0caf\u0ca8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3451519135,
+        "lat": 13.0346447,
+        "lon": 77.534307,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "operator": "Indian Bank",
+          "operator:wikidata": "Q2003789"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4027308246,
+        "lat": 13.0247172,
+        "lon": 77.5483657,
+        "tags": {
+          "brand": "More",
+          "brand:wikidata": "Q6910891",
+          "name": "More",
+          "name:kn": "\u0cae\u0ccb\u0cb0\u0ccd",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4599701763,
+        "lat": 13.0346821,
+        "lon": 77.5351685,
+        "tags": {
+          "access": "private",
+          "amenity": "restaurant",
+          "name": "NID Canteen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6654524748,
+        "lat": 13.0286581,
+        "lon": 77.5436007,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8277369138,
+        "lat": 13.0287266,
+        "lon": 77.5393827,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "People Tree Hospitals",
+          "addr:postcode": "560022",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "healthcare:speciality": "Arthroscopy;Orthopedics",
+          "name": "Dr. Srikanth KP",
+          "website": "https://www.orthodrsrikanthkp.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9114716555,
+        "lat": 13.0271469,
+        "lon": 77.5394738,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "New Mangaluru Lynch Home"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11998178513,
+        "lat": 13.0318753,
+        "lon": 77.5337721,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-06-21",
+          "name": "Dakshin Delicacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12017326334,
+        "lat": 13.0266801,
+        "lon": 77.5448613,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "check_date": "2024-06-28",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12531311306,
+        "lat": 13.0266999,
+        "lon": 77.5392993,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Ami Tea Stall"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:20:35Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 444271384,
+        "lat": 13.0239305,
+        "lon": 77.5512528,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "YPR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 568362567,
+        "lat": 13.0233685,
+        "lon": 77.549748,
+        "tags": {
+          "alt_name": "Yeshwantpura",
+          "code": "YPM",
+          "name": "Yeshwantpur",
+          "name:kn": "\u0caf\u0cb6\u0ccd\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 590002267,
+        "lat": 13.0436252,
+        "lon": 77.5536883,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "compressed_air": "yes",
+          "name": "Hindustan Petroleum",
+          "official_name": "Hindustan Petroleum",
+          "operator": "Hindustan Petroleum",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 668972579,
+        "lat": 13.0282471,
+        "lon": 77.5411923,
+        "tags": {
+          "code": "YPI",
+          "internet_access": "no",
+          "local_ref": "2",
+          "name": "Goraguntepalya",
+          "name:kn": "\u0c97\u0cca\u0cb0\u0c97\u0cc1\u0c82\u0c9f\u0cc6\u0caa\u0cbe\u0cb3\u0ccd\u0caf \u0cae\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "old_name": "Yeshwantpur Industry",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "to": "Silk Institute",
+          "via": "Majestic",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 701733217,
+        "lat": 13.0382505,
+        "lon": 77.5209319,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 791378337,
+        "lat": 13.0270252,
+        "lon": 77.5348756,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588791,
+        "lat": 13.0239297,
+        "lon": 77.5513762,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "YPR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588793,
+        "lat": 13.0237906,
+        "lon": 77.5509811,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "YPR:5;6"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1097017947,
+        "lat": 13.0146762,
+        "lon": 77.5306311,
+        "tags": {
+          "bus": "yes",
+          "name": "Nandini Layout Ring Road",
+          "name:en": "Nandini Layout Ring Road",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1097018103,
+        "lat": 13.0118943,
+        "lon": 77.5438575,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Mahalakshmi Layout",
+          "name:kn": "\u0cae\u0cb9\u0cbe\u0cb2\u0c95\u0ccd\u0cb7\u0ccd\u0cae\u0cbf \u0cac\u0ca1\u0cbe\u0cb5\u0ca3\u0cc6",
+          "operator": "BMTC",
+          "public_transport": "stop_position",
+          "shelter": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1473004837,
+        "lat": 13.0238021,
+        "lon": 77.5494737,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1473042460,
+        "lat": 13.0496036,
+        "lon": 77.5437392,
+        "tags": {
+          "alt_name": "HMT Cinema",
+          "amenity": "theatre",
+          "name": "K V S Gowda Open air theater",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1485686846,
+        "lat": 13.0363428,
+        "lon": 77.525528,
+        "tags": {
+          "code": "PYID",
+          "internet_access:fee": "no",
+          "name": "Peenya Industry",
+          "name:kn": "\u0caa\u0cc0\u0ca3\u0ccd\u0caf \u0c95\u0cc8\u0c97\u0cbe\u0cb0\u0cbf\u0c95",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17082550",
+          "wikipedia": "en:Peenya Industry"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1557273055,
+        "lat": 13.009146,
+        "lon": 77.5382946,
+        "tags": {
+          "bus": "yes",
+          "name": "Saraswathipuram",
+          "name:en": "Saraswathipuram",
+          "name:kn": "\u0cb8\u0cb0\u0cb8\u0ccd\u0cb5\u0ca4\u0cbf\u0caa\u0cc1\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1562366308,
+        "lat": 13.0155262,
+        "lon": 77.5262039,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Lakshmidevi Nagara",
+          "name:kn": "\u0cb2\u0c95\u0ccd\u0cb7\u0ccd\u0cae\u0cbf\u0ca6\u0cc7\u0cb5\u0cbf \u0ca8\u0c97\u0cb0",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1565099091,
+        "lat": 13.0080714,
+        "lon": 77.5488245,
+        "tags": {
+          "name": "Mahalakshmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "name:kn": "\u0cae\u0cb9\u0cbe\u0cb2\u0c95\u0ccd\u0cb7\u0ccd\u0cae\u0cbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1565099095,
+        "lat": 13.0147177,
+        "lon": 77.5540284,
+        "tags": {
+          "code": "SSFY",
+          "name": "Sandal Soap Factory",
+          "name:kn": "\u0cb8\u0cbe\u0c82\u0ca1\u0cb2\u0ccd \u0cb8\u0ccb\u0caa\u0ccd \u0c95\u0cbe\u0cb0\u0ccd\u0c96\u0cbe\u0ca8\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17088478",
+          "wikipedia": "en:Sandal Soap Factory"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1624006386,
+        "lat": 13.0178803,
+        "lon": 77.5537255,
+        "tags": {
+          "bus": "yes",
+          "name": "Govardhan Talkies",
+          "name:en": "Govardhan Talkies",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1794675779,
+        "lat": 13.0230791,
+        "lon": 77.522557,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2090829415,
+        "lat": 13.0103477,
+        "lon": 77.5367403,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP Petrol",
+          "name:kn": "\u0cb9\u0cbf\u0c82\u0ca6\u0cc1\u0cb8\u0ccd\u0ca4\u0cbe\u0ca8\u0ccd \u0caa\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb\u0cb2\u0cbf\u0caf\u0c82",
+          "official_name": "Hindustan Petroleum",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2393957941,
+        "lat": 13.0230509,
+        "lon": 77.5503516,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2403416748,
+        "lat": 13.0214275,
+        "lon": 77.5270781,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "loc_name": "PEENYA INDUSTRIAL AREA",
+          "name": "Kanteerava Nagar",
+          "name:kn": "\u0c95\u0c82\u0c9f\u0cc0\u0cb0\u0cb5\u0ca8\u0c97\u0cb0",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2403417323,
+        "lat": 13.0188369,
+        "lon": 77.5261816,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "loc_name": "LAKSHMIDEVI NAGARA",
+          "name": "Sanjay Gandhi Nagar",
+          "name:kn": "\u0cb8\u0c82\u0c9c\u0caf\u0c97\u0cbe\u0c82\u0ca7\u0cbf \u0ca8\u0c97\u0cb0",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2403424173,
+        "lat": 13.015628,
+        "lon": 77.5237044,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Vidhanasoudha Layout",
+          "name:kn": "\u0cb5\u0cbf\u0ca7\u0cbe\u0ca8\u0cb8\u0ccc\u0ca7 \u0cac\u0ca1\u0cbe\u0cb5\u0ca3\u0cc6",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2432536810,
+        "lat": 13.029594,
+        "lon": 77.5401704,
+        "tags": {
+          "bus": "yes",
+          "name": "Goraguntepalya",
+          "name:kn": "\u0c97\u0cca\u0cb0\u0c97\u0cc1\u0c82\u0c9f\u0cc6\u0caa\u0cbe\u0cb3\u0ccd\u0caf \u0cae\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2967308931,
+        "lat": 13.0237734,
+        "lon": 77.5507701,
+        "tags": {
+          "designation": "YPR",
+          "name": "Yesvantpur Junction",
+          "name:kn": "\u0caf\u0cb6\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0 \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d2f\u0d36\u0d4d\u0d35\u0d28\u0d4d\u0d24\u0d4d\u0d2a\u0d42\u0d7c \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "network": "IR",
+          "operator": "SWR",
+          "platforms": "6",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "YPR",
+          "wheelchair": "yes",
+          "wikidata": "Q8052904",
+          "wikipedia": "en:Yesvantpur Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3379412454,
+        "lat": 13.0330515,
+        "lon": 77.5332233,
+        "tags": {
+          "code": "PEYA",
+          "internet_access:fee": "no",
+          "name": "Peenya",
+          "name:kn": "\u0caa\u0cc0\u0ca3\u0ccd\u0caf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17082567",
+          "wikipedia": "en:Peenya metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3541170089,
+        "lat": 13.0336462,
+        "lon": 77.5306463,
+        "tags": {
+          "amenity": "fuel",
+          "operator": "Hindusthan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3541202418,
+        "lat": 13.0366638,
+        "lon": 77.5237733,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4599701764,
+        "lat": 13.0347056,
+        "lon": 77.5349405,
+        "tags": {
+          "amenity": "theatre",
+          "name": "NID Open Air Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4937191685,
+        "lat": 13.0096257,
+        "lon": 77.5432757,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Ganesha Temple",
+          "name:kn": "\u0c97\u0ca3\u0cc7\u0cb6 \u0ca6\u0cc7\u0cb5\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8",
+          "public_transport": "stop_position",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5174994722,
+        "lat": 13.0175732,
+        "lon": 77.5597173,
+        "tags": {
+          "bench": "yes",
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Yeshwanthpura Circle",
+          "name:en": "Yeshwanthpura Circle",
+          "name:kn": "\u0caf\u0cb6\u0ccd\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position",
+          "shelter": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5558663784,
+        "lat": 13.0330842,
+        "lon": 77.5541668,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5714418132,
+        "lat": 13.0248469,
+        "lon": 77.5484619,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "cinema:3D": "yes",
+          "name": "PVR Cinemas",
+          "phone": "080-28078100",
+          "screen": "6",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198620,
+        "lat": 13.0362716,
+        "lon": 77.5254867,
+        "tags": {
+          "code": "PYID",
+          "name": "Peenya Industry",
+          "name:kn": "\u0caa\u0cc0\u0ca3\u0ccd\u0caf \u0c95\u0cc8\u0c97\u0cbe\u0cb0\u0cbf\u0c95",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17082550",
+          "wikipedia": "en:Peenya Industry metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198625,
+        "lat": 13.0329814,
+        "lon": 77.5331801,
+        "tags": {
+          "code": "PEYA",
+          "internet_access:fee": "no",
+          "name": "Peenya",
+          "name:kn": "\u0caa\u0cc0\u0ca3\u0ccd\u0caf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17082567",
+          "wikipedia": "en:Peenya metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198626,
+        "lat": 13.028613,
+        "lon": 77.5404372,
+        "tags": {
+          "code": "YPI",
+          "internet_access": "no",
+          "local_ref": "1",
+          "name": "Goraguntepalya",
+          "name:kn": "\u0c97\u0cca\u0cb0\u0c97\u0cc1\u0c82\u0c9f\u0cc6\u0caa\u0cbe\u0cb3\u0ccd\u0caf \u0cae\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "old_name": "Yeshwantpur Industry",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "to": "Nagasandra",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198627,
+        "lat": 13.0232981,
+        "lon": 77.5497052,
+        "tags": {
+          "alt_name": "Yeshwantpura",
+          "code": "YPM",
+          "name": "Yeshwantpur",
+          "name:kn": "\u0caf\u0cb6\u0ccd\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198629,
+        "lat": 13.0147178,
+        "lon": 77.5539915,
+        "tags": {
+          "code": "SSFY",
+          "name": "Sandal Soap Factory",
+          "name:kn": "\u0cb8\u0cbe\u0c82\u0ca1\u0cb2\u0ccd \u0cb8\u0ccb\u0caa\u0ccd \u0c95\u0cbe\u0cb0\u0ccd\u0c96\u0cbe\u0ca8\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17088478",
+          "wikipedia": "en:Sandal Soap Factory metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198630,
+        "lat": 13.0080774,
+        "lon": 77.5487834,
+        "tags": {
+          "code": "MHLI",
+          "name": "Mahalakshmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "name:kn": "\u0cae\u0cb9\u0cbe\u0cb2\u0c95\u0ccd\u0cb7\u0ccd\u0cae\u0cbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6347654330,
+        "lat": 13.0085371,
+        "lon": 77.5487745,
+        "tags": {
+          "bus": "yes",
+          "name": "Mahalakshmi Layout Entrance",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6347654333,
+        "lat": 13.0078148,
+        "lon": 77.5481561,
+        "tags": {
+          "bus": "yes",
+          "name": "Mahalakshmi Layout Entrance",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6347654334,
+        "lat": 13.0118343,
+        "lon": 77.5515223,
+        "tags": {
+          "bus": "yes",
+          "name": "ISKCON Temple",
+          "name:kn": "\u0c87\u0cb8\u0ccd\u0c95\u0cca\u0ca8\u0ccd \u0ca6\u0cc7\u0cb5\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6347654335,
+        "lat": 13.01174,
+        "lon": 77.5516172,
+        "tags": {
+          "bus": "yes",
+          "name": "ISKCON Temple",
+          "name:kn": "\u0c87\u0cb8\u0ccd\u0c95\u0cca\u0ca8\u0ccd \u0ca6\u0cc7\u0cb5\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6347654336,
+        "lat": 13.0131149,
+        "lon": 77.5544165,
+        "tags": {
+          "bus": "yes",
+          "name": "Government Soap Factory",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6347654337,
+        "lat": 13.0132449,
+        "lon": 77.5538218,
+        "tags": {
+          "bus": "yes",
+          "name": "Government Soap Factory",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6410706691,
+        "lat": 13.0080475,
+        "lon": 77.5488066,
+        "tags": {
+          "code": "MHLI",
+          "name": "Mahalakshmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "name:kn": "\u0cae\u0cb9\u0cbe\u0cb2\u0c95\u0ccd\u0cb7\u0ccd\u0cae\u0cbf",
+          "name:ml": "\u0d2e\u0d39\u0d3e\u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2e\u0d3f",
+          "name:ta": "\u0bae\u0b95\u0bbe\u0bb2\u0b9f\u0bcd\u0b9a\u0bc1\u0bae\u0bbf",
+          "network": "Namma Metro",
+          "network:wikidata": "Q279343",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6410706692,
+        "lat": 13.0146544,
+        "lon": 77.5539839,
+        "tags": {
+          "code": "SSFY",
+          "name": "Sandal Soap Factory",
+          "name:kn": "\u0cb8\u0cbe\u0c82\u0ca1\u0cb2\u0ccd \u0cb8\u0ccb\u0caa\u0ccd \u0c95\u0cbe\u0cb0\u0ccd\u0c96\u0cbe\u0ca8\u0cc6",
+          "name:ml": "\u0d38\u0d3e\u0d7b\u0d21\u0d7d \u0d38\u0d4b\u0d2a\u0d4d\u0d2a\u0d4d \u0d2b\u0d3e\u0d15\u0d4d\u0d1f\u0d31\u0d3f",
+          "network": "Namma Metro",
+          "network:wikidata": "Q279343",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes",
+          "wikipedia": "en:Sandal Soap Factory metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6410706695,
+        "lat": 13.0330189,
+        "lon": 77.533201,
+        "tags": {
+          "code": "PEYA",
+          "name": "Peenya",
+          "name:kn": "\u0caa\u0cc0\u0ca3\u0ccd\u0caf",
+          "name:ml": "\u0d2a\u0d40\u0d23\u0d4d\u0d2f",
+          "network": "Namma Metro",
+          "network:wikidata": "Q279343",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6410706696,
+        "lat": 13.0363176,
+        "lon": 77.5254924,
+        "tags": {
+          "code": "PYID",
+          "name": "Peenya Industry",
+          "name:kn": "\u0caa\u0cc0\u0ca3\u0ccd\u0caf \u0c87\u0c82\u0ca1\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cbf",
+          "name:ml": "\u0d2a\u0d40\u0d23\u0d4d\u0d2f \u0d07\u0d7b\u0d21\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d3f",
+          "network": "Namma Metro",
+          "network:wikidata": "Q279343",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631824073,
+        "lat": 13.0306945,
+        "lon": 77.5364479,
+        "tags": {
+          "bus": "yes",
+          "name": "CMTI Goragunte Palya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631824075,
+        "lat": 13.0358537,
+        "lon": 77.5256143,
+        "tags": {
+          "bus": "yes",
+          "name": "Peenya Metro Station",
+          "name:kn": "\u0caa\u0cc0\u0ca3\u0ccd\u0caf \u0cae\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631824077,
+        "lat": 13.0344766,
+        "lon": 77.5299784,
+        "tags": {
+          "bus": "yes",
+          "name": "SRS Peenya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631824081,
+        "lat": 13.0289918,
+        "lon": 77.539552,
+        "tags": {
+          "bus": "yes",
+          "name": "Goraguntepalya",
+          "name:kn": "\u0c97\u0cca\u0cb0\u0c97\u0cc1\u0c82\u0c9f\u0cc6\u0caa\u0cbe\u0cb3\u0ccd\u0caf \u0cae\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631824083,
+        "lat": 13.0266639,
+        "lon": 77.5441183,
+        "tags": {
+          "alt_name": "MEI Guragunte Palya",
+          "bus": "yes",
+          "name": "MEI Factory",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631824084,
+        "lat": 13.0265791,
+        "lon": 77.543985,
+        "tags": {
+          "alt_name": "MEI Guragunte Palya",
+          "bus": "yes",
+          "name": "MEI Factory",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631828585,
+        "lat": 13.0236427,
+        "lon": 77.5488482,
+        "tags": {
+          "bus": "yes",
+          "name": "RMC Yard",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631828586,
+        "lat": 13.0202955,
+        "lon": 77.5526048,
+        "tags": {
+          "alt_name": "Govardhan Talkies",
+          "bus": "yes",
+          "name": "Govardhan Theater",
+          "name:kn": "\u0c97\u0ccb\u0cb5\u0cb0\u0ccd\u0ca7\u0ca8 \u0c9a\u0cbf\u0ca4\u0ccd\u0cb0\u0cae\u0c82\u0ca6\u0cbf\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631828588,
+        "lat": 13.0243805,
+        "lon": 77.5481432,
+        "tags": {
+          "bus": "yes",
+          "name": "RMC Yard",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6646343717,
+        "lat": 13.0262498,
+        "lon": 77.5618639,
+        "tags": {
+          "bus": "yes",
+          "name": "Diwanarapalya",
+          "name:en": "Diwanarapalya",
+          "name:kn": "\u0ca6\u0cc0\u0cb5\u0cbe\u0ca8\u0cb0\u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6646343718,
+        "lat": 13.0289212,
+        "lon": 77.5614859,
+        "tags": {
+          "bus": "yes",
+          "name": "MS Ramaiah College",
+          "name:en": "MS Ramaiah College",
+          "name:kn": "\u0cb0\u0cbe\u0cae\u0caf\u0ccd\u0caf \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6646343719,
+        "lat": 13.0198944,
+        "lon": 77.5557531,
+        "tags": {
+          "bus": "yes",
+          "name": "Yeshwanthpura Market",
+          "name:en": "Yeshwanthpura Market",
+          "name:kn": "\u0caf\u0cb6\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0 \u0cb8\u0c82\u0ca4\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6646343720,
+        "lat": 13.0249225,
+        "lon": 77.5574321,
+        "tags": {
+          "bus": "yes",
+          "name": "Bombay Dyeing, Yeshwanthapura",
+          "name:en": "Bombay Dyeing, Yeshwanthapura",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6646343722,
+        "lat": 13.028941,
+        "lon": 77.5590697,
+        "tags": {
+          "bus": "yes",
+          "name": "Post Office Mattikere",
+          "name:en": "Post Office Mattikere",
+          "name:kn": "\u0c85\u0c82\u0c9a\u0cc6 \u0c95\u0c9b\u0cc7\u0cb0\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6654524766,
+        "lat": 13.0281337,
+        "lon": 77.5415254,
+        "tags": {
+          "bus": "yes",
+          "name": "Goraguntepalya",
+          "name:en": "Goraguntepalya",
+          "name:kn": "\u0c97\u0cca\u0cb0\u0c97\u0cc1\u0c82\u0c9f\u0cc6 \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position",
+          "to": "Yeshwantpur"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6854604077,
+        "lat": 13.0218301,
+        "lon": 77.5532723,
+        "tags": {
+          "bus": "yes",
+          "name": "Railway Station Yeshwanthapura",
+          "name:en": "Railway Station Yeshwanthapura",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6854604078,
+        "lat": 13.0170546,
+        "lon": 77.5585966,
+        "tags": {
+          "bus": "yes",
+          "name": "Yeshwanthpura Circle",
+          "name:en": "Yeshwanthpura Circle",
+          "name:kn": "\u0caf\u0cb6\u0ccd\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6904564292,
+        "lat": 13.0288873,
+        "lon": 77.561429,
+        "tags": {
+          "bus": "yes",
+          "name": "MS Ramaiah College",
+          "name:en": "MS Ramaiah College",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7104383860,
+        "lat": 13.0385863,
+        "lon": 77.520642,
+        "tags": {
+          "bus": "yes",
+          "name": "Jalahalli Cross",
+          "name:en": "Jalahalli Cross",
+          "name:kn": "\u0c9c\u0cbe\u0cb2\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf \u0c95\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7124635781,
+        "lat": 13.0413161,
+        "lon": 77.5572482,
+        "tags": {
+          "bus": "yes",
+          "name": "Gokula",
+          "name:en": "Gokula",
+          "name:kn": "\u0c97\u0ccb\u0c95\u0cc1\u0cb2",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7215549915,
+        "lat": 13.0206859,
+        "lon": 77.5521442,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "Hindustan Petroleum",
+          "name:kn": "\u0cb9\u0cbf\u0c82\u0ca6\u0cc1\u0cb8\u0ccd\u0ca4\u0cbe\u0ca8\u0ccd \u0caa\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb\u0cb2\u0cbf\u0caf\u0c82",
+          "official_name": "Hindustan Petroleum",
+          "operator": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7228148573,
+        "lat": 13.0354023,
+        "lon": 77.557418,
+        "tags": {
+          "bus": "yes",
+          "name": "Mattikere",
+          "name:en": "Mattikere",
+          "name:kn": "\u0cae\u0ca4\u0ccd\u0ca4\u0cbf\u0c95\u0cc6\u0cb0\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7228148575,
+        "lat": 13.0356116,
+        "lon": 77.5575791,
+        "tags": {
+          "bus": "yes",
+          "name": "Mattikere",
+          "name:en": "Mattikere",
+          "name:kn": "\u0cae\u0ca4\u0ccd\u0ca4\u0cbf\u0c95\u0cc6\u0cb0\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7228151801,
+        "lat": 13.0451532,
+        "lon": 77.5567023,
+        "tags": {
+          "bus": "yes",
+          "name": "BEL Circle",
+          "name:en": "BEL Circle",
+          "name:kn": "\u0cac\u0cc0 \u0c88 \u0c8e\u0cb2\u0ccd \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9912087549,
+        "lat": 13.0267773,
+        "lon": 77.5433983,
+        "tags": {
+          "bus": "yes",
+          "name": "MEI Factory",
+          "name:en": "MEI Factory",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9912087568,
+        "lat": 13.0184869,
+        "lon": 77.5535604,
+        "tags": {
+          "bus": "yes",
+          "name": "Govardhan Talkies",
+          "name:en": "Govardhan Talkies",
+          "name:kn": "\u0c97\u0ccb\u0cb5\u0cb0\u0ccd\u0ca7\u0ca8",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9912846654,
+        "lat": 13.0436902,
+        "lon": 77.5531934,
+        "tags": {
+          "bus": "yes",
+          "name": "Muthyala Nagara",
+          "name:en": "Muthyala Nagara",
+          "name:kn": "\u0cae\u0cc1\u0ca4\u0ccd\u0caf\u0cb2 \u0ca8\u0c97\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10032974888,
+        "lat": 13.0182179,
+        "lon": 77.5578545,
+        "tags": {
+          "bus": "yes",
+          "name": "Yeshwanthpura Circle",
+          "name:en": "Yeshwanthpura Circle",
+          "name:kn": "\u0caf\u0cb6\u0ccd\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10795162738,
+        "lat": 13.0085539,
+        "lon": 77.5439406,
+        "tags": {
+          "bus": "yes",
+          "name": "Srinivasa Temple",
+          "name:en": "Srinivasa Temple",
+          "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0\u0ca8\u0cbf\u0cb5\u0cbe\u0cb8 \u0ca6\u0cc7\u0cb5\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11231119948,
+        "lat": 13.0292498,
+        "lon": 77.5366203,
+        "tags": {
+          "bus": "yes",
+          "name": "Reliance Petrol Bunk Goraguntepalya",
+          "name:en": "Reliance Petrol Bunk Goraguntepalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11603221281,
+        "lat": 13.0120404,
+        "lon": 77.5290717,
+        "tags": {
+          "bus": "yes",
+          "name": "Nandini Layout Ring Road",
+          "name:en": "Nandini Layout Ring Road",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11603221283,
+        "lat": 13.0185856,
+        "lon": 77.5319221,
+        "tags": {
+          "bus": "yes",
+          "name": "Rajkumar Samadhi",
+          "name:en": "Rajkumar Samadhi",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11603221284,
+        "lat": 13.0225919,
+        "lon": 77.5329383,
+        "tags": {
+          "bus": "yes",
+          "name": "Kanteerva Studio",
+          "name:en": "Kanteerva Studio",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11603221285,
+        "lat": 13.0248676,
+        "lon": 77.5340797,
+        "tags": {
+          "bus": "yes",
+          "name": "Modern Food Goraguntepalya",
+          "name:en": "Modern Food Goraguntepalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11603221287,
+        "lat": 13.0177049,
+        "lon": 77.5565754,
+        "tags": {
+          "bus": "yes",
+          "name": "Yeshwanthapura TTMC",
+          "name:en": "Yeshwanthapura TTMC",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11607676785,
+        "lat": 13.0288011,
+        "lon": 77.5362745,
+        "tags": {
+          "bus": "yes",
+          "name": "Reliance Petrol Bunk Goraguntepalya",
+          "name:en": "Reliance Petrol Bunk Goraguntepalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11607676787,
+        "lat": 13.0248961,
+        "lon": 77.5339913,
+        "tags": {
+          "bus": "yes",
+          "name": "Modern Food Goraguntepalya",
+          "name:en": "Modern Food Goraguntepalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11607676788,
+        "lat": 13.0226414,
+        "lon": 77.5326529,
+        "tags": {
+          "bus": "yes",
+          "name": "Kanteerava Studio",
+          "name:en": "Kanteerava Studio",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11607676789,
+        "lat": 13.0181624,
+        "lon": 77.5316675,
+        "tags": {
+          "bus": "yes",
+          "name": "Rajkumar Samadhi",
+          "name:en": "Rajkumar Samadhi",
+          "name:kn": "\u0cb0\u0cbe\u0c9c\u0c95\u0cc1\u0cae\u0cbe\u0cb0 \u0cb8\u0cae\u0cbe\u0ca7\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11607676791,
+        "lat": 13.0147246,
+        "lon": 77.5305265,
+        "tags": {
+          "bus": "yes",
+          "name": "Nandhini Layout",
+          "name:en": "Nandhini Layout",
+          "name:kn": "\u0ca8\u0c82\u0ca6\u0cbf\u0ca8\u0cbf \u0cac\u0ca1\u0cbe\u0cb5\u0ca3\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11607676793,
+        "lat": 13.0121439,
+        "lon": 77.5289951,
+        "tags": {
+          "bus": "yes",
+          "name": "Nandini Layout Ring Road",
+          "name:en": "Nandini Layout Ring Road",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11690829644,
+        "lat": 13.0170788,
+        "lon": 77.5586515,
+        "tags": {
+          "bus": "yes",
+          "name": "Yeshwanthpura Circle",
+          "name:en": "Yeshwanthpura Circle",
+          "name:kn": "\u0caf\u0cb6\u0ccd\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11811681391,
+        "lat": 13.0114564,
+        "lon": 77.5358247,
+        "tags": {
+          "bus": "yes",
+          "name": "Nandini Layout",
+          "name:en": "Nandini Layout",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11941186869,
+        "lat": 13.0232678,
+        "lon": 77.5498751,
+        "tags": {
+          "alt_name": "Yeshwantpura",
+          "code": "YPM",
+          "name": "Yeshwantpur",
+          "name:kn": "\u0caf\u0cb6\u0cb5\u0c82\u0ca4\u0caa\u0cc1\u0cb0",
+          "name:ml": "\u0d2f\u0d36\u0d4d\u0d35\u0d28\u0d4d\u0d24\u0d2a\u0d41\u0d30",
+          "network": "Namma Metro",
+          "network:wikidata": "Q279343",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes",
+          "wikipedia": "en:Yeshwanthpur metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12016136802,
+        "lat": 13.027001,
+        "lon": 77.5425776,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12150953167,
+        "lat": 13.0195518,
+        "lon": 77.5527632,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "TotalEnergies",
+          "brand:wikidata": "Q154037",
+          "name": "TotalEnergies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12513672738,
+        "lat": 13.0147187,
+        "lon": 77.5539779,
+        "tags": {
+          "code": "SSFY",
+          "name": "Sandal Soap Factory",
+          "name:kn": "\u0cb8\u0cbe\u0c82\u0ca1\u0cb2\u0ccd \u0cb8\u0ccb\u0caa\u0ccd \u0c95\u0cbe\u0cb0\u0ccd\u0c96\u0cbe\u0ca8\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17088478",
+          "wikipedia": "en:Sandal Soap Factory"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12519643346,
+        "lat": 13.0330528,
+        "lon": 77.533757,
+        "tags": {
+          "amenity": "charging_station",
+          "charging_station:battery_swapping": "yes",
+          "fee": "yes",
+          "level": "0",
+          "motorcar": "no",
+          "motorcycle": "yes",
+          "name": "Honda e:swap",
+          "operator": "Honda e:swap"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12525728510,
+        "lat": 13.0287619,
+        "lon": 77.539867,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Goraguntepalaya",
+          "network": "BMTC",
+          "public_transport": "stop_position",
+          "shelter": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020406495,
+        "lat": 13.0286746,
+        "lon": 77.5197196,
+        "tags": {
+          "bus": "yes",
+          "name": "TVS Cross Peenya",
+          "name:en": "TVS Cross Peenya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

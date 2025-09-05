@@ -1,0 +1,47 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:13:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 9910965887,
+        "lat": 26.8499723,
+        "lon": 81.0510413,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Breakin cafe"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:13:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2196598017,
+        "lat": 26.8536826,
+        "lon": 81.040798,
+        "tags": {
+          "name": "Malhaur",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ML",
+          "wikidata": "Q63370017"
+        }
+      }
+    ]
+  }
+}

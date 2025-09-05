@@ -1,0 +1,1365 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:21:26Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1999602843,
+        "lat": 18.5865871,
+        "lon": 73.7366723,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjawadi Phase 1 road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank",
+          "name:en": "Punjab National Bank",
+          "opening_hours": "Mo-Fr 09:00-17:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5256255286,
+        "lat": 18.5867371,
+        "lon": 73.7379157,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "amenity": "cafe",
+          "cuisine": "regional",
+          "name": "Symbiosis International",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5837324146,
+        "lat": 18.5880525,
+        "lon": 73.7385343,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Mr. Eggs",
+          "opening_hours": "Mo-Su 08:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5837326687,
+        "lat": 18.584391,
+        "lon": 73.7327919,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5969139887,
+        "lat": 18.5922728,
+        "lon": 73.7377461,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5969145629,
+        "lat": 18.591359,
+        "lon": 73.7396326,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank",
+          "operator": "Kotak Mahindra Bank",
+          "operator:wikidata": "Q2040404"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5969148390,
+        "lat": 18.5907185,
+        "lon": 73.7419477,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6010143798,
+        "lat": 18.5922819,
+        "lon": 73.7376582,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Kaka Halwai"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6010154672,
+        "lat": 18.5911165,
+        "lon": 73.7413549,
+        "tags": {
+          "amenity": "atm",
+          "name": "Yes Bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6501779286,
+        "lat": 18.5824797,
+        "lon": 73.7332687,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Flavours On Stone"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6501779296,
+        "lat": 18.5866994,
+        "lon": 73.7345736,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "brand:wikipedia": "en:ICICI Bank",
+          "name": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6501779297,
+        "lat": 18.5868697,
+        "lon": 73.7339916,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Chai Point",
+          "brand:wikidata": "Q28173415",
+          "cuisine": "coffee_shop",
+          "name": "Chai Point",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6501779300,
+        "lat": 18.5880227,
+        "lon": 73.7350591,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "pizza",
+          "name": "Mojo Pizza"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6501779301,
+        "lat": 18.5878269,
+        "lon": 73.7354105,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Box 8 Desi Meals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7144515069,
+        "lat": 18.5814637,
+        "lon": 73.7362376,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "brand:wikidata": "Q38076",
+          "brand:wikipedia": "en:McDonald's",
+          "brand:wikipedia:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:wikipedia:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "name:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "name:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7320397265,
+        "lat": 18.5774997,
+        "lon": 73.7374633,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Smart Health Chemist"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7320397268,
+        "lat": 18.5773585,
+        "lon": 73.7374972,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Ramdev Medical"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7649461785,
+        "lat": 18.5914168,
+        "lon": 73.7395295,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:full": "Hinjewadi Road, Shivaji Chowk, Above IDBI Bank, Phase-I, Hinjawadi, Pune",
+          "addr:postcode": "411057",
+          "addr:state": "Maharastra",
+          "addr:street": "Hinjawadi Road",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "general",
+          "name": "Sanjeevani Hospital",
+          "operator": "hospital",
+          "operator:type": "public",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8266842313,
+        "lat": 18.5918325,
+        "lon": 73.7391917,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "HPRQ+MMJ, Shivaji Chowk Opp Police Chowki, Hinjawadi, Pune, Maharashtra 57",
+          "addr:postcode": "411057",
+          "addr:street": "Dange Chowk Road",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "CONSULTANT_DENTAL_SURGEON",
+          "name": "Happy Dent",
+          "website": "https://www.happydentclinic.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9453725355,
+        "lat": 18.579139,
+        "lon": 73.7361343,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:state": "MH",
+          "addr:street": "Blue Ridge Approach Road",
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "brand:ur": "\u0633\u0628 \u0648\u06d2",
+          "brand:wikidata": "Q244457",
+          "brand:wikipedia": "en:Subway (restaurant)",
+          "cuisine": "sandwich",
+          "level": "0",
+          "name": "Subway",
+          "name:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "name:ur": "\u0633\u0628 \u0648\u06d2",
+          "opening_hours": "Mo-Su 09:00-23:00",
+          "takeaway": "yes",
+          "toilets": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10275489576,
+        "lat": 18.5809429,
+        "lon": 73.7357397,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Waghbakri Tea Lounge",
+          "name:en": "Waghbakri Tea Lounge",
+          "name:mr": "\u0935\u093e\u0918\u092c\u0915\u094d\u0930\u0940 \u091f\u0940 \u0932\u093e\u0909\u0902\u091c"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10275489577,
+        "lat": 18.5810742,
+        "lon": 73.7356136,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:mr": "\u0921\u0949\u092e\u093f\u0928\u094b\u091c",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10573051578,
+        "lat": 18.5775907,
+        "lon": 73.73769,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank ATM",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10573052140,
+        "lat": 18.5811673,
+        "lon": 73.7377951,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10573065884,
+        "lat": 18.578527,
+        "lon": 73.7385509,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank Blue ridge",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10573065885,
+        "lat": 18.5797597,
+        "lon": 73.7379828,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank Of India ATM",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10573073180,
+        "lat": 18.5810482,
+        "lon": 73.735743,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10573079717,
+        "lat": 18.5810629,
+        "lon": 73.735701,
+        "tags": {
+          "amenity": "atm",
+          "brand": "IDFC First Bank",
+          "brand:wikidata": "Q22031467",
+          "operator": "IDFC First Bank",
+          "operator:wikidata": "Q22031467"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10573250072,
+        "lat": 18.5802031,
+        "lon": 73.7357651,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "Shop no.29",
+          "addr:postcode": "411057",
+          "addr:street": "Blue Ridge Approach Road",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop;ice_cream;dessert",
+          "name": "Frozen Bottle",
+          "opening_hours": "Mo-Su 11:00-01:00",
+          "phone": "+91 95954 63072"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10574821356,
+        "lat": 18.5871739,
+        "lon": 73.738033,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10574914311,
+        "lat": 18.5847958,
+        "lon": 73.7332081,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10574932247,
+        "lat": 18.5882878,
+        "lon": 73.7416428,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10574932248,
+        "lat": 18.5910505,
+        "lon": 73.7394865,
+        "tags": {
+          "amenity": "bank",
+          "name": "PMC Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10574937390,
+        "lat": 18.5909885,
+        "lon": 73.7392063,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10574943067,
+        "lat": 18.5836042,
+        "lon": 73.7296945,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10599706752,
+        "lat": 18.5800297,
+        "lon": 73.7358207,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "Blue Ridge Approach Road",
+          "amenity": "pharmacy",
+          "description": "pharmacy",
+          "healthcare": "pharmacy",
+          "healthcare:speciality": "general",
+          "name": "Wellwish Chemist",
+          "operator": "Wellwish Chemist",
+          "operator:type": "public",
+          "phone": "9834204454"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10599713020,
+        "lat": 18.5797943,
+        "lon": 73.7358977,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "Shop no 15 and 16",
+          "addr:postcode": "411057",
+          "addr:street": "Blue Ridge Unit D BLK, B1 to B8",
+          "amenity": "pharmacy",
+          "description": "Wellness Forever is a leading Pharmacy Medical Store in India.\nIt is open 24/7.",
+          "healthcare": "pharmacy",
+          "healthcare:speciality": "general",
+          "name": "Wellness Forever",
+          "opening_hours": "24/7",
+          "operator": "Wellness",
+          "operator:type": "public",
+          "phone": "08657780772",
+          "website": "https://wellnessforever.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10599872704,
+        "lat": 18.582114,
+        "lon": 73.7339725,
+        "tags": {
+          "addr:city": "Hijawadi, Pune",
+          "addr:housenumber": "HPJM+QJP",
+          "addr:postcode": "411057",
+          "addr:street": "phase 1, rajiv gandhi infotech park",
+          "leisure": "park",
+          "name": "Sargam Garden"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10601387920,
+        "lat": 18.5827699,
+        "lon": 73.7394629,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "over the top"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10692461179,
+        "lat": 18.5793043,
+        "lon": 73.7360486,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "Blue Ridge Approach Road",
+          "amenity": "restaurant",
+          "full_name": "Madras Bombay Cafe",
+          "full_name:en": "Madras Bombay Cafe",
+          "name": "MadBom Cafe",
+          "name:en": "MadBom Cafe",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10709021524,
+        "lat": 18.5920933,
+        "lon": 73.7379885,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "No 24",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjawadi Phase 2 Road",
+          "amenity": "hospital",
+          "emergency": "no",
+          "healthcare": "hospital",
+          "healthcare:speciality": "general",
+          "name": "Shree hospital",
+          "phone": "09970926348"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10709290552,
+        "lat": 18.5917604,
+        "lon": 73.7388369,
+        "tags": {
+          "addr:city": "Hinjawadi",
+          "addr:housenumber": "7",
+          "addr:postcode": "411057",
+          "addr:street": "Dange Chowk Road",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Shree Swami Samartha Medical",
+          "name:en": "Shree Swami Samartha Medical",
+          "name:mr": "\u0936\u094d\u0930\u0940 \u0938\u094d\u0935\u093e\u092e\u0940 \u0938\u092e\u0930\u094d\u0925 \u092e\u0947\u0921\u093f\u0915\u0932",
+          "opening_hours": "closes 11pm",
+          "phone": "09822116003"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10716121306,
+        "lat": 18.5903662,
+        "lon": 73.7367459,
+        "tags": {
+          "leisure": "garden",
+          "name": "Mhatoba garden",
+          "name:mr": "\u092e\u094d\u0939\u093e\u0924\u094b\u092c\u093e \u0909\u0926\u094d\u092f\u093e\u0928"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10716349919,
+        "lat": 18.5785131,
+        "lon": 73.7366046,
+        "tags": {
+          "addr:street": "Blue Ridge Chowk",
+          "name": "Premium Supermarket",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10716380984,
+        "lat": 18.5779778,
+        "lon": 73.7366832,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "name": "The Coffee Street"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10716387554,
+        "lat": 18.5784391,
+        "lon": 73.7364492,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Saiba Amruttulya"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10719508987,
+        "lat": 18.5821715,
+        "lon": 73.739787,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hotel Blu Grass"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10719511173,
+        "lat": 18.577113,
+        "lon": 73.7369076,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sai Snacks Centre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10719620339,
+        "lat": 18.587311,
+        "lon": 73.7384391,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Urban Foods and Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10719628771,
+        "lat": 18.5911831,
+        "lon": 73.7419477,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Hinjawadi",
+          "check_date": "2023-11-23",
+          "name": "Central Bank of India",
+          "name:en": "Central Bank of India",
+          "name:mr": "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u092c\u0901\u0915 \u0911\u092b \u0907\u0902\u0921\u093f\u092f\u093e"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10719641531,
+        "lat": 18.5915925,
+        "lon": 73.7435469,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "LifeTree Hospital Hinjawadi",
+          "name:mr": "\u0932\u093e\u0908\u092b\u091f\u094d\u0930\u0940 \u0930\u0941\u0917\u094d\u0923\u093e\u0932\u092f"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10725363173,
+        "lat": 18.584581,
+        "lon": 73.7311004,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "Maan road, Hinjewadi",
+          "amenity": "restaurant",
+          "check_date": "2024-01-15",
+          "cuisine": "regional",
+          "diet:non-vegetarian": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Gavkari",
+          "name:en": "Gavkari",
+          "name:mr": "\u0917\u093e\u0935\u0915\u0930\u0940"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10725422950,
+        "lat": 18.5827901,
+        "lon": 73.7392528,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Maahi Dhaba"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10790276614,
+        "lat": 18.5904392,
+        "lon": 73.7406887,
+        "tags": {
+          "addr:city": "Hinjawadi",
+          "addr:street": "Sakhare Vasti Road, Hinjewadi village",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Prime medical and general store",
+          "opening_hours": "closes 11:30pm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10806725311,
+        "lat": 18.5854264,
+        "lon": 73.7410426,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjewadi Phase 1",
+          "amenity": "restaurant",
+          "name": "Magic Bottle Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10806942135,
+        "lat": 18.5896451,
+        "lon": 73.7385017,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjawadi Phase 1 road",
+          "amenity": "restaurant",
+          "cuisine": "south_indian",
+          "diet:vegetarian": "yes",
+          "name": "Tanjore Coffee House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10806942492,
+        "lat": 18.5872555,
+        "lon": 73.7384464,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Royal Urban Cafe",
+          "opening_hours": "Mo-Su 08:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10806965423,
+        "lat": 18.5827578,
+        "lon": 73.7373417,
+        "tags": {
+          "amenity": "atm",
+          "cash_in": "no",
+          "currency:rupee": "yes",
+          "description": "This is a SBI bank ATM.",
+          "operator": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10807006340,
+        "lat": 18.5847052,
+        "lon": 73.7312659,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:non-vegetarian": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Hotel Gaonkari"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10807015508,
+        "lat": 18.5781331,
+        "lon": 73.7364912,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "near madrasi raja,blue ridge township,hinjewadi phase 1",
+          "amenity": "cafe",
+          "cuisine": "burger;pizza;sandwich;coffee",
+          "internet_access": "no",
+          "name": "The Chai Bar Cafe",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10807165898,
+        "lat": 18.578382,
+        "lon": 73.7364578,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Mahadev Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10807187345,
+        "lat": 18.5782134,
+        "lon": 73.7364791,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Madrasi Raja"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10807208693,
+        "lat": 18.5844377,
+        "lon": 73.7365804,
+        "tags": {
+          "amenity": "food_court",
+          "name": "I2IT Food Court"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10807235884,
+        "lat": 18.5790255,
+        "lon": 73.7362399,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Mother's Kitchen",
+          "name:en": "Mother's Kitchen",
+          "phone": "+91 77690 73888"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10807279049,
+        "lat": 18.5794532,
+        "lon": 73.7360026,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Royal Chemist",
+          "name:en": "Royal Chemist"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11120895047,
+        "lat": 18.589122,
+        "lon": 73.7416318,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Vedant Medical"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11120895048,
+        "lat": 18.5894766,
+        "lon": 73.7412784,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Prashant Medical and General Stores"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11120895050,
+        "lat": 18.5910174,
+        "lon": 73.7391628,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Rohit Wadewale",
+          "name:en": "Rohit Wadewale",
+          "name:mr": "\u0930\u094b\u0939\u093f\u0924 \u0935\u0921\u0947\u0935\u093e\u0932\u0947"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11124344426,
+        "lat": 18.5862329,
+        "lon": 73.7363287,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Saraswat Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11160257656,
+        "lat": 18.5808102,
+        "lon": 73.7357414,
+        "tags": {
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11336819120,
+        "lat": 18.5779713,
+        "lon": 73.7365072,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Golden",
+          "name:en": "Golden",
+          "name:hi": "\u0917\u094b\u0932\u094d\u0921\u0928",
+          "name:mr": "\u0917\u094b\u0932\u094d\u0921\u0928"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11336819178,
+        "lat": 18.5793728,
+        "lon": 73.7360215,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "amenity": "cafe",
+          "name": "Bhajiyawala & Co",
+          "name:en": "Bhajiyawala & Co"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11336819189,
+        "lat": 18.5800822,
+        "lon": 73.7358069,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank",
+          "name:en": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11336819192,
+        "lat": 18.5802512,
+        "lon": 73.7357548,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Zakkas",
+          "name:en": "Zakkas",
+          "name:hi": "\u091d\u0915\u094d\u0915\u093e\u0938",
+          "name:mr": "\u091d\u0915\u094d\u0915\u093e\u0938"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11336819198,
+        "lat": 18.5810743,
+        "lon": 73.7356611,
+        "tags": {
+          "amenity": "bank",
+          "brand": "IDFC First Bank",
+          "brand:wikidata": "Q22031467",
+          "name": "IDFC First Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11336819199,
+        "lat": 18.5810824,
+        "lon": 73.735582,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Farmazia Polyclinic",
+          "name:en": "Farmazia Polyclinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11336819201,
+        "lat": 18.5811725,
+        "lon": 73.7354249,
+        "tags": {
+          "amenity": "cafe",
+          "diet:vegetarian": "yes",
+          "name": "Gobblers Resto Cafe",
+          "name:en": "Gobblers Resto Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11336819202,
+        "lat": 18.5812058,
+        "lon": 73.735366,
+        "tags": {
+          "amenity": "fast_food",
+          "diet:vegetarian": "yes",
+          "name": "Food Adda",
+          "name:en": "Food Adda"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11337775153,
+        "lat": 18.5866373,
+        "lon": 73.7368054,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372838144,
+        "lat": 18.591125,
+        "lon": 73.7419496,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "MedPlus",
+          "brand:wikidata": "Q65684234",
+          "check_date": "2023-11-23",
+          "healthcare": "pharmacy",
+          "name": "MedPlus",
+          "name:mr": "\u092e\u0947\u0921\u092a\u094d\u0932\u0938",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11578985505,
+        "lat": 18.5781497,
+        "lon": 73.7380116,
+        "tags": {
+          "leisure": "park",
+          "name": "T-9 Ground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12135341239,
+        "lat": 18.5918291,
+        "lon": 73.7388491,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Prakash Medico",
+          "name:en": "Prakash Medico"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:21:26Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1624128500,
+        "lat": 18.5939372,
+        "lon": 73.7355357,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "Hindustan Petroleum (HP)",
+          "official_name": "Hindustan Petroleum",
+          "operator": "Hindustan Petroleum",
+          "wikipedia:en": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1684953195,
+        "lat": 18.5920603,
+        "lon": 73.7611058,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "fuel:diesel": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5518862552,
+        "lat": 18.5920739,
+        "lon": 73.7446669,
+        "tags": {
+          "amenity": "cinema",
+          "name": "E-Square Xion"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5784328171,
+        "lat": 18.5911995,
+        "lon": 73.7489037,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil Petrol Pump",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944597702,
+        "lat": 18.5905891,
+        "lon": 73.7575185,
+        "tags": {
+          "construction": "subway",
+          "name": "Wakad Chowk\u00a0metro Station",
+          "name:en": "Wakad Chowk\u00a0metro Station",
+          "name:mr": "\u0935\u093e\u0915\u0921 \u091a\u094c\u0915 \u092e\u0947\u091f\u094d\u0930\u094b \u0938\u094d\u0925\u093e\u0928\u0915",
+          "public_transport": "station",
+          "railway": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10271171705,
+        "lat": 18.5938587,
+        "lon": 73.7257399,
+        "tags": {
+          "addr:floor": "3",
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "check_date": "2022-12-18",
+          "level": "3",
+          "name": "PVR Cinemas",
+          "name:en": "PVR Cinemas",
+          "name:mr": "PVR \u0938\u093f\u0928\u0947\u092e\u093e",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10708702902,
+        "lat": 18.594327,
+        "lon": 73.7294091,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjawadi Phase 2 Road,phase 1",
+          "amenity": "fuel",
+          "brand": "MNG",
+          "fuel:cng": "yes",
+          "name": "Maharashtra Natural Gas Ltd CNg station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10719666344,
+        "lat": 18.591205,
+        "lon": 73.7488195,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10725542119,
+        "lat": 18.5917027,
+        "lon": 73.7561869,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Kaspte Bharat Gas Agency"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10797010207,
+        "lat": 18.5998693,
+        "lon": 73.7548665,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Tata power",
+          "operator": "Tata power",
+          "socket:type2": "1"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10797010208,
+        "lat": 18.5995979,
+        "lon": 73.7548745,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Tata power",
+          "operator": "Tata power",
+          "socket:type2_combo": "1"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10870849607,
+        "lat": 18.5906635,
+        "lon": 73.7457888,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "GoEgo",
+          "fee": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11033745938,
+        "lat": 18.5897559,
+        "lon": 73.7381716,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Tata Power",
+          "brand:mr": "\u091f\u093e\u091f\u093e \u092a\u093e\u0935\u0930",
+          "capacity": "2",
+          "covered": "no",
+          "fee": "yes",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12085087210,
+        "lat": 18.58053,
+        "lon": 73.7219706,
+        "tags": {
+          "amenity": "fuel",
+          "check_date": "2024-07-31"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12350373268,
+        "lat": 18.5857921,
+        "lon": 73.734433,
+        "tags": {
+          "access": "customers",
+          "amenity": "charging_station",
+          "brand": "EV Dock charging station",
+          "fee": "yes",
+          "operator": "EV Dock"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12350440058,
+        "lat": 18.5907601,
+        "lon": 73.7410354,
+        "tags": {
+          "access": "customers",
+          "amenity": "charging_station",
+          "brand": "shell",
+          "capacity": "30 kw",
+          "fee": "yes",
+          "operator": "shell"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12350467611,
+        "lat": 18.5781719,
+        "lon": 73.7368921,
+        "tags": {
+          "access": "customers",
+          "amenity": "charging_station",
+          "brand": "Bijlify",
+          "capacity": "20 kw",
+          "fee": "yes",
+          "operator": "Bijlify"
+        }
+      }
+    ]
+  }
+}

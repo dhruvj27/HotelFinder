@@ -1,0 +1,2947 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:31:31Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1054641704,
+        "lat": 18.5009733,
+        "lon": 73.8461063,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Karva Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2207888045,
+        "lat": 18.5081241,
+        "lon": 73.8438975,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of Maharashtra",
+          "brand:wikidata": "Q2004304",
+          "brand:wikipedia": "en:Bank of Maharashtra",
+          "name": "Bank of Maharashtra",
+          "name:en": "Bank of Maharashtra",
+          "website": "https://www.bankofmaharashtra.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2207888367,
+        "lat": 18.5080577,
+        "lon": 73.8439126,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Bank of Maharashtra",
+          "brand:wikidata": "Q2004304",
+          "operator": "Bank of Maharashtra",
+          "operator:wikidata": "Q2004304"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2274995528,
+        "lat": 18.5086926,
+        "lon": 73.8488417,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Baadshahi",
+          "name:mr": "\u092c\u093e\u0926\u0936\u093e\u0939\u0940"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2618478635,
+        "lat": 18.5020727,
+        "lon": 73.8562922,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Natraj",
+          "name:mr": "\u0928\u091f\u0930\u093e\u091c"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2929239715,
+        "lat": 18.5076531,
+        "lon": 73.8508179,
+        "tags": {
+          "name": "Grahak Peth",
+          "name:mr": "\u0917\u094d\u0930\u093e\u0939\u0915 \u092a\u0947\u0920",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2929239719,
+        "lat": 18.5033467,
+        "lon": 73.8558661,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Tilak Road",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "name:mr": "\u0938\u094d\u091f\u0947\u091f \u092c\u0901\u0915 \u0911\u092b \u0907\u0902\u0921\u093f\u092f\u093e",
+          "operator": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2940513801,
+        "lat": 18.5076666,
+        "lon": 73.8444111,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank",
+          "name:mr": "\u090f\u091a\u0921\u0940\u090f\u092b\u0938\u0940 \u092c\u0901\u0915",
+          "short_name": "HDFC",
+          "website": "https://www.hdfcbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2940513803,
+        "lat": 18.5077877,
+        "lon": 73.8443855,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:lacto_vegetarian": "only",
+          "name": "Saffron",
+          "name:mr": "\u0938\u0945\u092b\u094d\u0930\u0928"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2940513857,
+        "lat": 18.5091574,
+        "lon": 73.8484234,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3309053861,
+        "lat": 18.5081847,
+        "lon": 73.8503517,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Salt and Pepper"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3736424925,
+        "lat": 18.4990512,
+        "lon": 73.8508435,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Durga Restaurant and Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3973927417,
+        "lat": 18.4973177,
+        "lon": 73.8539536,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:housenumber": "454/5",
+          "addr:postcode": "411009",
+          "addr:street": "Mitramandal Chowk",
+          "amenity": "restaurant",
+          "contact:phone": "02024423809",
+          "contact:website": "http://naivedyampune.com",
+          "name": "Naivedyam",
+          "opening_hours": "Mo-Su 11:00-23:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4129787590,
+        "lat": 18.4972204,
+        "lon": 73.8510308,
+        "tags": {
+          "amenity": "atm",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4355220190,
+        "lat": 18.5005376,
+        "lon": 73.8578015,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Jijau upahar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4666543291,
+        "lat": 18.5008971,
+        "lon": 73.8456775,
+        "tags": {
+          "amenity": "bank",
+          "name:en": "Pune jila sahkari bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4677869894,
+        "lat": 18.5125847,
+        "lon": 73.8502282,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:mr": "\u0906\u092f\u0938\u0940\u0906\u092f\u0938\u0940\u0906\u092f \u092c\u0901\u0915",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4677972389,
+        "lat": 18.5080232,
+        "lon": 73.8512225,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Vrinda family foods"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4730189289,
+        "lat": 18.4999612,
+        "lon": 73.854124,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Corporation Bank",
+          "brand:wikidata": "Q2003387",
+          "name": "Corporation Bank",
+          "name:en": "Corporation Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4938936477,
+        "lat": 18.5090306,
+        "lon": 73.8490554,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Satwik Thali"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5104461624,
+        "lat": 18.5004565,
+        "lon": 73.8576637,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832462252,
+        "lat": 18.5070499,
+        "lon": 73.8445555,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411030",
+          "addr:state": "MH",
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "name:mr": "\u0906\u092f\u0938\u0940\u0906\u092f\u0938\u0940\u0906\u092f \u092c\u0901\u0915",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832462253,
+        "lat": 18.5070041,
+        "lon": 73.8445629,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411030",
+          "addr:state": "MH",
+          "amenity": "bank",
+          "branch": "Navi Peth",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "name:mr": "\u0906\u092f\u0938\u0940\u0906\u092f\u0938\u0940\u0906\u092f \u092c\u0901\u0915",
+          "operator": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832547678,
+        "lat": 18.5031576,
+        "lon": 73.8564652,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Tilak Road",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "name:mr": "\u090f\u091a\u0921\u0940\u090f\u092b\u0938\u0940 \u092c\u0901\u0915",
+          "operator": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832547679,
+        "lat": 18.5035347,
+        "lon": 73.8556592,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Tilak Road",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "name": "Bank of India",
+          "name:mr": "\u092c\u0901\u0915 \u0911\u092b \u0907\u0902\u0921\u093f\u092f\u093e",
+          "operator": "Bank of India",
+          "short_name": "BOI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832547680,
+        "lat": 18.5042539,
+        "lon": 73.8548358,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411030",
+          "addr:state": "MH",
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "name:mr": "\u0906\u092f\u0938\u0940\u0906\u092f\u0938\u0940\u0906\u092f \u092c\u0901\u0915",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548485,
+        "lat": 18.5067109,
+        "lon": 73.8517231,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411030",
+          "addr:state": "MH",
+          "amenity": "bank",
+          "branch": "Tilak Road",
+          "brand": "Bank of Maharashtra",
+          "brand:wikidata": "Q2004304",
+          "name": "Bank of Maharashtra",
+          "name:en": "Bank of Maharashtra",
+          "name:mr": "\u092c\u0901\u0915 \u0911\u092b \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930",
+          "operator": "Bank of Maharashtra"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548487,
+        "lat": 18.5070206,
+        "lon": 73.8513139,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411030",
+          "addr:state": "MH",
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "name:mr": "\u0906\u092f\u0938\u0940\u0906\u092f\u0938\u0940\u0906\u092f \u092c\u0901\u0915",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548488,
+        "lat": 18.5070702,
+        "lon": 73.8512493,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411030",
+          "addr:state": "MH",
+          "amenity": "bank",
+          "branch": "Tilak Road",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "name:mr": "\u0906\u092f\u0938\u0940\u0906\u092f\u0938\u0940\u0906\u092f \u092c\u0901\u0915",
+          "operator": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548489,
+        "lat": 18.5083286,
+        "lon": 73.8502975,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "SP's Biryani",
+          "name:mr": "\u090f\u0938\u092a\u0940\u091c \u092c\u093f\u0930\u094d\u092f\u093e\u0923\u0940"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548493,
+        "lat": 18.508265,
+        "lon": 73.8498951,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411030",
+          "addr:state": "MH",
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "name:en": "State Bank of India",
+          "name:mr": "\u0938\u094d\u091f\u0947\u091f \u092c\u0901\u0915 \u0911\u092b \u0907\u0902\u0921\u093f\u092f\u093e",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548494,
+        "lat": 18.5084927,
+        "lon": 73.8496085,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411030",
+          "addr:state": "MH",
+          "amenity": "atm",
+          "brand": "IndusInd Bank",
+          "brand:wikidata": "Q2040323",
+          "name": "IndusInd Bank",
+          "name:en": "IndusInd Bank",
+          "name:mr": "\u0907\u0902\u0921\u0938\u0907\u0902\u0921 \u092c\u0901\u0915",
+          "opening_hours": "24/7",
+          "operator": "IndusInd Bank",
+          "operator:wikidata": "Q2040323"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548495,
+        "lat": 18.508513,
+        "lon": 73.849585,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411030",
+          "addr:state": "MH",
+          "amenity": "bank",
+          "brand": "IndusInd Bank",
+          "brand:wikidata": "Q2040323",
+          "name": "IndusInd Bank",
+          "name:en": "IndusInd Bank",
+          "name:mr": "\u0907\u0902\u0921\u0938\u0907\u0902\u0921 \u092c\u0901\u0915",
+          "operator": "IndusInd Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548497,
+        "lat": 18.5093148,
+        "lon": 73.8481215,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "1534",
+          "addr:postcode": "411030",
+          "addr:street": "Lokmanya Tilak Road",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Arihant Medicals",
+          "name:mr": "\u0905\u0930\u093f\u0939\u0902\u0924 \u092e\u0947\u0921\u093f\u0915\u0932\u094d\u0938",
+          "opening_hours": "Mo-Sa 10:00-22:00; Su 10:30-13:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548498,
+        "lat": 18.509449,
+        "lon": 73.846814,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Darja Misal",
+          "name:mr": "\u0926\u0930\u094d\u091c\u093e \u092e\u093f\u0938\u0933"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5832548499,
+        "lat": 18.5095069,
+        "lon": 73.8468166,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Rohit Coffee Corner",
+          "name:mr": "\u0930\u094b\u0939\u093f\u0924 \u0915\u0949\u092b\u0940 \u0915\u0949\u0930\u094d\u0928\u0930"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6015253124,
+        "lat": 18.5085454,
+        "lon": 73.8512373,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian;maharashtrian",
+          "name": "Phadke Dining Hall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6244656799,
+        "lat": 18.5126143,
+        "lon": 73.8502251,
+        "tags": {
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:mr": "\u0906\u092f\u0938\u0940\u0906\u092f\u0938\u0940\u0906\u092f \u092c\u0901\u0915",
+          "operator": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7044175339,
+        "lat": 18.5000189,
+        "lon": 73.8503981,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Rahi Sakha Apt., S.No.133, Pune - Sinhagad Road, Parvati",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "email": "anantbagul@yahoo.com; chaitanyastemcell@gmail.com",
+          "name": "Chaitanya Stem Cell Center",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://chaitanyastemcell.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048084570,
+        "lat": 18.5048666,
+        "lon": 73.8443399,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "18, Laxmi Park, Shastri Road, Navi Peth",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "email": "bhidehospital@gmail.com",
+          "healthcare": "hospital",
+          "name": "Bhide Hospital",
+          "source": "OpenGovernmentData",
+          "website": "https://bhidehospital.in/contact-us/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048871849,
+        "lat": 18.5022916,
+        "lon": 73.8586646,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "972, Shukruwar Peth",
+          "addr:postcode": "411002",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Purandare Hospital, Pune",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049292470,
+        "lat": 18.502172,
+        "lon": 73.857062,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "996, Shukrawar Peth, Tilak Road, 996",
+          "addr:postcode": "411002",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Gokhale Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7051070009,
+        "lat": 18.5003686,
+        "lon": 73.8542886,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "500/B/1, Parvati, Opposite Sarasbaug, Pune",
+          "addr:postcode": "411009",
+          "addr:state": "Maharashtra",
+          "addr:subdistrict": "Pune City",
+          "amenity": "clinic",
+          "name": "Patankar Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7051344982,
+        "lat": 18.4970609,
+        "lon": 73.8537818,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Mitramandal Sabhagraha Bldg, Parvati",
+          "addr:postcode": "411009",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Yeshwant Eye Clinic and Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052815781,
+        "lat": 18.4978682,
+        "lon": 73.8537562,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "494/13, Mitra Mandal Colony Pazvati Pazvati",
+          "addr:postcode": "411009",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Shahade Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062497086,
+        "lat": 18.5083289,
+        "lon": 73.8457009,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "210/B, Navi Peth",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Chinmay Institute Of Paediatrics",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7066374692,
+        "lat": 18.5059721,
+        "lon": 73.8564974,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "No. 1208, Shukravar Peth, Lane No 3, Near Shivaji Maratha High School",
+          "addr:postcode": "411002",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Pabalkar Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7069569120,
+        "lat": 18.5040492,
+        "lon": 73.8518391,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "No. 2149, Above Axis Bank,Vijayanagar Colony,Opposite Kaveri Hotel,Sadashiv Peth",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Vibhute Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073895620,
+        "lat": 18.5112078,
+        "lon": 73.8513154,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "1301 , Bharat Natya Mandir Road",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Godbole Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073949807,
+        "lat": 18.5092716,
+        "lon": 73.8449264,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "272, Parth Complex, Navi Peth",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr.Pawar Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7079411416,
+        "lat": 18.5117788,
+        "lon": 73.8487867,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "1148,Sadashiv Peth,Opposite Perugate",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Manoj Clinic / Gore Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7080205212,
+        "lat": 18.5113846,
+        "lon": 73.8458276,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Chhatrapati Sambhaji Maharaj Rd, Pantancha Gate, Sadashiv Peth",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Vishwaniranjan Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7080269671,
+        "lat": 18.5092455,
+        "lon": 73.8483354,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "1536, Laxmi Chambers, Sadashiv Peth, Tilak Road",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Ram Krishna Hospital, Pune",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7087491750,
+        "lat": 18.5001435,
+        "lon": 73.8542376,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Saras Baug Road,Aannabhau Sathe Chowk",
+          "addr:postcode": "411002",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Harijivan Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7621410003,
+        "lat": 18.5030769,
+        "lon": 73.8446917,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "50/51, LB Shastri Road, Near Dandekar Bridge, Navi Peth, Laxmi Park, Sadashiv Peth, Pune",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Colony Nursing Home",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453312,
+        "lat": 18.5075984,
+        "lon": 73.8439447,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Lal Bahadur Shastri Road, Asha Colony, Lokamanya Nagar, Sadashiv Peth, Pune",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Apex Superspeciality Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453318,
+        "lat": 18.51024,
+        "lon": 73.8522294,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Nikhil Nikethan Apartments, Vandemataram Chowk, Near Bhikardas Maruti, Pune",
+          "addr:postcode": "411030",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Date Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453327,
+        "lat": 18.5047686,
+        "lon": 73.8428903,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Om Banglow, Plot No.29, Kamkaditya Society, Laxmi Park Colony, Sadashiv Peth, Pune",
+          "addr:postcode": "411030",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "Shree Datta Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453342,
+        "lat": 18.508126,
+        "lon": 73.843714,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Ashok Balakwade Path, Asha Colony, Lokamanya Nagar, Navi Peth, Sadashiv Peth, Pune",
+          "addr:postcode": "411030",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Sammohini Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453348,
+        "lat": 18.5103956,
+        "lon": 73.8465396,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:full": "Asus Service Center, Sadashiv Peth, Limayewadi Road, Perugate, Pune",
+          "addr:housenumber": "1169",
+          "addr:postcode": "411030",
+          "addr:state": "Maharastra",
+          "addr:street": "Limaye Wadi Road",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "healthcare:speciality": "general",
+          "name": "Dr. Chetan Deshmukh",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453349,
+        "lat": 18.4975587,
+        "lon": 73.8513176,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Shivaji Road, Near Maharashtra Bank, Parvati Gaon, Pune",
+          "addr:postcode": "411009",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Purohit Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453352,
+        "lat": 18.503465,
+        "lon": 73.856543,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Tejas Apartment, 1078, Lokmanya Bal Gangadhar Tilak Road, Opp. SBI, Pune",
+          "addr:postcode": "411002",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Lupus Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453359,
+        "lat": 18.5108253,
+        "lon": 73.850646,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Poona Hospital & Research Centre 27, Sadashiv Peth, Nr. Alka Talkies, Pune",
+          "addr:postcode": "411030",
+          "addr:state": "Maharastra",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Nitin Abhyankar",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453367,
+        "lat": 18.5046645,
+        "lon": 73.8592129,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "735, Rashtra Bhushan Chowk, Guruwar Peth, Pune",
+          "addr:postcode": "411042",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Kalyani Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453369,
+        "lat": 18.510438,
+        "lon": 73.847875,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "1188, Limayewadi Road, Vishnu Bhuvan Society, Limayewadi, Sadashiv Peth, Pune",
+          "addr:postcode": "411030",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "\u092f\u094b\u0917\u0947\u0936 \u0939\u0949\u0938\u094d\u092a\u093f\u091f\u0932",
+          "name:en": "Yogesh Hospital",
+          "opening_hours": "24/7",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453370,
+        "lat": 18.502188,
+        "lon": 73.857108,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "996, Shukrawar Peth, Tilak Road, Dadawadi, Swargate, Pune",
+          "addr:postcode": "411042",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Gokhale Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453390,
+        "lat": 18.5122403,
+        "lon": 73.8499324,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:full": "1021/22, Sadashiv Peth Road, Nagnath Par, Sadashiv Peth, Pune",
+          "addr:housenumber": "1021/22",
+          "addr:postcode": "411030",
+          "addr:state": "Maharastra",
+          "addr:street": "Sadashiv Peth Houd",
+          "amenity": "hospital",
+          "healthcare:speciality": "CONSULTANT_OBSTETRICIAN_AND_GYNAECOLOGIST",
+          "name": "Shintre Hospital",
+          "source": "Local Knowledge",
+          "website": "https://www.shintrehospital.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453422,
+        "lat": 18.502202,
+        "lon": 73.8584592,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Chhatrapati Shivaji Maharaj Road, Subhash Nagar, Shukrawar Peth, Pune",
+          "addr:postcode": "411002",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Chavan Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8261333009,
+        "lat": 18.5057324,
+        "lon": 73.8501866,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "2079",
+          "addr:postcode": "411030",
+          "addr:street": "Madhav Laxmi Apt, Vijayanagar Colony, behind S. P. College, Near Dake Classes, Sadashiv Peth",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "ayurveda",
+          "name": "Innoveda Dr Mehta",
+          "website": "https://www.innovedaindia.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8269717984,
+        "lat": 18.5008306,
+        "lon": 73.8418888,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "102",
+          "addr:postcode": "411030",
+          "addr:street": "Raghunandan Apartments, Sinhgad Road, opp, ss agarwal school Shivaprasad Housing Society, Dattawadi",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "ORTHODONTIST",
+          "name": "Krushna Orthodontic & Dental Clinic",
+          "website": "https://www.krushnaorthodonticdentalclinic.in/dr-nikita-tilekar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8502820800,
+        "lat": 18.5059305,
+        "lon": 73.8566978,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "202 and 204",
+          "addr:postcode": "411030",
+          "addr:street": "White House, Lokmanya Bal Gangadhar Tilak Rd, opp. Tilak Smarak Mandir, Sadashiv Peth",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "orthopaedics",
+          "name": "Dr. Pramod Bhilare Orthopaedic Spine Clinic",
+          "website": "https://www.spineexpertpune.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8813394447,
+        "lat": 18.502785,
+        "lon": 73.8500051,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "B Block, Municipal Colony, Pune",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Matoshri Ramabai Ambedkar Prasutigriha",
+          "name:etymology:wikidata": "Q19812241",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8813545344,
+        "lat": 18.4993855,
+        "lon": 73.8470078,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Jai Bhawani Nagar, Parvati Paytha, Pune",
+          "addr:postcode": "411009",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Janata Hospital ,Pune",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8814103200,
+        "lat": 18.5029796,
+        "lon": 73.8520221,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Vijayanagar Colony, Sadashiv Peth, Pune",
+          "addr:postcode": "411030",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Apollo Spectra Hospitals",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8817855241,
+        "lat": 18.4983171,
+        "lon": 73.8544993,
+        "tags": {
+          "addr:city": "pune",
+          "addr:housenumber": "Office 135,",
+          "addr:postcode": "411009",
+          "addr:street": "Patil Plaza, Opposite Pudhari Office, Mitramandal Chowk, Near Swargate",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "Gastroenterology;Hepatology",
+          "name": "Gastro and Liver Care",
+          "website": "https://www.drvarunkhandagale.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9090385305,
+        "lat": 18.5037932,
+        "lon": 73.8562917,
+        "tags": {
+          "addr:city": "Pune,Maharashtra, India",
+          "addr:housenumber": "1077, Office no 222",
+          "addr:postcode": "411002",
+          "addr:street": "Hirabaug Business Centre, 2nd floor,, Shukrawar Peth",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "consultant_maxillofacial_surgeon",
+          "name": "Tapadiya's Dental Casa",
+          "website": "https://www.tapadiyasdentalcasa.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9128644997,
+        "lat": 18.5041547,
+        "lon": 73.8548551,
+        "tags": {
+          "addr:city": "Pune-,Maharashtra, India",
+          "addr:housenumber": "303",
+          "addr:postcode": "411002",
+          "addr:street": "Mangalmurti Complex, Hirabaug Chowk, Opp Apsara Hotel, Tilak Road,",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "pediatrics_and_neurology",
+          "name": "Jagtap Clinic and Research Centre",
+          "website": "https://www.jagtapclinic.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9189721323,
+        "lat": 18.5104258,
+        "lon": 73.8464875,
+        "tags": {
+          "addr:city": "Pune,Maharashtra, India",
+          "addr:housenumber": "2nd Floor",
+          "addr:postcode": "411030",
+          "addr:street": "Pinnacle Prestige, Above Cosmos Bank ,1169 Sadashiv Peth, Tilak Road,",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "diabetologist_&_endocrinologist",
+          "name": "Deshmukh Clinic & Research Centre",
+          "website": "https://www.drvaishalideshmukh.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9229645115,
+        "lat": 18.504806,
+        "lon": 73.855013,
+        "tags": {
+          "addr:street": "GV34+W27, Subhash Nagar, Shukrawar Peth, Pune, Maharashtra 411002",
+          "amenity": "restaurant",
+          "description": "North Indian Restaurant",
+          "name": "Hotel Peacock",
+          "opening_hours": "Mo-Su 11:00-23:30",
+          "phone": "020 2445 6203"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9229710106,
+        "lat": 18.5060971,
+        "lon": 73.8523384,
+        "tags": {
+          "addr:street": "Vijayanagar Colony, Sadashiv Peth, Pune, Maharashtra 411030",
+          "amenity": "restaurant",
+          "description": "Maharashtrian Restaurant",
+          "name": "Girija Juice Bar",
+          "opening_hours": "Mo-Su 12:00-00:00",
+          "phone": "087969 69683"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9229712428,
+        "lat": 18.5092879,
+        "lon": 73.8490814,
+        "tags": {
+          "amenity": "restaurant",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "cuisine": "pizza",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9230274760,
+        "lat": 18.5091877,
+        "lon": 73.8539352,
+        "tags": {
+          "addr:street": "1348, Shreemant Thorle Bajirav Peshve Rd, Natu Baag, Shukrawar Peth, Pune, Maharashtra 411002",
+          "amenity": "restaurant",
+          "description": "South Indian Restaurant",
+          "name": "Ganjraj",
+          "opening_hours": "Mo-Su 07:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9278156725,
+        "lat": 18.5104017,
+        "lon": 73.8476123,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Rahul Pharma"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9388135295,
+        "lat": 18.5116828,
+        "lon": 73.8486243,
+        "tags": {
+          "addr:street": "1149, Police Chowky, opposite Perugate, Perugate, Sadashiv Peth, Pune, Maharashtra 411030",
+          "amenity": "restaurant",
+          "description": "Classic Saatwik dishes from Pune & the surrounding region, served in a casual space.",
+          "name": "New Poona Boarding House",
+          "opening_hours": "Mo-Su 11:00-15:00, 19:00-22:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9502917899,
+        "lat": 18.4993248,
+        "lon": 73.8477321,
+        "tags": {
+          "addr:city": "pune",
+          "addr:postcode": "411009",
+          "addr:street": "Laxminagar Road",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "internet_access:ssid": "Friends cafe",
+          "name": "FRIENDS",
+          "opening_hours": "Mo-Sa 08:00-18:00",
+          "outdoor_seating": "yes",
+          "phone": "7721839961"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9549711684,
+        "lat": 18.4971906,
+        "lon": 73.8554839,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411009",
+          "addr:street": "Netaji Palkar Chowk",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Suhrud clinic",
+          "operator": "Dr. Karne",
+          "phone": "8888893925"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9742728991,
+        "lat": 18.5012069,
+        "lon": 73.8479507,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411030,",
+          "addr:street": "Tanaji Malusare Path",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "cardiology",
+          "name": "Dr Madhusudan Asawa | The Heart Clinic",
+          "opening_hours": "Mo-Sa 15:00-20:00",
+          "operator": "Novosalus",
+          "operator:type": "private",
+          "website": "https://www.heartclinicpune.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9774691823,
+        "lat": 18.501414,
+        "lon": 73.8487739,
+        "tags": {
+          "addr:street": "Parvati, Near Sane Guruji Smarak, Sinhgad road, Pune- 411030,Maharashtra, India",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "orthopaedics",
+          "name": "Unmesh Orthopedic Clinic",
+          "opening_hours": "Mo,Tu,Th,Fr 17:00-19:00",
+          "operator": "Novosalus",
+          "operator:type": "private",
+          "website": "https://www.dratulpatilortho.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9967125222,
+        "lat": 18.5059152,
+        "lon": 73.8527205,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "in front of sp clg",
+          "addr:postcode": "411030",
+          "addr:street": "Lokmanya Tilak Marg",
+          "amenity": "restaurant",
+          "branch": "original branch",
+          "cuisine": "pizza;burger;italian;chinese",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "fixme": "Website (https://shrimatimisalandsnaks.com) doesn't work. Is this place still working?",
+          "name": "Shrimanti Misal and Snacks",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "phone": "+91 80805 60602"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172884663,
+        "lat": 18.5108703,
+        "lon": 73.8488493,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "sooth indian dosa shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172886115,
+        "lat": 18.5106947,
+        "lon": 73.848385,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "vedanti mess"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172893808,
+        "lat": 18.5098934,
+        "lon": 73.8509332,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "sandip poha"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172893809,
+        "lat": 18.5100593,
+        "lon": 73.8509422,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "kaku chi mess"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172920942,
+        "lat": 18.5115436,
+        "lon": 73.8485853,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "bhola tea shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172924683,
+        "lat": 18.5093739,
+        "lon": 73.8489161,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "minal veg thali"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172926524,
+        "lat": 18.5108357,
+        "lon": 73.8486976,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Omkar tea shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172926525,
+        "lat": 18.5108847,
+        "lon": 73.8490435,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Ani kay hav tea shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172926811,
+        "lat": 18.5093912,
+        "lon": 73.849086,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "diet:vegetarian": "yes",
+          "name": "nagar misal shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172927209,
+        "lat": 18.5103753,
+        "lon": 73.8487826,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "bhigavan fish dishes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172927776,
+        "lat": 18.5099293,
+        "lon": 73.8488159,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "krishna veg thali"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172928581,
+        "lat": 18.5101538,
+        "lon": 73.8486642,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "bhosale maratha mess"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172930139,
+        "lat": 18.5095811,
+        "lon": 73.8489221,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "satvik veg thali"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172933066,
+        "lat": 18.5095118,
+        "lon": 73.8509711,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "raghu vadapav"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172943423,
+        "lat": 18.5098506,
+        "lon": 73.8509891,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "premacha chaha"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172943821,
+        "lat": 18.5097993,
+        "lon": 73.8509837,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "jagadamba tea"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172943822,
+        "lat": 18.5101312,
+        "lon": 73.8515557,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "sudhirbhaucha katta"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172979841,
+        "lat": 18.5040205,
+        "lon": 73.8434386,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172979842,
+        "lat": 18.5063038,
+        "lon": 73.8480356,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172979843,
+        "lat": 18.5047514,
+        "lon": 73.8483133,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172979844,
+        "lat": 18.5071542,
+        "lon": 73.8571907,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172979845,
+        "lat": 18.5022944,
+        "lon": 73.855506,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172979846,
+        "lat": 18.5032073,
+        "lon": 73.8531065,
+        "tags": {
+          "leisure": "park",
+          "name": "Sanas Ground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10173007819,
+        "lat": 18.5001316,
+        "lon": 73.8543108,
+        "tags": {
+          "addr:city": "PUNE",
+          "addr:postcode": "411009",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "general",
+          "name": "HARIJIVAN HOSPITAL"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10278237144,
+        "lat": 18.5056597,
+        "lon": 73.8522201,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2022-12-21",
+          "diet:seafood": "yes",
+          "name": "Masemari",
+          "name:en": "Masemari",
+          "name:mr": "\u092e\u093e\u0938\u0947\u092e\u093e\u0930\u0940"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10956621606,
+        "lat": 18.5108811,
+        "lon": 73.8536392,
+        "tags": {
+          "addr:street": "Bajirao Road",
+          "amenity": "cafe",
+          "cuisine": "indian",
+          "name:en": "Shree Wadeshwar Bhuvan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10956621805,
+        "lat": 18.5115123,
+        "lon": 73.8520614,
+        "tags": {
+          "addr:street": "Ravjimama Kondhakar Path",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name:en": "Disha Snacks"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11021087105,
+        "lat": 18.5116691,
+        "lon": 73.8520768,
+        "tags": {
+          "addr:postcode": "411030",
+          "addr:street": "Ravjimama Kondhakar Path",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name:en": "Shivtirth Vada Pav"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11359520269,
+        "lat": 18.5103,
+        "lon": 73.8477696,
+        "tags": {
+          "addr:housenumber": "1176",
+          "addr:postcode": "411030",
+          "addr:street": "Wamanrao Shedge Path",
+          "amenity": "restaurant",
+          "name:en": "Shama Bhosale\u2019s Lazeez Biryani",
+          "opening_hours": "Sa 07:00-22:30; Su, Tu-Fr 12:00-15:00, 19:00-22:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11370940871,
+        "lat": 18.5114971,
+        "lon": 73.8482771,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11370957570,
+        "lat": 18.5116854,
+        "lon": 73.8501998,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "name": "Indian Bank",
+          "name:en": "Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11370975969,
+        "lat": 18.5106902,
+        "lon": 73.8461159,
+        "tags": {
+          "addr:floor": "3",
+          "addr:postcode": "411030",
+          "addr:street": "Lokmanya Tilak Marg",
+          "amenity": "restaurant",
+          "check_date": "2024-10-06",
+          "level": "3",
+          "name": "Durvankur Dining Hall",
+          "name:en": "Durvankur Dining Hall",
+          "name:mr": "\u0926\u0941\u0930\u094d\u0935\u093e\u0902\u0915\u0941\u0930 \u0921\u093e\u092f\u0928\u093f\u0902\u0917 \u0939\u0949\u0932",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:upi": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11610747750,
+        "lat": 18.5117357,
+        "lon": 73.8512506,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411030",
+          "addr:street": "Vasantrao Limaye Path",
+          "description": "Chafekar bandhu was excerised here in this area this is very old talim and such power of spritual and man mind and health",
+          "leisure": "park",
+          "name": "Vaze Talim",
+          "opening_hours": "Mo-Su 06:00-21:00",
+          "operator": "Private and paid service",
+          "operator:type": "private",
+          "source": "local knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11707584169,
+        "lat": 18.5063923,
+        "lon": 73.8524055,
+        "tags": {
+          "addr:postcode": "411030",
+          "addr:street": "Lokmanya Tilak Marg",
+          "amenity": "bank",
+          "name:en": "Kotak Mahindra Bank - Tilak Road Branch"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:31:31Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 248156037,
+        "lat": 18.5133826,
+        "lon": 73.8411516,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Deccan Corner",
+          "name:mr": "\u0921\u0947\u0915\u094d\u0915\u0928 \u0915\u0949\u0930\u094d\u0928\u0930",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 633121822,
+        "lat": 18.5211848,
+        "lon": 73.8647837,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Raste Wada",
+          "name:mr": "\u0930\u093e\u0938\u094d\u0924\u0947 \u0935\u093e\u0921\u093e",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1045902130,
+        "lat": 18.4886957,
+        "lon": 73.857908,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:street": "Satara Road",
+          "amenity": "cinema",
+          "name": "City Pride Multiplex",
+          "payment:app": "yes",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "screen": "4"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1223958268,
+        "lat": 18.5089079,
+        "lon": 73.8319633,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Nal Stop",
+          "name:mr": "\u0928\u0933 \u0938\u094d\u091f\u0949\u092a",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1455235579,
+        "lat": 18.5123529,
+        "lon": 73.838844,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Garware Mahavidyalay",
+          "name:mr": "\u0917\u0930\u0935\u093e\u0930\u0947 \u092e\u0939\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1534501626,
+        "lat": 18.51645,
+        "lon": 73.8423388,
+        "tags": {
+          "amenity": "cinema",
+          "name": "R Deccan Multiplex",
+          "source": "local"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1534503367,
+        "lat": 18.517035,
+        "lon": 73.8419687,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1534841981,
+        "lat": 18.5010323,
+        "lon": 73.8463028,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil",
+          "operator": "Indian Oil (IOCL)",
+          "website": "https://www.iocl.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1645621321,
+        "lat": 18.5230248,
+        "lon": 73.8534229,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Manapa Bhavan",
+          "name:mr": "\u092e\u0928\u092a\u093e \u092d\u0935\u0928",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1705497109,
+        "lat": 18.4923892,
+        "lon": 73.8340688,
+        "tags": {
+          "addr:city": "pune",
+          "addr:street": "Sinhagad Road",
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "fuel:diesel": "yes",
+          "fuel:lpg": "yes",
+          "name": "Indian Oil",
+          "operator": "indian oil coperation limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2085669819,
+        "lat": 18.5081769,
+        "lon": 73.8285677,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "SNDT",
+          "name:mr": "\u090f\u0938 \u090f\u0928 \u0921\u0940 \u091f\u0940",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2085669844,
+        "lat": 18.5128652,
+        "lon": 73.8397526,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Garware Mahavidyalay",
+          "name:mr": "\u0917\u0930\u0935\u093e\u0930\u0947 \u092e\u0939\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2085669850,
+        "lat": 18.513455,
+        "lon": 73.8410905,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Deccan Corner",
+          "name:mr": "\u0921\u0947\u0915\u094d\u0915\u0928 \u0915\u0949\u0930\u094d\u0928\u0930",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2259729638,
+        "lat": 18.5159878,
+        "lon": 73.8591744,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Sonya Maruti Chowk",
+          "name:mr": "\u0938\u094b\u0928\u094d\u092f\u093e \u092e\u093e\u0930\u0941\u0924\u0940 \u091a\u094c\u0915",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2358247540,
+        "lat": 18.5136511,
+        "lon": 73.8528438,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Vishrambag Wada",
+          "name:mr": "\u0935\u093f\u0936\u094d\u0930\u093e\u092e\u092c\u093e\u0917\u0935\u093e\u0921\u093e",
+          "operator": "PMPML",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314826,
+        "lat": 18.5128912,
+        "lon": 73.8447895,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Alka Talkies",
+          "name:mr": "\u0905\u0932\u0915\u093e \u091f\u0949\u0915\u0940\u091c",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314827,
+        "lat": 18.5133175,
+        "lon": 73.8449935,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Alka Talkies",
+          "name:mr": "\u0905\u0932\u0915\u093e \u091f\u0949\u0915\u0940\u091c",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314835,
+        "lat": 18.5194896,
+        "lon": 73.8645808,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Apollo Talkies",
+          "name:mr": "\u0905\u092a\u094b\u0932\u094b \u091f\u0949\u0915\u0940\u091c",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314836,
+        "lat": 18.5148942,
+        "lon": 73.8537471,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Appa Balwant Chowk (Hujurpaga)",
+          "name:mr": "\u0905\u092a\u094d\u092a\u093e \u092c\u0933\u0935\u0902\u0924 \u091a\u094c\u0915 (\u0939\u0941\u091c\u0942\u0930\u092a\u093e\u0917\u093e)",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314837,
+        "lat": 18.5130861,
+        "lon": 73.8467444,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Chitrashala",
+          "name:mr": "\u091a\u093f\u0924\u094d\u0930\u0936\u093e\u0933\u093e",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314839,
+        "lat": 18.5157161,
+        "lon": 73.8566591,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "City Post",
+          "name:mr": "\u0938\u093f\u091f\u0940 \u092a\u094b\u0938\u094d\u091f",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314840,
+        "lat": 18.5143807,
+        "lon": 73.8515993,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Commonwealth",
+          "name:mr": "\u0915\u0949\u092e\u0928\u0935\u0947\u0932\u094d\u0925",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314842,
+        "lat": 18.517793,
+        "lon": 73.8539774,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Dakshinmukhi Maruti",
+          "name:mr": "\u0926\u0915\u094d\u0937\u093f\u0923\u092e\u0941\u0916\u0940 \u092e\u093e\u0930\u0941\u0924\u0940",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314847,
+        "lat": 18.5149638,
+        "lon": 73.8549032,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Ganpati Chowk",
+          "name:mr": "\u0917\u0923\u092a\u0924\u0940 \u091a\u094c\u0915",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314849,
+        "lat": 18.5140682,
+        "lon": 73.8491322,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Gokhale Hall",
+          "name:mr": "\u0917\u094b\u0916\u0932\u0947 \u0939\u0949\u0932",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314856,
+        "lat": 18.5205286,
+        "lon": 73.8558408,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Kasba Peth Police Chowki",
+          "name:mr": "\u0915\u0938\u092c\u093e \u092a\u0947\u0920 \u092a\u094b\u0932\u0940\u0938 \u091a\u094c\u0915\u0940",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314858,
+        "lat": 18.5185508,
+        "lon": 73.8566475,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Lal Mahal",
+          "name:mr": "\u0932\u093e\u0932 \u092e\u0939\u093e\u0932",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314864,
+        "lat": 18.509133,
+        "lon": 73.8320531,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Nal Stop",
+          "name:mr": "\u0928\u0933 \u0938\u094d\u091f\u0949\u092a",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314867,
+        "lat": 18.5105082,
+        "lon": 73.8348422,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Petrol Pump (Karve Road)",
+          "name:mr": "\u092a\u0947\u091f\u094d\u0930\u094b\u0932 \u092a\u0902\u092a (\u0915\u0930\u094d\u0935\u0947 \u0930\u0938\u094d\u0924\u093e)",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314868,
+        "lat": 18.5104965,
+        "lon": 73.8350321,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Petrol Pump (Karve Road)",
+          "name:mr": "\u092a\u0947\u091f\u094d\u0930\u094b\u0932 \u092a\u0902\u092a (\u0915\u0930\u094d\u0935\u0947 \u0930\u0938\u094d\u0924\u093e)",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314869,
+        "lat": 18.5188684,
+        "lon": 73.8601444,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Phadke Houd",
+          "name:mr": "\u092b\u0921\u0915\u0947 \u0939\u094c\u0926",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314874,
+        "lat": 18.5135108,
+        "lon": 73.8506376,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Sadashiv Peth Houd",
+          "name:mr": "\u0938\u0926\u093e\u0936\u093f\u0935 \u092a\u0947\u0920 \u0939\u094c\u0926",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314879,
+        "lat": 18.5196781,
+        "lon": 73.8544934,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Shaniwarwada",
+          "name:mr": "\u0936\u0928\u093f\u0935\u093e\u0930\u0935\u093e\u0921\u093e",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314886,
+        "lat": 18.5137283,
+        "lon": 73.8461613,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Vijay Talkies",
+          "name:mr": "\u0935\u093f\u091c\u092f \u091f\u0949\u0915\u0940\u091c",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2868690840,
+        "lat": 18.5071341,
+        "lon": 73.8284528,
+        "tags": {
+          "bus": "yes",
+          "description": "For buses going towards Karve Putala / \u0915\u0930\u094d\u0935\u0947 \u092a\u0941\u0924\u0933\u094d\u092f\u093e\u0915\u0921\u0947 \u091c\u093e\u0923\u093e\u0931\u094d\u092f\u093e \u092c\u0938\u0938\u093e\u0920\u0940",
+          "highway": "bus_stop",
+          "name": "SNDT",
+          "name:mr": "\u090f\u0938 \u090f\u0928 \u0921\u0940 \u091f\u0940",
+          "note": "For buses going towards Karve Putala / \u0915\u0930\u094d\u0935\u0947 \u092a\u0941\u0924\u0933\u094d\u092f\u093e\u0915\u0921\u0947 \u091c\u093e\u0923\u093e\u0931\u094d\u092f\u093e \u092c\u0938\u0938\u093e\u0920\u0940",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2870389529,
+        "lat": 18.5134183,
+        "lon": 73.8443831,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Alka Talkies",
+          "name:mr": "\u0905\u0932\u0915\u093e \u091f\u0949\u0915\u0940\u091c",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2870389530,
+        "lat": 18.5164089,
+        "lon": 73.8531058,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Appa Balwant Chowk",
+          "name:mr": "\u0905\u092a\u094d\u092a\u093e \u092c\u0933\u0935\u0902\u0924 \u091a\u094c\u0915",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2870389537,
+        "lat": 18.5164014,
+        "lon": 73.8508112,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Kanyashala",
+          "name:mr": "\u0915\u0928\u094d\u092f\u093e\u0936\u093e\u0933\u093e",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2870389540,
+        "lat": 18.516199,
+        "lon": 73.8490922,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Kesariwada",
+          "name:mr": "\u0915\u0947\u0938\u0930\u0940\u0935\u093e\u0921\u093e",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2870389543,
+        "lat": 18.5157742,
+        "lon": 73.8467218,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Mati Ganapati",
+          "name:mr": "\u092e\u093e\u0924\u0940 \u0917\u0923\u092a\u0924\u0940",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2870389545,
+        "lat": 18.5160293,
+        "lon": 73.8475116,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Mati Ganapati",
+          "name:mr": "\u092e\u093e\u0924\u0940 \u0917\u0923\u092a\u0924\u0940",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2870389546,
+        "lat": 18.5183421,
+        "lon": 73.8562164,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Nana Wada",
+          "name:mr": "\u0928\u093e\u0928\u093e \u0935\u093e\u0921\u093e",
+          "public_transport": "stop_position",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2870389551,
+        "lat": 18.5175013,
+        "lon": 73.8562412,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Vasant Talkies",
+          "name:mr": "\u0935\u0938\u0902\u0924 \u091f\u0949\u0915\u0940\u091c",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2929239716,
+        "lat": 18.5019555,
+        "lon": 73.8700439,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4415723151,
+        "lat": 18.5073892,
+        "lon": 73.8289997,
+        "tags": {
+          "bus": "yes",
+          "description": "For buses going towards Paud road / \u092a\u094c\u0921 \u0930\u0938\u094d\u0924\u094d\u092f\u093e\u0915\u0921\u0947 \u091c\u093e\u0923\u093e\u0931\u094d\u092f\u093e \u092c\u0938\u0938\u093e\u0920\u0940",
+          "highway": "bus_stop",
+          "name": "SNDT",
+          "name:mr": "\u090f\u0938 \u090f\u0928 \u0921\u0940 \u091f\u0940",
+          "note": "For buses going towards Paud road / \u092a\u094c\u0921 \u0930\u0938\u094d\u0924\u094d\u092f\u093e\u0915\u0921\u0947 \u091c\u093e\u0923\u093e\u0931\u094d\u092f\u093e \u092c\u0938\u0938\u093e\u0920\u0940",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5573156998,
+        "lat": 18.5214448,
+        "lon": 73.8595458,
+        "tags": {
+          "name": "\u0915\u0938\u092c\u093e \u092a\u0947\u0920",
+          "name:en": "Kasba Peth",
+          "name:mr": "\u0915\u0938\u092c\u093e \u092a\u0947\u0920",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5573167970,
+        "lat": 18.507373,
+        "lon": 73.8287717,
+        "tags": {
+          "layer": "2",
+          "name": "Nalstop",
+          "name:mr": "\u0928\u0933\u0938\u094d\u091f\u0949\u092a",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5573167974,
+        "lat": 18.5120038,
+        "lon": 73.8380406,
+        "tags": {
+          "layer": "2",
+          "name": "Garware College",
+          "name:mr": "\u0917\u0930\u0935\u093e\u0930\u0947 \u092e\u0939\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7611940234,
+        "lat": 18.5164368,
+        "lon": 73.8429948,
+        "tags": {
+          "bus": "yes",
+          "name": "Deccan Bus Stop Lane 1",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "stop_position",
+          "ref": "1",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7611940240,
+        "lat": 18.5163631,
+        "lon": 73.8431113,
+        "tags": {
+          "bus": "yes",
+          "name": "Deccan Bus Stop Lane 2",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "stop_position",
+          "ref": "2",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7611940241,
+        "lat": 18.5163263,
+        "lon": 73.8431823,
+        "tags": {
+          "bus": "yes",
+          "name": "Deccan Bus Stop Lane 3",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "stop_position",
+          "ref": "3",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7611940242,
+        "lat": 18.5162657,
+        "lon": 73.8432985,
+        "tags": {
+          "bus": "yes",
+          "name": "Deccan Bus Stop Lane 4",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "stop_position",
+          "ref": "4",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7611940243,
+        "lat": 18.5162088,
+        "lon": 73.8433994,
+        "tags": {
+          "bus": "yes",
+          "name": "Deccan Bus Stop Lane 5",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "stop_position",
+          "ref": "5",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7635224855,
+        "lat": 18.4994601,
+        "lon": 73.8581505,
+        "tags": {
+          "bus": "yes",
+          "name": "Swargate",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "stop_position",
+          "ref": "4349",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7635224857,
+        "lat": 18.4989486,
+        "lon": 73.8584488,
+        "tags": {
+          "bus": "yes",
+          "name": "Swargate",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "stop_position",
+          "ref": "4350",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944584968,
+        "lat": 18.5164352,
+        "lon": 73.8444017,
+        "tags": {
+          "layer": "2",
+          "name": "Deccan Gymkhana",
+          "name:mr": "\u0921\u0947\u0915\u094d\u0915\u0928 \u091c\u093f\u092e\u0916\u093e\u0928\u093e",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944584980,
+        "lat": 18.5228092,
+        "lon": 73.8533687,
+        "tags": {
+          "name": "PMC Bhavan",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u092e\u0928\u092a\u093e \u0938\u094d\u0925\u093e\u0928\u0915",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944597694,
+        "lat": 18.5129081,
+        "lon": 73.8569695,
+        "tags": {
+          "name": "\u092e\u0902\u0921\u0908",
+          "name:en": "Mandai",
+          "name:mr": "\u092e\u0902\u0921\u0908",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "MahaMetro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q130381236",
+          "wikipedia": "en:Mandai metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944597710,
+        "lat": 18.4997453,
+        "lon": 73.8574604,
+        "tags": {
+          "name": "\u0938\u094d\u0935\u093e\u0930\u0917\u0947\u091f",
+          "name:en": "Swargate",
+          "name:mr": "\u0938\u094d\u0935\u093e\u0930\u0917\u0947\u091f",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q130381241",
+          "wikipedia": "en:Swargate metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8945932610,
+        "lat": 18.5204768,
+        "lon": 73.8553024,
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "theatre",
+          "name": "Shaniwar Wada Amphitheatre",
+          "name:mr": "\u0936\u0928\u093f\u0935\u093e\u0930\u0935\u093e\u0921\u093e \u0938\u092d\u093e\u0917\u0943\u0939",
+          "theatre:type": "amphi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9572608811,
+        "lat": 18.5119737,
+        "lon": 73.8380616,
+        "tags": {
+          "layer": "2",
+          "name": "Garware College",
+          "name:mr": "\u0917\u0930\u0935\u093e\u0930\u0947 \u092e\u0939\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9572650936,
+        "lat": 18.507341,
+        "lon": 73.8287889,
+        "tags": {
+          "layer": "2",
+          "name": "Nalstop",
+          "name:mr": "\u0928\u0933\u0938\u094d\u091f\u0949\u092a",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9599243856,
+        "lat": 18.5073567,
+        "lon": 73.8287815,
+        "tags": {
+          "name": "Nalstop",
+          "name:mr": "\u0928\u0933\u0938\u094d\u091f\u0949\u092a",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9599243857,
+        "lat": 18.5119886,
+        "lon": 73.8380505,
+        "tags": {
+          "name": "Garware College",
+          "name:mr": "\u0917\u0930\u0935\u093e\u0930\u0947 \u092e\u0939\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9603810739,
+        "lat": 18.5074957,
+        "lon": 73.8289274,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "SNDT",
+          "name:mr": "\u090f\u0938 \u090f\u0928 \u0921\u0940 \u091f\u0940",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10097434144,
+        "lat": 18.4844962,
+        "lon": 73.8496753,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Ather Energy",
+          "capacity": "1",
+          "fee": "yes",
+          "operator": "Ather Energy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10222895354,
+        "lat": 18.4976012,
+        "lon": 73.8324717,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Patwardhan Baug",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527717,
+        "lat": 18.520213,
+        "lon": 73.8475183,
+        "tags": {
+          "layer": "2",
+          "name": "Chhatrapati Sambhaji Udyan",
+          "name:mr": "\u091b\u0924\u094d\u0930\u092a\u0924\u0940 \u0938\u0902\u092d\u093e\u091c\u0940 \u0909\u0926\u094d\u092f\u093e\u0928",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527718,
+        "lat": 18.5202282,
+        "lon": 73.8475065,
+        "tags": {
+          "name": "Chhatrapati Sambhaji Udyan",
+          "name:mr": "\u091b\u0924\u094d\u0930\u092a\u0924\u0940 \u0938\u0902\u092d\u093e\u091c\u0940 \u0909\u0926\u094d\u092f\u093e\u0928",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527719,
+        "lat": 18.5202571,
+        "lon": 73.8474837,
+        "tags": {
+          "layer": "2",
+          "name": "Chhatrapati Sambhaji Udyan",
+          "name:mr": "\u091b\u0924\u094d\u0930\u092a\u0924\u0940 \u0938\u0902\u092d\u093e\u091c\u0940 \u0909\u0926\u094d\u092f\u093e\u0928",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527722,
+        "lat": 18.5227795,
+        "lon": 73.8533807,
+        "tags": {
+          "layer": "2",
+          "name": "PMC Bhavan",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u092e\u0928\u092a\u093e \u0938\u094d\u0925\u093e\u0928\u0915",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527723,
+        "lat": 18.5228341,
+        "lon": 73.8533589,
+        "tags": {
+          "layer": "2",
+          "name": "PMC Bhavan",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u092e\u0928\u092a\u093e \u0938\u094d\u0925\u093e\u0928\u0915",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527724,
+        "lat": 18.5164733,
+        "lon": 73.8443466,
+        "tags": {
+          "layer": "2",
+          "name": "Deccan Gymkhana",
+          "name:mr": "\u0921\u0947\u0915\u094d\u0915\u0928 \u091c\u093f\u092e\u0916\u093e\u0928\u093e",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527725,
+        "lat": 18.5164599,
+        "lon": 73.8443734,
+        "tags": {
+          "name": "Deccan Gymkhana",
+          "name:mr": "\u0921\u0947\u0915\u094d\u0915\u0928 \u091c\u093f\u092e\u0916\u093e\u0928\u093e",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12211880200,
+        "lat": 18.5214436,
+        "lon": 73.8595779,
+        "tags": {
+          "name": "\u0915\u0938\u092c\u093e \u092a\u0947\u0920",
+          "name:en": "Kasba Peth",
+          "name:mr": "\u0915\u0938\u092c\u093e \u092a\u0947\u0920",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q130381226",
+          "wikipedia": "en:Kasba Peth metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12211960101,
+        "lat": 18.5129087,
+        "lon": 73.8569857,
+        "tags": {
+          "name": "\u092e\u0902\u0921\u0908",
+          "name:en": "Mandai",
+          "name:mr": "\u092e\u0902\u0921\u0908",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12211960102,
+        "lat": 18.5129035,
+        "lon": 73.8569526,
+        "tags": {
+          "name": "\u092e\u0902\u0921\u0908",
+          "name:en": "Mandai",
+          "name:mr": "\u092e\u0902\u0921\u0908",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12211960112,
+        "lat": 18.5214296,
+        "lon": 73.8596021,
+        "tags": {
+          "name": "\u0915\u0938\u092c\u093e \u092a\u0947\u0920",
+          "name:en": "Kasba Peth",
+          "name:mr": "\u0915\u0938\u092c\u093e \u092a\u0947\u0920",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12211960136,
+        "lat": 18.4997302,
+        "lon": 73.8575193,
+        "tags": {
+          "name": "\u0938\u094d\u0935\u093e\u0930\u0917\u0947\u091f",
+          "name:en": "Swargate",
+          "name:mr": "\u0938\u094d\u0935\u093e\u0930\u0917\u0947\u091f",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12211960138,
+        "lat": 18.49975,
+        "lon": 73.8574064,
+        "tags": {
+          "name": "\u0938\u094d\u0935\u093e\u0930\u0917\u0947\u091f",
+          "name:en": "Swargate",
+          "name:mr": "\u0938\u094d\u0935\u093e\u0930\u0917\u0947\u091f",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12473454969,
+        "lat": 18.5228186,
+        "lon": 73.8410529,
+        "tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "Bijlify",
+          "covered": "no",
+          "fee": "yes",
+          "source": "survey"
+        }
+      }
+    ]
+  }
+}

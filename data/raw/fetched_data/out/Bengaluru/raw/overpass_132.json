@@ -1,0 +1,1071 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:23:40Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2417827937,
+        "lat": 12.935016,
+        "lon": 77.6947265,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "cash_in": "no",
+          "name": "HDFC Bank",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2432309201,
+        "lat": 12.9357533,
+        "lon": 77.6962873,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:housenumber": "BGL-12",
+          "addr:postcode": "560103",
+          "addr:street": "Cessna Business Park",
+          "amenity": "cafe",
+          "internet_access": "wlan",
+          "name": "Clubhouse Cafe",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2738839665,
+        "lat": 12.9392013,
+        "lon": 77.695393,
+        "tags": {
+          "addr:housenumber": "20/5 Narayanaswamy Building",
+          "addr:street": "Outer Ring Road",
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3237596895,
+        "lat": 12.9398646,
+        "lon": 77.6959322,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "indoor_seating": "yes",
+          "name": "Bhagini",
+          "name:kn": "\u0cad\u0c97\u0cbf\u0ca8\u0cbf",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3239060994,
+        "lat": 12.9389751,
+        "lon": 77.6953137,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "brand:wikipedia": "en:Pizza Hut",
+          "cuisine": "pizza",
+          "name": "Pizza Hut",
+          "name:kn": "\u0caa\u0cbf\u0c9f\u0ccd\u0cb8 \u0cb9\u0c9f\u0ccd",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3771374125,
+        "lat": 12.9353215,
+        "lon": 77.6944935,
+        "tags": {
+          "amenity": "food_court",
+          "indoor_seating": "yes",
+          "opening_hours": "Jan-Dec: Mo-Su 08:00-22:00",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3806232205,
+        "lat": 12.9343194,
+        "lon": 77.6895154,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "North_Indian",
+          "level": "0",
+          "name": "Punjabi Tadka",
+          "name:kn": "\u0caa\u0c82\u0c9c\u0cbe\u0cac\u0cbf \u0ca4\u0ca1\u0ccd\u0c95"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4217842490,
+        "lat": 12.9378825,
+        "lon": 77.6991184,
+        "tags": {
+          "addr:postcode": "560103",
+          "addr:street": "Panathur Main Road",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "indian;seafood;chicken;egg;mutton;tandoor",
+          "name": "Swathi Deluxe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4307449561,
+        "lat": 12.9414433,
+        "lon": 77.6967315,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:wikidata": "Q244457",
+          "check_date": "2025-09-03",
+          "check_date:diet:vegetarian": "2024-12-15",
+          "check_date:smoking": "2024-12-15",
+          "cuisine": "sandwich",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Subway",
+          "outdoor_seating": "no",
+          "smoking": "no",
+          "source": "survey",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4307449562,
+        "lat": 12.9413826,
+        "lon": 77.6967037,
+        "tags": {
+          "amenity": "restaurant",
+          "indoor_seating": "yes",
+          "level": "0",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4307449563,
+        "lat": 12.9413212,
+        "lon": 77.6966738,
+        "tags": {
+          "amenity": "restaurant",
+          "level": "0",
+          "name": "Chulha Bhatti"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4444192976,
+        "lat": 12.9425467,
+        "lon": 77.697942,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:postcode": "560037",
+          "addr:street": "Opposite Prestige Tech Park, Marathahalli, Outer Ring Road, Kadubisanahalli, Marathahalli, Bangalore",
+          "amenity": "restaurant",
+          "delivery": "yes",
+          "name": "Fenix - Sunray Hotel",
+          "opening_hours": "00:00-24:00",
+          "phone": "+91 8 971254477",
+          "smoking": "no",
+          "takeaway": "yes",
+          "website": "www.sunrayhotel.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4447122292,
+        "lat": 12.9391586,
+        "lon": 77.6892056,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "1",
+          "addr:street": "Kariyammana agrahara, yemalur, Marathalli,",
+          "amenity": "restaurant",
+          "name": "69 Second",
+          "phone": "+919986383678"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4447236549,
+        "lat": 12.9369135,
+        "lon": 77.6905688,
+        "tags": {
+          "addr:street": "56,srinivas reddy building bellandur banglore 03",
+          "amenity": "cafe",
+          "name": "ande ka funda"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5309940922,
+        "lat": 12.9377615,
+        "lon": 77.6994867,
+        "tags": {
+          "addr:postcode": "560103",
+          "check_date": "2025-09-03",
+          "name": "Ratnadeep",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5309958621,
+        "lat": 12.9379792,
+        "lon": 77.6998965,
+        "tags": {
+          "amenity": "clinic",
+          "name": "Maruthi clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5698359001,
+        "lat": 12.9377969,
+        "lon": 77.6993666,
+        "tags": {
+          "addr:postcode": "560103",
+          "addr:street": "Panathur Main Road",
+          "check_date": "2025-06-25",
+          "level": "0",
+          "name": "Nuts Corner",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5817729766,
+        "lat": 12.9381615,
+        "lon": 77.6991559,
+        "tags": {
+          "addr:postcode": "560103",
+          "addr:street": "Panathur Main Road",
+          "amenity": "restaurant",
+          "check_date": "2025-09-03",
+          "cuisine": "chaats;indian;juice",
+          "diet:vegetarian": "yes",
+          "level": "0",
+          "name": "Sri Vishnu Grand",
+          "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0 \u0cb5\u0cbf\u0cb7\u0ccd\u0ca3\u0cc1"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6613030600,
+        "lat": 12.9392131,
+        "lon": 77.6947005,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "The Black Pearl"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9318131821,
+        "lat": 12.938169,
+        "lon": 77.6992075,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "check_date": "2025-06-25",
+          "currency:INR": "yes",
+          "level": "1",
+          "name": "State Bank of India",
+          "name:kn": "\u0c8e\u0cb8\u0ccd \u0cac\u0cbf \u0c90",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "operator:wikipedia": "en:State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9318156172,
+        "lat": 12.9388351,
+        "lon": 77.6952036,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:postcode": "560103",
+          "addr:street": "Outer Ring Road",
+          "amenity": "restaurant",
+          "name": "Float Rooftop Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9318156173,
+        "lat": 12.9388878,
+        "lon": 77.6952654,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:postcode": "560103",
+          "addr:street": "Outer Ring Road",
+          "amenity": "restaurant",
+          "name": "Jalsa Gold Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9318453203,
+        "lat": 12.9386526,
+        "lon": 77.6973755,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:postcode": "560103",
+          "addr:street": "Panathur Main Road",
+          "air_conditioning": "no",
+          "amenity": "restaurant",
+          "check_date": "2025-09-03",
+          "cuisine": "regional;coffee;tea",
+          "diet:vegetarian": "only",
+          "indoor_seating": "yes",
+          "name": "Sri Vishnu",
+          "outdoor_seating": "yes",
+          "smoking": "no",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9318453207,
+        "lat": 12.9386635,
+        "lon": 77.6968558,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:street": "Panathur Main Road",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9318844964,
+        "lat": 12.9386058,
+        "lon": 77.6941216,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:postcode": "560103",
+          "addr:street": "Outer Ring Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "drive_through": "no",
+          "level": "0",
+          "name": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9341700063,
+        "lat": 12.9386583,
+        "lon": 77.6968715,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:postcode": "560103",
+          "addr:street": "Panathur Main Road",
+          "amenity": "pharmacy",
+          "check_date": "2024-01-21",
+          "dispensing": "yes",
+          "drive_through": "no",
+          "healthcare": "pharmacy",
+          "level": "0",
+          "name": "Janani Clinic",
+          "source": "survey",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9759551595,
+        "lat": 12.9335397,
+        "lon": 77.6968456,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2025-06-21",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Shanti Sagar",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9795107206,
+        "lat": 12.9334046,
+        "lon": 77.6968406,
+        "tags": {
+          "name": "Sansar",
+          "opening_hours": "Mo-Su 7:30-22:00",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9795107214,
+        "lat": 12.9343959,
+        "lon": 77.6970325,
+        "tags": {
+          "amenity": "clinic",
+          "check_date": "2025-06-21",
+          "healthcare": "clinic",
+          "level": "0",
+          "name": "Nurture"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9812418541,
+        "lat": 12.9384557,
+        "lon": 77.69786,
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "restaurant",
+          "indoor_seating": "yes",
+          "name": "Mandya",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9819692854,
+        "lat": 12.9380879,
+        "lon": 77.6985118,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2025-06-25",
+          "name": "Dine Bell"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9819692877,
+        "lat": 12.9292665,
+        "lon": 77.6948478,
+        "tags": {
+          "amenity": "restaurant",
+          "indoor_seating": "yes",
+          "name": "For Food Lovers",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9819701589,
+        "lat": 12.9364429,
+        "lon": 77.703849,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Bombay Vadapav"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9819701594,
+        "lat": 12.9365809,
+        "lon": 77.7033198,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Sai Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9843123491,
+        "lat": 12.9385622,
+        "lon": 77.6975519,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2025-09-03",
+          "indoor_seating": "yes",
+          "name": "Ambur Biryani",
+          "name:kn": "\u0c85\u0c82\u0cac\u0cc1\u0cb0\u0ccd \u0cac\u0cbf\u0cb0\u0cbf\u0caf\u0cbe\u0ca8\u0cbf",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9846394221,
+        "lat": 12.9345352,
+        "lon": 77.6906624,
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "restaurant",
+          "check_date": "2025-04-09",
+          "cuisine": "biryani",
+          "diet:non-vegetarian": "yes",
+          "indoor_seating": "yes",
+          "name": "Ambur Hot Dum Biryani",
+          "outdoor_seating": "no",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9854961738,
+        "lat": 12.9385536,
+        "lon": 77.6970795,
+        "tags": {
+          "amenity": "clinic",
+          "check_date": "2025-09-03",
+          "healthcare": "clinic",
+          "name": "Janani Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9854961739,
+        "lat": 12.9388095,
+        "lon": 77.6970295,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "juice",
+          "name": "Oye Lassi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9854961746,
+        "lat": 12.9380817,
+        "lon": 77.6985611,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2025-06-25",
+          "cuisine": "juice",
+          "indoor_seating": "no",
+          "name": "Sri Ganesh Juice Center",
+          "outdoor_seating": "no",
+          "takeaway": "only"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9854961750,
+        "lat": 12.9377472,
+        "lon": 77.7009815,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "chicken",
+          "name": "5 Star Chicken"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9861604605,
+        "lat": 12.9417827,
+        "lon": 77.6970843,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "check_date": "2025-09-03",
+          "cuisine": "pizza",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "name": "Domino's",
+          "name:kn": "\u0ca1\u0cbe\u0cae\u0cbf\u0ca8\u0ccb\u0cb8\u0ccd",
+          "outdoor_seating": "no",
+          "smoking": "no",
+          "takeaway": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9861604606,
+        "lat": 12.9411548,
+        "lon": 77.6966167,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Udupi Vaibhav"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9862571099,
+        "lat": 12.9352256,
+        "lon": 77.7026481,
+        "tags": {
+          "name": "AZ Home Needs",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11164787811,
+        "lat": 12.9418247,
+        "lon": 77.697192,
+        "tags": {
+          "addr:floor": "5",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "check_date": "2023-09-03",
+          "highchair": "yes",
+          "indoor_seating": "yes",
+          "internet_access": "no",
+          "level": "5",
+          "name": "TBC Sky Lounge",
+          "outdoor_seating": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "reservation": "yes",
+          "smoking": "separated",
+          "source": "survey",
+          "takeaway": "yes",
+          "toilets": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11535639642,
+        "lat": 12.9410004,
+        "lon": 77.6958172,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "check_date": "2024-01-21",
+          "name": "State Bank of India",
+          "name:kn": "\u0c8e\u0cb8\u0ccd \u0cac\u0cbf \u0c90",
+          "short_name": "SBI",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11535639643,
+        "lat": 12.9409367,
+        "lon": 77.6958029,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "check_date": "2024-01-21",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11535639644,
+        "lat": 12.9408887,
+        "lon": 77.6957776,
+        "tags": {
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "check_date": "2024-01-21",
+          "name": "HDFC Bank",
+          "short_name": "HDFC",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11535639645,
+        "lat": 12.9408432,
+        "lon": 77.6957542,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "check_date": "2024-01-21",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12057058306,
+        "lat": 12.9377734,
+        "lon": 77.6946701,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:country": "IN",
+          "addr:hamlet": "Kaverappa Layout",
+          "addr:postcode": "560103",
+          "addr:street": "Outer Ring Road",
+          "addr:suburb": "Kadubeesanahalli",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "cuisine": "american",
+          "delivery": "yes",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "name": "Bellandur Social",
+          "outdoor_seating": "no",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "smoking": "separated",
+          "takeaway": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12497560756,
+        "lat": 12.937249,
+        "lon": 77.7025455,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:postcode": "560103",
+          "addr:street": "Panathur Main Road,Varthur Hobli, Panathur",
+          "name": "All Session Super Market",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12541961991,
+        "lat": 12.938951,
+        "lon": 77.696903,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:postcode": "560103",
+          "addr:street": "Panathur Main Road",
+          "brand": "Vishal Mega Mart",
+          "brand:wikidata": "Q126895037",
+          "check_date": "2025-09-03",
+          "name": "Vishal Mega Mart",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12862846449,
+        "lat": 12.929302,
+        "lon": 77.6948462,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "burger",
+          "delivery": "yes",
+          "name": "Nashville Fried Chicken",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890278992,
+        "lat": 12.9442838,
+        "lon": 77.6947144,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Costa Coffee"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890278993,
+        "lat": 12.944221,
+        "lon": 77.6946124,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "south_indian",
+          "name": "The Filter Coffee"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890278994,
+        "lat": 12.9444694,
+        "lon": 77.694937,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "California Burrito",
+          "brand:wikidata": "Q124374596",
+          "cuisine": "mexican",
+          "name": "California Burrito"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890278995,
+        "lat": 12.9445099,
+        "lon": 77.695051,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "bubble_tea",
+          "name": "Boba Bhai"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890278996,
+        "lat": 12.9445961,
+        "lon": 77.6950282,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "name": "The Real Pizza Company"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890278997,
+        "lat": 12.9445778,
+        "lon": 77.6949464,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "burger",
+          "name": "Biggies Burgers"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890278998,
+        "lat": 12.9445621,
+        "lon": 77.6948619,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Krispy Kreme",
+          "brand:wikidata": "Q1192805",
+          "cuisine": "donut",
+          "name": "Krispy Kreme",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890278999,
+        "lat": 12.9444131,
+        "lon": 77.6948056,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Copper Chimney"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890279000,
+        "lat": 12.9443975,
+        "lon": 77.6947385,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "japanese",
+          "name": "Kizakaya"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12890296301,
+        "lat": 12.9443844,
+        "lon": 77.6946621,
+        "tags": {
+          "alt_name": "Haldiram",
+          "amenity": "fast_food",
+          "brand": "Haldiram's",
+          "brand:wikidata": "Q17054442",
+          "cuisine": "indian",
+          "name": "Haldiram's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12942152840,
+        "lat": 12.9369817,
+        "lon": 77.7028951,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2025-09-03",
+          "cuisine": "pizza",
+          "name": "Go Pizza"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12942152841,
+        "lat": 12.9381641,
+        "lon": 77.6991403,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "check_date": "2025-06-21",
+          "cuisine": "pizza",
+          "name": "Pizza Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13013792936,
+        "lat": 12.9373878,
+        "lon": 77.7025907,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "mexican",
+          "name": "Maiz Mexican Kitchen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13013792941,
+        "lat": 12.9374597,
+        "lon": 77.7026162,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Harvest Salad Co"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13062869342,
+        "lat": 12.936848,
+        "lon": 77.6890633,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "brand:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "brand:wikidata": "Q37158",
+          "brand:wikipedia": "en:Starbucks",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "official_name": "Starbucks Coffee",
+          "official_name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38 \u0a15\u0a4c\u0a2b\u0a40",
+          "official_name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633 \u06a9\u0627\u0641\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13086275913,
+        "lat": 12.9356585,
+        "lon": 77.698271,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "name": "Coffee Mechanics",
+          "website": "https://www.coffeemechanics.co.in/"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:23:40Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1691980738,
+        "lat": 12.9263148,
+        "lon": 77.6753554,
+        "tags": {
+          "addr:floor": "4",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "check_date": "2024-01-28",
+          "internet_access": "no",
+          "level": "4",
+          "name": "PVR Cinemas",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "short_name": "PVR",
+          "source": "survey",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7133498141,
+        "lat": 12.9570133,
+        "lon": 77.7020756,
+        "tags": {
+          "bus": "yes",
+          "name": "Marathahalli Bridge",
+          "name:en": "Marathahalli Bridge",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7133498142,
+        "lat": 12.9563968,
+        "lon": 77.6948978,
+        "tags": {
+          "bus": "yes",
+          "name": "Marathahalli Market",
+          "name:kn": "\u0cae\u0cbe\u0cb0\u0ca4\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7133498143,
+        "lat": 12.9552296,
+        "lon": 77.6883054,
+        "tags": {
+          "bus": "yes",
+          "name": "Yamalur Cross",
+          "name:en": "Yamalur Cross",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7133498144,
+        "lat": 12.9545631,
+        "lon": 77.6819894,
+        "tags": {
+          "bus": "yes",
+          "name": "HAL Kalyanamantapa",
+          "name:en": "HAL Kalyanamantapa",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12143892929,
+        "lat": 12.9425359,
+        "lon": 77.6799763,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Nayara",
+          "brand:wikidata": "Q5399377",
+          "name": "Nayara"
+        }
+      }
+    ]
+  }
+}

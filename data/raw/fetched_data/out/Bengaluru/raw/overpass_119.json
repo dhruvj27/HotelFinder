@@ -1,0 +1,1229 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:21:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 514096090,
+        "lat": 12.9841356,
+        "lon": 77.7292427,
+        "tags": {
+          "addr:city": "Whitefield, Bangalore",
+          "addr:street": "1st Main Road, EPIP Area",
+          "amenity": "atm",
+          "check_date": "2023-12-03",
+          "operator": "Axis Bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 514314695,
+        "lat": 12.9919585,
+        "lon": 77.7178824,
+        "tags": {
+          "addr:city": "Hoodi, Mahadevapura, Bangalore",
+          "addr:postcode": "560048",
+          "addr:street": "ITPL Main Road, near Hoodi Circle",
+          "amenity": "pharmacy",
+          "name": "Srinivasa Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 973472346,
+        "lat": 12.989865,
+        "lon": 77.717934,
+        "tags": {
+          "addr:city": "Hoodi, Mahadevapura, Bangalore",
+          "addr:postcode": "560048",
+          "amenity": "pharmacy",
+          "name": "SNR Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 980038314,
+        "lat": 12.9855008,
+        "lon": 77.718421,
+        "tags": {
+          "addr:city": "Hoodi, Mahadevapura, Bangalore",
+          "addr:postcode": "560048",
+          "amenity": "pharmacy",
+          "dispensing": "no",
+          "name": "Aruna Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 981991331,
+        "lat": 12.990976,
+        "lon": 77.721172,
+        "tags": {
+          "addr:street": "ITPL Main Road (Near Hotel Zuri)",
+          "amenity": "atm",
+          "brand": "Citibank",
+          "brand:wikidata": "Q857063",
+          "name": "Citibank",
+          "operator": "Citibank",
+          "operator:wikidata": "Q857063",
+          "short_name": "Citi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 981991342,
+        "lat": 12.9911041,
+        "lon": 77.72103,
+        "tags": {
+          "addr:street": "ITPL Main Road (Near Hotel Zuri)",
+          "amenity": "atm",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank",
+          "operator": "Punjab National Bank",
+          "operator:wikidata": "Q2743499"
+        }
+      },
+      {
+        "type": "node",
+        "id": 981991347,
+        "lat": 12.9910736,
+        "lon": 77.7210086,
+        "tags": {
+          "addr:street": "ITPL Main Road (Near Hotel Zuri)",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank",
+          "name:en": "Punjab National Bank",
+          "name:kn": "\u0caa\u0c82\u0c9c\u0cbe\u0cac \u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0\u0cc0\u0caf \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Punjab National Bank",
+          "short_name": "PNB",
+          "website": "https://www.pnbindia.in",
+          "wikimedia_commons": "Category:Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 988724816,
+        "lat": 12.9918361,
+        "lon": 77.7204816,
+        "tags": {
+          "addr:street": "ITPL Road (Opposite Khivraj Bajaj Showroom)",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name": "Srinidhi Sagar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 988724833,
+        "lat": 12.9916553,
+        "lon": 77.7207261,
+        "tags": {
+          "addr:housenumber": "956",
+          "addr:postcode": "560048",
+          "addr:street": "1st Floor, ITPL Main Road",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Chillys",
+          "name:kn": "\u0c9a\u0cbf\u0cb2\u0ccd\u0cb2\u0cbf\u0cb8\u0ccd",
+          "phone": "+91 80 41487799;+91 80 41725222"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1096305524,
+        "lat": 12.9840811,
+        "lon": 77.7293242,
+        "tags": {
+          "amenity": "bank",
+          "atm": "no",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "name:kn": "\u0c85\u0c95\u0ccd\u0cb8\u0cbf\u0cb8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "website": "https://www.axisbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1107350598,
+        "lat": 12.9910481,
+        "lon": 77.7178239,
+        "tags": {
+          "amenity": "doctors",
+          "name": "Sancheswar Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1719033257,
+        "lat": 12.9945235,
+        "lon": 77.7294663,
+        "tags": {
+          "brand": "More",
+          "brand:wikidata": "Q6910891",
+          "name": "More",
+          "opening_hours": "09:00-21:00",
+          "operator": "Aditya Birla Retail Limited",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1839608409,
+        "lat": 12.986715,
+        "lon": 77.7182541,
+        "tags": {
+          "amenity": "atm",
+          "drive_through": "yes",
+          "operator": "State Bank of Mysore"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1839611092,
+        "lat": 12.9931734,
+        "lon": 77.7170546,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:kn": "\u0c90\u0cb8\u0cbf\u0c90\u0cb8\u0cbf\u0c90 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0cc1",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2189204878,
+        "lat": 12.982529,
+        "lon": 77.7217679,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:housenumber": "331",
+          "addr:postcode": "560066",
+          "addr:street": "5B Road",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "spanish;indian;italian",
+          "email": "hospitality@total-environment.com",
+          "level": "6",
+          "name": "Windmills Craftworks",
+          "opening_hours": "Mo-Su 12:00-24:00; Sa-Su 00:00-01:00, 08:00-11:00",
+          "phone": "+91 080 45217761",
+          "website": "https://windmills-india.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2290010462,
+        "lat": 12.9934653,
+        "lon": 77.7173493,
+        "tags": {
+          "name": "City Super Bazaar",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2520694106,
+        "lat": 12.9920126,
+        "lon": 77.7176777,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "check_date": "2025-04-03",
+          "name": "HDFC Bank",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3009829038,
+        "lat": 12.9920805,
+        "lon": 77.7177139,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Five Star Chicken",
+          "cuisine": "chicken",
+          "delivery": "yes",
+          "name": "Five Star Chicken",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3268435578,
+        "lat": 12.9878709,
+        "lon": 77.7319773,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:country": "IN",
+          "addr:postcode": "560066",
+          "addr:street": "Whitefield Main Road",
+          "amenity": "hospital",
+          "check_date": "2025-06-27",
+          "name": "Cloud Nine Hospital",
+          "phone": "+91 80 6799 9999",
+          "website": "https://cloudninecare.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5365354922,
+        "lat": 12.9950323,
+        "lon": 77.7276701,
+        "tags": {
+          "leisure": "park",
+          "name": "Childrens Park Tower 9"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6374363820,
+        "lat": 12.9823957,
+        "lon": 77.7217131,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:housenumber": "331",
+          "addr:street": "5B Road",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "regional;indian;karnataka",
+          "diet:non-vegetarian": "yes",
+          "diet:vegetarian": "yes",
+          "email": "hospitality@total-environment.com",
+          "level": "7",
+          "name": "Oota Bangalore",
+          "opening_hours": "Mo-Su 12:00-15:00,19:00-23:00; Sa-Su 08:00-11:00",
+          "phone": "+91 080 45217761",
+          "website": "https://oota.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6418358288,
+        "lat": 12.9917247,
+        "lon": 77.7202988,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "opening_hours": "24/7",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9459853185,
+        "lat": 12.9937325,
+        "lon": 77.7171734,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9874782365,
+        "lat": 12.9834401,
+        "lon": 77.7182014,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "New Ambur Dum Biryani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9937521069,
+        "lat": 12.988242,
+        "lon": 77.7298397,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2025-04-03",
+          "cuisine": "indian",
+          "name": "Green Hyderabad Biryani House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9937584590,
+        "lat": 12.9924067,
+        "lon": 77.7172279,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2025-04-03",
+          "name": "Shub Sagar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10127417296,
+        "lat": 12.9899385,
+        "lon": 77.7279792,
+        "tags": {
+          "amenity": "cafe",
+          "level": "1",
+          "name": "3 min"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10127417297,
+        "lat": 12.9899286,
+        "lon": 77.7285916,
+        "tags": {
+          "amenity": "restaurant",
+          "level": "1",
+          "name": "Guntoor Mirchi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10127417304,
+        "lat": 12.9898984,
+        "lon": 77.7284237,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Noodle"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10127417305,
+        "lat": 12.9898124,
+        "lon": 77.7279481,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Toscano"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10127417310,
+        "lat": 12.9897459,
+        "lon": 77.728506,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "barbecue",
+          "diet:halal": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Barbeque Nation",
+          "name:kn": "\u0cac\u0cb0\u0ccd\u0cac\u0c95\u0ccd\u0caf\u0cc1 \u0ca8\u0cc7\u0cb6\u0ca8\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10715829339,
+        "lat": 12.9824083,
+        "lon": 77.7218005,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10727955500,
+        "lat": 12.9896504,
+        "lon": 77.7281857,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:street": "Lavelle Road",
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name": "Smoke House Deli",
+          "name:kn": "\u0cb8\u0ccd\u0cae\u0ccb\u0c95\u0ccd \u0cb9\u0ccc\u0cb8\u0ccd \u0ca1\u0cc7\u0cb2\u0cbf",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11555685099,
+        "lat": 12.9896317,
+        "lon": 77.728403,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Third Wave Coffee Roasters",
+          "brand:wikidata": "Q7785004",
+          "cuisine": "coffee_shop",
+          "delivery": "yes",
+          "name": "Third Wave Coffee Roasters",
+          "opening_hours": "Mo-Su 09:00-23:00",
+          "takeaway": "yes",
+          "website": "https://cafe.thirdwavecoffee.in/coffee-cafe-bengaluru-north-bengaluru-29971/home",
+          "wheelchair": "designated"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11556692141,
+        "lat": 12.9897485,
+        "lon": 77.7277357,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:wikidata": "Q38076",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11556692144,
+        "lat": 12.9895972,
+        "lon": 77.7280808,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "shop": "coffee",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11556692146,
+        "lat": 12.9897962,
+        "lon": 77.7276602,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Lavonne"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12102898478,
+        "lat": 12.9890519,
+        "lon": 77.7301303,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Zarf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12461000334,
+        "lat": 12.9881693,
+        "lon": 77.7301047,
+        "tags": {
+          "amenity": "restaurant",
+          "contact:facebook": "pastastreet",
+          "contact:instagram": "pasta.street",
+          "cuisine": "pasta",
+          "email": "info@pastastreet.co.in",
+          "name": "Pasta Street",
+          "phone": "+91 9266844026",
+          "website": "https://pastastreet.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12534145131,
+        "lat": 12.9892506,
+        "lon": 77.7267323,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Vada Pav"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12534184758,
+        "lat": 12.9892506,
+        "lon": 77.7267323,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Vada Pav"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12862846444,
+        "lat": 12.9893109,
+        "lon": 77.7284525,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "burger",
+          "delivery": "yes",
+          "name": "Boss Burger",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12862846465,
+        "lat": 12.9895243,
+        "lon": 77.7149876,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "burger",
+          "delivery": "yes",
+          "name": "Easy Bites by Empire",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12927909820,
+        "lat": 12.9894253,
+        "lon": 77.7277667,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:country": "IN",
+          "addr:district": "Bangalore Urban",
+          "addr:state": "Karnataka",
+          "amenity": "restaurant",
+          "contact:instagram": "kuuraku.india",
+          "cuisine": "japanese",
+          "delivery": "yes",
+          "name": "Kuuraku",
+          "reservation": "recommended",
+          "takeaway": "yes"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:21:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1010036512,
+        "lat": 12.9919287,
+        "lon": 77.7151394,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1434243876,
+        "lat": 12.986723,
+        "lon": 77.7359403,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "check_date": "2023-05-02",
+          "name": "PVR Cinemas",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "short_name": "PVR",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1576856364,
+        "lat": 12.9813697,
+        "lon": 77.7086129,
+        "tags": {
+          "alt_name": "Sitaramapalya",
+          "code": "VWIA",
+          "name": "Seetharampalya",
+          "name:kn": "\u0cb8\u0cc0\u0ca4\u0cbe\u0cb0\u0cbe\u0cae \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1706585734,
+        "lat": 13.0042943,
+        "lon": 77.7122219,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "fuel:diesel": "yes",
+          "name": "Bharat Petroleum Pump",
+          "name:kn": "\u0cad\u0cbe\u0cb0\u0ca4\u0ccd \u0caa\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb\u0cb2\u0cbf\u0caf\u0c82"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2643922981,
+        "lat": 12.9891327,
+        "lon": 77.7118453,
+        "tags": {
+          "code": "DKIA",
+          "name": "Hoodi",
+          "name:kn": "\u0cb9\u0cc2\u0ca1\u0cbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "old_name": "Hoodi Junction",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4639561294,
+        "lat": 12.9959233,
+        "lon": 77.7192796,
+        "tags": {
+          "alt_name": "Hoodi (H)",
+          "internet_access": "no",
+          "name": "Hoodi",
+          "network": "IR",
+          "operator": "SWR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "halt",
+          "ref": "HDIH",
+          "train": "yes",
+          "wikidata": "Q55613932",
+          "wikipedia": "en:Hoodi Halt railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197749,
+        "lat": 12.9876393,
+        "lon": 77.7377718,
+        "tags": {
+          "alt_name": "ITPL Main Gate",
+          "code": "ITPL",
+          "colour": "#e542de",
+          "name": "Pattandur Agrahara",
+          "name:kn": "\u0caa\u0c9f\u0ccd\u0c9f\u0c82\u0ca6\u0cc2\u0cb0\u0cc1 \u0c85\u0c97\u0ccd\u0cb0\u0cb9\u0cbe\u0cb0",
+          "name:ta": "\u0baa\u0b9f\u0bcd\u0b9f\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd \u0b85\u0b95\u0bcd\u0bb0\u0bb9\u0bbe\u0bb0\u0bbe",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikipedia": "en:Pattandur Agrahara metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197751,
+        "lat": 12.9811949,
+        "lon": 77.7275361,
+        "tags": {
+          "alt_name": "Satya Sai Hospital",
+          "code": "SSHP",
+          "colour": "#e542de",
+          "name": "Sri Sathya Sai Hospital",
+          "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0 \u0cb8\u0ca4\u0ccd\u0caf \u0cb8\u0cbe\u0caf\u0cbf \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6",
+          "name:ta": "\u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0ba4\u0bcd\u0baf \u0b9a\u0bbe\u0baf\u0bcd \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikipedia": "en:Sri Sathya Sai Hospital metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197754,
+        "lat": 12.9766408,
+        "lon": 77.7248845,
+        "tags": {
+          "alt_name": "Nallurhalli",
+          "code": "VDHP",
+          "colour": "#e542de",
+          "name": "Nallurahalli",
+          "name:kn": "\u0ca8\u0cb2\u0ccd\u0cb2\u0cc2\u0cb0\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "name:ta": "\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bb9\u0bb3\u0bcd\u0bb3\u0bbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikipedia": "en:Nallurhalli metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197755,
+        "lat": 12.977594,
+        "lon": 77.7155586,
+        "tags": {
+          "code": "KDNH",
+          "colour": "#e542de",
+          "name": "Kundalahalli",
+          "name:kn": "\u0c95\u0cc1\u0c82\u0ca6\u0cb2\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "name:ta": "\u0b95\u0bc1\u0ba9\u0bcd\u0b9f\u0bb2\u0bb9\u0bb3\u0bcd\u0bb3\u0bbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikipedia": "en:Kundalahalli metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197757,
+        "lat": 12.9808558,
+        "lon": 77.7087854,
+        "tags": {
+          "alt_name": "Sitaramapalya",
+          "code": "VWIA",
+          "name": "Seetharampalya",
+          "name:kn": "\u0cb8\u0cc0\u0ca4\u0cbe\u0cb0\u0cbe\u0cae \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "name:ta": "\u0b9a\u0bc0\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bbe\u0bae\u0bcd\u0baa\u0bbe\u0bb3\u0bcd\u0baf\u0bbe",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikipedia": "en:Sitharama Palya metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197761,
+        "lat": 12.9888029,
+        "lon": 77.711326,
+        "tags": {
+          "code": "DKIA",
+          "colour": "#e542de",
+          "name": "Hoodi",
+          "name:kn": "\u0cb9\u0cc2\u0ca1\u0cbf",
+          "name:ta": "\u0bb9\u0bc2\u0b9f\u0bbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "old_name": "Hoodi Junction",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikipedia": "en:Hoodi Junction metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197762,
+        "lat": 12.9934505,
+        "lon": 77.7036768,
+        "tags": {
+          "alt_name": "\u0c97\u0cb0\u0cc1\u0ca1\u0cbe\u0c9a\u0cbe\u0cb0\u0ccd \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "code": "GDCP",
+          "colour": "#e542de",
+          "name": "Garudacharpalya",
+          "name:kn": "\u0c97\u0cb0\u0cc1\u0ca1\u0cbe\u0c9a\u0cbe\u0cb0\u0ccd \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "name:ml": "\u0d17\u0d30\u0d41\u0d21\u0d3e\u0d1a\u0d3e\u0d30\u0d4d \u0d2a\u0d3e\u0d32\u0d4d\u0d2f",
+          "name:ta": "\u0b95\u0bb0\u0bc1\u0b9f\u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bbe\u0bb2\u0bcd\u0baf\u0bbe",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikipedia": "en:Garudacharapalya metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10127417295,
+        "lat": 12.9898099,
+        "lon": 77.7282059,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cin\u00e9polis",
+          "brand:wikidata": "Q5686673",
+          "name": "Cinepolis",
+          "website": "https://www.cinepolisindia.com/?cid=17"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647023,
+        "lat": 12.9875935,
+        "lon": 77.7372451,
+        "tags": {
+          "alt_name": "ITPL Main Gate",
+          "code": "ITPL",
+          "name": "Pattandur Agrahara",
+          "name:kn": "\u0caa\u0c9f\u0ccd\u0c9f\u0c82\u0ca6\u0cc2\u0cb0\u0cc1 \u0c85\u0c97\u0ccd\u0cb0\u0cb9\u0cbe\u0cb0",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647024,
+        "lat": 12.987637,
+        "lon": 77.7383542,
+        "tags": {
+          "alt_name": "ITPL Main Gate",
+          "code": "ITPL",
+          "name": "Pattandur Agrahara",
+          "name:kn": "\u0caa\u0c9f\u0ccd\u0c9f\u0c82\u0ca6\u0cc2\u0cb0\u0cc1 \u0c85\u0c97\u0ccd\u0cb0\u0cb9\u0cbe\u0cb0",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647025,
+        "lat": 12.9807354,
+        "lon": 77.7274963,
+        "tags": {
+          "alt_name": "Satya Sai Hospital",
+          "code": "SSHP",
+          "name": "Sri Sathya Sai Hospital",
+          "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0 \u0cb8\u0ca4\u0ccd\u0caf \u0cb8\u0cbe\u0caf\u0cbf \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647026,
+        "lat": 12.9817149,
+        "lon": 77.7276627,
+        "tags": {
+          "alt_name": "Satya Sai Hospital",
+          "code": "SSHP",
+          "name": "Sri Sathya Sai Hospital",
+          "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0 \u0cb8\u0ca4\u0ccd\u0caf \u0cb8\u0cbe\u0caf\u0cbf \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647027,
+        "lat": 12.9766126,
+        "lon": 77.7243495,
+        "tags": {
+          "alt_name": "Nallurhalli",
+          "code": "VDHP",
+          "name": "Nallurahalli",
+          "name:kn": "\u0ca8\u0cb2\u0ccd\u0cb2\u0cc2\u0cb0\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647028,
+        "lat": 12.9765754,
+        "lon": 77.7253457,
+        "tags": {
+          "alt_name": "Nallurhalli",
+          "code": "VDHP",
+          "name": "Nallurahalli",
+          "name:kn": "\u0ca8\u0cb2\u0ccd\u0cb2\u0cc2\u0cb0\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647029,
+        "lat": 12.9776292,
+        "lon": 77.715061,
+        "tags": {
+          "code": "KDNH",
+          "name": "Kundalahalli",
+          "name:kn": "\u0c95\u0cc1\u0c82\u0ca6\u0cb2\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647030,
+        "lat": 12.9775256,
+        "lon": 77.7160828,
+        "tags": {
+          "code": "KDNH",
+          "name": "Kundalahalli",
+          "name:kn": "\u0c95\u0cc1\u0c82\u0ca6\u0cb2\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647032,
+        "lat": 12.9885448,
+        "lon": 77.7109265,
+        "tags": {
+          "code": "DKIA",
+          "name": "Hoodi",
+          "name:kn": "\u0cb9\u0cc2\u0ca1\u0cbf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "old_name": "Hoodi Junction",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647033,
+        "lat": 12.9935165,
+        "lon": 77.7032966,
+        "tags": {
+          "alt_name": "\u0c97\u0cb0\u0cc1\u0ca1\u0cbe\u0c9a\u0cbe\u0cb0\u0ccd \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "code": "GDCP",
+          "name": "Garudacharpalya",
+          "name:kn": "\u0c97\u0cb0\u0cc1\u0ca1\u0cbe\u0c9a\u0cbe\u0cb0\u0ccd \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "old_name": "Mahadevapura",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761647034,
+        "lat": 12.9933397,
+        "lon": 77.7041125,
+        "tags": {
+          "alt_name": "\u0c97\u0cb0\u0cc1\u0ca1\u0cbe\u0c9a\u0cbe\u0cb0\u0ccd \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "code": "GDCP",
+          "name": "Garudacharpalya",
+          "name:kn": "\u0c97\u0cb0\u0cc1\u0ca1\u0cbe\u0c9a\u0cbe\u0cb0\u0ccd \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "old_name": "Mahadevapura",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10763340457,
+        "lat": 12.980531,
+        "lon": 77.7088952,
+        "tags": {
+          "alt_name": "Sitaramapalya",
+          "code": "VWIA",
+          "name": "Seetharampalya",
+          "name:kn": "\u0cb8\u0cc0\u0ca4\u0cbe\u0cb0\u0cbe\u0cae \u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11100902652,
+        "lat": 12.9875406,
+        "lon": 77.7360756,
+        "tags": {
+          "alt_name": "ITPL Main Gate",
+          "bus": "yes",
+          "name": "ITPL",
+          "name:en": "ITPL",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11100902653,
+        "lat": 12.9876603,
+        "lon": 77.7368718,
+        "tags": {
+          "alt_name": "ITPL Main Gate",
+          "bus": "yes",
+          "name": "ITPL",
+          "name:en": "ITPL",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12534145133,
+        "lat": 12.993427,
+        "lon": 77.7043141,
+        "tags": {
+          "amenity": "charging_station",
+          "name": "Honda e:swap"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12534184756,
+        "lat": 12.993427,
+        "lon": 77.7043141,
+        "tags": {
+          "amenity": "charging_station",
+          "name": "Honda e:swap"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13120636975,
+        "lat": 12.9857026,
+        "lon": 77.7077508,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13120641506,
+        "lat": 12.9872387,
+        "lon": 77.7088261,
+        "tags": {
+          "amenity": "fuel"
+        }
+      }
+    ]
+  }
+}

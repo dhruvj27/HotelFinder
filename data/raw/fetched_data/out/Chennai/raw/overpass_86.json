@@ -1,0 +1,1438 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:16:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1563555334,
+        "lat": 13.0131553,
+        "lon": 80.2227101,
+        "tags": {
+          "addr:postcode": "600015",
+          "addr:street": "Anna Salai, Saidapet",
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Ponnusamy Hotel",
+          "website": "https://www.ponnusamyhotels.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2612143036,
+        "lat": 13.0151022,
+        "lon": 80.2250389,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:postcode": "600015",
+          "addr:street": "Anna Salai (Mount Road)",
+          "amenity": "fast_food",
+          "brand": "Adyar Ananda Bhavan",
+          "brand:wikidata": "Q15178238",
+          "capacity": "30",
+          "changing_table": "no",
+          "cuisine": "regional",
+          "diet:vegetarian": "only",
+          "indoor_seating": "no",
+          "name": "Adyar Ananda Bhavan",
+          "name:ta": "\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb0\u0bcd \u0b86\u0ba9\u0ba8\u0bcd\u0ba4 \u0baa\u0bb5\u0ba9\u0bcd",
+          "note": "It is a fast food restaurant, so no chairs to sit down",
+          "phone": "+91 44 4504 2333",
+          "shop": "confectionery",
+          "takeaway": "yes",
+          "toilets": "no",
+          "toilets:wheelchair": "no",
+          "website": "https://aabsweets.com",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3397750866,
+        "lat": 13.022387,
+        "lon": 80.2230108,
+        "tags": {
+          "addr:city": "saidapet",
+          "addr:housenumber": "14/3",
+          "addr:postcode": "600015",
+          "addr:street": "Karaneeswar Koil Street",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Reddi's Poly Clinic",
+          "note": "Pediatrician Dr. PJN Reddi and Dr. Raj Dental Dr. Raji Skin: Dr Grub",
+          "opening_hours": "09:00-13:00,18:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3447969801,
+        "lat": 13.0224668,
+        "lon": 80.2230059,
+        "tags": {
+          "addr:street": "Karaneeswar Koil Street",
+          "amenity": "bank",
+          "atm": "no",
+          "brand": "Indian Overseas Bank",
+          "brand:wikidata": "Q2003611",
+          "brand:wikipedia": "en:Indian Overseas Bank",
+          "name": "Indian Overseas Bank",
+          "name:en": "Indian Overseas Bank",
+          "operator": "Indian Overseas Bank",
+          "short_name": "IOB",
+          "website": "https://www.iob.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3450050680,
+        "lat": 13.0222529,
+        "lon": 80.2222034,
+        "tags": {
+          "addr:street": "Vadhyar Subbraya mudali street",
+          "amenity": "cafe",
+          "internet_access": "no",
+          "name": "Kumbakonam Degree Coffee"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3453898726,
+        "lat": 13.0222576,
+        "lon": 80.2211617,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Udayam Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3463479211,
+        "lat": 13.0226851,
+        "lon": 80.2230072,
+        "tags": {
+          "addr:city": "Saidapet",
+          "addr:postcode": "600015",
+          "addr:street": "Karaneeswar Koil Street",
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "State Bank of India",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "operator:wikipedia": "en:State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3467304699,
+        "lat": 13.0205626,
+        "lon": 80.2216528,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "brand:wikipedia": "en:Bank of India",
+          "name": "Bank of India",
+          "operator": "Bank of India",
+          "operator:wikidata": "Q2004439",
+          "operator:wikipedia": "en:Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3467526749,
+        "lat": 13.0221002,
+        "lon": 80.2241498,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "brand:wikipedia": "en:Punjab National Bank",
+          "name": "Punjab National Bank",
+          "operator": "Punjab National Bank",
+          "operator:wikidata": "Q2743499",
+          "operator:wikipedia": "en:Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3467526750,
+        "lat": 13.0221903,
+        "lon": 80.2241076,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:postcode": "600015",
+          "addr:street": "Jeenis Road",
+          "addr:suburb": "Saidapet",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "brand:wikipedia": "en:ICICI Bank",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "short_name": "ICICI",
+          "website": "https://www.icicibank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3467526751,
+        "lat": 13.0216638,
+        "lon": 80.2194646,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Sri Iyappa Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3470834246,
+        "lat": 13.0195941,
+        "lon": 80.2195493,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Punjab & Sindh Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3470834247,
+        "lat": 13.0196305,
+        "lon": 80.219551,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "State Bank of India",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "operator:wikipedia": "en:State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3470834248,
+        "lat": 13.0196763,
+        "lon": 80.2193817,
+        "tags": {
+          "addr:street": "Mosque Street",
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "HDFC Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "operator:wikipedia": "en:HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3470834249,
+        "lat": 13.0197652,
+        "lon": 80.2200815,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "brand:wikipedia": "en:Indian Bank",
+          "name": "Indian Bank",
+          "operator": "Indian Bank",
+          "operator:wikidata": "Q2003789",
+          "operator:wikipedia": "en:Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3470834251,
+        "lat": 13.019832,
+        "lon": 80.2206296,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Karur Vysya Bank",
+          "brand:wikidata": "Q6373724",
+          "name": "Karur Vysya Bank",
+          "operator": "Karur Vysya Bank",
+          "operator:wikidata": "Q6373724"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3470834252,
+        "lat": 13.0198726,
+        "lon": 80.21941,
+        "tags": {
+          "addr:street": "Mosque Street",
+          "amenity": "atm",
+          "operator": "Lakshmi Vilas Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3470834274,
+        "lat": 13.0221323,
+        "lon": 80.2245935,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:postcode": "600015",
+          "addr:street": "Bazaar Road",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3485824670,
+        "lat": 13.0200968,
+        "lon": 80.2244781,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "brand:wikipedia": "en:Indian Bank",
+          "name": "Indian Bank",
+          "operator": "Indian Bank",
+          "operator:wikidata": "Q2003789",
+          "operator:wikipedia": "en:Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3485824672,
+        "lat": 13.0221564,
+        "lon": 80.2207542,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Saranya Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3485824673,
+        "lat": 13.0222453,
+        "lon": 80.2206601,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Saravana Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3485824674,
+        "lat": 13.0218682,
+        "lon": 80.224325,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Sayer Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3485824675,
+        "lat": 13.0221953,
+        "lon": 80.2226021,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Sindhu Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3485824676,
+        "lat": 13.0222897,
+        "lon": 80.2199272,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Vasantham Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3599952165,
+        "lat": 13.0213047,
+        "lon": 80.225602,
+        "tags": {
+          "addr:city": "Saidapet",
+          "addr:postcode": "600015",
+          "addr:street": "Anna Salai (Mount Road)",
+          "amenity": "restaurant",
+          "capacity": "50",
+          "cuisine": "regional",
+          "name": "Metro Sagar",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5608708927,
+        "lat": 13.0119179,
+        "lon": 80.2307488,
+        "tags": {
+          "amenity": "doctors",
+          "name:de": "Ayuverda Klinik",
+          "name:en": "Ayuverdic therapy clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5631872252,
+        "lat": 13.0205073,
+        "lon": 80.2221332,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5631872258,
+        "lat": 13.0210587,
+        "lon": 80.2245284,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6926437460,
+        "lat": 13.010217,
+        "lon": 80.2217737,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Block No.6/1-5, BCGStaff Quarters, Guindy",
+          "addr:postcode": "600032",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "Guindy Dispensary",
+          "operator:type": "government",
+          "source": "OpenGovernmentData",
+          "website": "http://nb.bsf.gov.in/CGHS%20DIspenseries.pdf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6934340781,
+        "lat": 13.0122123,
+        "lon": 80.2235084,
+        "tags": {
+          "addr:district": "Dindigul",
+          "addr:full": "4/12A, Anna Nagar,Palani",
+          "addr:postcode": "624601",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "name": "Palani Balaji Fertility Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10973840859,
+        "lat": 13.0077889,
+        "lon": 80.2210455,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:housenumber": "2669+M7G",
+          "addr:postcode": "600032",
+          "addr:street": "Little Mount, Kotturpuram",
+          "description": "TecEx is a leading provider of import/export and compliance solutions for the IT industry. Our team of professionals is committed to providing seamless and secure transportation of IT hardware and technology equipment worldwide.",
+          "image": "https://local-platform.s3.us-east-2.amazonaws.com/location/logo/53918/9AhONWTswKTcdKQzHlOZ01BkGTwagNV8QnxyYJH6.png",
+          "name": "TecEx India Private Limited",
+          "opening_hours": "Mon - Thu 8:00-18:00; Fri 8:00 - 17:00",
+          "phone": "(02) 9056 4057",
+          "shop": "supermarket",
+          "website": "https://tecex.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12517830701,
+        "lat": 13.0122894,
+        "lon": 80.2238705,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Ibrahim's BBQ House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12528602501,
+        "lat": 13.0122977,
+        "lon": 80.2238958,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Jayam Andhra Mess"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12554057401,
+        "lat": 13.0143188,
+        "lon": 80.2248506,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Naidu Andhra Mess"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12558418401,
+        "lat": 13.0110882,
+        "lon": 80.2244558,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Appu Kadai Briyani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12573526002,
+        "lat": 13.0131367,
+        "lon": 80.2240167,
+        "tags": {
+          "name": "Daniel Super Market",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12597545501,
+        "lat": 13.0148042,
+        "lon": 80.2251186,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hotel Ashok Bhavan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12622845801,
+        "lat": 13.0130869,
+        "lon": 80.2240672,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Variety rice shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12998355739,
+        "lat": 13.0109174,
+        "lon": 80.2240652,
+        "tags": {
+          "amenity": "atm",
+          "brand": "TMB"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12998369782,
+        "lat": 13.0151874,
+        "lon": 80.2251225,
+        "tags": {
+          "leisure": "park",
+          "name": "\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bcb\u0bb0 \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe",
+          "name:ta": "\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bcb\u0bb0 \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe",
+          "operator": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf",
+          "operator:type": "government"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13039283365,
+        "lat": 13.014349,
+        "lon": 80.2312365,
+        "tags": {
+          "access": "permissive",
+          "leisure": "playground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13039283368,
+        "lat": 13.014314,
+        "lon": 80.2313444,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Tamil medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13039283371,
+        "lat": 13.0148869,
+        "lon": 80.2296651,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Cure blue pharmacy"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:16:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 247675520,
+        "lat": 13.0349762,
+        "lon": 80.2307357,
+        "tags": {
+          "bus": "yes",
+          "name": "T.Nagar",
+          "network": "MTC",
+          "operator": "Metropolitan Transport Corporation (Chennai) Ltd.",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 256039818,
+        "lat": 13.0080754,
+        "lon": 80.2093905,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Guindy",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 308313775,
+        "lat": 13.0191024,
+        "lon": 80.2063609,
+        "tags": {
+          "bus": "yes",
+          "name": "Ekkattuthangal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 309812160,
+        "lat": 13.0076778,
+        "lon": 80.2099257,
+        "tags": {
+          "bus": "yes",
+          "name": "Guindy",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 312011819,
+        "lat": 13.0065031,
+        "lon": 80.2374064,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Gandhi Mandapam",
+          "name:etymology:wikidata": "Q1001",
+          "wikidata": "Q5520701",
+          "wikipedia": "en:Gandhi Mandapam (Chennai)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 313106870,
+        "lat": 13.0319681,
+        "lon": 80.2111904,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 364367391,
+        "lat": 13.0294559,
+        "lon": 80.2084956,
+        "tags": {
+          "amenity": "cinema",
+          "created_by": "Potlatch 0.10f",
+          "name": "Kasi Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 364572949,
+        "lat": 13.0247047,
+        "lon": 80.2065279,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "brand:wikipedia": "en:Shell plc",
+          "compressed_air": "yes",
+          "name": "Shell",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 365544723,
+        "lat": 13.0116259,
+        "lon": 80.2185178,
+        "tags": {
+          "amenity": "fuel",
+          "compressed_air": "yes",
+          "created_by": "Potlatch 0.10f",
+          "name": "BP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 365983863,
+        "lat": 13.0120221,
+        "lon": 80.2197653,
+        "tags": {
+          "amenity": "fuel",
+          "created_by": "Potlatch 0.10f"
+        }
+      },
+      {
+        "type": "node",
+        "id": 366083028,
+        "lat": 13.0088683,
+        "lon": 80.2112087,
+        "tags": {
+          "bus": "yes",
+          "name": "Guindy",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 366739410,
+        "lat": 13.0158863,
+        "lon": 80.2048651,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 367793382,
+        "lat": 13.0231114,
+        "lon": 80.2063585,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "compressed_air": "yes",
+          "name": "Indian Oil",
+          "opening_hours": "PH,Mo-Su 12:00+"
+        }
+      },
+      {
+        "type": "node",
+        "id": 368158463,
+        "lat": 13.0127799,
+        "lon": 80.2222772,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "BP",
+          "fuel:diesel": "yes",
+          "fuel:lpg": "yes",
+          "fuel:octane_80": "yes",
+          "name": "BP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 368158965,
+        "lat": 13.0112743,
+        "lon": 80.2229232,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "BP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 375667931,
+        "lat": 13.0265542,
+        "lon": 80.2324615,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 919522182,
+        "lat": 13.0234333,
+        "lon": 80.2236757,
+        "tags": {
+          "name": "Saidapet",
+          "public_transport": "stop_position",
+          "ref": "SP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1971862196,
+        "lat": 13.0082459,
+        "lon": 80.2334763,
+        "tags": {
+          "bus": "yes",
+          "name": "Anna University",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1971877221,
+        "lat": 13.0074903,
+        "lon": 80.2367344,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2157590801,
+        "lat": 12.997438,
+        "lon": 80.2162638,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Five Furlong Road",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2158620128,
+        "lat": 12.9974054,
+        "lon": 80.2165418,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Velachery Check Post",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2158620129,
+        "lat": 12.9974127,
+        "lon": 80.2164502,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Velachery Check Post",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2237592529,
+        "lat": 13.0342665,
+        "lon": 80.2304553,
+        "tags": {
+          "bus": "yes",
+          "name": "Thyagaraya Nagar Bus Terminus",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259029,
+        "lat": 13.0233098,
+        "lon": 80.2237191,
+        "tags": {
+          "internet_access": "no",
+          "name": "Saidapet",
+          "name:ml": "\u0d38\u0d48\u0d26\u0d3e\u0d2a\u0d47\u0d1f\u0d4d\u0d1f",
+          "name:ta": "\u0b9a\u0bc8\u0ba4\u0bbe\u0baa\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SP",
+          "wikidata": "Q7399955",
+          "wikipedia": "en:Saidapet railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3264712327,
+        "lat": 13.0086685,
+        "lon": 80.2126063,
+        "tags": {
+          "internet_access": "no",
+          "name": "Guindy",
+          "name:en": "Guindy",
+          "name:hi": "\u0917\u093f\u0902\u0921\u0940",
+          "name:ml": "\u0d17\u0d3f\u0d23\u0d4d\u0d1f\u0d3f",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GDY",
+          "wikidata": "Q5616431",
+          "wikipedia": "en:Guindy railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4410824051,
+        "lat": 13.0263102,
+        "lon": 80.2316753,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "fuel:lpg": "yes",
+          "name": "Indian Oil Propel",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5319207378,
+        "lat": 13.0169222,
+        "lon": 80.2054236,
+        "tags": {
+          "alt_name": "SIDCO",
+          "local_ref": "SIDCO",
+          "name": "\u0b88\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+          "name:en": "Ekkattuthangal",
+          "name:ml": "\u0d08\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d3e\u0d19\u0d4d\u0d15\u0d7d",
+          "name:ta": "\u0b88\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+          "network": "Chennai Metro",
+          "network:wikidata": "Q1639576",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SSI",
+          "ref": "SSI",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q19891416",
+          "wikipedia": "en:Ekkattuthangal metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5321248424,
+        "lat": 13.0146226,
+        "lon": 80.2241682,
+        "tags": {
+          "name": "\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bb2\u0bc8",
+          "name:en": "Little Mount",
+          "name:ta": "\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bb2\u0bc8",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5321248425,
+        "lat": 13.0092314,
+        "lon": 80.2130951,
+        "tags": {
+          "name": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "name:en": "Guindy",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5337407333,
+        "lat": 13.0239394,
+        "lon": 80.2280916,
+        "tags": {
+          "name": "\u0b9a\u0bc8\u0ba4\u0bbe\u0baa\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "name:en": "Saidapet",
+          "name:ta": "\u0b9a\u0bc8\u0ba4\u0bbe\u0baa\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760196488,
+        "lat": 13.023975,
+        "lon": 80.2280614,
+        "tags": {
+          "name": "\u0b9a\u0bc8\u0ba4\u0bbe\u0baa\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "name:en": "Saidapet",
+          "name:ta": "\u0b9a\u0bc8\u0ba4\u0bbe\u0baa\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857244,
+        "lat": 13.0239638,
+        "lon": 80.2280815,
+        "tags": {
+          "name": "\u0b9a\u0bc8\u0ba4\u0bbe\u0baa\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "name:en": "Saidapet",
+          "name:ml": "\u0d38\u0d48\u0d26\u0d3e\u0d2a\u0d47\u0d1f\u0d4d\u0d1f",
+          "name:ta": "\u0b9a\u0bc8\u0ba4\u0bbe\u0baa\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "network": "Chennai Metro",
+          "network:wikidata": "Q1639576",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SSA",
+          "ref": "SSA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q55632346",
+          "wikipedia": "en:Saidapet metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857245,
+        "lat": 13.0146778,
+        "lon": 80.2241109,
+        "tags": {
+          "name": "\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bb2\u0bc8",
+          "name:en": "Little Mount",
+          "name:ta": "\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bb2\u0bc8",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857246,
+        "lat": 13.0146634,
+        "lon": 80.2241669,
+        "tags": {
+          "name": "\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bb2\u0bc8",
+          "name:en": "Little Mount",
+          "name:ml": "\u0d1a\u0d3f\u0d28\u0d4d\u0d28\u0d2e\u0d32",
+          "name:ta": "\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bb2\u0bc8",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SLM",
+          "ref": "SLM",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q30639073",
+          "wikipedia": "en:Little Mount metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857247,
+        "lat": 13.0092951,
+        "lon": 80.2130723,
+        "tags": {
+          "name": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "name:en": "Guindy",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857248,
+        "lat": 13.0092746,
+        "lon": 80.2130846,
+        "tags": {
+          "name": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "name:en": "Guindy",
+          "name:ml": "\u0d17\u0d3f\u0d23\u0d4d\u0d1f\u0d3f",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SGU",
+          "ref": "SGU",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q18357501",
+          "wikipedia": "en:Guindy metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6497450229,
+        "lat": 13.0342592,
+        "lon": 80.230369,
+        "tags": {
+          "bus": "yes",
+          "name": "Thyagaraya Nagar Bus Terminus",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7412932329,
+        "lat": 13.0231055,
+        "lon": 80.2427833,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Kotturpuram",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7412932330,
+        "lat": 13.0185768,
+        "lon": 80.2413141,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Kottur",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7412932331,
+        "lat": 13.0100519,
+        "lon": 80.2405691,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Birla planetarium / CLRI",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7433365963,
+        "lat": 13.011873,
+        "lon": 80.2219855,
+        "tags": {
+          "bus": "yes",
+          "name": "SPIC / Chellammal College",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8093482026,
+        "lat": 13.0301649,
+        "lon": 80.2071951,
+        "tags": {
+          "addr:housenumber": "Kasi Talkies",
+          "addr:street": "4, Pillaiyar Koil St, Jafferkhnapet, Ashok Nagar, Chennai, Tamil Nadu 600083",
+          "amenity": "cinema",
+          "name": "Kasi Talkies",
+          "phone": "044 4009 8999"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9412787732,
+        "lat": 13.0048514,
+        "lon": 80.2202225,
+        "tags": {
+          "bus": "yes",
+          "name": "Kannigapuram",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9412787734,
+        "lat": 13.0155164,
+        "lon": 80.2250894,
+        "tags": {
+          "bus": "yes",
+          "name": "Little Mount",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9412787735,
+        "lat": 13.0221111,
+        "lon": 80.226294,
+        "tags": {
+          "bus": "yes",
+          "name": "Saidapet",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9412787736,
+        "lat": 13.0279977,
+        "lon": 80.2309273,
+        "tags": {
+          "bus": "yes",
+          "name": "C.I.T. Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9592492219,
+        "lat": 13.0169468,
+        "lon": 80.2054543,
+        "tags": {
+          "name": "\u0b88\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+          "name:en": "Ekkattuthangal",
+          "name:ta": "\u0b88\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9592492220,
+        "lat": 13.0169572,
+        "lon": 80.2054139,
+        "tags": {
+          "name": "\u0b88\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+          "name:en": "Ekkattuthangal",
+          "name:ta": "\u0b88\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9920647758,
+        "lat": 13.0345423,
+        "lon": 80.2300791,
+        "tags": {
+          "bus": "yes",
+          "name": "Thyagaraya Nagar Bus Terminus",
+          "network": "MTC",
+          "operator": "Metropolitan Transport Corporation (Chennai) Ltd.",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9925164644,
+        "lat": 13.0067764,
+        "lon": 80.2407171,
+        "tags": {
+          "bus": "yes",
+          "name": "IIT/CLRI",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9925164645,
+        "lat": 13.0141061,
+        "lon": 80.2045404,
+        "tags": {
+          "bus": "yes",
+          "name": "Olympia Tech Park",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9925164646,
+        "lat": 13.0243279,
+        "lon": 80.2069309,
+        "tags": {
+          "bus": "yes",
+          "name": "Kalaimagal Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10593328485,
+        "lat": 12.9971505,
+        "lon": 80.2163258,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Kousalya Fuels Velachery"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824517918,
+        "lat": 13.0210393,
+        "lon": 80.2251942,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11959593354,
+        "lat": 13.0148395,
+        "lon": 80.2046476,
+        "tags": {
+          "bus": "yes",
+          "name": "Olympia Tech Park",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11959593355,
+        "lat": 13.0186308,
+        "lon": 80.2059629,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11959593356,
+        "lat": 13.02436,
+        "lon": 80.2067601,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11959593358,
+        "lat": 13.0315928,
+        "lon": 80.2093923,
+        "tags": {
+          "bus": "yes",
+          "name": "BSNL",
+          "network": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11959599076,
+        "lat": 12.9977277,
+        "lon": 80.2160004,
+        "tags": {
+          "bus": "yes",
+          "name": "Five Furlong Road",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

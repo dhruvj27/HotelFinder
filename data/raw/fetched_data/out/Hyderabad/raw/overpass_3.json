@@ -1,0 +1,419 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:28:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 888544512,
+        "lat": 17.468298,
+        "lon": 78.366808,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 888544514,
+        "lat": 17.469086,
+        "lon": 78.3674411,
+        "tags": {
+          "addr:street": "1st cross road",
+          "air_conditioning": "yes",
+          "brand": "More",
+          "brand:wikidata": "Q6910891",
+          "currency:INR": "yes",
+          "level": "1",
+          "name": "More",
+          "payment:cash": "yes",
+          "payment:contactless": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:mastercard": "yes",
+          "payment:upi": "yes",
+          "payment:visa": "yes",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1699060676,
+        "lat": 17.4692692,
+        "lon": 78.3656517,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "annapoorna"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1702266641,
+        "lat": 17.4696017,
+        "lon": 78.3660584,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "haritha hospitals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3384202807,
+        "lat": 17.4668555,
+        "lon": 78.3786107,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "medical clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3393657297,
+        "lat": 17.4662155,
+        "lon": 78.3706572,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3538200897,
+        "lat": 17.468184,
+        "lon": 78.3756498,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "regional",
+          "name": "Cuppa",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3558158456,
+        "lat": 17.472641,
+        "lon": 78.372879,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "international",
+          "name": "The Square"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4679580496,
+        "lat": 17.4665964,
+        "lon": 78.3676502,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Andhra Bank",
+          "brand:wikidata": "Q2003476",
+          "brand:wikipedia": "en:Andhra Bank",
+          "name": "Andhra Bank",
+          "name:en": "Andhra Bank",
+          "website": "https://www.andhrabank.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4679716389,
+        "lat": 17.466147,
+        "lon": 78.3677443,
+        "tags": {
+          "addr:full": "# 1-112 / 86, Survey No 5 / EE, Beside Andhra Bank, Near RTA Office,Kondapur, Serilingampally Mandal",
+          "addr:postcode": "500084",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:phone": "040-67505050",
+          "healthcare": "hospital",
+          "name": "KIMS HOSPITAL",
+          "name:en": "KIMS Hospitals",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "www.kimshospitals.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4680378091,
+        "lat": 17.4698617,
+        "lon": 78.3659233,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "fish;chicken;kebab;grill",
+          "name": "Palamuru Grill",
+          "name:en": "Palamuru Grill"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4718784219,
+        "lat": 17.46547,
+        "lon": 78.3716364,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Andhra Bank",
+          "brand:wikidata": "Q2003476",
+          "name": "Andhra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6855228385,
+        "lat": 17.4659669,
+        "lon": 78.3678073,
+        "tags": {
+          "addr:street": "Gachibowli - Miyapur Highway",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "KIMS Cruddle",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11332747887,
+        "lat": 17.4696404,
+        "lon": 78.366851,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:housenumber": "2",
+          "addr:postcode": "500084",
+          "addr:street": "Green Hamlet Road",
+          "amenity": "cafe",
+          "cuisine": "sandwich;juice;smoothie;quick_bites;thickshakes",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "internet_access:ssid": "fruzos",
+          "name": "Fruzos",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12976196537,
+        "lat": 17.4682741,
+        "lon": 78.3757716,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "asian;japanese;indonesian;thai",
+          "name": "Seven Sisters"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:28:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 317759267,
+        "lat": 17.4513921,
+        "lon": 78.3792883,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Shilpa Kala Vedika",
+          "name:te": "\u0c36\u0c3f\u0c32\u0c4d\u0c2a \u0c15\u0c33\u0c3e \u0c35\u0c47\u0c26\u0c3f\u0c15",
+          "tourism": "attraction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 886161862,
+        "lat": 17.4823997,
+        "lon": 78.3630141,
+        "tags": {
+          "internet_access": "no",
+          "name": "Hafeezpet",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "HFZ",
+          "train": "yes",
+          "wikidata": "Q5638317",
+          "wikipedia": "en:Hafeezpet railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1425916857,
+        "lat": 17.4698143,
+        "lon": 78.3853779,
+        "tags": {
+          "internet_access": "no",
+          "name": "Hitech City",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "HTCY",
+          "train": "yes",
+          "wheelchair": "no",
+          "wikidata": "Q5871886",
+          "wikipedia": "en:Hitech City railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2528181954,
+        "lat": 17.469728,
+        "lon": 78.3852406,
+        "tags": {
+          "name": "Hitech City",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6248961888,
+        "lat": 17.4577608,
+        "lon": 78.3841734,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "name:en": "HP petrol bunk",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6594683311,
+        "lat": 17.4696885,
+        "lon": 78.3851526,
+        "tags": {
+          "name": "Hitech City",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6771713703,
+        "lat": 17.457321,
+        "lon": 78.3634764,
+        "tags": {
+          "amenity": "cinema",
+          "name": "AMB Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6949244902,
+        "lat": 17.4650201,
+        "lon": 78.3647896,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "compressed_air": "yes",
+          "name": "HP Petrol bunk",
+          "official_name": "Hindustan Petroleum",
+          "opening_hours": "Mo-Su 06:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636066507,
+        "lat": 17.482484,
+        "lon": 78.3630055,
+        "tags": {
+          "name": "Hafeezpet",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636066508,
+        "lat": 17.4826413,
+        "lon": 78.3630176,
+        "tags": {
+          "name": "Hafeezpet",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11358156626,
+        "lat": 17.4844074,
+        "lon": 78.3889568,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:district": "Hyderabad",
+          "addr:housenumber": "1009,plot 16, forum srijana mall",
+          "addr:postcode": "500072",
+          "addr:street": "KPHB 9th Phase Road",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "branch": "Kukatpally",
+          "check_date": "2024-03-16",
+          "mobile": "08800900009",
+          "name": "Pvr Nexus mall",
+          "opening_hours": "24/7",
+          "payment:cash": "yes",
+          "payment:debit_cards": "yes",
+          "payment:google_pay": "yes",
+          "payment:upi": "yes",
+          "screen": "6",
+          "website": "https://www.pvrcinemas.com/",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11770993370,
+        "lat": 17.458549,
+        "lon": 78.38424,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "check_date": "2024-03-29",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11772090392,
+        "lat": 17.4873249,
+        "lon": 78.3569022,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Nayara",
+          "brand:wikidata": "Q5399377",
+          "check_date": "2024-03-29",
+          "name": "Nayara"
+        }
+      }
+    ]
+  }
+}

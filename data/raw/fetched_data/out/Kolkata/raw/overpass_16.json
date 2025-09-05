@@ -1,0 +1,353 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:32:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2461232298,
+        "lat": 22.5498892,
+        "lon": 88.4013624,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Axis Bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2461251700,
+        "lat": 22.5491395,
+        "lon": 88.4006556,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Oh Calcutta!"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2461251704,
+        "lat": 22.5491137,
+        "lon": 88.4006192,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Mainland China"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2461251707,
+        "lat": 22.5490835,
+        "lon": 88.4005692,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sigree"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2461251720,
+        "lat": 22.5495698,
+        "lon": 88.4006654,
+        "tags": {
+          "brand": "More",
+          "brand:wikidata": "Q6910891",
+          "name": "More",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074329127,
+        "lat": 22.5409374,
+        "lon": 88.389544,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "No. 11A/1H, Topsia Road (East)",
+          "addr:postcode": "700046",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "3340686161",
+          "healthcare": "hospital",
+          "name": "R-Fleming Hospital / Zodiac Medicare and Hospital Pvt.Ltd.",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9184249611,
+        "lat": 22.5405561,
+        "lon": 88.3964539,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12994215783,
+        "lat": 22.5392366,
+        "lon": 88.3928999,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "11A",
+          "addr:postcode": "700046",
+          "addr:street": "E Topsia Road",
+          "amenity": "restaurant",
+          "name": "OG By The Lake",
+          "opening_hours": "Mo-Fri 12:00-23:30",
+          "website": "09831006395"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:32:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 5189264572,
+        "lat": 22.5506812,
+        "lon": 88.4040128,
+        "tags": {
+          "name": "Beleghata",
+          "name:bn": "\u09ac\u09c7\u09b2\u09c7\u0998\u09be\u099f\u09be",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q109968614",
+          "wikipedia": "en:Beleghata metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572045,
+        "lat": 22.5507265,
+        "lon": 88.4039735,
+        "tags": {
+          "name": "Beleghata",
+          "name:bn": "\u09ac\u09c7\u09b2\u09c7\u0998\u09be\u099f\u09be",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q109968614",
+          "wikipedia": "en:Beleghata metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12139761844,
+        "lat": 22.5644314,
+        "lon": 88.3893452,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020902787,
+        "lat": 22.5404381,
+        "lon": 88.3969042,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Space Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088458999,
+        "lat": 22.5507084,
+        "lon": 88.4039852,
+        "tags": {
+          "name": "Beleghata",
+          "name:bn": "\u09ac\u09c7\u09b2\u09c7\u0998\u09be\u099f\u09be",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q109968614",
+          "wikipedia": "en:Beleghata metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088459000,
+        "lat": 22.5438008,
+        "lon": 88.3993044,
+        "tags": {
+          "alt_name": "Science City",
+          "name": "Barun Sengupta",
+          "name:bn": "\u09ac\u09b0\u09c1\u09a3 \u09b8\u09c7\u09a8\u0997\u09c1\u09aa\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q30632591",
+          "wikipedia": "en:Barun Sengupta metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485701,
+        "lat": 22.5438072,
+        "lon": 88.3992762,
+        "tags": {
+          "alt_name": "Science City",
+          "name": "Barun Sengupta",
+          "name:bn": "\u09ac\u09b0\u09c1\u09a3 \u09b8\u09c7\u09a8\u0997\u09c1\u09aa\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632591",
+          "wikipedia": "en:Barun Sengupta metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485702,
+        "lat": 22.5438105,
+        "lon": 88.3992424,
+        "tags": {
+          "alt_name": "Science City",
+          "name": "Barun Sengupta",
+          "name:bn": "\u09ac\u09b0\u09c1\u09a3 \u09b8\u09c7\u09a8\u0997\u09c1\u09aa\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q30632591",
+          "wikipedia": "en:Barun Sengupta metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485703,
+        "lat": 22.5330009,
+        "lon": 88.3963939,
+        "tags": {
+          "alt_name": "Bantala Road",
+          "name": "Ritwik Ghatak",
+          "name:bn": "\u098b\u09a4\u09cd\u09ac\u09bf\u0995 \u0998\u099f\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q109524252",
+          "wikipedia": "en:Ritwik Ghatak metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485704,
+        "lat": 22.5329995,
+        "lon": 88.3964191,
+        "tags": {
+          "alt_name": "Bantala Road",
+          "name": "Ritwik Ghatak",
+          "name:bn": "\u098b\u09a4\u09cd\u09ac\u09bf\u0995 \u0998\u099f\u0995",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q109524252",
+          "wikipedia": "en:Ritwik Ghatak metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485705,
+        "lat": 22.5329913,
+        "lon": 88.396456,
+        "tags": {
+          "alt_name": "Bantala Road",
+          "name": "Ritwik Ghatak",
+          "name:bn": "\u098b\u09a4\u09cd\u09ac\u09bf\u0995 \u0998\u099f\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q109524252",
+          "wikipedia": "en:Ritwik Ghatak metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485706,
+        "lat": 22.5246738,
+        "lon": 88.3962115,
+        "tags": {
+          "name": "VIP Bazar",
+          "name:bn": "\u09ad\u09bf \u0986\u0987 \u09aa\u09bf \u09ac\u09be\u099c\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485707,
+        "lat": 22.5246847,
+        "lon": 88.3962331,
+        "tags": {
+          "name": "VIP Bazar",
+          "name:bn": "\u09ad\u09bf \u0986\u0987 \u09aa\u09bf \u09ac\u09be\u099c\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632589",
+          "wikipedia": "en:VIP Bazar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485708,
+        "lat": 22.5246963,
+        "lon": 88.3962697,
+        "tags": {
+          "name": "VIP Bazar",
+          "name:bn": "\u09ad\u09bf \u0986\u0987 \u09aa\u09bf \u09ac\u09be\u099c\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

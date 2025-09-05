@@ -1,0 +1,71 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:05:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3013041216,
+        "lat": 28.7942432,
+        "lon": 77.1407293,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Swami Shraddhanand College",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "name": "Indian Bank"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:05:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 496712243,
+        "lat": 28.7943045,
+        "lon": 77.1391309,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 496712244,
+        "lat": 28.7962535,
+        "lon": 77.1390084,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5905574251,
+        "lat": 28.8085664,
+        "lon": 77.1392257,
+        "tags": {
+          "amenity": "fuel",
+          "building": "roof",
+          "name": "Reliance",
+          "source": "GPS"
+        }
+      }
+    ]
+  }
+}

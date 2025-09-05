@@ -1,0 +1,127 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:06:11Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7510640757,
+        "lat": 26.8398049,
+        "lon": 80.8500146,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Mohan Road, Lucknow",
+          "addr:postcode": "226017",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Buddheshwar Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510640768,
+        "lat": 26.835095,
+        "lon": 80.8464471,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Pink City, Lucknow",
+          "addr:postcode": "226017",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "clinic",
+          "name": "Agarwal Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510640778,
+        "lat": 26.8434488,
+        "lon": 80.8600929,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Alamnagar Mohan Road, Budheshwar, Alamnagar, Rajajipuram, Lucknow",
+          "addr:postcode": "226017",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "India Hospital",
+          "source": "Local Knowledge"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:06:11Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2231837068,
+        "lat": 26.8414971,
+        "lon": 80.8682121,
+        "tags": {
+          "name": "Alamnagar",
+          "name:hi": "\u0906\u0932\u092e \u0928\u0917\u0930",
+          "name:ur": "\u0639\u0627\u0644\u0645 \u0646\u06af\u0631",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7705617346,
+        "lat": 26.8416254,
+        "lon": 80.8683309,
+        "tags": {
+          "name": "Alamnagar",
+          "name:hi": "\u0906\u0932\u092e \u0928\u0917\u0930",
+          "name:ur": "\u0639\u0627\u0644\u0645 \u0646\u06af\u0631",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7705617347,
+        "lat": 26.841594,
+        "lon": 80.8682984,
+        "tags": {
+          "name": "Alamnagar",
+          "name:hi": "\u0906\u0932\u092e \u0928\u0917\u0930",
+          "name:ur": "\u0639\u0627\u0644\u0645 \u0646\u06af\u0631",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7705617348,
+        "lat": 26.8415195,
+        "lon": 80.8682662,
+        "tags": {
+          "name": "Alamnagar",
+          "name:hi": "\u0906\u0932\u092e \u0928\u0917\u0930",
+          "name:ur": "\u0639\u0627\u0644\u0645 \u0646\u06af\u0631",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "AMG",
+          "train": "yes",
+          "wikidata": "Q15644865"
+        }
+      }
+    ]
+  }
+}

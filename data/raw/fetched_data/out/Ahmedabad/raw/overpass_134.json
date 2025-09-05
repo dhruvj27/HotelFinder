@@ -1,0 +1,973 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:22:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2599150148,
+        "lat": 22.9921976,
+        "lon": 72.606752,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:postcode": "380008",
+          "leisure": "garden",
+          "name": "Uttamnagar Garden (Public Park)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4492330390,
+        "lat": 22.99465,
+        "lon": 72.6157541,
+        "tags": {
+          "addr:housenumber": "32",
+          "addr:postcode": "380008",
+          "addr:street": "Asmita Society",
+          "amenity": "hospital",
+          "email": "drkaminipatel@hotmail.com",
+          "name": "Vani Hospital & IVF center",
+          "phone": "07922720605",
+          "website": "https://www.vani-ivf.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4514853390,
+        "lat": 22.994662,
+        "lon": 72.615422,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Vani IVF Center",
+          "name:en": "Vani IVF Center"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4977778522,
+        "lat": 22.9991685,
+        "lon": 72.6166652,
+        "tags": {
+          "amenity": "hospital",
+          "name": "ESIS HOSPITAL",
+          "name:en": "ESIS HOSPITAL"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4977793222,
+        "lat": 22.9992751,
+        "lon": 72.6193052,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Rukshmani Hospital",
+          "name:en": "Rukshmani Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970467886,
+        "lat": 22.9960097,
+        "lon": 72.6121724,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "3, Vinay Shopping Centre Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Aarti Surgical Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970805021,
+        "lat": 22.9950715,
+        "lon": 72.6075442,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Vidita Avenue, Near Jayhind Char Rasta, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Akshar Surgical Hospital, Maninagar",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970824544,
+        "lat": 22.9957344,
+        "lon": 72.6082537,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Dev Darshan Complex, Jaihind Char Rasta, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:phone": "7925470266",
+          "name": "Synergy Neonatal and Pediatric Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970969227,
+        "lat": 22.9995355,
+        "lon": 72.6079452,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Vibhav Complex, Opposite Canana Bank, L. G. Corner, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Abhishek Hospital and Heart Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971932493,
+        "lat": 22.9997731,
+        "lon": 72.6090623,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Punit Marg, Near Overbridge, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Parimal Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971932546,
+        "lat": 22.9910938,
+        "lon": 72.6174791,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "# 304, Saffron-1, Jagubhai Park, Rambaug, Maninagar,",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Shashvat Child Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971932552,
+        "lat": 23.0001972,
+        "lon": 72.6048513,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Above Tapan Medical Store, Opp L G Hospital, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Ahmedabad",
+          "amenity": "hospital",
+          "name": "Clear Vision Eye Hospital (Unit 3)",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971932553,
+        "lat": 22.993832,
+        "lon": 72.6037985,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "A-101, Jalaram Plaza, Jawahar Chowk, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "contact:phone": "7965237760",
+          "name": "Riddhi Medical Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971932554,
+        "lat": 22.9961937,
+        "lon": 72.6038629,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Sakar Complex, First Floor, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Kothari Onco Surgical Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971932555,
+        "lat": 22.9914752,
+        "lon": 72.611707,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2 Kumar Flats Nr Indian Society Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Nilkanth Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971932576,
+        "lat": 22.9906258,
+        "lon": 72.6125311,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "4, Ratna Bhuvan, Daxini Society, Maninagar Railway Crossing",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Ansuya General Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971932581,
+        "lat": 22.9979479,
+        "lon": 72.6109077,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "No. 403/4, Aishwarya Complex,2- Prakash Nagar Society,Opposite Shell Petrol Pump,Jawahar Chowk Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Aastha Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971973786,
+        "lat": 22.9957122,
+        "lon": 72.6118974,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Vinya Arcade, Nr, Jain Derasar, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Ahmedabad Medical Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971973794,
+        "lat": 22.9968677,
+        "lon": 72.6037475,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2, Mohil Apartment Opp: Jalaram Plaza, Jawahar Chowk Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:phone": "7925462847",
+          "name": "Dr Sunil Shah's Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971973795,
+        "lat": 22.9947147,
+        "lon": 72.6119833,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "5, Raman Nagar, Opp Swaminarayan Wadi , Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Kamal Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971973800,
+        "lat": 22.9956326,
+        "lon": 72.6039098,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Wapna Complex Jawahar Chowk, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:phone": "25464418",
+          "name": "Manoramya Children Hospital and Neonatal Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971973801,
+        "lat": 22.9922814,
+        "lon": 72.6059188,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "E/ Lincon Apt, Opposite Kamala Nehru Garden ,Near Jayhind School , Opposite Uttamnagar Water Tank ,Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Lavingia Orthopedic Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975626580,
+        "lat": 22.9990078,
+        "lon": 72.6082449,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Nakshatra 2 Nd Floor Near Ganesh Gali Mani Nagar Cross Roads",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Ratan Deep Surgical And Endoscopy Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975868232,
+        "lat": 22.9980056,
+        "lon": 72.6097913,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor Akash Compelx,Maninagar Station Road",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Dr. Shurti Ent Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6980928760,
+        "lat": 22.9977455,
+        "lon": 72.6091146,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "11, Gokulnagar Society",
+          "addr:postcode": "380015",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Kanan Maternity and Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981476944,
+        "lat": 22.9947616,
+        "lon": 72.6141009,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Alankar Complex, Near Old Railway Crossing Maninagar (East)",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Maninagar",
+          "amenity": "hospital",
+          "email": "pallavhospital@yahoo.co.in",
+          "name": "Pallav J M Desai Memorial Hospital (Better Health Pvt.Ltd.)",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981810684,
+        "lat": 22.9947925,
+        "lon": 72.6074664,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "204, Pramukh Papace, Jaihind Crose Road, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:phone": "7925470900",
+          "name": "Raghuvir Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981984751,
+        "lat": 22.9949308,
+        "lon": 72.6068804,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "7, Shivnandan Complex, Maninagar, Radhavallabh Mandir",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Palak Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981988165,
+        "lat": 22.9994812,
+        "lon": 72.6197255,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Near Vosawada, Opposite Sport Complex, Khokhra",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Rukshmani Government Hospital",
+          "operator:type": "government",
+          "source": "OpenGovernmentData",
+          "website": "http://www.rsby.gov.in/Districtwise.aspx"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981998855,
+        "lat": 22.9978986,
+        "lon": 72.6079211,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Mahalaxmi Mkt. No.1, Maninagar Char Rasta",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Ashirwad Children and Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982001606,
+        "lat": 22.9980843,
+        "lon": 72.6098563,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Gopal Tower Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:phone": "7925463679",
+          "name": "Ravi Surgical Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982581431,
+        "lat": 22.9956523,
+        "lon": 72.6121093,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Vinay Arcade 2nd Floor Nr Jain Temple Opp Rly Crossing Nr Mani Rly Station",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Dr Dipak C Shah E N T Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6986103047,
+        "lat": 23.0017465,
+        "lon": 72.6183012,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Ami-Ganga Complex, Khokhara Circle, Khokhara",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:phone": "7922771818",
+          "name": "Vivek Children Hospital, Khokhara",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6986602483,
+        "lat": 22.9873418,
+        "lon": 72.611577,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Kashubhai Complex.Opposite Aavkar Hall, Near Ghodasarpolice Staion, Ghodsar",
+          "addr:postcode": "380050",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Ashirwad Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6988060743,
+        "lat": 22.9973331,
+        "lon": 72.6092997,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Aakash Complex, Opposite Bhagawan Chambers,Near Gopal Tower, Station Road",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "doctors",
+          "contact:phone": "7925469195",
+          "name": "Dr. Ashish B. Dave",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6993472071,
+        "lat": 22.9970288,
+        "lon": 72.6068388,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Kamal Apartments, Near Bank Of Baroda, Maninagar Char Rasta",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "V and M Orthopaedic Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753694,
+        "lat": 22.997277,
+        "lon": 72.609198,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shruti ENT Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753696,
+        "lat": 22.999263,
+        "lon": 72.608319,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Balvatika, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Apollo Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753697,
+        "lat": 22.997459,
+        "lon": 72.610435,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Child Care Surgical Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753701,
+        "lat": 22.988104,
+        "lon": 72.611857,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maninagar",
+          "addr:postcode": "380002",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Avishkar Multi Speciality, ICU and Trauma Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753706,
+        "lat": 22.9970061,
+        "lon": 72.6063718,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Kilu ENT Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753710,
+        "lat": 22.997505,
+        "lon": 72.604633,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Balvatika, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Atharva Ayurveda Clinic and Panchakarma Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753716,
+        "lat": 22.998786,
+        "lon": 72.608215,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Balvatika, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Sneh Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753717,
+        "lat": 23.002052,
+        "lon": 72.607654,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Balvatika, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Artificial Eye Surgery",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753726,
+        "lat": 23.000266,
+        "lon": 72.608195,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Kushi Women Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753731,
+        "lat": 22.999176,
+        "lon": 72.607469,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Balvatika, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Dr. Dave Eye Care",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753733,
+        "lat": 22.993645,
+        "lon": 72.607322,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Little Flower Neonatal and Pediatric Super Speciality Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753734,
+        "lat": 22.996403,
+        "lon": 72.608657,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Parikh Orthopedic Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753742,
+        "lat": 22.9949326,
+        "lon": 72.6075168,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Meghani Nagar, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Maya Maternity Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753746,
+        "lat": 22.9928912,
+        "lon": 72.6031299,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Bhairavnath, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Lavanya Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753748,
+        "lat": 22.9964298,
+        "lon": 72.6098995,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Gandhi Charitable Homeopathy Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753749,
+        "lat": 22.997027,
+        "lon": 72.609335,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Sharda Surgical Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7862753759,
+        "lat": 23.000081,
+        "lon": 72.608487,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Balvatika, Maninagar",
+          "addr:postcode": "380008",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Devam Hospital",
+          "source": "Local Knowledge"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:23:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 323120091,
+        "lat": 22.9986596,
+        "lon": 72.6114013,
+        "tags": {
+          "internet_access": "no",
+          "name": "Maninagar",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MAN",
+          "train": "yes",
+          "wikidata": "Q6749778",
+          "wikipedia": "en:Maninagar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683243,
+        "lat": 22.9913719,
+        "lon": 72.6317562,
+        "tags": {
+          "bus": "yes",
+          "name": "CMT Crossroad",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5540117738,
+        "lat": 23.0024253,
+        "lon": 72.5928352,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Kankaria Telephone exchange",
+          "operator": "BRTS, Ahmedabad",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701027,
+        "lat": 23.0106557,
+        "lon": 72.6182366,
+        "tags": {
+          "name": "Apparel Park",
+          "name:gu": "\u0a8f\u0aaa\u0ab0\u0ab2 \u0aaa\u0abe\u0ab0\u0acd\u0a95",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701037,
+        "lat": 23.0154543,
+        "lon": 72.6069352,
+        "tags": {
+          "name": "Kankaria East",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6432742906,
+        "lat": 23.0078462,
+        "lon": 72.6283735,
+        "tags": {
+          "name": "Amraiwadi",
+          "name:gu": "\u0a85\u0aae\u0ab0\u0ac0\u0ab5\u0abe\u0aa1\u0ac0",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944287418,
+        "lat": 23.0154573,
+        "lon": 72.6070016,
+        "tags": {
+          "name": "Kankaria East",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q114400460"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655564621,
+        "lat": 23.0107028,
+        "lon": 72.6182378,
+        "tags": {
+          "name": "Apparel Park",
+          "name:gu": "\u0a8f\u0aaa\u0ab0\u0ab2 \u0aaa\u0abe\u0ab0\u0acd\u0a95",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655564654,
+        "lat": 23.0078943,
+        "lon": 72.6284005,
+        "tags": {
+          "name": "Amraiwadi",
+          "name:gu": "\u0a85\u0aae\u0ab0\u0ac0\u0ab5\u0abe\u0aa1\u0ac0",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076537485,
+        "lat": 23.0154585,
+        "lon": 72.6070566,
+        "tags": {
+          "name": "Kankaria East",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10177874699,
+        "lat": 22.9871408,
+        "lon": 72.6269447,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Shell"
+        }
+      }
+    ]
+  }
+}

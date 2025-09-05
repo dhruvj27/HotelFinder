@@ -1,0 +1,1614 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:37:29Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1783122342,
+        "lat": 22.528216,
+        "lon": 88.3657893,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "indian;burger;pizza",
+          "name": "Dhaba",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1833374663,
+        "lat": 22.5262448,
+        "lon": 88.3657852,
+        "tags": {
+          "addr:housenumber": "53/1/3",
+          "addr:street": "Hazra Road",
+          "amenity": "pharmacy",
+          "check_date": "2023-12-16",
+          "description": "Medicine shop",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "internet_access": "no",
+          "name": "Frank Ross",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "website": "https://www.frankrosspharmacy.com/",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1983412036,
+        "lat": 22.5200042,
+        "lon": 88.3647712,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2023-12-16",
+          "cuisine": "regional",
+          "diet:non-vegetarian": "yes",
+          "internet_access": "no",
+          "name": "Roll Shop",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2560435257,
+        "lat": 22.5164608,
+        "lon": 88.3669256,
+        "tags": {
+          "addr:housenumber": "102",
+          "addr:street": "Ballygunge Gardens",
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "check_date": "2023-12-16",
+          "cuisine": "coffee_shop",
+          "internet_access": "no",
+          "name": "Cafe Coffee Day",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2560440346,
+        "lat": 22.5168146,
+        "lon": 88.3668699,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "indian",
+          "internet_access": "no",
+          "name": "Aminia",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2560450679,
+        "lat": 22.5164344,
+        "lon": 88.3656505,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2023-12-16",
+          "cuisine": "baked",
+          "internet_access": "no",
+          "name": "Just Baked",
+          "outdoor_seating": "no",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "smoking": "no",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2560452047,
+        "lat": 22.5165683,
+        "lon": 88.3660103,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2023-12-16",
+          "cuisine": "indian;regional",
+          "diet:non-vegetarian": "yes",
+          "internet_access": "wlan",
+          "name": "Alibaba",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2560452048,
+        "lat": 22.5170968,
+        "lon": 88.366277,
+        "tags": {
+          "addr:housenumber": "102",
+          "addr:street": "Ballygunge Gardens",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "check_date": "2023-12-16",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "website": "https://www.axisbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3051834901,
+        "lat": 22.5272299,
+        "lon": 88.3673113,
+        "tags": {
+          "addr:housenumber": "53/1/3",
+          "addr:street": "Hazra Road",
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "indian",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Kasturi",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3250373761,
+        "lat": 22.5263392,
+        "lon": 88.3641593,
+        "tags": {
+          "addr:housenumber": "52/2B",
+          "addr:postcode": "700019",
+          "addr:street": "Hazra Road",
+          "amenity": "clinic",
+          "check_date": "2023-12-16",
+          "healthcare": "clinic",
+          "name": "Quadra Medical Services Pvt Ltd",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3412216017,
+        "lat": 22.5167773,
+        "lon": 88.362768,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Tero Parbon"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3418913493,
+        "lat": 22.5171093,
+        "lon": 88.3609818,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Wise Owl"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4716438832,
+        "lat": 22.5230927,
+        "lon": 88.3652596,
+        "tags": {
+          "addr:housenumber": "8",
+          "addr:street": "Mandeville Gardens",
+          "amenity": "fast_food",
+          "check_date": "2023-12-16",
+          "cuisine": "regional",
+          "internet_access": "no",
+          "name": "Phuchka Stand",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4716442224,
+        "lat": 22.5232061,
+        "lon": 88.36471,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "north_indian;regional;burger;pizza",
+          "drink": "beer",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Mirch Masala",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4718204589,
+        "lat": 22.5273404,
+        "lon": 88.3655921,
+        "tags": {
+          "addr:street": "Hazra Road",
+          "amenity": "fast_food",
+          "check_date": "2023-12-16",
+          "description": "Momo seller",
+          "name": "Momo on The Move",
+          "name:en": "Wow Momo (on The Move)",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4974790923,
+        "lat": 22.5202079,
+        "lon": 88.3608602,
+        "tags": {
+          "addr:housenumber": "18/1",
+          "addr:street": "Hindustan Road",
+          "amenity": "restaurant",
+          "name": "Bhojohori Manna 6",
+          "name:en": "Bhojohori Manna 6"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5151718328,
+        "lat": 22.5277993,
+        "lon": 88.3686373,
+        "tags": {
+          "addr:housenumber": "53/1/3",
+          "addr:street": "Hazra Road",
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "regional",
+          "name": "6 Ballygunge Place"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5151718435,
+        "lat": 22.5294939,
+        "lon": 88.3687965,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "regional;burger;pizza",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Bohemian",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5153778328,
+        "lat": 22.5245348,
+        "lon": 88.3669534,
+        "tags": {
+          "addr:housenumber": "8",
+          "addr:street": "Mandeville Gardens",
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "pizza;regional",
+          "diet:vegetarian": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Tasty Corner",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5210514243,
+        "lat": 22.5186805,
+        "lon": 88.3652623,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Life",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "check_date": "2023-12-16",
+          "internet_access": "no",
+          "name": "HDFC Bank",
+          "name:bn": "\u098f\u0987\u099a\u09a1\u09bf\u098f\u09ab\u09b8\u09bf \u09b2\u09be\u0987\u09ab",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "short_name": "HDFC",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6126110985,
+        "lat": 22.5152547,
+        "lon": 88.3654717,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "chinese;indian;regional;pizza;burger",
+          "diet:non-vegetarian": "yes",
+          "diet:vegan": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Zaika",
+          "name:en": "Crossroad Crystal",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6299151685,
+        "lat": 22.5175261,
+        "lon": 88.3595099,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Mystic Yoga Cafe & Studio",
+          "website": "https://mysticyoga.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6299181585,
+        "lat": 22.5175878,
+        "lon": 88.3594413,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "international",
+          "name": "Mystic Yoga Cafe",
+          "website": "https://mysticyoga.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6714907189,
+        "lat": 22.5188906,
+        "lon": 88.3644726,
+        "tags": {
+          "check_date": "2023-12-16",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Shatadip shopping",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030462685,
+        "lat": 22.5175409,
+        "lon": 88.3578028,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Potboiler Coffee House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030467285,
+        "lat": 22.5175563,
+        "lon": 88.3629545,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Sienna Store & Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030485285,
+        "lat": 22.5161655,
+        "lon": 88.36055,
+        "tags": {
+          "amenity": "cafe",
+          "name": "8th Day Cafe & Bakery"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048156152,
+        "lat": 22.5169662,
+        "lon": 88.3647182,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "P404/7A,Hemanta Mukhopadhaya Sarani,Gariahat Road",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "3324640211",
+          "healthcare": "clinic",
+          "name": "Ramesh Chandra Sen Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7050801780,
+        "lat": 22.5240061,
+        "lon": 88.3606586,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "1/3, Dover Place",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "check_date": "2023-12-16",
+          "healthcare": "hospital",
+          "healthcare:speciality": "ophthalmology",
+          "internet_access": "no",
+          "name": "Dr Nihar Munshi Eye Foundation",
+          "operator:type": "private",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "source": "OpenGovernmentData",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7051027437,
+        "lat": 22.5187786,
+        "lon": 88.3591291,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "123A, Rash Behari Avenue",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "check_date": "2023-10-04",
+          "contact:phone": "3324640230",
+          "healthcare": "hospital",
+          "name": "N G Medicare And Calcutta Hope Infertility Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7058971692,
+        "lat": 22.5200708,
+        "lon": 88.3606486,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "37/1, B. Hindustan Road,Gariahat, Behind Basanti Devi College",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "3340011593",
+          "healthcare": "clinic",
+          "name": "Prince Nursing Home, Kolkata",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062308629,
+        "lat": 22.5186369,
+        "lon": 88.3608012,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "133E, Rash Behari Avenue, Hindusthan Park",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Omega Optics",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062396399,
+        "lat": 22.527795,
+        "lon": 88.3684555,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "99/5/8C, Bullygunge Place",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "check_date": "2023-12-16",
+          "healthcare": "hospital",
+          "healthcare:speciality": "ophthalmology",
+          "name": "Deshari Complete Eye Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062396402,
+        "lat": 22.5188765,
+        "lon": 88.3717764,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "4K, Ballygunge Station Road",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "24611512",
+          "healthcare": "hospital",
+          "name": "B.K.Dutt Memorial Medical Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062656674,
+        "lat": 22.5175943,
+        "lon": 88.3575051,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "70A, Purna Das Road",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "24661229",
+          "healthcare": "clinic",
+          "name": "Park Site Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7065252213,
+        "lat": 22.520098,
+        "lon": 88.3617966,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "19 A, Hindusthan Road,Near Gariahat Thana, Gariahat Post Office",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "check_date": "2023-10-04",
+          "contact:phone": "3324643191",
+          "healthcare": "clinic",
+          "name": "South Calcutta Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7065871417,
+        "lat": 22.524196,
+        "lon": 88.3617255,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "8B, Garcha First Lane, Ballygunge",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "check_date": "2023-12-16",
+          "contact:mobile": "8017306599",
+          "contact:phone": "3366037324",
+          "healthcare": "hospital",
+          "name": "All Asia Medical Institute",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://www.aamihospitals.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7068429387,
+        "lat": 22.5223254,
+        "lon": 88.3711521,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "227/A, Rashbehari Avenue",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "32914212",
+          "healthcare": "hospital",
+          "name": "Mood",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7068848793,
+        "lat": 22.5304401,
+        "lon": 88.3687308,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "20/C, Broad Street,(Ballygunge)",
+          "addr:housenumber": "32",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "addr:street": "Old Balligunge 1st Lane",
+          "amenity": "clinic",
+          "check_date": "2023-12-16",
+          "contact:phone": "22871442",
+          "healthcare": "clinic",
+          "name": "Repose Clinic and Research Centre Pvt. Ltd.",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7069043469,
+        "lat": 22.5197226,
+        "lon": 88.3632544,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "2B, Ramani Chaterjee Road",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "check_date": "2023-12-16",
+          "healthcare": "clinic",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Grandview Nursing Home",
+          "operator:type": "private",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "source": "OpenGovernmentData",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7069095504,
+        "lat": 22.5252905,
+        "lon": 88.363941,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "51-B, Garcha Road",
+          "addr:housenumber": "54/1 A",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "addr:street": "Hazra Road",
+          "amenity": "hospital",
+          "check_date": "2023-12-16",
+          "healthcare": "hospital",
+          "name": "Micro Surgery Day Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7071390530,
+        "lat": 22.5213682,
+        "lon": 88.3710073,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "227 A,Rash Behari Avenue",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "The Medicure, Kolkata",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7071650031,
+        "lat": 22.5211331,
+        "lon": 88.3588746,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Dover Lane GovernmentQrts",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "3324619292",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "CGHS Dispensary, Dover Lane",
+          "operator:type": "government",
+          "source": "OpenGovernmentData",
+          "website": "http://nb.bsf.gov.in/CGHS%20DIspenseries.pdf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7233967786,
+        "lat": 22.5255315,
+        "lon": 88.3575909,
+        "tags": {
+          "amenity": "restaurant",
+          "internet_access": "wlan",
+          "name": "Bojangles",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "phone": "+919930903399"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7668176332,
+        "lat": 22.5202511,
+        "lon": 88.3659743,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Citi Mart Building, Rash Behari Ave",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "check_date": "2023-10-04",
+          "healthcare": "hospital",
+          "name": "Disha Eye Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8011950442,
+        "lat": 22.5164263,
+        "lon": 88.3604145,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Zucca Lounge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8011950452,
+        "lat": 22.5156853,
+        "lon": 88.3657051,
+        "tags": {
+          "addr:housenumber": "102",
+          "addr:street": "Ballygunge Gardens",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "check_date": "2023-12-16",
+          "drive_through": "yes",
+          "internet_access": "no",
+          "name": "State Bank of India",
+          "opening_hours": "Mo-Fr 10:00-20:00",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "short_name": "SBI",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8011950454,
+        "lat": 22.5173303,
+        "lon": 88.3671971,
+        "tags": {
+          "addr:housenumber": "102",
+          "addr:street": "Ballygunge Gardens",
+          "amenity": "fast_food",
+          "brand": "Wow! Momo",
+          "brand:wikidata": "Q8037446",
+          "check_date": "2023-12-16",
+          "cuisine": "momo",
+          "name": "Wow! Momo",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8011950455,
+        "lat": 22.5172101,
+        "lon": 88.3671686,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2023-12-16",
+          "cuisine": "regional;pizza;burger",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Tribe",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8011950456,
+        "lat": 22.5172815,
+        "lon": 88.3670507,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "regional",
+          "diet:non-vegetarian": "yes",
+          "name": "Tandoor"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9761536278,
+        "lat": 22.5163439,
+        "lon": 88.3613253,
+        "tags": {
+          "amenity": "cafe",
+          "name": "The teapot boiler"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10247548409,
+        "lat": 22.515414,
+        "lon": 88.3655724,
+        "tags": {
+          "addr:housenumber": "102",
+          "addr:street": "Ballygunge Gardens",
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "pizza;burger;regional",
+          "internet_access": "no",
+          "name": "The Grub Club",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10880147305,
+        "lat": 22.5171756,
+        "lon": 88.3613853,
+        "tags": {
+          "addr:street": "Purna Das Road",
+          "amenity": "restaurant",
+          "name": "Azad Hind Dhaba"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10882736007,
+        "lat": 22.5171182,
+        "lon": 88.3601391,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Blue Tokai"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11098801623,
+        "lat": 22.5164432,
+        "lon": 88.3606841,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "P 459/B",
+          "addr:postcode": "700029",
+          "addr:street": "Golpark, Hemanta Mukherjee Sarani, lake Terrace, Ballygunge,",
+          "amenity": "cafe",
+          "internet_access": "yes",
+          "name": "Armaan's Cafe",
+          "opening_hours": "Mo-Su 12:00-21:00",
+          "outdoor_seating": "no",
+          "phone": "+919748742245",
+          "website": "https://www.facebook.com/profile.php?id=100094880922930"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11422209467,
+        "lat": 22.5249092,
+        "lon": 88.3662765,
+        "tags": {
+          "addr:housenumber": "8",
+          "addr:street": "Mandeville Gardens",
+          "amenity": "restaurant",
+          "check_date": "2023-12-16",
+          "cuisine": "regional;burger;pizza",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "7th Mandeville Multi Cuisine Restro",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "phone": "+91 98301 07921",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11422231893,
+        "lat": 22.5248911,
+        "lon": 88.366309,
+        "tags": {
+          "addr:housenumber": "8",
+          "addr:street": "Mandeville Gardens",
+          "amenity": "pharmacy",
+          "check_date": "2023-12-16",
+          "description": "All type of generic medicines available here at lowest price.",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Bhartiya Jan Oushadhi Kendra",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11422427265,
+        "lat": 22.5253002,
+        "lon": 88.3654384,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2023-12-16",
+          "cuisine": "pizza;burger;regional",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Kolkata Tram World",
+          "outdoor_seating": "yes",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12912630305,
+        "lat": 22.5166814,
+        "lon": 88.363781,
+        "tags": {
+          "addr:postcode": "700029",
+          "addr:street": "Purna Das Road",
+          "amenity": "clinic",
+          "name": "Heilen Cross Diagnostics pvt ltd",
+          "opening_hours": "Mo-Su 08:00-20:00"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:37:29Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 419272417,
+        "lat": 22.5021252,
+        "lon": 88.3617949,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "South City Mall",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 651805730,
+        "lat": 22.5191616,
+        "lon": 88.3721923,
+        "tags": {
+          "name": "Ballygunge Junction",
+          "name:bn": "\u09ac\u09be\u09b2\u09bf\u0997\u099e\u09cd\u099c",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BLN",
+          "wikidata": "Q55639257",
+          "wikipedia": "en:Ballygunge Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1274128857,
+        "lat": 22.5405657,
+        "lon": 88.3738598,
+        "tags": {
+          "name": "Park Circus",
+          "name:bn": "\u09aa\u09be\u09b0\u09cd\u0995 \u09b8\u09be\u09b0\u09cd\u0995\u09be\u09b8",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PQS",
+          "train": "yes",
+          "wheelchair": "no",
+          "wikidata": "Q56278569",
+          "wikipedia": "en:Park Circus railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1341614569,
+        "lat": 22.5094085,
+        "lon": 88.371185,
+        "tags": {
+          "addr:postcode": "700031",
+          "addr:street": "Sarat Ghosh Garden Road",
+          "internet_access": "no",
+          "name": "Dhakuria",
+          "name:bn": "\u09a2\u09be\u0995\u09c1\u09b0\u09bf\u09af\u09bc\u09be",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DHK",
+          "train": "yes",
+          "wheelchair": "no",
+          "wikidata": "Q57237359",
+          "wikipedia": "en:Dhakuria railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1686122936,
+        "lat": 22.526191,
+        "lon": 88.3667029,
+        "tags": {
+          "amenity": "cinema",
+          "check_date": "2023-12-16",
+          "name": "London paris cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1783135288,
+        "lat": 22.5274281,
+        "lon": 88.365843,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2023-12-16",
+          "fuel:GTL_diesel": "yes",
+          "fuel:HGV_diesel": "yes",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "internet_access": "no",
+          "name": "Bharat Petroleum",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1860605880,
+        "lat": 22.5246096,
+        "lon": 88.3525906,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2283899290,
+        "lat": 22.5200581,
+        "lon": 88.3464233,
+        "tags": {
+          "name": "Kalighat",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2471894117,
+        "lat": 22.5272169,
+        "lon": 88.3466356,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Indira Cinema Hall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2471903967,
+        "lat": 22.5278661,
+        "lon": 88.3455882,
+        "tags": {
+          "amenity": "fuel",
+          "building": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2720702706,
+        "lat": 22.5424807,
+        "lon": 88.3659928,
+        "tags": {
+          "name": "Park Circus",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2721264604,
+        "lat": 22.5258882,
+        "lon": 88.3660841,
+        "tags": {
+          "name": "Gariahat Depot",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2721308238,
+        "lat": 22.5167884,
+        "lon": 88.3457793,
+        "tags": {
+          "name": "Rash Behari Avenue",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2776950395,
+        "lat": 22.5426967,
+        "lon": 88.3662093,
+        "tags": {
+          "addr:housenumber": "2",
+          "addr:place": "Syed Amir Ali Avenue",
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2023-12-16",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "internet_access": "no",
+          "name": "Bharat Petroleum",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4176886089,
+        "lat": 22.5384051,
+        "lon": 88.3513137,
+        "tags": {
+          "addr:housenumber": "10/3",
+          "addr:postcode": "700020",
+          "addr:street": "Elgin Lane",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "check_date": "2023-10-28",
+          "name": "INOX Cinema",
+          "short_name": "INOX",
+          "website": "https://m.inoxmovies.com/",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4180455089,
+        "lat": 22.5451589,
+        "lon": 88.3703737,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "public_transport": "station",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5241916893,
+        "lat": 22.516496,
+        "lon": 88.3488079,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cinepolis",
+          "brand:wikidata": "Q5686673",
+          "brand:wikipedia": "en:Cin\u00e9polis",
+          "name": "Cinepolis"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5271335721,
+        "lat": 22.5387245,
+        "lon": 88.3655643,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "Inox quest cinema",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421539684,
+        "lat": 22.5168752,
+        "lon": 88.3458448,
+        "tags": {
+          "name": "Kalighat",
+          "name:bn": "\u0995\u09be\u09b2\u09c0\u0998\u09be\u099f",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q15041932",
+          "wikipedia": "en:Kalighat metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421540159,
+        "lat": 22.5241535,
+        "lon": 88.3464729,
+        "tags": {
+          "name": "Jatin Das Park",
+          "name:bn": "\u09af\u09a4\u09c0\u09a8 \u09a6\u09be\u09b8 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q6164578",
+          "wikipedia": "en:Jatin Das Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421541284,
+        "lat": 22.5331821,
+        "lon": 88.3459269,
+        "tags": {
+          "name": "Netaji Bhavan",
+          "name:bn": "\u09a8\u09c7\u09a4\u09be\u099c\u09bf \u09ad\u09ac\u09a8",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q6998599",
+          "wikipedia": "en:Netaji Bhavan metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135361872,
+        "lat": 22.54208,
+        "lon": 88.3515791,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135362906,
+        "lat": 22.5348072,
+        "lon": 88.3620549,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135363494,
+        "lat": 22.5407554,
+        "lon": 88.3578473,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135364027,
+        "lat": 22.5438555,
+        "lon": 88.3608132,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6520727185,
+        "lat": 22.5412219,
+        "lon": 88.3492589,
+        "tags": {
+          "amenity": "fuel",
+          "name": "India Tradeing Petrol Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6955697644,
+        "lat": 22.5077549,
+        "lon": 88.3477217,
+        "tags": {
+          "name": "Tollygunge",
+          "name:bn": "\u099f\u09be\u09b2\u09bf\u0997\u099e\u09cd\u099c",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TLG",
+          "website": "https://er.indianrailways.gov.in/",
+          "wikidata": "Q56278562",
+          "wikipedia": "en:Tollygunge railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6955697648,
+        "lat": 22.5080547,
+        "lon": 88.3533289,
+        "tags": {
+          "name": "Lake Gardens",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "LKF",
+          "wikidata": "Q56278563"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6956599532,
+        "lat": 22.5022005,
+        "lon": 88.3617984,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "South City Mall",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7028874585,
+        "lat": 22.5015668,
+        "lon": 88.362052,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "INOX South City",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7661285882,
+        "lat": 22.5425257,
+        "lon": 88.3659741,
+        "tags": {
+          "name": "Park Circus",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9717918117,
+        "lat": 22.5408647,
+        "lon": 88.3680476,
+        "tags": {
+          "amenity": "charging_station",
+          "name": "Electric vehicle charging station",
+          "name:en": "Electric vehicle charging station type2-7kw",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10093215417,
+        "lat": 22.5223282,
+        "lon": 88.3487972,
+        "tags": {
+          "addr:housenumber": "10/1/1",
+          "addr:postcode": "700026",
+          "addr:street": "Manohar Pukur Road",
+          "amenity": "theatre",
+          "name": "Mahanayak Uttam Manch",
+          "phone": "033 2474 0125"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10115962717,
+        "lat": 22.5093598,
+        "lon": 88.3674117,
+        "tags": {
+          "addr:street": "Dhakuria Bridge",
+          "amenity": "charging_station",
+          "name": "Electric vehicle charging station 20kw &7kw",
+          "name:en": "Electric vehicle charging station 20kw&7kw",
+          "opening_hours": "24/7",
+          "operator": "CESC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500770,
+        "lat": 22.5330323,
+        "lon": 88.3459483,
+        "tags": {
+          "name": "Netaji Bhavan",
+          "name:bn": "\u09a8\u09c7\u09a4\u09be\u099c\u09bf \u09ad\u09ac\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500771,
+        "lat": 22.5334398,
+        "lon": 88.3459203,
+        "tags": {
+          "name": "Netaji Bhavan",
+          "name:bn": "\u09a8\u09c7\u09a4\u09be\u099c\u09bf \u09ad\u09ac\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500772,
+        "lat": 22.523971,
+        "lon": 88.3465099,
+        "tags": {
+          "name": "Jatin Das Park",
+          "name:bn": "\u09af\u09a4\u09c0\u09a8 \u09a6\u09be\u09b8 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500773,
+        "lat": 22.5242532,
+        "lon": 88.3464254,
+        "tags": {
+          "name": "Jatin Das Park",
+          "name:bn": "\u09af\u09a4\u09c0\u09a8 \u09a6\u09be\u09b8 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500774,
+        "lat": 22.5167254,
+        "lon": 88.3458097,
+        "tags": {
+          "name": "Kalighat",
+          "name:bn": "\u0995\u09be\u09b2\u09c0\u0998\u09be\u099f",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500775,
+        "lat": 22.5171299,
+        "lon": 88.3457808,
+        "tags": {
+          "name": "Kalighat",
+          "name:bn": "\u0995\u09be\u09b2\u09c0\u0998\u09be\u099f",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12133241425,
+        "lat": 22.5236192,
+        "lon": 88.3427695,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12920324624,
+        "lat": 22.5018356,
+        "lon": 88.3622265,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "amenity": "cinema",
+          "name": "IMAX South City"
+        }
+      }
+    ]
+  }
+}

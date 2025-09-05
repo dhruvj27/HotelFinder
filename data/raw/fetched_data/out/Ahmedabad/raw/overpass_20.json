@@ -1,0 +1,682 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:59:05Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3500454470,
+        "lat": 23.0843928,
+        "lon": 72.5914619,
+        "tags": {
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3500454471,
+        "lat": 23.0836049,
+        "lon": 72.5901213,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:postcode": "380005",
+          "amenity": "hospital",
+          "name": "Geeta Maternity Hospital",
+          "operator": "Geeta Agarwal, Ashok Agarwal"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3500459652,
+        "lat": 23.0829627,
+        "lon": 72.5906964,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:district": "Ahmedabad",
+          "addr:full": "Ramnagar, Sabarmati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "emergency": "yes",
+          "name": "Sabarmati Development Society Sanchalit Sheth Shri Pukhraj Raichand General Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3500459657,
+        "lat": 23.0835179,
+        "lon": 72.5909029,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "HDFC",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank",
+          "short_name": "HDFC",
+          "website": "https://www.hdfcbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3500459658,
+        "lat": 23.0839448,
+        "lon": 72.5892158,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "regional",
+          "delivery": "no",
+          "name": "MAHARAJ Food Corner",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3500459659,
+        "lat": 23.0834501,
+        "lon": 72.5888148,
+        "tags": {
+          "amenity": "bank",
+          "name": "Gol Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3500459666,
+        "lat": 23.0825491,
+        "lon": 72.5900739,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand:wikidata": "Q2003797",
+          "brand:wikipedia": "en:Bank of Baroda",
+          "name": "Bank of Baroda",
+          "name:en": "Bank of Baroda",
+          "short_name": "BoB",
+          "website": "http://www.bankofbaroda.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968717638,
+        "lat": 23.0834466,
+        "lon": 72.5895064,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Ist Flr,Arihant Complex, Nr, Ramji Mandir Ramnagar, Sabarmati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Vasudha Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970569366,
+        "lat": 23.0843348,
+        "lon": 72.5919754,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Near Sabarmati Police Station Highway, Ramnagar, Sabarmati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Sabarmati",
+          "amenity": "hospital",
+          "email": "panchshilhospital@yahoo.com;alpanamaha@gmail.com",
+          "name": "Panchshil Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "http://www.panchshilhospital.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970732333,
+        "lat": 23.0826952,
+        "lon": 72.5887057,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Neminath Apts., 1T Floor,Behind Jain Derasar, Ramnagar, Sabarmati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Khara Fracture and Orthopaedic Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6974503519,
+        "lat": 23.0834799,
+        "lon": 72.5912216,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Mansarovar Complex,Ramnagar Chowk, Sabarmati",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Sivmm Kidney Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6974530664,
+        "lat": 23.0870576,
+        "lon": 72.5920974,
+        "tags": {
+          "addr:district": "Surat",
+          "addr:full": "Prasham'' Building ,City Lignt Road",
+          "addr:postcode": "395007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Sharda Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6974791050,
+        "lat": 23.0872193,
+        "lon": 72.5922891,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "# 2425-26 Baronet Complex,Ramnagar, Sabarmati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Dhruvi ENT Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975631040,
+        "lat": 23.0838969,
+        "lon": 72.5912485,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Neelkamal Shopping Centre Near Kamal Talkies, Sabarmati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Neelkamal Hospital Pvt Ltd (Pooja Hospital)",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976113864,
+        "lat": 23.0838463,
+        "lon": 72.5911814,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Nilkamal Comlex, 1st. Floor Behind: Shribalaji Comlex, Ramnagar",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Divya Jyot Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6980252878,
+        "lat": 23.082678,
+        "lon": 72.5896941,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Opposite Bank Of India,Ramnagar,Sabarmati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Amruta Hospital and Heart Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981277613,
+        "lat": 23.0844866,
+        "lon": 72.5914161,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "S/2 - 3 - 7, 2nd Floor, Nanakram Super Market Ramnagar, Sabarmati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shree Aman Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981412703,
+        "lat": 23.0837834,
+        "lon": 72.5889122,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Ramji Mandir, Ramnagar, Amba Chowk",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Sabarmati",
+          "amenity": "hospital",
+          "name": "Parth Hospital, Ahmedabad",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981956892,
+        "lat": 23.0837698,
+        "lon": 72.5903244,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Near Kalimata Temple, Ramnagar Sabermati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Sabarmati",
+          "amenity": "hospital",
+          "name": "Sanjivan Heart and Medical Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6983617695,
+        "lat": 23.0835144,
+        "lon": 72.5911599,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor Mansarovar Plaza Ramnagar, Sabarmati",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Shreeji Clinic and Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6988048676,
+        "lat": 23.0839074,
+        "lon": 72.5911881,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Neelkamal Complex, Ramnagar",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Sabarmati",
+          "amenity": "hospital",
+          "email": "drjatingupta@yahoo.com",
+          "name": "Aashirwad Surgical Hospital and Nursing Home",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12827631579,
+        "lat": 23.078011,
+        "lon": 72.5901382,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Prakash Bhojnalaya"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:59:05Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 323189766,
+        "lat": 23.0770712,
+        "lon": 72.5890677,
+        "tags": {
+          "historic:ref": "SBI",
+          "internet_access": "no",
+          "name": "Sabarmati",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SBIB",
+          "train": "yes",
+          "wikidata": "Q7395913",
+          "wikipedia": "en:Sabarmati Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 611572690,
+        "lat": 23.0923921,
+        "lon": 72.5938017,
+        "tags": {
+          "amenity": "cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683642,
+        "lat": 23.0603256,
+        "lon": 72.5919869,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683644,
+        "lat": 23.0621551,
+        "lon": 72.5952829,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683645,
+        "lat": 23.0645512,
+        "lon": 72.5996029,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683646,
+        "lat": 23.0719488,
+        "lon": 72.6038956,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683647,
+        "lat": 23.0788487,
+        "lon": 72.6100908,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683648,
+        "lat": 23.0804623,
+        "lon": 72.6171044,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4486398588,
+        "lat": 23.0712603,
+        "lon": 72.5870272,
+        "tags": {
+          "internet_access": "no",
+          "name": "Sabarmati Junction",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SBT",
+          "train": "yes",
+          "wikidata": "Q7395913",
+          "wikipedia": "en:Sabarmati Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4794252824,
+        "lat": 23.068497,
+        "lon": 72.5760108,
+        "tags": {
+          "amenity": "theatre",
+          "name": "PVR Cinemas",
+          "name:en": "PVR Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622776434,
+        "lat": 23.0856228,
+        "lon": 72.5921818,
+        "tags": {
+          "name": "Sabarmati",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622776445,
+        "lat": 23.0967876,
+        "lon": 72.5966689,
+        "tags": {
+          "name": "Motera Stadium",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6422003787,
+        "lat": 23.0778134,
+        "lon": 72.5885153,
+        "tags": {
+          "name": "Sabarmati Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7707085294,
+        "lat": 23.0777093,
+        "lon": 72.5882396,
+        "tags": {
+          "name": "Sabarmati Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7707519215,
+        "lat": 23.0777671,
+        "lon": 72.5883938,
+        "tags": {
+          "name": "Sabarmati Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076836152,
+        "lat": 23.0967601,
+        "lon": 72.5967207,
+        "tags": {
+          "name": "Motera Stadium",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076836172,
+        "lat": 23.0856327,
+        "lon": 72.5922247,
+        "tags": {
+          "name": "Sabarmati",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076836189,
+        "lat": 23.0751227,
+        "lon": 72.5932705,
+        "tags": {
+          "name": "AEC",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076836190,
+        "lat": 23.0750932,
+        "lon": 72.5933161,
+        "tags": {
+          "name": "AEC",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11991899052,
+        "lat": 23.0710381,
+        "lon": 72.6208273,
+        "tags": {
+          "aeroway": "terminal",
+          "name": "Terminal 4 Building"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12196641362,
+        "lat": 23.0751088,
+        "lon": 72.593291,
+        "tags": {
+          "name": "AEC",
+          "name:gu": "\u0a8f \u0a87 \u0ab8\u0ac0",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q114427225"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12196641364,
+        "lat": 23.0856303,
+        "lon": 72.592206,
+        "tags": {
+          "name": "Sabarmati",
+          "name:gu": "\u0ab8\u0abe\u0aac\u0ab0\u0aae\u0aa4\u0ac0",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q114427233"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12196641366,
+        "lat": 23.0967726,
+        "lon": 72.596692,
+        "tags": {
+          "name": "Motera Stadium",
+          "name:gu": "\u0aae\u0acb\u0a9f\u0ac7\u0ab0\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0aa1\u0abf\u0aaf\u0aae",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q114427229"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12794883035,
+        "lat": 23.0775605,
+        "lon": 72.5878977,
+        "tags": {
+          "name": "Sabarmati Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12794883088,
+        "lat": 23.0776675,
+        "lon": 72.5881298,
+        "tags": {
+          "name": "Sabarmati Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12794883137,
+        "lat": 23.0776023,
+        "lon": 72.5880078,
+        "tags": {
+          "name": "Sabarmati Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      }
+    ]
+  }
+}

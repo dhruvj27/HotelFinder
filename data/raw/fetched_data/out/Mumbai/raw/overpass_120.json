@@ -1,0 +1,2423 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:51:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 346643796,
+        "lat": 19.0516428,
+        "lon": 72.8321317,
+        "tags": {
+          "amenity": "hospital",
+          "created_by": "Potlatch 0.10f",
+          "name": "National Centre for Training and Research into Cerebral Palsy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347114424,
+        "lat": 19.0550612,
+        "lon": 72.8307379,
+        "tags": {
+          "amenity": "fast_food",
+          "created_by": "Potlatch 0.10f",
+          "name": "TIBBS Frankies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2610566341,
+        "lat": 19.0551855,
+        "lon": 72.8298377,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Standard Chartered",
+          "brand:wikidata": "Q548278",
+          "name": "Standard Chartered",
+          "operator": "Standard Chartered",
+          "operator:wikidata": "Q548278"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2947820875,
+        "lat": 19.0616337,
+        "lon": 72.8451297,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3207595705,
+        "lat": 19.0602501,
+        "lon": 72.8434084,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3207595735,
+        "lat": 19.0603756,
+        "lon": 72.8431935,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3207595917,
+        "lat": 19.0601293,
+        "lon": 72.8434128,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "SuperDoc Medical Store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3207595959,
+        "lat": 19.0606378,
+        "lon": 72.8400716,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name": "Manohar Sweets"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3207619844,
+        "lat": 19.0608689,
+        "lon": 72.8433434,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name": "Raja ( Southindian FAST FOOD )",
+          "opening_hours": "Mo-Su,PH 07:00-11:00,05:00-19:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3207654838,
+        "lat": 19.0557033,
+        "lon": 72.8448243,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Amber"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3207680688,
+        "lat": 19.0614075,
+        "lon": 72.8438372,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Gajanand Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3207680705,
+        "lat": 19.0607205,
+        "lon": 72.8442959,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "cash_in": "yes",
+          "name": "Axis Bank",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3207680721,
+        "lat": 19.0606672,
+        "lon": 72.8442583,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "cash_in": "yes",
+          "name": "Bank of Baroda",
+          "operator": "Bank of Baroda",
+          "operator:wikidata": "Q2003797"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4303058599,
+        "lat": 19.0596353,
+        "lon": 72.8324442,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian;mughlai",
+          "name": "Tavaa Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4303141075,
+        "lat": 19.0605673,
+        "lon": 72.8345604,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "RK Patkar Marg (Waterfield Road)",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "brand:wikipedia": "en:ICICI Bank",
+          "drive_through": "no",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "short_name": "ICICI",
+          "website": "https://www.icicibank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4303151062,
+        "lat": 19.0606848,
+        "lon": 72.8342493,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "RK Patkar Marg (Waterfield Road)",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Allahabad Bank",
+          "brand:wikidata": "Q2018840",
+          "brand:wikipedia": "en:Allahabad Bank",
+          "drive_through": "no",
+          "name": "Allahabad Bank",
+          "name:en": "Allahabad Bank",
+          "website": "https://www.allahabadbank.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4303174219,
+        "lat": 19.0596845,
+        "lon": 72.8364242,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Turner Road (Gurunanak Marg)",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "brand:wikipedia": "en:Bank of Baroda",
+          "name": "Bank of Baroda",
+          "name:en": "Bank of Baroda",
+          "short_name": "BoB",
+          "website": "http://www.bankofbaroda.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4303174323,
+        "lat": 19.0591089,
+        "lon": 72.8359267,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Turner Road (Gurunanak Marg)",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "drive_through": "no",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4309613193,
+        "lat": 19.0567563,
+        "lon": 72.8394652,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Gurunanak Marg",
+          "name": "Sahakari Bhandar",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4312866252,
+        "lat": 19.0586883,
+        "lon": 72.8342693,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Standard Chartered",
+          "brand:wikidata": "Q548278",
+          "brand:wikipedia": "en:Standard Chartered",
+          "name": "Standard Chartered"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4312874896,
+        "lat": 19.0578593,
+        "lon": 72.8337999,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Metro Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4312900099,
+        "lat": 19.0551517,
+        "lon": 72.8307261,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Balaji Restaurant",
+          "old_name": "Hindu Hotel",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4312909188,
+        "lat": 19.0554863,
+        "lon": 72.8315254,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Bandra Medical Stores",
+          "name:en": "Bandra Medical Stores"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4340814165,
+        "lat": 19.0615863,
+        "lon": 72.8333786,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "29th Road",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "delivery": "yes",
+          "name": "Sigdi",
+          "opening_hours": "11:00-01:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4345456815,
+        "lat": 19.0553221,
+        "lon": 72.8364634,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Jarimari Road",
+          "amenity": "restaurant",
+          "amenity_1": "bar",
+          "cuisine": "indian",
+          "name": "Deepa Bar and Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4345562396,
+        "lat": 19.0551796,
+        "lon": 72.8359562,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Ramdas Naik Road",
+          "amenity": "cafe",
+          "name": "Goodluck Wines",
+          "shop": "alcohol"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4345568546,
+        "lat": 19.0547417,
+        "lon": 72.8361034,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Ramdas Naik Road",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Jayprakash Hebbar",
+          "phone": "+91 22 2642 2767"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4345578517,
+        "lat": 19.0554912,
+        "lon": 72.8355975,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Ramdas Naik Road",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Shifa Plus Medical and General Store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4350842789,
+        "lat": 19.0555538,
+        "lon": 72.831638,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Ramdas Naik Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "brand:wikipedia": "en:Union Bank of India",
+          "name": "Union Bank of India",
+          "name:en": "Union Bank of India",
+          "short_name": "UBI",
+          "website": "https://www.unionbankofindia.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4350861908,
+        "lat": 19.0555664,
+        "lon": 72.8319284,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Ramdas Naik Road",
+          "brand": "Nature's Basket",
+          "brand:wikidata": "Q28174237",
+          "brand:wikipedia": "en:Nature's Basket",
+          "name": "Nature's Basket",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4385124118,
+        "lat": 19.0594484,
+        "lon": 72.8352337,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Turner Road (Gurunanak Marg)",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "name": "Union Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4590507805,
+        "lat": 19.0595684,
+        "lon": 72.8327302,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Gurunanak Marg",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Yes Bank",
+          "brand:wikidata": "Q2040394",
+          "brand:wikipedia": "en:Yes Bank",
+          "name": "Yes Bank",
+          "name:en": "YES Bank",
+          "website": "https://www.yesbank.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4590509699,
+        "lat": 19.0597451,
+        "lon": 72.8340932,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "RK Patkar Marg (Waterfield Road)",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "delivery": "yes",
+          "name": "Stomach",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4659828293,
+        "lat": 19.0567665,
+        "lon": 72.8469954,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "seafood",
+          "name:en": "Highway Gomantak"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221726505,
+        "lat": 19.0558511,
+        "lon": 72.8331336,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Elco Restaurant",
+          "phone": "+91-22-6587-7171",
+          "website": "https://www.elcorestaurants.com/index.html"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5235470994,
+        "lat": 19.0527402,
+        "lon": 72.8312867,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Ice and Spice"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5270763675,
+        "lat": 19.0540379,
+        "lon": 72.8306343,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "St Peter Road",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Jimme's Kitchen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5778981253,
+        "lat": 19.0598965,
+        "lon": 72.8339617,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Madras Diaries"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043548005,
+        "lat": 19.0604187,
+        "lon": 72.8369254,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "# 222, S.V. Road, Bandra- West",
+          "addr:postcode": "400050",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shroff Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7047925750,
+        "lat": 19.0603357,
+        "lon": 72.843818,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "1/3,1/4B Sarvodaya Chs Ltd, Amrutnagar Bandra ( E) Next To Building 35 And Shivsena Shaka Kher Nagar",
+          "addr:postcode": "400051",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Shakuntal- Chitra Nursing Home",
+          "opening_hours": "Mo-Su 15:00-22:00",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049456375,
+        "lat": 19.0564987,
+        "lon": 72.8389303,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "27-A Nootan Nagar Bandra Station Road, Bandra(W)",
+          "addr:postcode": "400050",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "West Lake Speciality Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054682098,
+        "lat": 19.055927,
+        "lon": 72.8368556,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Opp,Lake.S.V Road,Bandra(West)",
+          "addr:postcode": "400050",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Mahatma Gandhi Seva Mandir",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054772433,
+        "lat": 19.0554415,
+        "lon": 72.8363085,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Hill - N - Dale Building, Hill Road, Near Bandra Police Station, Bandra (West)",
+          "addr:postcode": "400050",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Shetty's Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7055590161,
+        "lat": 19.0554466,
+        "lon": 72.8357264,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "1st Floor , Diamond Palace , 15 - A , Hill Road , Opposite Bandra , Police Station , Bandra (West )",
+          "addr:postcode": "400050",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Parekh Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7066374822,
+        "lat": 19.0590313,
+        "lon": 72.8475751,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Bldg.No.56, Gandhi Nagar, Bandra East",
+          "addr:postcode": "400051",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Tejas Eye Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7069814015,
+        "lat": 19.0605379,
+        "lon": 72.8456949,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Bldg.No.3,Kher Nagar Kala Co-Op Hsg Soc., Ram Mandir Road, Bandra (E)",
+          "addr:postcode": "400051",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Nandini Eye Care Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073438346,
+        "lat": 19.0558368,
+        "lon": 72.8323658,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "52 Natasha 3Road Floor Hill Road Bandra West",
+          "addr:postcode": "400050",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Empire Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073765630,
+        "lat": 19.062585,
+        "lon": 72.8359108,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Renuka, Gr Flr 269-D, Nr National College , Linking Road Bandra W)",
+          "addr:postcode": "400050",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr A K Chandiramani Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7079411299,
+        "lat": 19.0590188,
+        "lon": 72.845645,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "10/480, M.H.B.Colony, Kherwadi,Opp Muncipal School, Bandra E)",
+          "addr:postcode": "400051",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Laxmi Surgical Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7082352463,
+        "lat": 19.0606488,
+        "lon": 72.8361797,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Plot No.215, 31st Road, Bandra Sadan Annexe, Bandra",
+          "addr:postcode": "400050",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "check_date": "2025-05-21",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "CGHS Dispensary No.10, Bandra",
+          "operator:type": "government",
+          "source": "OpenGovernmentData",
+          "website": "http://nb.bsf.gov.in/CGHS%20DIspenseries.pdf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7229757870,
+        "lat": 19.0581597,
+        "lon": 72.8475504,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of Maharashtra",
+          "brand:wikidata": "Q2004304",
+          "brand:wikipedia": "en:Bank of Maharashtra",
+          "name": "Bank of Maharashtra"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7320270187,
+        "lat": 19.0598107,
+        "lon": 72.8323078,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "brand:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "brand:wikidata": "Q37158",
+          "brand:wikipedia": "en:Starbucks",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "official_name": "Starbucks Coffee",
+          "official_name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38 \u0a15\u0a4c\u0a2b\u0a40",
+          "official_name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633 \u06a9\u0627\u0641\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032222,
+        "lat": 19.047153,
+        "lon": 72.84134,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "Building No.1, Ground Floor, New Mahim Police Colony, Mahim, Mumbai",
+          "addr:postcode": "400016",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Mahim Police Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8261653338,
+        "lat": 19.0516341,
+        "lon": 72.8372097,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "103",
+          "addr:postcode": "400086",
+          "addr:street": "Prabhu Krupa, Lal Bahadur Shastri Road Behind Vodafone Gallery, Near Sarvoday Hospital, Ghatkopar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "Orthopedic_Surgery",
+          "name": "Shanti Nursing Home",
+          "website": "https://www.hipnkneeclinic.com/dr-chintan-patel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10608361190,
+        "lat": 19.0567539,
+        "lon": 72.8338519,
+        "tags": {
+          "amenity": "bank",
+          "name": "The Municipal Co-Op Bank",
+          "operator": "The Municipal Co-Op Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10608361193,
+        "lat": 19.0578438,
+        "lon": 72.8336886,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "8",
+          "addr:postcode": "400050",
+          "addr:street": "RK Patkar Marg",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "blood_check;sonography",
+          "name": "Shivam Diagnostic Center",
+          "phone": "+91 97025 75501;022 6267 9298"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10608361194,
+        "lat": 19.0578462,
+        "lon": 72.8335819,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Prime Pharma Distributor"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10608367508,
+        "lat": 19.060601,
+        "lon": 72.8342194,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "name": "Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10608367509,
+        "lat": 19.0615411,
+        "lon": 72.8345509,
+        "tags": {
+          "amenity": "bank",
+          "brand": "IDBI Bank",
+          "brand:wikidata": "Q3633485",
+          "name": "IDBI Bank",
+          "short_name": "IDBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10608367510,
+        "lat": 19.0616033,
+        "lon": 72.8345547,
+        "tags": {
+          "amenity": "atm",
+          "brand": "IDBI Bank",
+          "brand:wikidata": "Q3633485",
+          "operator": "IDBI Bank",
+          "operator:wikidata": "Q3633485",
+          "short_name": "IDBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10678500279,
+        "lat": 19.0562679,
+        "lon": 72.83473,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Hill Road",
+          "amenity": "restaurant",
+          "name": "Yoko Sizzlers",
+          "phone": "+91 22 2640 1746"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10781543267,
+        "lat": 19.0538947,
+        "lon": 72.8377074,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Lucky",
+          "name:en": "Lucky"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11069702458,
+        "lat": 19.057386,
+        "lon": 72.8475215,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Amey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11069702459,
+        "lat": 19.0573721,
+        "lon": 72.8479721,
+        "tags": {
+          "access": "private",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "cuisine": "indian;chinese",
+          "level": "1",
+          "name": "Belvedere",
+          "name:en": "Belvedere",
+          "private": "members"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11069702460,
+        "lat": 19.057476,
+        "lon": 72.8481424,
+        "tags": {
+          "access": "private",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "cuisine": "sandwich;pizza;coffee_shop;burger",
+          "level": "1",
+          "name": "Cafe Terrace at Night",
+          "name:en": "Cafe Terrace at Night",
+          "outdoor_seating": "no",
+          "private": "members"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11276749958,
+        "lat": 19.0531651,
+        "lon": 72.8300804,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Subko Speciality Coffee Roasters and Bakehouse",
+          "name:en": "Subko Speciality Coffee Roasters and Bakehouse",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11296371126,
+        "lat": 19.0606199,
+        "lon": 72.8345481,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Hakkasan",
+          "name:en": "Hakkasan",
+          "website": "https://taogroup.com/venues/hakkasan-mumbai/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11296371127,
+        "lat": 19.0598873,
+        "lon": 72.834083,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "lebanese",
+          "name": "Arbab",
+          "name:en": "Arbab",
+          "name:hi": "\u0905\u0930\u094d\u092c\u093e\u092c",
+          "name:mr": "\u0905\u0930\u094d\u092c\u093e\u092c",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11364270986,
+        "lat": 19.0587399,
+        "lon": 72.8365291,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "Apollo Pharmacy",
+          "brand:wikidata": "Q62562612",
+          "healthcare": "pharmacy",
+          "name": "Apollo Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11364271006,
+        "lat": 19.054425,
+        "lon": 72.8375299,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Sai Sagar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11364283705,
+        "lat": 19.0540834,
+        "lon": 72.8306392,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Meraki",
+          "name:en": "Meraki",
+          "website": "https://www.merakichinese.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11384605318,
+        "lat": 19.0601618,
+        "lon": 72.8437179,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "DP's Spice",
+          "name:en": "DP's Spice"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11384605319,
+        "lat": 19.0606386,
+        "lon": 72.8442446,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "cash_in": "yes",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11452002895,
+        "lat": 19.055638,
+        "lon": 72.8320918,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "name": "Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11483837670,
+        "lat": 19.0543837,
+        "lon": 72.8392766,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:wikidata": "Q177054",
+          "cuisine": "burger",
+          "name": "Burger King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11607186143,
+        "lat": 19.0624194,
+        "lon": 72.8370675,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "name": "Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11893334891,
+        "lat": 19.0603706,
+        "lon": 72.8339362,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Belfer Bandra X-ray Clinic",
+          "name:en": "Belfer Bandra X-ray Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11895592386,
+        "lat": 19.0556531,
+        "lon": 72.8322112,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12026379669,
+        "lat": 19.0621838,
+        "lon": 72.8424938,
+        "tags": {
+          "addr:postcode": "400051",
+          "addr:street": "Daima Marg",
+          "amenity": "pharmacy",
+          "name": "Apple Medical",
+          "opening_hours": "Mo-Sa,PH 08:00-12:00; Su 08:00-13:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12107741701,
+        "lat": 19.0608349,
+        "lon": 72.8432924,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Sanjay Vada Pav",
+          "opening_hours": "Mo-Su,PH 08:00-22:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12126380637,
+        "lat": 19.0531004,
+        "lon": 72.8319027,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Maaji's Foods",
+          "name:en": "Maaji's Foods",
+          "name:hi": "\u092e\u093e\u091c\u093f\u0938 \u092b\u0941\u0921\u094d\u0938",
+          "name:mr": "\u092e\u093e\u091c\u093f\u0938 \u092b\u0941\u0921\u094d\u0938"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12126380642,
+        "lat": 19.0526153,
+        "lon": 72.8326056,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Dostana Fast Food",
+          "name:en": "Dostana Fast Food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12307927831,
+        "lat": 19.0558568,
+        "lon": 72.8330828,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Jumbo King",
+          "brand:wikidata": "Q6310895",
+          "cuisine": "burger",
+          "name": "Jumbo King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12311432807,
+        "lat": 19.0547009,
+        "lon": 72.8402018,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Hitachi",
+          "brand:wikidata": "Q53238",
+          "name": "Hitachi Money Spot ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12334053399,
+        "lat": 19.0612359,
+        "lon": 72.8345428,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:wikidata": "Q244457",
+          "cuisine": "sandwich",
+          "drive_through": "no",
+          "name": "Subway",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12346531464,
+        "lat": 19.0540542,
+        "lon": 72.8324965,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "mobile": "+91 97201 14377",
+          "name": "Jain Clinic",
+          "name:en": "Jain Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12346531474,
+        "lat": 19.0562692,
+        "lon": 72.834355,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "Wellness Forever",
+          "brand:wikidata": "Q123114721",
+          "healthcare": "pharmacy",
+          "name": "Wellness Forever"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12346531476,
+        "lat": 19.056272,
+        "lon": 72.8342539,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "bubble_tea",
+          "name": "Easy Boba",
+          "name:en": "Easy Boba"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12346531477,
+        "lat": 19.0562536,
+        "lon": 72.8345689,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12346531489,
+        "lat": 19.0555186,
+        "lon": 72.8371884,
+        "tags": {
+          "amenity": "atm",
+          "name": "Saraswat Bank",
+          "operator": "Saraswat Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12346531490,
+        "lat": 19.0555895,
+        "lon": 72.8371547,
+        "tags": {
+          "amenity": "bank",
+          "name": "Saraswat Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12353886144,
+        "lat": 19.054766,
+        "lon": 72.836488,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Leelavati Medical",
+          "name:en": "Leelavati Medical",
+          "name:mr": "\u0932\u0940\u0932\u093e\u0935\u0924\u0940 \u092e\u0947\u0921\u0940\u0915\u0932"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12353886188,
+        "lat": 19.0595031,
+        "lon": 72.8354982,
+        "tags": {
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "healthcare:speciality": "gynaecology",
+          "name": "Mandar Nursing Home",
+          "name:en": "Mandar Nursing Home"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12353989426,
+        "lat": 19.0590914,
+        "lon": 72.8339725,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Earth Cafe",
+          "name:en": "Earth Cafe",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12706010775,
+        "lat": 19.0592014,
+        "lon": 72.832149,
+        "tags": {
+          "amenity": "bank",
+          "brand": "AU Small Finance Bank",
+          "brand:wikidata": "Q48729722",
+          "name": "AU Small Finance Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12706010776,
+        "lat": 19.0592388,
+        "lon": 72.8321555,
+        "tags": {
+          "amenity": "atm",
+          "brand": "AU Small Finance Bank",
+          "brand:wikidata": "Q48729722",
+          "name": "AU Small Finance Bank",
+          "operator": "AU Small Finance Bank",
+          "operator:wikidata": "Q48729722"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12706010778,
+        "lat": 19.0587668,
+        "lon": 72.8329242,
+        "tags": {
+          "amenity": "bank",
+          "name": "SVC Cooperative Bank",
+          "name:en": "SVC Cooperative Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12786049459,
+        "lat": 19.0620609,
+        "lon": 72.8342751,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "RK Patkar Marg",
+          "amenity": "restaurant",
+          "cuisine": "seafood",
+          "name": "GOH JIA TING",
+          "name:en": "GOH JIA TING",
+          "phone": "+91 91676 66730",
+          "website": "https://chinagategroup.com/bora-bora/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12786049460,
+        "lat": 19.0620379,
+        "lon": 72.8343382,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "level": "2",
+          "name": "China Gate",
+          "name:en": "China Gate"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12809197800,
+        "lat": 19.0558381,
+        "lon": 72.8319577,
+        "tags": {
+          "amenity": "bank",
+          "drive_through": "no",
+          "name": "Citizen Credit Co-operative Bank",
+          "name:en": "Citizen Credit Co-operative Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12853058852,
+        "lat": 19.0601764,
+        "lon": 72.8367356,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2025-05-21",
+          "cuisine": "indian",
+          "name": "Persian Darbar",
+          "name:en": "Persian Darbar",
+          "name:mr": "\u092a\u0930\u094d\u0936\u093f\u092f\u0928 \u0926\u0930\u092c\u093e\u0930"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12855850013,
+        "lat": 19.0622346,
+        "lon": 72.8349569,
+        "tags": {
+          "amenity": "bank",
+          "brand": "IDFC First Bank",
+          "brand:wikidata": "Q22031467",
+          "name": "IDFC First Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12896373078,
+        "lat": 19.0563728,
+        "lon": 72.8341015,
+        "tags": {
+          "amenity": "bank",
+          "name": "Cosmos Bank",
+          "name:en": "Cosmos Bank",
+          "opening_hours": "Mo-Sa 10:00-13:00,14:00-16:30; Sa[2,4] off"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12896373079,
+        "lat": 19.0564162,
+        "lon": 72.8340847,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Cosmos Bank",
+          "name": "Cosmos Bank",
+          "name:en": "Cosmos Bank",
+          "operator": "Cosmos Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12921345552,
+        "lat": 19.0600078,
+        "lon": 72.8425391,
+        "tags": {
+          "name": "Mahaveer Supermarket",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12921849720,
+        "lat": 19.0587115,
+        "lon": 72.8446508,
+        "tags": {
+          "amenity": "bank",
+          "name": "Abhyudaya Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12921861852,
+        "lat": 19.0587012,
+        "lon": 72.8440925,
+        "tags": {
+          "amenity": "bank",
+          "name": "Central Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12921862895,
+        "lat": 19.0617292,
+        "lon": 72.8440527,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926034660,
+        "lat": 19.0620964,
+        "lon": 72.8347235,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "name": "1441 Restaurant",
+          "name:en": "1441 Restaurant",
+          "name:mr": "\u0967\u096a\u096a\u0967 \u092a\u093f\u091d\u094d\u091d\u0947\u0930\u093f\u092f\u093e"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926034662,
+        "lat": 19.0620778,
+        "lon": 72.835048,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Forever Yooung",
+          "name:en": "Forever Yooung",
+          "name:mr": "\u092b\u0949\u0930\u0947\u0935\u094d\u0939\u0930 \u092f\u0902\u0917"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926034673,
+        "lat": 19.0616291,
+        "lon": 72.8352673,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank",
+          "name:en": "Punjab National Bank",
+          "operator": "Punjab National Bank",
+          "operator:wikidata": "Q2743499"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926034674,
+        "lat": 19.0615623,
+        "lon": 72.8352661,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926034675,
+        "lat": 19.0612447,
+        "lon": 72.8352831,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926034676,
+        "lat": 19.0611581,
+        "lon": 72.8352742,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926034699,
+        "lat": 19.0603737,
+        "lon": 72.8351857,
+        "tags": {
+          "amenity": "bank",
+          "brand": "South Indian Bank",
+          "brand:wikidata": "Q2044973",
+          "name": "South Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926034700,
+        "lat": 19.0603135,
+        "lon": 72.8351774,
+        "tags": {
+          "amenity": "atm",
+          "brand": "South Indian Bank",
+          "brand:wikidata": "Q2044973",
+          "drive_through": "no",
+          "name": "South Indian Bank",
+          "operator": "South Indian Bank",
+          "operator:wikidata": "Q2044973"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926036225,
+        "lat": 19.0598897,
+        "lon": 72.8364907,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "dermatology",
+          "name": "Shifffa Welness",
+          "name:en": "Shifffa Welness",
+          "website": "https://www.shiffawellness.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926036241,
+        "lat": 19.0609221,
+        "lon": 72.8364284,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Copper Chimney",
+          "name:en": "Copper Chimney",
+          "name:mr": "\u0915\u0949\u092a\u0930 \u091a\u093f\u092e\u0928\u0940"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926036242,
+        "lat": 19.0608444,
+        "lon": 72.8364258,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Guru Kripa Pani Puri",
+          "name:en": "Guru Kripa Pani Puri",
+          "name:hi": "\u0917\u0941\u0930\u0941 \u0915\u0943\u092a\u093e \u092a\u093e\u0928\u0940 \u092a\u0941\u0930\u0940",
+          "name:mr": "\u0917\u0941\u0930\u0941 \u0915\u0943\u092a\u093e \u092a\u093e\u0928\u0940 \u092a\u0941\u0930\u0940"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12961126624,
+        "lat": 19.0622446,
+        "lon": 72.8364037,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "bank": "yes",
+          "brand": "Indian Overseas Bank",
+          "brand:wikidata": "Q2003611",
+          "name": "Indian Overseas Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13058306152,
+        "lat": 19.0615878,
+        "lon": 72.8335006,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Bru Baabaa",
+          "name:en": "Bru Baabaa",
+          "name:hi": "\u092c\u094d\u0930\u0942 \u092c\u093e\u092c\u093e",
+          "name:mr": "\u092c\u094d\u0930\u0942 \u092c\u093e\u092c\u093e"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13058306157,
+        "lat": 19.0592168,
+        "lon": 72.8344773,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bandhan Bank",
+          "brand:wikidata": "Q19882235",
+          "name": "Bandhan Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13058306197,
+        "lat": 19.0562652,
+        "lon": 72.8350841,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Gokul Refreshments",
+          "name:en": "Gokul Refreshments",
+          "name:mr": "\u0917\u094b\u0915\u0941\u0933 \u0930\u093f\u092b\u094d\u0930\u0947\u0936\u092e\u0947\u0928\u094d\u091f\u094d\u0938"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13063238727,
+        "lat": 19.0593313,
+        "lon": 72.8375935,
+        "tags": {
+          "amenity": "fast_food",
+          "contact:instagram": "joshh_india",
+          "name": "Joshh - Indian Street Eats",
+          "name:en": "Joshh - Indian Street Eats",
+          "name:hi": "\u091c\u094b\u0936 - \u0907\u0902\u0921\u093f\u092f\u0928 \u0938\u094d\u091f\u094d\u0930\u0940\u091f \u0908\u091f\u094d\u0938",
+          "name:mr": "\u091c\u094b\u0936 - \u0907\u0902\u0921\u093f\u092f\u0928 \u0938\u094d\u091f\u094d\u0930\u0940\u091f \u0908\u091f\u094d\u0938",
+          "website": "https://www.joshhindia.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13067345319,
+        "lat": 19.0537739,
+        "lon": 72.8305165,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "juice",
+          "name": "Perfect Juice Centre & Snacks",
+          "name:en": "Perfect Juice Centre & Snacks"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13069759999,
+        "lat": 19.0538175,
+        "lon": 72.8308279,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Bandra Eats",
+          "name:en": "Bandra Eats"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13082053987,
+        "lat": 19.0543377,
+        "lon": 72.8388343,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "New Riyaz Restaurant",
+          "name:en": "New Riyaz Restaurant",
+          "name:mr": "\u0928\u094d\u092f\u0941 \u0930\u093f\u092f\u093e\u091d \u0930\u0947\u0938\u094d\u091f\u094b\u0930\u0947\u0902\u091f"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:51:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 347138797,
+        "lat": 19.0682411,
+        "lon": 72.8400412,
+        "tags": {
+          "internet_access": "no",
+          "name": "Khar Road",
+          "name:en": "Khar Road",
+          "name:hi": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "name:mr": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KHAR",
+          "start_date": "1924-07-01",
+          "train": "yes",
+          "wikidata": "Q372596",
+          "wikipedia": "en:Khar Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619252273,
+        "lat": 19.0407051,
+        "lon": 72.846697,
+        "tags": {
+          "name": "Mahim Junction",
+          "name:en": "Mahim Junction",
+          "name:mr": "\u092e\u093e\u0939\u093f\u092e \u0930\u0947\u0932\u094d\u0935\u0947 \u0938\u094d\u0925\u093e\u0928\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619252274,
+        "lat": 19.0409046,
+        "lon": 72.847205,
+        "tags": {
+          "name": "Mahim Junction",
+          "name:en": "Mahim Junction",
+          "name:mr": "\u092e\u093e\u0939\u093f\u092e \u0930\u0947\u0932\u094d\u0935\u0947 \u0938\u094d\u0925\u093e\u0928\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1233481359,
+        "lat": 19.0547734,
+        "lon": 72.8407919,
+        "tags": {
+          "name": "Bandra",
+          "name:en": "Bandra",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1233481362,
+        "lat": 19.054835,
+        "lon": 72.8409588,
+        "tags": {
+          "name": "Bandra",
+          "name:en": "Bandra",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1233481375,
+        "lat": 19.0547878,
+        "lon": 72.8408402,
+        "tags": {
+          "name": "Bandra",
+          "name:en": "Bandra",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1233481385,
+        "lat": 19.0546445,
+        "lon": 72.8404627,
+        "tags": {
+          "name": "Bandra",
+          "name:en": "Bandra",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1233481390,
+        "lat": 19.0546544,
+        "lon": 72.8404879,
+        "tags": {
+          "name": "Bandra",
+          "name:en": "Bandra",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1365560229,
+        "lat": 19.0407191,
+        "lon": 72.8467367,
+        "tags": {
+          "name": "Mahim Junction",
+          "name:en": "Mahim Junction",
+          "name:mr": "\u092e\u093e\u0939\u093f\u092e \u0930\u0947\u0932\u094d\u0935\u0947 \u0938\u094d\u0925\u093e\u0928\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1365560230,
+        "lat": 19.0407577,
+        "lon": 72.8468504,
+        "tags": {
+          "name": "Mahim Junction",
+          "name:en": "Mahim Junction",
+          "name:mr": "\u092e\u093e\u0939\u093f\u092e \u0930\u0947\u0932\u094d\u0935\u0947 \u0938\u094d\u0925\u093e\u0928\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1365560231,
+        "lat": 19.040768,
+        "lon": 72.8468852,
+        "tags": {
+          "name": "Mahim Junction",
+          "name:en": "Mahim Junction",
+          "name:mr": "\u092e\u093e\u0939\u093f\u092e \u0930\u0947\u0932\u094d\u0935\u0947 \u0938\u094d\u0925\u093e\u0928\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1365560232,
+        "lat": 19.0408624,
+        "lon": 72.8470904,
+        "tags": {
+          "name": "Mahim Junction",
+          "name:en": "Mahim Junction",
+          "name:mr": "\u092e\u093e\u0939\u093f\u092e \u0930\u0947\u0932\u094d\u0935\u0947 \u0938\u094d\u0925\u093e\u0928\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1392005679,
+        "lat": 19.0629493,
+        "lon": 72.8415372,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Bandra Terminus",
+          "public_transport": "station",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075000,
+        "lat": 19.0549792,
+        "lon": 72.8402203,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "internet_access": "wlan",
+          "name": "Bandra",
+          "name:hi": "\u092c\u093e\u0902\u0926\u094d\u0930\u093e",
+          "name:ml": "\u0d2c\u0d3e\u0d28\u0d4d\u0d26\u0d4d\u0d30",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BA",
+          "ref:suburban": "B",
+          "start_date": "1869",
+          "train": "yes",
+          "wheelchair": "no",
+          "wikidata": "Q4854695",
+          "wikipedia": "en:Bandra railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075005,
+        "lat": 19.0406634,
+        "lon": 72.8466038,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "internet_access": "no",
+          "name": "Mahim Junction",
+          "name:hi": "\u092e\u093e\u0939\u093f\u092e \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:ml": "\u0d2e\u0d3e\u0d39\u0d3f\u0d02 \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:mr": "\u092e\u093e\u0939\u093f\u092e \u091c\u0902\u0915\u094d\u0936\u0928",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MM",
+          "train": "yes",
+          "wikidata": "Q6734003",
+          "wikipedia": "en:Mahim Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4273389598,
+        "lat": 19.0553844,
+        "lon": 72.8386116,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Nandi Cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4309819457,
+        "lat": 19.0567446,
+        "lon": 72.828704,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "St Dominic Street;7th Road",
+          "amenity": "theatre",
+          "name": "St. Andrew's Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4341104057,
+        "lat": 19.0323529,
+        "lon": 72.8387268,
+        "tags": {
+          "addr:street": "Swatantrya Veer Savarkar Marg",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "Hindustan Petroleum",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4345706690,
+        "lat": 19.0690106,
+        "lon": 72.8403841,
+        "tags": {
+          "name": "Khar Road",
+          "name:en": "Khar Road",
+          "name:hi": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "name:mr": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4345706693,
+        "lat": 19.0690942,
+        "lon": 72.8398818,
+        "tags": {
+          "name": "Khar Road",
+          "name:en": "Khar Road",
+          "name:hi": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "name:mr": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4569874291,
+        "lat": 19.0371711,
+        "lon": 72.8424983,
+        "tags": {
+          "amenity": "cinema",
+          "name:en": "Paradise E-Square"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221297179,
+        "lat": 19.0606629,
+        "lon": 72.8546797,
+        "tags": {
+          "name": "Bandra Kurla Complex (BKC)",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947 \u0915\u0941\u0930\u094d\u0932\u093e \u0915\u0949\u092e\u094d\u092a\u094d\u0932\u0947\u0915\u094d\u0938 (\u092c\u0940\u0915\u0947\u0938\u0940)",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-10-05",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q130461527"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221297188,
+        "lat": 19.0461519,
+        "lon": 72.8494228,
+        "tags": {
+          "name": "\u0927\u093e\u0930\u093e\u0935\u0940 Dharavi",
+          "name:mr": "\u0927\u093e\u0930\u093e\u0935\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221297196,
+        "lat": 19.0383201,
+        "lon": 72.8420421,
+        "tags": {
+          "name": "Shitala Devi Mandir",
+          "name:mr": "\u0936\u093f\u0924\u0932\u093e \u0926\u0947\u0935\u0940 \u092e\u0902\u0926\u093f\u0930",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777542265,
+        "lat": 19.0463642,
+        "lon": 72.8500638,
+        "tags": {
+          "name": "\u0927\u093e\u0930\u093e\u0935\u0940 Dharavi",
+          "name:mr": "\u0927\u093e\u0930\u093e\u0935\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5926157724,
+        "lat": 19.0562025,
+        "lon": 72.8338672,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR La Reve",
+          "name:en": "PVR La Reve",
+          "old_name": "Globus Cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7361030396,
+        "lat": 19.0386879,
+        "lon": 72.8418699,
+        "tags": {
+          "name": "Shitala Devi Mandir",
+          "name:mr": "\u0936\u093f\u0924\u0932\u093e \u0926\u0947\u0935\u0940 \u092e\u0902\u0926\u093f\u0930",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862068,
+        "lat": 19.054716,
+        "lon": 72.8406066,
+        "tags": {
+          "name": "Bandra",
+          "name:en": "Bandra",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862069,
+        "lat": 19.0547291,
+        "lon": 72.8406538,
+        "tags": {
+          "name": "Bandra",
+          "name:en": "Bandra",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862786,
+        "lat": 19.0690432,
+        "lon": 72.8402374,
+        "tags": {
+          "name": "Khar Road",
+          "name:en": "Khar Road",
+          "name:hi": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "name:mr": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862787,
+        "lat": 19.0690521,
+        "lon": 72.8401907,
+        "tags": {
+          "name": "Khar Road",
+          "name:en": "Khar Road",
+          "name:hi": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "name:mr": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862788,
+        "lat": 19.0690693,
+        "lon": 72.8400598,
+        "tags": {
+          "name": "Khar Road",
+          "name:en": "Khar Road",
+          "name:hi": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "name:mr": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862789,
+        "lat": 19.069074,
+        "lon": 72.8400142,
+        "tags": {
+          "name": "Khar Road",
+          "name:en": "Khar Road",
+          "name:hi": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "name:mr": "\u0916\u093e\u0930 \u0930\u094b\u0921",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7611714585,
+        "lat": 19.0615526,
+        "lon": 72.8386394,
+        "tags": {
+          "addr:postcode": "400050",
+          "addr:street": "Swami Vivekanand Road",
+          "amenity": "cinema",
+          "name": "G7 Gaiety Galaxy Multiplex",
+          "name:en": "G7 Gaiety Galaxy Multiplex"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234834,
+        "lat": 19.0536503,
+        "lon": 72.8511089,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "Maison PVR",
+          "name:en": "Maison PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11069678663,
+        "lat": 19.0740032,
+        "lon": 72.8469774,
+        "tags": {
+          "bus": "yes",
+          "name": "Maratha Colony",
+          "name:en": "Maratha Colony",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11069702437,
+        "lat": 19.0682353,
+        "lon": 72.8467465,
+        "tags": {
+          "bus": "yes",
+          "name": "Cardinal Gracias School",
+          "name:en": "Cardinal Gracias School",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903221,
+        "lat": 19.0610779,
+        "lon": 72.8543132,
+        "tags": {
+          "name": "Bandra Kurla Complex (BKC)",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947 \u0915\u0941\u0930\u094d\u0932\u093e \u0915\u0949\u092e\u094d\u092a\u094d\u0932\u0947\u0915\u094d\u0938 (\u092c\u0940\u0915\u0947\u0938\u0940)",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903222,
+        "lat": 19.0602338,
+        "lon": 72.8549629,
+        "tags": {
+          "name": "Bandra Kurla Complex (BKC)",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947 \u0915\u0941\u0930\u094d\u0932\u093e \u0915\u0949\u092e\u094d\u092a\u094d\u0932\u0947\u0915\u094d\u0938 (\u092c\u0940\u0915\u0947\u0938\u0940)",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903223,
+        "lat": 19.0703093,
+        "lon": 72.8490294,
+        "tags": {
+          "name": "Bandra Colony",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903224,
+        "lat": 19.0693126,
+        "lon": 72.8498401,
+        "tags": {
+          "name": "Bandra Colony",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074909129,
+        "lat": 19.0699627,
+        "lon": 72.8493601,
+        "tags": {
+          "name": "Bandra Colony",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-10-05",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12855459846,
+        "lat": 19.0384641,
+        "lon": 72.8419646,
+        "tags": {
+          "name": "Shitala Devi Mandir",
+          "name:mr": "\u0936\u093f\u0924\u0932\u093e \u0926\u0947\u0935\u0940 \u092e\u0902\u0926\u093f\u0930",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q134454499"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12855459847,
+        "lat": 19.0462612,
+        "lon": 72.849741,
+        "tags": {
+          "name": "Dharavi",
+          "name:mr": "\u0927\u093e\u0930\u093e\u0935\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q134454499"
+        }
+      }
+    ]
+  }
+}

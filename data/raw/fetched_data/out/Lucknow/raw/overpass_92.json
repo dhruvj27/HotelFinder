@@ -1,0 +1,62 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:20:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7035159291,
+        "lat": 26.9247615,
+        "lon": 80.9360325,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Sitapur Road, Shervani Nagar",
+          "addr:postcode": "226001",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Deepak Life Sciences Hospital and Trauma Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11433127803,
+        "lat": 26.9298914,
+        "lon": 80.9423458,
+        "tags": {
+          "leisure": "park",
+          "name": "Park no 4 cricket ground"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:20:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2219662699,
+        "lat": 26.9096328,
+        "lon": 80.9395109,
+        "tags": {
+          "name": "Mohibullapur",
+          "network": "IR",
+          "operator": "NER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MBP",
+          "wikidata": "Q63357514"
+        }
+      }
+    ]
+  }
+}

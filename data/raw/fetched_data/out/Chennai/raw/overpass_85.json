@@ -1,0 +1,362 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:16:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2082906588,
+        "lat": 12.945469,
+        "lon": 80.2394049,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "currency:INR": "yes",
+          "designation": "HDFC",
+          "drive_through": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2083087577,
+        "lat": 12.9443554,
+        "lon": 80.2383175,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:en": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "fee": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:en": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2085369248,
+        "lat": 12.9466667,
+        "lon": 80.2399511,
+        "tags": {
+          "addr:housename": "Indian Bank",
+          "amenity": "bank",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "brand:wikipedia": "en:Indian Bank",
+          "name": "Indian Bank",
+          "name:en": "Indian Bank",
+          "website": "https://www.indianbank.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2085369289,
+        "lat": 12.9463896,
+        "lon": 80.2398438,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:en": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "ICICI Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:en": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4413961908,
+        "lat": 12.9437934,
+        "lon": 80.2380696,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Barbeque Nation"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4413961928,
+        "lat": 12.9437777,
+        "lon": 80.2381152,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "747"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5672728830,
+        "lat": 12.9341202,
+        "lon": 80.2332305,
+        "tags": {
+          "addr:street": "OMR",
+          "amenity": "restaurant",
+          "name": "Amma Unavagam",
+          "opening_hours": "Mo-Fr, Su 18:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822259985,
+        "lat": 12.9428602,
+        "lon": 80.2370143,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Oggiyamduraipakkam",
+          "addr:postcode": "600097",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "name": "Sri Kumaran Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822259989,
+        "lat": 12.9347551,
+        "lon": 80.2327258,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Thoraipakkam",
+          "addr:postcode": "600097",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Jayadeva Fertility Centre and Women's Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822259990,
+        "lat": 12.9458692,
+        "lon": 80.2361968,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Oggiyamduraipakkam",
+          "addr:postcode": "600097",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "name": "GV's Good Health Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822259998,
+        "lat": 12.9338927,
+        "lon": 80.2355344,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Raj Nagar, Oggiyamduraipakkam",
+          "addr:postcode": "600097",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Eashwar Multispeciality Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822260020,
+        "lat": 12.9424446,
+        "lon": 80.2397616,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Mettukuppam, Oggiyamduraipakkam",
+          "addr:postcode": "600097",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "name": "Rayar Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822260021,
+        "lat": 12.9498749,
+        "lon": 80.2381651,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Thoraipakkam",
+          "addr:postcode": "600097",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "name": "Jayam Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822260033,
+        "lat": 12.9402236,
+        "lon": 80.2412342,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Oggiyamduraipakkam",
+          "addr:postcode": "600097",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "name": "Dhanvantri Multi Speciality",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10692322858,
+        "lat": 12.9497648,
+        "lon": 80.2405213,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "outdoor_seating": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11493839995,
+        "lat": 12.9374466,
+        "lon": 80.2365086,
+        "tags": {
+          "addr:housenumber": "3/927",
+          "addr:street": "Pillaiyar kovil street, mettukuppam, Thoraipakkam, chennai 600097",
+          "description": "department store",
+          "name": "Lingam stores",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12028195947,
+        "lat": 12.9412022,
+        "lon": 80.2402905,
+        "tags": {
+          "name": "Amma Super Market",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12324896511,
+        "lat": 12.9379082,
+        "lon": 80.2352156,
+        "tags": {
+          "addr:housenumber": "38/103",
+          "addr:street": "1st Floor, OMR, opp. AKDR Golf Village, next to City Union Bank, NJK Avenue, Thoraipakkam, Chennai, Tamil Nadu 600097",
+          "amenity": "cafe",
+          "name": "Nellai karupatti coffee",
+          "opening_hours": "Mo-Su 05:00-22:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12718144124,
+        "lat": 12.9503444,
+        "lon": 80.2352491,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12718144125,
+        "lat": 12.9509586,
+        "lon": 80.2352692,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:16:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3829225725,
+        "lat": 12.9247788,
+        "lon": 80.2303371,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11148087378,
+        "lat": 12.9424731,
+        "lon": 80.2530279,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11148087398,
+        "lat": 12.9469904,
+        "lon": 80.2538044,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11832803585,
+        "lat": 12.9270116,
+        "lon": 80.2515525,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      }
+    ]
+  }
+}

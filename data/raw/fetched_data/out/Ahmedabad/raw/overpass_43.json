@@ -1,0 +1,131 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:03:11Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6986605704,
+        "lat": 23.0809819,
+        "lon": 72.6213037,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "240 B Saibaba Mandir Sardar Nagar Main Road",
+          "addr:postcode": "382475",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shivam Medical Hospital, Sardar Nagar",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6990786215,
+        "lat": 23.0869528,
+        "lon": 72.628334,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Camp Road Opp Swaminarayan Temple Shahibagh",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Gujarat Research And Medical Institute Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132838716,
+        "lat": 23.083742,
+        "lon": 72.622746,
+        "tags": {
+          "access": "yes",
+          "description": "Nice Garden",
+          "leisure": "garden",
+          "name": "Hansol Garden",
+          "operator": "AMC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11545552868,
+        "lat": 23.0747717,
+        "lon": 72.6235194,
+        "tags": {
+          "amenity": "atm",
+          "atm": "yes",
+          "brand": "IndusInd Bank",
+          "brand:wikidata": "Q2040323",
+          "name": "Indusind Bank ATM",
+          "operator": "IndusInd Bank",
+          "operator:wikidata": "Q2040323"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:03:11Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3306683646,
+        "lat": 23.0719488,
+        "lon": 72.6038956,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683647,
+        "lat": 23.0788487,
+        "lon": 72.6100908,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683648,
+        "lat": 23.0804623,
+        "lon": 72.6171044,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4488103325,
+        "lat": 23.0810593,
+        "lon": 72.6415185,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Maya CINEMA -CLOSED"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11991899052,
+        "lat": 23.0710381,
+        "lon": 72.6208273,
+        "tags": {
+          "aeroway": "terminal",
+          "name": "Terminal 4 Building"
+        }
+      }
+    ]
+  }
+}

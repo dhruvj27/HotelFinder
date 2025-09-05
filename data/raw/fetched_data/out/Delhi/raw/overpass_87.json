@@ -1,0 +1,534 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:15:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2453781130,
+        "lat": 28.4965669,
+        "lon": 77.1846642,
+        "tags": {
+          "addr:postcode": "110074",
+          "addr:street": "Chattarpur Main Road",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Ajit Khalsa Dhaba",
+          "phone": "+911126801804"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4005319497,
+        "lat": 28.4935774,
+        "lon": 77.1844678,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Anand Chemist"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4138055091,
+        "lat": 28.5006053,
+        "lon": 77.1857471,
+        "tags": {
+          "addr:street": "100 Feet Road",
+          "amenity": "cafe",
+          "cuisine": "burger;regional;ice_cream;cake;coffee_shop;asian;pasta;noodles;pancake;donut;pizza;diner;indian;curry;fish;breakfast;tea;chinese;deli;barbecue",
+          "diet:vegan": "yes",
+          "internet_access": "wlan",
+          "name": "subway, lavazza"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5907504341,
+        "lat": 28.5011896,
+        "lon": 77.1833618,
+        "tags": {
+          "leisure": "garden"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6221553468,
+        "lat": 28.4984699,
+        "lon": 77.1848617,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Chhattarpur",
+          "brand": "Bank of India",
+          "brand:short": "BOI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6411418990,
+        "lat": 28.5013209,
+        "lon": 77.1828519,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Aggarwal Medical Store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6411418996,
+        "lat": 28.50016,
+        "lon": 77.184306,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6411419000,
+        "lat": 28.500181,
+        "lon": 77.1842797,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6411571309,
+        "lat": 28.4943675,
+        "lon": 77.1836992,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Manchanda Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7041540685,
+        "lat": 28.5033421,
+        "lon": 77.1853988,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Quick Brown Fox Coffee Roasters"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7041608385,
+        "lat": 28.5037101,
+        "lon": 77.1854284,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Greenr Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138534293,
+        "lat": 28.497836,
+        "lon": 77.183299,
+        "tags": {
+          "addr:district": "South",
+          "addr:full": "Main Chhatarpur Road, Block A1, Chattarpur",
+          "addr:postcode": "110074",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "contact:phone": "011-268010602",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "DGD, Chattarpur",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7184265024,
+        "lat": 28.4985542,
+        "lon": 77.1896627,
+        "tags": {
+          "amenity": "fast_food",
+          "contact:phone": "+91 96253 42958;+91 99589 46648",
+          "diet:lacto_vegetarian": "only",
+          "name": "Shri Sai Food Corner"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7544955462,
+        "lat": 28.4943274,
+        "lon": 77.1833094,
+        "tags": {
+          "addr:district": "South Delhi",
+          "addr:full": "203/A, Chhattarpur Ext Road, Block F, Block G, Chhatarpur",
+          "addr:postcode": "110074",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Yogmaya Multispeciality Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7544955524,
+        "lat": 28.5001805,
+        "lon": 77.1843915,
+        "tags": {
+          "addr:district": "South Delhi",
+          "addr:full": "Plot No, 8, Chattarpur Mandir Road, Dr Ambedkar Colony, Sat Bari",
+          "addr:postcode": "110074",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Apex Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9167498261,
+        "lat": 28.4947338,
+        "lon": 77.189361,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "cash_in": "yes",
+          "currency:INR": "yes",
+          "currency:rupee": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "State Bank of India",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/02/19)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9167498263,
+        "lat": 28.4953283,
+        "lon": 77.189388,
+        "tags": {
+          "addr:city": "New Delhi",
+          "addr:postcode": "110068",
+          "addr:street": "Rajpur Khurd Road",
+          "amenity": "pharmacy",
+          "brand": "Neethi Medical Store",
+          "brand:wikidata": "Q99960935",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Neethi Medical Store",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12134919466,
+        "lat": 28.5020662,
+        "lon": 77.1858433,
+        "tags": {
+          "addr:street": "100 Feet Road",
+          "amenity": "restaurant",
+          "name": "Haldiram's"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12134926424,
+        "lat": 28.4991042,
+        "lon": 77.1867766,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Indian Punch"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:15:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 271335830,
+        "lat": 28.5043431,
+        "lon": 77.1719993,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "fuel:cng": "yes",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 554257755,
+        "lat": 28.4989706,
+        "lon": 77.1609098,
+        "tags": {
+          "name": "Sultanpur",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SLN",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 554257781,
+        "lat": 28.5067554,
+        "lon": 77.1749361,
+        "tags": {
+          "name": "Chhatarpur",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CHTP",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 939284656,
+        "lat": 28.5129302,
+        "lon": 77.1864723,
+        "tags": {
+          "name": "Qutab Minar",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "QM",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2008755839,
+        "lat": 28.5079651,
+        "lon": 77.1757474,
+        "tags": {
+          "bus": "yes",
+          "name": "Chhattarpur Metro Station",
+          "public_transport": "stop_position",
+          "share_taxi": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2008755843,
+        "lat": 28.5080474,
+        "lon": 77.1758798,
+        "tags": {
+          "bus": "yes",
+          "name": "Chhattarpur Metro Station",
+          "public_transport": "stop_position",
+          "share_taxi": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777601843,
+        "lat": 28.5129724,
+        "lon": 77.1864348,
+        "tags": {
+          "name": "Qutab Minar",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "QM",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777601856,
+        "lat": 28.5067735,
+        "lon": 77.174902,
+        "tags": {
+          "name": "Chhatarpur",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CHTP",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5799040152,
+        "lat": 28.5049584,
+        "lon": 77.1849078,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Oddbird Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6231590042,
+        "lat": 28.5003337,
+        "lon": 77.1968799,
+        "tags": {
+          "name": "Maidan Garhi",
+          "public_transport": "stop_position",
+          "share_taxi": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6411571292,
+        "lat": 28.4869358,
+        "lon": 77.1878285,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indraprastha Gas",
+          "fuel:cng": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6653239502,
+        "lat": 28.5158486,
+        "lon": 77.197375,
+        "tags": {
+          "amenity": "theatre",
+          "description": "An open area where small musical performances are held."
+        }
+      },
+      {
+        "type": "node",
+        "id": 7018316592,
+        "lat": 28.5067242,
+        "lon": 77.1750019,
+        "tags": {
+          "name": "Chhatarpur",
+          "name:hi": "\u091b\u0924\u094d\u0924\u0930\u092a\u0941\u0930",
+          "name:ur": "\u0686\u06be\u062a\u0631 \u067e\u0648\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:coins": "yes",
+          "payment:contactless": "yes",
+          "payment:electronic_purses": "yes",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CHTP",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q5094801",
+          "wikipedia": "en:Chhatarpur metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7018711117,
+        "lat": 28.4993912,
+        "lon": 77.1618449,
+        "tags": {
+          "name": "Sultanpur",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SLN",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7018711118,
+        "lat": 28.4991235,
+        "lon": 77.1613745,
+        "tags": {
+          "name": "Sultanpur",
+          "name:hi": "\u0938\u0941\u0932\u094d\u0924\u093e\u0928\u092a\u0941\u0930",
+          "name:ur": "\u0633\u0644\u0637\u0627\u0646 \u067e\u0648\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:coins": "yes",
+          "payment:contactless": "yes",
+          "payment:electronic_purses": "yes",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SLN",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q11313479",
+          "wikipedia": "en:Sultanpur metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7018886730,
+        "lat": 28.512951,
+        "lon": 77.1864532,
+        "tags": {
+          "name": "Qutab Minar",
+          "name:hi": "\u0915\u093c\u0941\u0924\u0941\u092c \u092e\u0940\u0928\u093e\u0930",
+          "name:ur": "\u0642\u0637\u0628 \u0645\u06cc\u0646\u0627\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:coins": "yes",
+          "payment:contactless": "yes",
+          "payment:electronic_purses": "yes",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "QM",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q7273002",
+          "wikipedia": "en:Qutab Minar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12192527479,
+        "lat": 28.5133039,
+        "lon": 77.1860742,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Statiq",
+          "fee": "yes"
+        }
+      }
+    ]
+  }
+}

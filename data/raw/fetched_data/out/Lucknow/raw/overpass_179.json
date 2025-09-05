@@ -1,0 +1,66 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:38:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7027632374,
+        "lat": 26.7389175,
+        "lon": 80.8561633,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Scooter India Chauraha, Gauri Bazar",
+          "addr:postcode": "226001",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Shyam Hospital and Research Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510640708,
+        "lat": 26.7411604,
+        "lon": 80.8588224,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Kanpur - Lucknow Road, Hydil Colony, Gauri Bazar, Sarojini Nagar, Lucknow",
+          "addr:postcode": "226008",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Om Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510640755,
+        "lat": 26.7374437,
+        "lon": 80.8595461,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Gauri, Kanpur - Lucknow Road, Bijnor Road, Sarojini Nagar, Lucknow",
+          "addr:postcode": "226401",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Bajrang Hospital",
+          "source": "Local Knowledge"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:38:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": []
+  }
+}

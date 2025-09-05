@@ -1,0 +1,86 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:14:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7649461760,
+        "lat": 18.4819174,
+        "lon": 73.9119167,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Jarande Nagar, Mohammed Wadi, Pune",
+          "addr:postcode": "411048",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "Sanjivani Skin Care Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9314683517,
+        "lat": 18.4769289,
+        "lon": 73.9107678,
+        "tags": {
+          "addr:city": "pune",
+          "addr:housenumber": "Ganga kingston",
+          "addr:postcode": "411060",
+          "addr:street": "NIBM Road",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "cuisine": "ice_cream;pizza;italian;coffee_shop;indian",
+          "diet:meat": "yes",
+          "diet:non-vegetarian": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "customers",
+          "min_age": "6",
+          "name": "Peter cafe",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "outdoor_seating": "yes",
+          "phone": "1456432564",
+          "smoking": "no",
+          "takeaway": "yes"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:14:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 674708235,
+        "lat": 18.4865476,
+        "lon": 73.8986607,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411018",
+          "addr:state": "Maharashtra",
+          "addr:street": "Vitthal Shivarkar Marg",
+          "amenity": "fuel",
+          "atm": "no",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "compressed_air": "yes",
+          "fuel": "yes",
+          "fuel:cng": "yes",
+          "fuel:diesel": "yes",
+          "fuel:electricity": "no",
+          "name": "Kedari Petrol Pump"
+        }
+      }
+    ]
+  }
+}

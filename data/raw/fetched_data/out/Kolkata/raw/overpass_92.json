@@ -1,0 +1,762 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:47:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6602110919,
+        "lat": 22.5012444,
+        "lon": 88.3602395,
+        "tags": {
+          "amenity": "hospital",
+          "emergency": "yes",
+          "healthcare": "hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7029028885,
+        "lat": 22.5090148,
+        "lon": 88.3668031,
+        "tags": {
+          "name": "Dakhsinapan Shopping Complex",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030467286,
+        "lat": 22.5059517,
+        "lon": 88.359076,
+        "tags": {
+          "amenity": "cafe",
+          "name": "The Lighthouse Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7059255451,
+        "lat": 22.5058109,
+        "lon": 88.3674172,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "33, Gariahat Road (South) Opp To Jodhpur Park",
+          "addr:postcode": "700031",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "3340271000",
+          "healthcare": "hospital",
+          "healthcare:speciality": "urology",
+          "name": "RG Stone Urology And Laparoscopy Hospital, Kolkata",
+          "source": "OpenGovernmentData",
+          "website": "https://www.rghospitals.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7065226682,
+        "lat": 22.5029093,
+        "lon": 88.3610965,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "396, Prince Anwar Shah Road",
+          "addr:postcode": "700045",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "03324736940;24720836",
+          "healthcare": "hospital",
+          "healthcare:speciality": "ophthalmology",
+          "name": "SilverLine Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7065232712,
+        "lat": 22.5032339,
+        "lon": 88.3644935,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "1 H,Garihat Road (South),Jodhpur Park",
+          "addr:postcode": "700068",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "03340171717;24143881",
+          "healthcare": "hospital",
+          "name": "Sri Aurobindo Seva Kendra (EEDF)",
+          "source": "OpenGovernmentData",
+          "website": "eedf.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7065549028,
+        "lat": 22.5017644,
+        "lon": 88.3629365,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "377, Prince Anwar Shah Road,Jodhpur Park",
+          "addr:postcode": "700068",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Cure Centre Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7065866539,
+        "lat": 22.5041947,
+        "lon": 88.3708222,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Near Krishna Glass Factory, 6/10 Central Park, Jadavpur University",
+          "addr:postcode": "700032",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr. Mina Majumder Seva Mandir Pvt. Ltd",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7065871453,
+        "lat": 22.5111409,
+        "lon": 88.3732912,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "13, Sarat Ghosh Garden Road",
+          "addr:postcode": "700031",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "24152038",
+          "healthcare": "hospital",
+          "name": "Dhakuria Sree Ramkrishna Sebasram",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7071650081,
+        "lat": 22.5065159,
+        "lon": 88.3636591,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "127, Jodhpur Park",
+          "addr:postcode": "700068",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Jodhpur Park Nursing and Maternity Home Pvt Ltd",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074312519,
+        "lat": 22.5133053,
+        "lon": 88.3669719,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "66A, South End Park, Lansdowne",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "check_date": "2023-12-16",
+          "healthcare": "clinic",
+          "internet_access": "no",
+          "name": "Lake Nursing Home",
+          "operator:type": "private",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "source": "OpenGovernmentData",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074312573,
+        "lat": 22.5077512,
+        "lon": 88.3648047,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "No.52,Jodhpur Park",
+          "addr:postcode": "700068",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "3324236703",
+          "healthcare": "hospital",
+          "name": "KD Cure S.C. Das Memorial Medical Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7265806834,
+        "lat": 22.5037538,
+        "lon": 88.3761283,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Spice Of Joy",
+          "website": "https://spiceofjoy.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7668176319,
+        "lat": 22.5052722,
+        "lon": 88.3733781,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Selimpur Road, Dhakuria, Selimpur, Garfa",
+          "addr:postcode": "700031",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "ophthalmology",
+          "name": "Disha Eye Care Center",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7968592609,
+        "lat": 22.5125412,
+        "lon": 88.3676076,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:postcode": "700029",
+          "amenity": "hospital",
+          "check_date": "2023-12-16",
+          "healthcare": "hospital",
+          "healthcare:speciality": "blood_check;cardiology;cardiothoracic_surgery;child_psychiatry;chiropractic;clinical_pathology",
+          "internet_access": "no",
+          "name": "AMRI Hospital",
+          "operator:type": "private",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8011950451,
+        "lat": 22.5142545,
+        "lon": 88.3633308,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Captain's Deck Bar and Grill"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10248563609,
+        "lat": 22.5076826,
+        "lon": 88.3652783,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Diner 49B"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11909419169,
+        "lat": 22.5098737,
+        "lon": 88.3592364,
+        "tags": {
+          "alt_name": "Dhakuria Lake (lake gardens)",
+          "leisure": "park",
+          "name": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09b0\u09cb\u09ac\u09b0",
+          "name:en": "Rabindra Sarobar",
+          "opening_hours": "Mo-Su 05:00-19:00",
+          "operator": "KMDA KOLKATA",
+          "website": "https://kmda.wb.gov.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12920296960,
+        "lat": 22.5015013,
+        "lon": 88.3610417,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "amenity": "fast_food",
+          "brand": "Taco Bell",
+          "brand:wikidata": "Q752941",
+          "cuisine": "tex-mex",
+          "name": "Taco Bell",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "phone": "+919319595638",
+          "takeaway": "yes",
+          "website": "https://www.tacobell.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12920296961,
+        "lat": 22.5014304,
+        "lon": 88.3610539,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Flame And Grill",
+          "opening_hours": "Mo-Su 12:30-23:00",
+          "phone": "+913324228502"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12920296962,
+        "lat": 22.501631,
+        "lon": 88.3615696,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "opening_hours": "Mo-Su 10:00-23:00",
+          "phone": "+913324228502",
+          "takeaway": "yes",
+          "website": "https://tsb-stores.starbucksindia.net/starbucks-south-city-coffee-shop-prince-anwar-shah-road-kolkata-283330/Home?utm_source=locator&utm_medium=googleplaces"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12920296963,
+        "lat": 22.5013052,
+        "lon": 88.3620351,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:wikidata": "Q38076",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "phone": "+919599921895",
+          "takeaway": "yes",
+          "website": "https://mcdindia.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12983025517,
+        "lat": 22.5013968,
+        "lon": 88.3611232,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Riyasat",
+          "opening_hours": "Mo-Fri 13:00-15:30",
+          "phone": "06292190242",
+          "website": "https://speciality.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12983025518,
+        "lat": 22.5014524,
+        "lon": 88.3611346,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "name": "Coffee World",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "phone": "03340643181"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12983025520,
+        "lat": 22.501209,
+        "lon": 88.3614419,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "brand": "Marks & Spencer",
+          "brand:short": "M&S",
+          "brand:wikidata": "Q714491",
+          "name": "Marks & Spencer",
+          "opening_hours": "Mo-Su 11:00-21:00",
+          "phone": "07042344311",
+          "shop": "department_store"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:47:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 419272417,
+        "lat": 22.5021252,
+        "lon": 88.3617949,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "South City Mall",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 651805730,
+        "lat": 22.5191616,
+        "lon": 88.3721923,
+        "tags": {
+          "name": "Ballygunge Junction",
+          "name:bn": "\u09ac\u09be\u09b2\u09bf\u0997\u099e\u09cd\u099c",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BLN",
+          "wikidata": "Q55639257",
+          "wikipedia": "en:Ballygunge Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1341614569,
+        "lat": 22.5094085,
+        "lon": 88.371185,
+        "tags": {
+          "addr:postcode": "700031",
+          "addr:street": "Sarat Ghosh Garden Road",
+          "internet_access": "no",
+          "name": "Dhakuria",
+          "name:bn": "\u09a2\u09be\u0995\u09c1\u09b0\u09bf\u09af\u09bc\u09be",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DHK",
+          "train": "yes",
+          "wheelchair": "no",
+          "wikidata": "Q57237359",
+          "wikipedia": "en:Dhakuria railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1591425421,
+        "lat": 22.50135,
+        "lon": 88.3449282,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Prince Anwar Shah Road",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1686122936,
+        "lat": 22.526191,
+        "lon": 88.3667029,
+        "tags": {
+          "amenity": "cinema",
+          "check_date": "2023-12-16",
+          "name": "London paris cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1783135288,
+        "lat": 22.5274281,
+        "lon": 88.365843,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2023-12-16",
+          "fuel:GTL_diesel": "yes",
+          "fuel:HGV_diesel": "yes",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "internet_access": "no",
+          "name": "Bharat Petroleum",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2721264604,
+        "lat": 22.5258882,
+        "lon": 88.3660841,
+        "tags": {
+          "name": "Gariahat Depot",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2722781022,
+        "lat": 22.501417,
+        "lon": 88.3450646,
+        "tags": {
+          "name": "Deshapran Sashmal Road / Prince Anwar Shah Road",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3641889608,
+        "lat": 22.5166073,
+        "lon": 88.3883991,
+        "tags": {
+          "bus": "yes",
+          "name": "Triborno Sangha",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5241916893,
+        "lat": 22.516496,
+        "lon": 88.3488079,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cinepolis",
+          "brand:wikidata": "Q5686673",
+          "brand:wikipedia": "en:Cin\u00e9polis",
+          "name": "Cinepolis"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421538365,
+        "lat": 22.5072216,
+        "lon": 88.3454936,
+        "tags": {
+          "name": "Rabindra Sarobar",
+          "name:bn": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09b0\u09cb\u09ac\u09b0",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7278757",
+          "wikipedia": "en:Rabindra Sarobar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5768054688,
+        "lat": 22.4951079,
+        "lon": 88.3749813,
+        "tags": {
+          "name": "Jadavpur",
+          "name:bn": "\u09af\u09be\u09a6\u09ac\u09aa\u09c1\u09b0",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JDP",
+          "wikidata": "Q55614817",
+          "wikipedia": "en:Jadavpur railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6955697644,
+        "lat": 22.5077549,
+        "lon": 88.3477217,
+        "tags": {
+          "name": "Tollygunge",
+          "name:bn": "\u099f\u09be\u09b2\u09bf\u0997\u099e\u09cd\u099c",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TLG",
+          "website": "https://er.indianrailways.gov.in/",
+          "wikidata": "Q56278562",
+          "wikipedia": "en:Tollygunge railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6955697648,
+        "lat": 22.5080547,
+        "lon": 88.3533289,
+        "tags": {
+          "name": "Lake Gardens",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "LKF",
+          "wikidata": "Q56278563"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6956599532,
+        "lat": 22.5022005,
+        "lon": 88.3617984,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "South City Mall",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7028874585,
+        "lat": 22.5015668,
+        "lon": 88.362052,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "INOX South City",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10115962717,
+        "lat": 22.5093598,
+        "lon": 88.3674117,
+        "tags": {
+          "addr:street": "Dhakuria Bridge",
+          "amenity": "charging_station",
+          "name": "Electric vehicle charging station 20kw &7kw",
+          "name:en": "Electric vehicle charging station 20kw&7kw",
+          "opening_hours": "24/7",
+          "operator": "CESC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11300062926,
+        "lat": 22.4956603,
+        "lon": 88.3705633,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2023-10-30",
+          "name": "Jadavpur 8b Bus Terminal",
+          "public_transport": "station",
+          "source": "local knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500776,
+        "lat": 22.507203,
+        "lon": 88.3454779,
+        "tags": {
+          "name": "Rabindra Sarobar",
+          "name:bn": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09b0\u09cb\u09ac\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500777,
+        "lat": 22.5076062,
+        "lon": 88.3454327,
+        "tags": {
+          "name": "Rabindra Sarobar",
+          "name:bn": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09b0\u09cb\u09ac\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11949759869,
+        "lat": 22.4988925,
+        "lon": 88.3463902,
+        "tags": {
+          "addr:postcode": "700033",
+          "amenity": "cinema",
+          "name": "Radha Studio",
+          "operator": "West Bengal govt",
+          "website": "https://in.bookmyshow.com/buytickets/radha-studio-tollygunge/cinema-chin-RTOY-MT/20240602"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12920324624,
+        "lat": 22.5018356,
+        "lon": 88.3622265,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "amenity": "cinema",
+          "name": "IMAX South City"
+        }
+      }
+    ]
+  }
+}

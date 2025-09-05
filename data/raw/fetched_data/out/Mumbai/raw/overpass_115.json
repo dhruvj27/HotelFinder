@@ -1,0 +1,1379 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:50:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1398717565,
+        "lat": 19.0466131,
+        "lon": 72.8964218,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Inlaks Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3204476109,
+        "lat": 19.0542862,
+        "lon": 72.8932735,
+        "tags": {
+          "addr:city": "mumbai",
+          "addr:postcode": "400071",
+          "addr:street": "V N Purav Marg",
+          "amenity": "restaurant",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3213866932,
+        "lat": 19.0503408,
+        "lon": 72.8914636,
+        "tags": {
+          "leisure": "park",
+          "name": "sng paark"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3214396698,
+        "lat": 19.0518251,
+        "lon": 72.9011295,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "Plot No 1, Hotel Bahri Residency",
+          "addr:postcode": "400071",
+          "addr:street": "V N Purav Marg",
+          "amenity": "bank",
+          "atm": "no",
+          "brand:wikidata": "Q1340361",
+          "email": "sbi.16228@sbi.co.in",
+          "fax": "+91 22 25214460",
+          "name": "State Bank of India Specialised NRI Branch",
+          "opening_hours": "Mo-Fr 10:00-16:00;Sa 10:00-13:00",
+          "operator": "State Bank of India",
+          "phone": "+91 22 25214446",
+          "website": "https://www.sbi.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3214434900,
+        "lat": 19.0536873,
+        "lon": 72.9010665,
+        "tags": {
+          "amenity": "clinic",
+          "name": "Diamond Polyclinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3214503592,
+        "lat": 19.0518758,
+        "lon": 72.9007969,
+        "tags": {
+          "addr:city": "Chembur, Mumbai",
+          "addr:postcode": "400071",
+          "addr:street": "V N Purav Marg",
+          "amenity": "cafe",
+          "brand": "Barista",
+          "brand:wikidata": "Q644735",
+          "cuisine": "coffee_shop",
+          "internet_access": "no",
+          "name": "Barista",
+          "smoking": "outside",
+          "takeaway": "yes",
+          "website": "https://www.barista.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3534557308,
+        "lat": 19.0532017,
+        "lon": 72.8982348,
+        "tags": {
+          "amenity": "bank",
+          "brand:wikidata": "Q3595747",
+          "brand:wikipedia": "en:Dena Bank",
+          "name": "Dena Bank",
+          "name:en": "Dena Bank",
+          "website": "http://www.denabank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7042871859,
+        "lat": 19.0500033,
+        "lon": 72.9044715,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "B-28/1, Maitri Park, Sion Trombay Road, Next To Maitri Park Bus Stop,Chembur",
+          "addr:postcode": "400071",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Niramaya General Hospital",
+          "source": "OpenGovernmentData",
+          "website": "niramayahospitals.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7042977111,
+        "lat": 19.0460875,
+        "lon": 72.9034173,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Opposite Basant Theatre,CG Road,Chembur",
+          "addr:postcode": "400071",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Excel Urology Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043029973,
+        "lat": 19.0456831,
+        "lon": 72.9025014,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "16, Maitri Vijay, Opposite Basant Cinema, Chembur",
+          "addr:postcode": "400074",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Nayak Medicare - Chembur",
+          "source": "OpenGovernmentData",
+          "website": "drudaynayak.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043161471,
+        "lat": 19.0492503,
+        "lon": 72.9062028,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Wama Apt, Behind Maitri Park, St Bust Stop, Ghatala Road . Near R K Studio, Chembur",
+          "addr:postcode": "400071",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Sumitra Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043188926,
+        "lat": 19.0467619,
+        "lon": 72.8934167,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Inlaks Hospital Road, Chembur Colony, Chembur",
+          "addr:postcode": "400074",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Inlaks General Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043236781,
+        "lat": 19.0526628,
+        "lon": 72.8911664,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "No. 19-B, Near Bhakti Bhavan,Siddhi Society,Chembur",
+          "addr:postcode": "400071",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Sitla Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7045155680,
+        "lat": 19.0431439,
+        "lon": 72.8936943,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "5, Safal Ganga, Opposite Collector's Colony, Chembur Camp",
+          "addr:postcode": "400074",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Universal Eye Clinic and Surgical Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054759108,
+        "lat": 19.0512684,
+        "lon": 72.9018161,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Near Diamond Garden, Sion-Trombay Road, Near Fairlawn So., Chembur",
+          "addr:postcode": "400071",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Oma Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073537782,
+        "lat": 19.0528644,
+        "lon": 72.8978303,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "201-202, Sunny Estate, Sion Trombay Road",
+          "addr:postcode": "400071",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Sunny Childrens Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7082370266,
+        "lat": 19.0375228,
+        "lon": 72.894845,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Mahatenay Park, Aziz Baug,Opp Site Estate, Mahul Road Chembur",
+          "addr:postcode": "400074",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Dr.Bhute Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961403,
+        "lat": 19.042245,
+        "lon": 72.894166,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Door No. 10, 1, Mahul Road, Laxmi Colony, Tolaram Colony, Chembur, Mumbai",
+          "addr:postcode": "400071",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Chandra Maternity Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961441,
+        "lat": 19.0492423,
+        "lon": 72.9060511,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Baman Apartment, Sion - Trombay Road, Chembur, Mumbai",
+          "addr:postcode": "400071",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Amarnath Multidisciplinary Children's Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961444,
+        "lat": 19.0411897,
+        "lon": 72.8940869,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Plot No.16, Prem Nivas, Mahul Road, Laxmi Colony, Chembur, Near Ashish Theatre, Mumbai",
+          "addr:postcode": "400074",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Shiv Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961446,
+        "lat": 19.040567,
+        "lon": 72.897252,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Behind Ashish Theater, Tolaram Colony, RCF Colony, Chembur, Mumbai",
+          "addr:postcode": "400074",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "RCF Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961476,
+        "lat": 19.0413817,
+        "lon": 72.8947434,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "9-1, Laxmi Colony, Tolaram Colony, RCF Colony, Chembur, Mumbai",
+          "addr:postcode": "400074",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Chandra Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9019764218,
+        "lat": 19.0455769,
+        "lon": 72.9032091,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "pizza;italian;indian;continental",
+          "name": "Shai Cafe and Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9021968826,
+        "lat": 19.0528205,
+        "lon": 72.8998015,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "The J",
+          "name:en": "The J",
+          "name:mr": "\u0926 \u091c\u0947"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9024157417,
+        "lat": 19.0456916,
+        "lon": 72.9020342,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Sadguru Veg Diet"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9024157517,
+        "lat": 19.0456054,
+        "lon": 72.9029338,
+        "tags": {
+          "brand": "Nature's Basket",
+          "brand:wikidata": "Q28174237",
+          "name": "Nature's Basket",
+          "name:en": "Nature's Basket",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9470829702,
+        "lat": 19.0519425,
+        "lon": 72.894684,
+        "tags": {
+          "addr:city": "mumbai",
+          "addr:housenumber": "Shubham Flora",
+          "addr:postcode": "400071",
+          "addr:street": "Ramakrishna Chemburkar Marg",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Satvic Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9545568397,
+        "lat": 19.045515,
+        "lon": 72.8947806,
+        "tags": {
+          "amenity": "cafe",
+          "currency:BCH": "yes",
+          "name": "VIG Refreshment"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655548017,
+        "lat": 19.0521598,
+        "lon": 72.8997732,
+        "tags": {
+          "addr:street": "Sion Panvel Highway",
+          "air_conditioning": "yes",
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:wikidata": "Q244457",
+          "cuisine": "sandwich",
+          "diet:non-vegetarian": "yes",
+          "diet:vegetarian": "yes",
+          "drive_through": "yes",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Subway",
+          "name:en": "Subway",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "operator": "Subway",
+          "takeaway": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914444,
+        "lat": 19.0422679,
+        "lon": 72.8941536,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Chandra maternity Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914445,
+        "lat": 19.0414049,
+        "lon": 72.8947448,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Chandra Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914446,
+        "lat": 19.0412186,
+        "lon": 72.8940795,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shiv Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914447,
+        "lat": 19.0406126,
+        "lon": 72.8972639,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "RCF Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914448,
+        "lat": 19.0456806,
+        "lon": 72.9024989,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Nayak medicare -chembur"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914449,
+        "lat": 19.0466542,
+        "lon": 72.8964139,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Inlaska Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11098458923,
+        "lat": 19.0456943,
+        "lon": 72.902467,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Orange Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11098464324,
+        "lat": 19.0456891,
+        "lon": 72.9025701,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11098474640,
+        "lat": 19.0456907,
+        "lon": 72.9025243,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11098485521,
+        "lat": 19.0453834,
+        "lon": 72.9029559,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Pot Pourri"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11283018639,
+        "lat": 19.0517597,
+        "lon": 72.9010567,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Lucky Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11283018641,
+        "lat": 19.0534718,
+        "lon": 72.896198,
+        "tags": {
+          "amenity": "bank",
+          "brand": "South Indian Bank",
+          "brand:wikidata": "Q2044973",
+          "name": "South Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11283018642,
+        "lat": 19.0534789,
+        "lon": 72.8961777,
+        "tags": {
+          "amenity": "atm",
+          "brand": "South Indian Bank",
+          "brand:wikidata": "Q2044973",
+          "name": "South Indian Bank",
+          "operator": "South Indian Bank",
+          "operator:wikidata": "Q2044973"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11283018643,
+        "lat": 19.0535061,
+        "lon": 72.8960644,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Jana Small Finance Bank",
+          "brand:wikidata": "Q65122274",
+          "name": "Jana Small Finance Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11283018645,
+        "lat": 19.0536232,
+        "lon": 72.8956128,
+        "tags": {
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11283018646,
+        "lat": 19.0536333,
+        "lon": 72.8955957,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12176162197,
+        "lat": 19.045492,
+        "lon": 72.8941034,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "Jhama Sweets",
+          "addr:street": "Choitram Gidwani Marg (Kolwada Borla Road)",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Jhama Sweets"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12844068558,
+        "lat": 19.0527277,
+        "lon": 72.899767,
+        "tags": {
+          "amenity": "fast_food",
+          "changing_table": "no",
+          "cuisine": "indian",
+          "indoor_seating": "no",
+          "name": "Tastings",
+          "outdoor_seating": "yes",
+          "takeaway": "yes",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944612681,
+        "lat": 19.0520398,
+        "lon": 72.9002225,
+        "tags": {
+          "amenity": "bank",
+          "name": "Saraswat Co-operative Bank Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944621778,
+        "lat": 19.0527939,
+        "lon": 72.8997902,
+        "tags": {
+          "amenity": "fast_food",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Kha",
+          "outdoor_seating": "yes",
+          "takeaway": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944652087,
+        "lat": 19.0521322,
+        "lon": 72.8998766,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "fast_food",
+          "indoor_seating": "no",
+          "name": "Nothing But Chicken",
+          "takeaway": "only",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944653246,
+        "lat": 19.0521091,
+        "lon": 72.8999995,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Wok hei",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944657557,
+        "lat": 19.0520442,
+        "lon": 72.9001958,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Saraswat Co-op Bank Ltd",
+          "level": "0",
+          "name": "Saraswat Co-op Bank Ltd",
+          "name:en": "Saraswat Co-op Bank Ltd",
+          "name:mr": "\u0938\u093e\u0930\u0938\u094d\u0935\u0924 \u0915\u094b-\u0911\u092a \u092c\u0901\u0915 \u0932\u093f",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944660714,
+        "lat": 19.052715,
+        "lon": 72.8997328,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Wow! Momo",
+          "brand:wikidata": "Q8037446",
+          "cuisine": "momo",
+          "name": "Wow! Momo",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944665665,
+        "lat": 19.0521518,
+        "lon": 72.899802,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "name": "Nom Nom express",
+          "toilets:wheelchair": "no",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944665667,
+        "lat": 19.0521415,
+        "lon": 72.8998283,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "cuisine": "sandwich",
+          "name": "Sandwizzaa",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944677450,
+        "lat": 19.0527402,
+        "lon": 72.8995896,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "The Kerala Cafe",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944717844,
+        "lat": 19.0540362,
+        "lon": 72.9002287,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Kotak Mahindra Bank",
+          "level": "0",
+          "operator": "Kotak Mahindra Bank",
+          "operator:wikidata": "Q2040404",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944717846,
+        "lat": 19.0542623,
+        "lon": 72.900267,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Punjab National Bank",
+          "level": "0",
+          "operator": "Punjab National Bank",
+          "operator:wikidata": "Q2743499",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12944717847,
+        "lat": 19.054298,
+        "lon": 72.9002745,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Diamond Garden Branch",
+          "brand": "Punjab National Bank",
+          "level": "0",
+          "name": "Punjab National Bank",
+          "wheelchair": "limited"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:50:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 632337506,
+        "lat": 19.0612128,
+        "lon": 72.8975909,
+        "tags": {
+          "monorail": "yes",
+          "name": "Chembur",
+          "name:mr": "\u091a\u0947\u0902\u092c\u0942\u0930",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "monorail",
+          "toilets:wheelchair": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q17050476",
+          "wikipedia": "en:Chembur monorail station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 651265045,
+        "lat": 19.0626076,
+        "lon": 72.9013796,
+        "tags": {
+          "name": "Chembur",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1366986900,
+        "lat": 19.0549729,
+        "lon": 72.9157946,
+        "tags": {
+          "name": "Govandi",
+          "public_transport": "stop_position",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1367093081,
+        "lat": 19.06247,
+        "lon": 72.9013038,
+        "tags": {
+          "name": "Chembur",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1643263977,
+        "lat": 19.0277168,
+        "lon": 72.8914397,
+        "tags": {
+          "monorail": "yes",
+          "name": "Mysore Colony",
+          "name:mr": "\u092e\u0948\u0938\u0941\u0930 \u0915\u0949\u0932\u0928\u0940",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "monorail",
+          "wikidata": "Q17076201",
+          "wikipedia": "en:Mysore Colony monorail station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2242268589,
+        "lat": 19.0677432,
+        "lon": 72.9003277,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:ur": "\u06c1\u0646\u062f\u0648\u0633\u062a\u0627\u0646 \u067e\u0679\u0631\u0648\u0644\u06cc\u0645",
+          "brand:wikidata": "Q1619375",
+          "compressed_air": "yes",
+          "fuel:biodiesel": "no",
+          "fuel:biogas": "no",
+          "fuel:cng": "yes",
+          "fuel:diesel": "yes",
+          "fuel:octane_91": "yes",
+          "fuel:octane_95": "yes",
+          "fuel:octane_98": "yes",
+          "name": "National Highway Trucking Centre",
+          "name:ur": "\u0646\u06cc\u0634\u0646\u0644 \u06c1\u0627\u0626\u06cc \u0648\u06d2 \u0679\u0631\u06a9\u0646\u06af \u0633\u0646\u0679\u0631",
+          "official_name": "Hindustan Petroleum",
+          "official_name:ur": "\u06c1\u0646\u062f\u0648\u0633\u062a\u0627\u0646 \u067e\u0679\u0631\u0648\u0644\u06cc\u0645",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2319214064,
+        "lat": 19.0395788,
+        "lon": 72.8951824,
+        "tags": {
+          "addr:city": "Chembur, Mumbai",
+          "addr:postcode": "400074",
+          "addr:street": "Ramakrishna Chemburkar Marg (Ghatkopar Mahul Road)",
+          "amenity": "cinema",
+          "name": "Ashish Theater"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2454571178,
+        "lat": 19.0626319,
+        "lon": 72.9011399,
+        "tags": {
+          "internet_access": "wlan",
+          "name": "Chembur",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CMBR",
+          "wikidata": "Q5090350",
+          "wikipedia": "en:Chembur railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2647295137,
+        "lat": 19.0352839,
+        "lon": 72.8955553,
+        "tags": {
+          "monorail": "yes",
+          "name": "Bharat Petroleum",
+          "name:mr": "\u092d\u093e\u0930\u0924 \u092a\u0947\u091f\u094d\u0930\u094b\u0932\u093f\u092f\u092e",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "monorail",
+          "wikidata": "Q15733864",
+          "wikipedia": "en:Bharat Petroleum monorail station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2647295140,
+        "lat": 19.0526419,
+        "lon": 72.8942789,
+        "tags": {
+          "monorail": "yes",
+          "name": "VNP & RC Marg Junction",
+          "name:mr": "\u0935\u094d\u0939\u093f \u090f\u0928 \u092a\u0940 \u0906\u0923\u093f \u0906\u0930 \u0938\u0940 \u092e\u093e\u0930\u094d\u0917 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "monorail",
+          "wikidata": "Q18357722",
+          "wikipedia": "en:VNP and RC Marg Junction monorail station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852905554,
+        "lat": 19.0276972,
+        "lon": 72.8914416,
+        "tags": {
+          "monorail": "yes",
+          "name": "Mysore Colony",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852905557,
+        "lat": 19.0277331,
+        "lon": 72.8914416,
+        "tags": {
+          "monorail": "yes",
+          "name": "Mysore Colony",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852909120,
+        "lat": 19.0352809,
+        "lon": 72.8955367,
+        "tags": {
+          "monorail": "yes",
+          "name": "Bharat Petroleum",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852909121,
+        "lat": 19.0352931,
+        "lon": 72.8955724,
+        "tags": {
+          "monorail": "yes",
+          "name": "Bharat Petroleum",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852909414,
+        "lat": 19.0438752,
+        "lon": 72.8934364,
+        "tags": {
+          "monorail": "yes",
+          "name": "Fertilizer Township",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852909415,
+        "lat": 19.0438783,
+        "lon": 72.8934743,
+        "tags": {
+          "monorail": "yes",
+          "name": "Fertilizer Township",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852909459,
+        "lat": 19.0526221,
+        "lon": 72.8943435,
+        "tags": {
+          "monorail": "yes",
+          "name": "VNP & RC Marg Junction",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852909460,
+        "lat": 19.0526617,
+        "lon": 72.89421,
+        "tags": {
+          "monorail": "yes",
+          "name": "VNP & RC Marg Junction",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852909479,
+        "lat": 19.061206,
+        "lon": 72.897605,
+        "tags": {
+          "monorail": "yes",
+          "name": "Chembur",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2852909480,
+        "lat": 19.0612236,
+        "lon": 72.8975719,
+        "tags": {
+          "monorail": "yes",
+          "name": "Chembur",
+          "public_transport": "stop_position",
+          "railway": "stop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2932902979,
+        "lat": 19.0624802,
+        "lon": 72.8992072,
+        "tags": {
+          "amenity": "cinema",
+          "name": "NATRAJ CINEMA",
+          "source": "Chembur"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2986295912,
+        "lat": 19.0438776,
+        "lon": 72.893456,
+        "tags": {
+          "monorail": "yes",
+          "name": "Fertilizer Township",
+          "name:mr": "\u092b\u0930\u094d\u091f\u0940\u0932\u093e\u0908\u091d\u0930 \u091f\u093e\u090a\u0928\u0936\u093f\u092a",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "monorail",
+          "wikidata": "Q15733865"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3205733664,
+        "lat": 19.0553688,
+        "lon": 72.9150702,
+        "tags": {
+          "internet_access": "no",
+          "name": "Govandi",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GV",
+          "wikidata": "Q5588575",
+          "wikipedia": "en:Govandi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3530903066,
+        "lat": 19.0657855,
+        "lon": 72.8904702,
+        "tags": {
+          "IR:zone": "CR",
+          "internet_access": "no",
+          "is_in": "Mumbai",
+          "name": "Tilak Nagar",
+          "name:hi": "\u0924\u093f\u0932\u0915 \u0928\u0917\u0930",
+          "name:mr": "\u091f\u093f\u0933\u0915 \u0928\u0917\u0930",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TKNG",
+          "wikidata": "Q7802036",
+          "wikipedia": "en:Tilak Nagar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3878560519,
+        "lat": 19.0548469,
+        "lon": 72.9157646,
+        "tags": {
+          "name": "Govandi",
+          "public_transport": "stop_position",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4294829799,
+        "lat": 19.0681569,
+        "lon": 72.8997225,
+        "tags": {
+          "addr:postcode": "400089",
+          "addr:street": "Tilak Nagar, Chembur",
+          "amenity": "cinema",
+          "name": "Shahakar Plaza"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4583646389,
+        "lat": 19.0467822,
+        "lon": 72.8787127,
+        "tags": {
+          "addr:postcode": "400022",
+          "addr:street": "Sewri-Chembur Road",
+          "amenity": "fuel",
+          "name:en": "Mahanagar Gas CNG Pump",
+          "opening_hours": "24/7",
+          "operator": "Mahanagar Gas Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899453,
+        "lat": 19.0538593,
+        "lon": 72.8836221,
+        "tags": {
+          "construction": "stop",
+          "name": "Suman Nagar Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6171366460,
+        "lat": 19.0657601,
+        "lon": 72.8901084,
+        "tags": {
+          "name": "Tilak Nagar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7818024713,
+        "lat": 19.0657151,
+        "lon": 72.8904873,
+        "tags": {
+          "name": "Tilak Nagar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9019757017,
+        "lat": 19.0453741,
+        "lon": 72.9031206,
+        "tags": {
+          "amenity": "cinema",
+          "name:en": "Movie Time"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132436365,
+        "lat": 19.067405,
+        "lon": 72.8999983,
+        "tags": {
+          "construction": "stop",
+          "name": "Amar Mahal Junction Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132436366,
+        "lat": 19.056617,
+        "lon": 72.8875185,
+        "tags": {
+          "construction": "stop",
+          "name": "Siddhartha Colony EEH Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132436368,
+        "lat": 19.0458265,
+        "lon": 72.8786341,
+        "tags": {
+          "construction": "stop",
+          "name": "Anik Nagar Bus Depot Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132436369,
+        "lat": 19.0380667,
+        "lon": 72.8802591,
+        "tags": {
+          "construction": "stop",
+          "name": "Wadala TT Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9584759802,
+        "lat": 19.0525221,
+        "lon": 72.9018,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cinepolis",
+          "brand:wikidata": "Q5686673",
+          "name": "Cinepolis"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9668219717,
+        "lat": 19.045363,
+        "lon": 72.9030545,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Movietime Cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238602759,
+        "lat": 19.03806,
+        "lon": 72.8802108,
+        "tags": {
+          "construction": "stop",
+          "name": "Wadala TT Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603355,
+        "lat": 19.0674207,
+        "lon": 72.8999524,
+        "tags": {
+          "construction": "stop",
+          "name": "Amar Mahal Junction Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603369,
+        "lat": 19.053899,
+        "lon": 72.8835972,
+        "tags": {
+          "construction": "stop",
+          "name": "Suman Nagar Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12367114152,
+        "lat": 19.0538237,
+        "lon": 72.893435,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      }
+    ]
+  }
+}

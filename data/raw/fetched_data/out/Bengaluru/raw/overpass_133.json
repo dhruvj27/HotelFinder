@@ -1,0 +1,155 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:24:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 11126812403,
+        "lat": 13.0554613,
+        "lon": 77.7635837,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "regional",
+          "name": "Haldiram's"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11584722919,
+        "lat": 13.0583944,
+        "lon": 77.7693208,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Nandi Grand"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:24:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1104250533,
+        "lat": 13.0531119,
+        "lon": 77.7619544,
+        "tags": {
+          "bus": "yes",
+          "name": "Katamanallur Gate",
+          "name:en": "Katamanallur Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6168012417,
+        "lat": 13.0479162,
+        "lon": 77.7606414,
+        "tags": {
+          "bus": "yes",
+          "name": "Sannathammanahalli",
+          "name:en": "Sannathammanahalli",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12989027164,
+        "lat": 13.034698,
+        "lon": 77.7590686,
+        "tags": {
+          "bus": "yes",
+          "name": "Khaji Sonnenahalli Gate",
+          "name:en": "Khaji Sonnenahalli Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12989027171,
+        "lat": 13.0379112,
+        "lon": 77.7598089,
+        "tags": {
+          "bus": "yes",
+          "name": "Safal Market",
+          "name:en": "Safal Market",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12989027173,
+        "lat": 13.044071,
+        "lon": 77.7604514,
+        "tags": {
+          "bus": "yes",
+          "name": "Gorivegere Gate",
+          "name:en": "Gorivegere Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12989027194,
+        "lat": 13.0464358,
+        "lon": 77.7505035,
+        "tags": {
+          "bus": "yes",
+          "name": "Budigere Cross",
+          "name:en": "Budigere Cross",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12989027195,
+        "lat": 13.0507872,
+        "lon": 77.7566385,
+        "tags": {
+          "bus": "yes",
+          "name": "Sapthagiri Convention Hall",
+          "name:en": "Sapthagiri Convention Hall",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13019311941,
+        "lat": 13.0592736,
+        "lon": 77.7704215,
+        "tags": {
+          "bus": "yes",
+          "name": "Hosakote Toll",
+          "name:en": "Hosakote Toll",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

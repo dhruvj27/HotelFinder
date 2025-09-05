@@ -1,0 +1,1372 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:21:56Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4460112189,
+        "lat": 28.6578826,
+        "lon": 77.1460252,
+        "tags": {
+          "name": "moments mall",
+          "name:hi": "moments mall",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4574602991,
+        "lat": 28.647204,
+        "lon": 77.1420464,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4574622590,
+        "lat": 28.6483037,
+        "lon": 77.1430207,
+        "tags": {
+          "amenity": "bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6385598126,
+        "lat": 28.6547263,
+        "lon": 77.1377879,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "brand:wikipedia": "en:Pizza Hut",
+          "cuisine": "pizza",
+          "name": "Pizza Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715662,
+        "lat": 28.6551825,
+        "lon": 77.1387304,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "Tulsi Dass Kalra Marg, Kirti Nagar",
+          "addr:postcode": "110015",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kalra Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715688,
+        "lat": 28.652562,
+        "lon": 77.130018,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "Metro Station, F-95, Bali Nagar, Najafgarh Road",
+          "addr:postcode": "110015",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Khetarpal Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715705,
+        "lat": 28.6504538,
+        "lon": 77.1307517,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "2B/48, Block B, Ramesh Nagar",
+          "addr:postcode": "110026",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "name": "Ashirwad Speciality Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715714,
+        "lat": 28.6488881,
+        "lon": 77.1404844,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "E-50, Block C, Kirti Nagar Road, Near SD Public School",
+          "addr:postcode": "110015",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Bhasin's Neuro and Gynae clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715744,
+        "lat": 28.6561778,
+        "lon": 77.1334074,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "WZ-272, Basai Dara pur, Bali Nagar",
+          "addr:postcode": "110015",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Asi Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715769,
+        "lat": 28.6486024,
+        "lon": 77.1325176,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "Block W, Shivaji Enclave, Bali Nagar",
+          "addr:postcode": "110015",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "name": "Polyclinic, Ramesh Nagar",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151203551,
+        "lat": 28.6597987,
+        "lon": 77.1424992,
+        "tags": {
+          "addr:full": "B-11, Block B, Moti Nagar, New Delhi, Delhi",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr Tanejas Thyroid Clinic (Dr. Vijay Taneja)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219297,
+        "lat": 28.6613296,
+        "lon": 77.1415821,
+        "tags": {
+          "addr:full": "B-34, Block B, Moti Nagar, New Delhi, Delhi",
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219302,
+        "lat": 28.6607192,
+        "lon": 77.1421639,
+        "tags": {
+          "addr:full": "B-25, Block B, Moti Nagar, New Delhi, Delhi",
+          "amenity": "bank",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "brand:wikipedia": "en:Bank of Baroda",
+          "name": "Bank of Baroda"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219313,
+        "lat": 28.657434,
+        "lon": 77.142548,
+        "tags": {
+          "addr:full": "4, DLE Industrial Area, Moti Nagar, New Delhi, Delhi",
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219326,
+        "lat": 28.6549169,
+        "lon": 77.1402357,
+        "tags": {
+          "addr:full": "N-102, Devender Marg, Block N, Kirti Nagar, New Delhi, Delhi",
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219332,
+        "lat": 28.6538198,
+        "lon": 77.1361832,
+        "tags": {
+          "addr:full": "B-6, Tagore Market, Najafgarh Rd, Black B, Namdhari Colony, Kirti Nagar, New Delhi, Delhi",
+          "amenity": "bank",
+          "brand": "UCO Bank",
+          "brand:wikidata": "Q2005310",
+          "brand:wikipedia": "en:UCO Bank",
+          "name": "UCO Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219340,
+        "lat": 28.65228,
+        "lon": 77.1407967,
+        "tags": {
+          "addr:full": "F 38, Block F, Kirti Nagar, New Delhi, Delhi",
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219350,
+        "lat": 28.6504554,
+        "lon": 77.1426681,
+        "tags": {
+          "addr:full": "Kirti Nagar, G-22, Opposite Andhra Bank, Kirti Nagar, Bhimsen Dhingra Marg, Block G, Kirti Nagar, New Delhi, Delhi",
+          "amenity": "bank",
+          "brand": "IDBI Bank",
+          "brand:wikidata": "Q3633485",
+          "brand:wikipedia": "en:IDBI Bank",
+          "name": "IDBI Bank",
+          "short_name": "IDBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151246231,
+        "lat": 28.6581639,
+        "lon": 77.1421631,
+        "tags": {
+          "addr:full": "B2, Moti Nagar Rd, Main Market, Mini Market, Moti Nagar, New Delhi, Delhi",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "DR CHOPRAS SPINE JOINT SOLUTIONS INDIA - joint replacement doctor in west Delhi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9978822131,
+        "lat": 28.6526327,
+        "lon": 77.1283952,
+        "tags": {
+          "leisure": "park",
+          "name": "Bali Nagar Senior Citizen Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9978824659,
+        "lat": 28.6537042,
+        "lon": 77.1272731,
+        "tags": {
+          "leisure": "park",
+          "name": "Rajesh Verma Ji Park , Chhota Cp",
+          "operator": "Government of Delhi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9978842440,
+        "lat": 28.6523977,
+        "lon": 77.127686,
+        "tags": {
+          "leisure": "park",
+          "name": "Bali Nagar Children's Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9978848762,
+        "lat": 28.6528063,
+        "lon": 77.1273471,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Community Centre Raja Garden"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10578625241,
+        "lat": 28.6580692,
+        "lon": 77.1446582,
+        "tags": {
+          "brand": "More",
+          "brand:wikidata": "Q6910891",
+          "name": "More",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10732857205,
+        "lat": 28.6490342,
+        "lon": 77.1426955,
+        "tags": {
+          "amenity": "atm"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:21:56Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 249823630,
+        "lat": 28.6490372,
+        "lon": 77.122743,
+        "tags": {
+          "name": "Rajouri Garden (Blue Line)",
+          "name:hi": "\u0930\u093e\u091c\u094c\u0930\u0940 \u0917\u093e\u0930\u094d\u0921\u0928",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 249823635,
+        "lat": 28.6527444,
+        "lon": 77.1316496,
+        "tags": {
+          "name": "Ramesh Nagar",
+          "name:hi": "\u0930\u092e\u0947\u0936 \u0928\u0917\u0930",
+          "name:ur": "\u0631\u0645\u06cc\u0634 \u0646\u06af\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q259656",
+          "wikipedia": "en:Ramesh Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347676531,
+        "lat": 28.655746,
+        "lon": 77.1506635,
+        "tags": {
+          "name": "Kirti Nagar (Blue Line)",
+          "name:hi": "\u0915\u0940\u0930\u094d\u0924\u093f \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KNR",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q12419759",
+          "wikipedia": "en:Kirti Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347676595,
+        "lat": 28.6515829,
+        "lon": 77.1582587,
+        "tags": {
+          "internet_access:fee": "no",
+          "name": "Shadipur",
+          "name:hi": "\u0936\u093e\u0926\u0940\u092a\u0941\u0930",
+          "name:kn": "\u0cb7\u0cbe\u0ca6\u0cbf\u0caa\u0cc1\u0cb0\u0ccd",
+          "name:ur": "\u0634\u0627\u062f\u06cc \u067e\u0648\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q11306954",
+          "wikipedia": "en:Shadipur metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347676947,
+        "lat": 28.657859,
+        "lon": 77.1424288,
+        "tags": {
+          "name": "Moti Nagar",
+          "name:hi": "\u092e\u094b\u0924\u0940 \u0928\u0917\u0930",
+          "name:ur": "\u0645\u0648\u062a\u06cc \u0646\u06af\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q6917665",
+          "wikipedia": "en:Moti Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 600644865,
+        "lat": 28.6749602,
+        "lon": 77.1304571,
+        "tags": {
+          "name": "Shivaji Park",
+          "name:hi": "\u0936\u093f\u0935\u093e\u091c\u0940 \u092a\u093e\u0930\u094d\u0915",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 914644362,
+        "lat": 28.6598088,
+        "lon": 77.156957,
+        "tags": {
+          "internet_access": "no",
+          "name": "Patel Nagar",
+          "name:ur": "\u067e\u0679\u06cc\u0644 \u0646\u06af\u0631",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PTNR",
+          "train": "yes",
+          "wikidata": "Q12436750",
+          "wikipedia": "en:Patel Nagar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1374470966,
+        "lat": 28.6530735,
+        "lon": 77.1232875,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Movie Time Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1374470969,
+        "lat": 28.6500399,
+        "lon": 77.1211456,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "INOX Vishal Mall",
+          "short_name": "INOX",
+          "wikidata": "Q119806642"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1374470975,
+        "lat": 28.6536021,
+        "lon": 77.1189692,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1374470978,
+        "lat": 28.6509785,
+        "lon": 77.1206104,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Wave Rajouri Garden"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1665772918,
+        "lat": 28.6729266,
+        "lon": 77.1461152,
+        "tags": {
+          "name": "Punjabi Bagh",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c\u0940 \u092c\u093e\u0917\u093c",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1824659702,
+        "lat": 28.6545409,
+        "lon": 77.1513605,
+        "tags": {
+          "name": "Kirti Nagar (Green Line)",
+          "name:hi": "\u0915\u0940\u0930\u094d\u0924\u093f \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q12419759",
+          "wikipedia": "en:Kirti Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1824659742,
+        "lat": 28.6620531,
+        "lon": 77.1577026,
+        "tags": {
+          "name": "Satguru Ramsingh Marg",
+          "name:hi": "\u0938\u0924\u0917\u0941\u0930\u0941 \u0930\u093e\u092e \u0938\u093f\u0902\u0939 \u092e\u093e\u0930\u094d\u0917",
+          "name:ur": "\u0633\u062a \u06af\u0631\u0648 \u0631\u0627\u0645 \u0633\u0646\u06af\u06be \u0645\u0627\u0631\u06af",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7426116",
+          "wikipedia": "en:Satguru Ram Singh Marg metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2445916143,
+        "lat": 28.6746734,
+        "lon": 77.1300259,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2708101948,
+        "lat": 28.6601228,
+        "lon": 77.1462871,
+        "tags": {
+          "addr:housenumber": "Moti Nagar",
+          "addr:postcode": "110015",
+          "addr:street": "Shivaji Marg",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "HP COCO Fuel Station",
+          "official_name": "Hindustan Petroleum",
+          "operator": "HPCL",
+          "self_service": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833531922,
+        "lat": 28.6371662,
+        "lon": 77.1297013,
+        "tags": {
+          "name": "Mayapuri",
+          "name:hi": "\u092e\u093e\u092f\u093e\u092a\u0941\u0930\u0940",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833531928,
+        "lat": 28.6511757,
+        "lon": 77.1242237,
+        "tags": {
+          "name": "Rajouri Garden (Pink Line)",
+          "name:hi": "\u0930\u093e\u091c\u094c\u0930\u0940 \u0917\u093e\u0930\u094d\u0921\u0928",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes",
+          "wikidata": "Q7286379",
+          "wikimedia_commons": "Category:Rajouri Garden metro station",
+          "wikipedia": "en:Rajouri Garden metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833531935,
+        "lat": 28.6580809,
+        "lon": 77.1272304,
+        "tags": {
+          "name": "ESI - Basaidarapur",
+          "name:hi": "\u0908 \u090f\u0938 \u0906\u0908 - \u092c\u0938\u0948\u0926\u0930\u093e\u092a\u0941\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "ESIH",
+          "subway": "yes",
+          "wikidata": "Q28172735"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833531944,
+        "lat": 28.672777,
+        "lon": 77.1391646,
+        "tags": {
+          "name": "Punjabi Bagh West",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c\u0940 \u092c\u093e\u0917 \u092a\u0936\u094d\u091a\u093f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "PBGW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4472307091,
+        "lat": 28.6737578,
+        "lon": 77.143128,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian oil",
+          "name:en": "Indian oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4948444528,
+        "lat": 28.6672719,
+        "lon": 77.1192683,
+        "tags": {
+          "addr:postcode": "110026",
+          "amenity": "fuel",
+          "name": "BPCL PETROL PUMP(shankar filling station)",
+          "name:en": "BPCL PETROL PUMP(shankar filling station)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4948444529,
+        "lat": 28.6628309,
+        "lon": 77.1295389,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "IGL",
+          "brand:short": "IGL",
+          "brand:wikidata": "Q125553945",
+          "fuel:cng": "yes",
+          "name": "IGL"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5638613708,
+        "lat": 28.6370838,
+        "lon": 77.1467504,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5638613709,
+        "lat": 28.6374634,
+        "lon": 77.1466014,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167642,
+        "lat": 28.6516006,
+        "lon": 77.1582691,
+        "tags": {
+          "name": "Shadipur",
+          "name:hi": "\u0936\u093e\u0926\u0940\u092a\u0941\u0930",
+          "name:kn": "\u0cb7\u0cbe\u0ca6\u0cbf\u0caa\u0cc1\u0cb0\u0ccd",
+          "name:ur": "\u0634\u0627\u062f\u06cc \u067e\u0648\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167649,
+        "lat": 28.6557635,
+        "lon": 77.1506769,
+        "tags": {
+          "name": "Kirti Nagar (Blue Line)",
+          "name:hi": "\u0915\u0940\u0930\u094d\u0924\u093f \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167663,
+        "lat": 28.6578775,
+        "lon": 77.1424185,
+        "tags": {
+          "name": "Moti Nagar",
+          "name:hi": "\u092e\u094b\u0924\u0940 \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167671,
+        "lat": 28.6527646,
+        "lon": 77.1316436,
+        "tags": {
+          "name": "Ramesh Nagar",
+          "name:hi": "\u0930\u092e\u0947\u0936 \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167679,
+        "lat": 28.6490742,
+        "lon": 77.1227219,
+        "tags": {
+          "name": "Rajouri Garden (Blue Line)",
+          "name:hi": "\u0930\u093e\u091c\u094c\u0930\u0940 \u0917\u093e\u0930\u094d\u0921\u0928",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777600327,
+        "lat": 28.6729851,
+        "lon": 77.1461259,
+        "tags": {
+          "name": "Punjabi Bagh",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c\u0940 \u092c\u093e\u0917\u093c",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777600341,
+        "lat": 28.6750188,
+        "lon": 77.1304664,
+        "tags": {
+          "name": "Shivaji Park",
+          "name:hi": "\u0936\u093f\u0935\u093e\u091c\u0940 \u092a\u093e\u0930\u094d\u0915",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630074,
+        "lat": 28.637181,
+        "lon": 77.1297689,
+        "tags": {
+          "name": "Mayapuri",
+          "name:hi": "\u092e\u093e\u092f\u093e\u092a\u0941\u0930\u0940",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630083,
+        "lat": 28.6512003,
+        "lon": 77.1242874,
+        "tags": {
+          "name": "Rajouri Garden (Pink Line)",
+          "name:hi": "\u0930\u093e\u091c\u094c\u0930\u0940 \u0917\u093e\u0930\u094d\u0921\u0928",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes",
+          "wikidata": "Q7286379",
+          "wikimedia_commons": "Category:Rajouri Garden metro station",
+          "wikipedia": "en:Rajouri Garden metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630094,
+        "lat": 28.6580491,
+        "lon": 77.1272899,
+        "tags": {
+          "name": "ESI - Basaidarapur",
+          "name:hi": "\u0908 \u090f\u0938 \u0906\u0908 - \u092c\u0938\u0948\u0926\u0930\u093e\u092a\u0941\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "ESIH",
+          "subway": "yes",
+          "wikidata": "Q28172735"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630109,
+        "lat": 28.6727635,
+        "lon": 77.1392217,
+        "tags": {
+          "name": "Punjabi Bagh West",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c\u0940 \u092c\u093e\u0917 \u092a\u0936\u094d\u091a\u093f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "PBGW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5848635226,
+        "lat": 28.653096,
+        "lon": 77.1237821,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5848637632,
+        "lat": 28.6392811,
+        "lon": 77.1299559,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5850971832,
+        "lat": 28.6674347,
+        "lon": 77.1357477,
+        "tags": {
+          "bus": "yes",
+          "name": "Punjabi Bagh Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5850971833,
+        "lat": 28.6677477,
+        "lon": 77.1356859,
+        "tags": {
+          "bus": "yes",
+          "name": "Punjabi Bagh (Terminal)",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6225480136,
+        "lat": 28.6418972,
+        "lon": 77.145346,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:short": "HP",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6385598136,
+        "lat": 28.6523726,
+        "lon": 77.1561668,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6453544491,
+        "lat": 28.6371795,
+        "lon": 77.1297676,
+        "tags": {
+          "name": "Mayapuri",
+          "name:hi": "\u092e\u093e\u092f\u093e\u092a\u0941\u0930\u0940",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6453544492,
+        "lat": 28.6371795,
+        "lon": 77.1297333,
+        "tags": {
+          "name": "Mayapuri",
+          "name:hi": "\u092e\u093e\u092f\u093e\u092a\u0941\u0930\u0940",
+          "name:ur": "\u0645\u0627\u06cc\u06c1 \u067e\u0648\u0631\u06cc",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q28172745",
+          "wikipedia": "en:Mayapuri metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6453992648,
+        "lat": 28.6511896,
+        "lon": 77.1242597,
+        "tags": {
+          "name": "Rajouri Garden (Pink Line)",
+          "name:hi": "\u0930\u093e\u091c\u094c\u0930\u0940 \u0917\u093e\u0930\u094d\u0921\u0928",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7286379",
+          "wikipedia": "en:Rajouri Garden metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6453992649,
+        "lat": 28.6490563,
+        "lon": 77.1227198,
+        "tags": {
+          "name": "Rajouri Garden (Blue Line)",
+          "name:hi": "\u0930\u093e\u091c\u094c\u0930\u0940 \u0917\u093e\u0930\u094d\u0921\u0928",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q7286379",
+          "wikipedia": "en:Rajouri Garden metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6458202843,
+        "lat": 28.6727671,
+        "lon": 77.1391976,
+        "tags": {
+          "name": "Punjabi Bagh West",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c\u0940 \u092c\u093e\u0917 \u092a\u0936\u094d\u091a\u093f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PBGW",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q28178866",
+          "wikipedia": "en:Punjabi Bagh West metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6458202845,
+        "lat": 28.6580737,
+        "lon": 77.1272678,
+        "tags": {
+          "name": "ESI - Basaidarapur",
+          "name:hi": "\u0908 \u090f\u0938 \u0906\u0908 - \u092c\u0938\u0948\u0926\u0930\u093e\u092a\u0941\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "ESIH",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q28172735",
+          "wikipedia": "en:ESI - Basaidarapur metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6465991436,
+        "lat": 28.672995,
+        "lon": 77.1461239,
+        "tags": {
+          "name": "Punjabi Bagh",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c\u0940 \u092c\u093e\u0917\u093c",
+          "name:ur": "\u067e\u0646\u062c\u0627\u0628\u06cc \u0628\u0627\u063a",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7141807",
+          "wikipedia": "en:Punjabi Bagh metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6465991437,
+        "lat": 28.6750317,
+        "lon": 77.1304722,
+        "tags": {
+          "name": "Shivaji Park",
+          "name:hi": "\u0936\u093f\u0935\u093e\u091c\u0940 \u092a\u093e\u0930\u094d\u0915",
+          "name:ur": "\u0634\u06cc\u0648\u0627\u062c\u06cc \u067e\u0627\u0631\u06a9",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7499286",
+          "wikipedia": "en:Shivaji Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772098,
+        "lat": 28.6545554,
+        "lon": 77.1513362,
+        "tags": {
+          "name": "Kirti Nagar",
+          "name:hi": "\u0915\u0940\u0930\u094d\u0924\u093f \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "KNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772111,
+        "lat": 28.652725,
+        "lon": 77.1316569,
+        "tags": {
+          "name": "Ramesh Nagar",
+          "name:hi": "\u0930\u092e\u0947\u0936 \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772112,
+        "lat": 28.6578419,
+        "lon": 77.1424425,
+        "tags": {
+          "name": "Moti Nagar",
+          "name:hi": "\u092e\u094b\u0924\u0940 \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772113,
+        "lat": 28.6557294,
+        "lon": 77.1506502,
+        "tags": {
+          "name": "Kirti Nagar (Blue Line)",
+          "name:hi": "\u0915\u0940\u0930\u094d\u0924\u093f \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772114,
+        "lat": 28.6515664,
+        "lon": 77.1582426,
+        "tags": {
+          "name": "Shadipur",
+          "name:hi": "\u0936\u093e\u0926\u0940\u092a\u0941\u0930",
+          "name:kn": "\u0cb7\u0cbe\u0ca6\u0cbf\u0caa\u0cc1\u0cb0\u0ccd",
+          "name:ur": "\u0634\u0627\u062f\u06cc \u067e\u0648\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6763955890,
+        "lat": 28.6467672,
+        "lon": 77.159575,
+        "tags": {
+          "amenity": "theatre",
+          "level": "0"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9635301962,
+        "lat": 28.6620458,
+        "lon": 77.1575794,
+        "tags": {
+          "name": "Satguru Ramsingh Marg",
+          "name:hi": "\u0938\u0924\u0917\u0941\u0930\u0941 \u0930\u093e\u092e \u0938\u093f\u0902\u0939 \u092e\u093e\u0930\u094d\u0917",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9635301963,
+        "lat": 28.6620786,
+        "lon": 77.1575529,
+        "tags": {
+          "name": "Satguru Ramsingh Marg",
+          "name:hi": "\u0938\u0924\u0917\u0941\u0930\u0941 \u0930\u093e\u092e \u0938\u093f\u0902\u0939 \u092e\u093e\u0930\u094d\u0917",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9635301965,
+        "lat": 28.6545315,
+        "lon": 77.1513779,
+        "tags": {
+          "name": "Kirti Nagar",
+          "name:hi": "\u0915\u0940\u0930\u094d\u0924\u093f \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "KNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9635301969,
+        "lat": 28.6740721,
+        "lon": 77.1405737,
+        "tags": {
+          "name": "Punjabi Bagh West",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c\u0940 \u092c\u093e\u0917 \u092a\u0936\u094d\u091a\u093f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "PBGW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9635301970,
+        "lat": 28.6740136,
+        "lon": 77.1405633,
+        "tags": {
+          "name": "Punjabi Bagh West",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c\u0940 \u092c\u093e\u0917 \u092a\u0936\u094d\u091a\u093f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "PBGW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11449177423,
+        "lat": 28.6606575,
+        "lon": 77.1433393,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11601441778,
+        "lat": 28.6531076,
+        "lon": 77.1562309,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11601441779,
+        "lat": 28.6530158,
+        "lon": 77.1563495,
+        "tags": {
+          "amenity": "charging_station",
+          "branch": "Shadipur",
+          "charging_station:battery_swapping": "yes",
+          "name": "Switch Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11601441781,
+        "lat": 28.6531276,
+        "lon": 77.1561984,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12133416510,
+        "lat": 28.6672427,
+        "lon": 77.1189519,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      }
+    ]
+  }
+}

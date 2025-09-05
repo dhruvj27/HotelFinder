@@ -1,0 +1,2696 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:09:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 303283689,
+        "lat": 13.0831682,
+        "lon": 80.2785099,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Park town",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 303283947,
+        "lat": 13.0833302,
+        "lon": 80.272561,
+        "tags": {
+          "alt_name": "Moore Market",
+          "name": "Lily Pond Shopping Complex",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 320955319,
+        "lat": 13.0821882,
+        "lon": 80.2763979,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "State Bank of India",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "operator:wikipedia": "en:State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 320959972,
+        "lat": 13.0830047,
+        "lon": 80.2743817,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "check_date": "2022-09-04",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 966544072,
+        "lat": 13.0812779,
+        "lon": 80.2740127,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 966544092,
+        "lat": 13.0813079,
+        "lon": 80.2742022,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Dhaba"
+        }
+      },
+      {
+        "type": "node",
+        "id": 966556123,
+        "lat": 13.0750719,
+        "lon": 80.2717231,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Indian Overseas Bank",
+          "brand:wikidata": "Q2003611",
+          "brand:wikipedia": "en:Indian Overseas Bank",
+          "name": "Indian Overseas Bank",
+          "name:en": "Indian Overseas Bank",
+          "short_name": "IOB",
+          "website": "https://www.iob.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1069489829,
+        "lat": 13.0880874,
+        "lon": 80.2757144,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Delhi Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2296723532,
+        "lat": 13.0753058,
+        "lon": 80.2702977,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Karur Vysya Bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2296723544,
+        "lat": 13.0752954,
+        "lon": 80.2703513,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2296723598,
+        "lat": 13.0755619,
+        "lon": 80.2692785,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2296723960,
+        "lat": 13.0782216,
+        "lon": 80.2644773,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Axis Bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2296731083,
+        "lat": 13.0755331,
+        "lon": 80.2693697,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Murudi's Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2296731456,
+        "lat": 13.076782,
+        "lon": 80.268345,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr Venugopals' Sundaram Clini"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2296731781,
+        "lat": 13.0768734,
+        "lon": 80.2678381,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr Kabir's Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2296732187,
+        "lat": 13.0764345,
+        "lon": 80.2672427,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr Sridhars'Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2296749204,
+        "lat": 13.0771372,
+        "lon": 80.2657485,
+        "tags": {
+          "leisure": "playground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4563606257,
+        "lat": 13.0842887,
+        "lon": 80.2625019,
+        "tags": {
+          "addr:street": "EVK Sampath Salai",
+          "name:en": "pazhamudir",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4563606258,
+        "lat": 13.0842585,
+        "lon": 80.262681,
+        "tags": {
+          "addr:street": "EVK Sampath Salai",
+          "name:en": "Spencers daily",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4563608405,
+        "lat": 13.0831875,
+        "lon": 80.2622329,
+        "tags": {
+          "addr:street": "EVK Sampath Salai",
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "brand:wikipedia": "en:ICICI Bank",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4691949789,
+        "lat": 13.0831918,
+        "lon": 80.2623002,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4714387190,
+        "lat": 13.083556,
+        "lon": 80.2764136,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Sakthi Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4714404289,
+        "lat": 13.0839331,
+        "lon": 80.2776473,
+        "tags": {
+          "name:en": "Praveen Plastic",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4799154413,
+        "lat": 13.0823839,
+        "lon": 80.2749488,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:postcode": "600003",
+          "addr:street": "General Hospital Road",
+          "alt_name": "A2B",
+          "amenity": "restaurant",
+          "brand": "Adyar Ananda Bhavan",
+          "brand:wikidata": "Q15178238",
+          "brand:wikipedia": "en:Adyar Ananda Bhavan",
+          "cuisine": "regional",
+          "diet:vegetarian": "only",
+          "level": "0",
+          "name": "Adyar Ananda Bhavan",
+          "phone": "+91 44 4211 4411",
+          "shop": "confectionery",
+          "smoking": "no",
+          "website": "https://www.aabsweets.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4893305721,
+        "lat": 13.083969,
+        "lon": 80.2625917,
+        "tags": {
+          "addr:street": "EVK Sampath Salai",
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5206090023,
+        "lat": 13.0812089,
+        "lon": 80.2638553,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "State Bank of India",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "operator:wikipedia": "en:State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5263569122,
+        "lat": 13.0845384,
+        "lon": 80.2781615,
+        "tags": {
+          "addr:housenumber": "502/266",
+          "addr:postcode": "600003",
+          "addr:street": "South Mint Street",
+          "name:en": "Eshwararam Metals",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737223329,
+        "lat": 13.0808614,
+        "lon": 80.2675812,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Kova Alankar Vilas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737223364,
+        "lat": 13.084481,
+        "lon": 80.2760751,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "juice",
+          "description": "Cake bar Juice Shop",
+          "name": "Greenapple"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6269478586,
+        "lat": 13.0809411,
+        "lon": 80.2686536,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "check_date": "2024-11-23",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "State Bank of India",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "operator:wikipedia": "en:State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965207,
+        "lat": 13.0809396,
+        "lon": 80.2671246,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Park Town, Chennai",
+          "addr:postcode": "600003",
+          "addr:state": "Tamil Nadu",
+          "amenity": "doctors",
+          "name": "Dr. Mohammed Ali",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965208,
+        "lat": 13.0860428,
+        "lon": 80.2656345,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Choolai, Chennai",
+          "addr:postcode": "600112",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Orient Clinics",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965211,
+        "lat": 13.0828855,
+        "lon": 80.2709938,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:postcode": "600003",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sugumar Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965215,
+        "lat": 13.0762266,
+        "lon": 80.2692658,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Adikesavarpuram, Chintadripet, Chennai",
+          "addr:postcode": "600002",
+          "addr:state": "Tamil Nadu",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. S. Kalaiselvi and Dr. Raghunathan",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965218,
+        "lat": 13.0864725,
+        "lon": 80.2656477,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Periyamedu, Choolai, Chennai",
+          "addr:postcode": "600012",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Navakar I Care",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965230,
+        "lat": 13.0752787,
+        "lon": 80.2705092,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Chintadripet, Chennai",
+          "addr:postcode": "600002",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Vinayagam Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965232,
+        "lat": 13.0849581,
+        "lon": 80.2669979,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Periyamet, Chennai",
+          "addr:postcode": "600003",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "An-Noor Eye Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965233,
+        "lat": 13.0747088,
+        "lon": 80.2688425,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Chintadripet, Chennai",
+          "addr:postcode": "600002",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Nalam Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965234,
+        "lat": 13.0755581,
+        "lon": 80.27068,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Chintadripet, Chennai",
+          "addr:postcode": "600002",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Arjun Thomas Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965235,
+        "lat": 13.082126,
+        "lon": 80.263297,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:postcode": "600007",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "TMM Eye Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965238,
+        "lat": 13.0826737,
+        "lon": 80.2705905,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Chennai",
+          "addr:postcode": "600003",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Meta Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965239,
+        "lat": 13.090224,
+        "lon": 80.267898,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:postcode": "600112",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Vardhman Multispeciality",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965246,
+        "lat": 13.0850158,
+        "lon": 80.2699983,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Poongavanapuram, Chennai",
+          "addr:postcode": "600007",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Naz Unani Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965247,
+        "lat": 13.0750341,
+        "lon": 80.2684334,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Chintadripet, Chennai",
+          "addr:postcode": "600002",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Vembu Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965249,
+        "lat": 13.0761303,
+        "lon": 80.2694819,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Chintadripet, Chennai",
+          "addr:postcode": "641301",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "S.K. Selvam Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965252,
+        "lat": 13.0825738,
+        "lon": 80.2710331,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Periyamet, Chennai",
+          "addr:postcode": "600003",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Apollo Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965253,
+        "lat": 13.0763548,
+        "lon": 80.267103,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Adikesavarpuram, Chintadripet, Chennai",
+          "addr:postcode": "600002",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Sridharan Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965257,
+        "lat": 13.0734625,
+        "lon": 80.2679228,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Chintadripet, Chennai",
+          "addr:postcode": "600002",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. A Manivannan Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965262,
+        "lat": 13.0811497,
+        "lon": 80.2620778,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Vepery, Chennai",
+          "addr:postcode": "600007",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Periyar Maniammai Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965264,
+        "lat": 13.074301,
+        "lon": 80.267569,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Chintadripet, Chennai",
+          "addr:postcode": "600002",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Red Cross Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7824965265,
+        "lat": 13.0756085,
+        "lon": 80.2693127,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Adikesavarpuram, Chintadripet, Chennai",
+          "addr:postcode": "600002",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Kabeer Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8444938247,
+        "lat": 13.0867154,
+        "lon": 80.2783908,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:postcode": "600003",
+          "addr:street": "Ponnappa Chetty Street, Mint street, Park Town,",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Tamilnad Mercantile Bank Limited",
+          "brand:wikidata": "Q2044991",
+          "drive_through": "no",
+          "image": "https://www.tmbnet.in/index.htm",
+          "name": "Tamilnad Mercantile Bank Limited",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10139491414,
+        "lat": 13.07648,
+        "lon": 80.2643566,
+        "tags": {
+          "addr:city": "Egmore, Chennai",
+          "addr:housenumber": "29",
+          "addr:postcode": "600008",
+          "addr:street": "Whannels Road",
+          "amenity": "restaurant",
+          "name": "Konar Kadai"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10742709844,
+        "lat": 13.0840024,
+        "lon": 80.2761381,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "operator": "Kotak Mahindra Bank",
+          "operator:wikidata": "Q2040404"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10742709869,
+        "lat": 13.0845556,
+        "lon": 80.276122,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Chennai Rawther Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10742709880,
+        "lat": 13.0847852,
+        "lon": 80.2761096,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hotel Shiva Sagar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10742709884,
+        "lat": 13.0848718,
+        "lon": 80.2760315,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Sri Vinayaga Tea Stall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10742709889,
+        "lat": 13.0849943,
+        "lon": 80.2760161,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sri Magesh Chettinadu Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10742858729,
+        "lat": 13.0835958,
+        "lon": 80.2762218,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "New Central Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10742858730,
+        "lat": 13.0835444,
+        "lon": 80.2762266,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "juice",
+          "name": "Juice Corner"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10742858734,
+        "lat": 13.0835518,
+        "lon": 80.2763247,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "OSCAR Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10833632689,
+        "lat": 13.0886531,
+        "lon": 80.2755976,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Karaikudi Chettinad Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10833632704,
+        "lat": 13.0886193,
+        "lon": 80.2756775,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Trisha Fast Food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10875499885,
+        "lat": 13.0835335,
+        "lon": 80.2783025,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Aburva Tea Stall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10875503608,
+        "lat": 13.0836266,
+        "lon": 80.2781435,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Harichandhana Coffee House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11159473174,
+        "lat": 13.0808889,
+        "lon": 80.2705304,
+        "tags": {
+          "addr:housenumber": "1126",
+          "addr:street": "EVR Periyar Salai",
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11306582873,
+        "lat": 13.0809129,
+        "lon": 80.2698337,
+        "tags": {
+          "amenity": "restaurant",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Andhra Bhavan",
+          "opening_hours": "Mo-Su 07:30-22:00; PH open",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11309436644,
+        "lat": 13.0810839,
+        "lon": 80.270267,
+        "tags": {
+          "amenity": "fast_food",
+          "level": "0",
+          "name": "Bombay Snacks Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11309436645,
+        "lat": 13.0822667,
+        "lon": 80.2780031,
+        "tags": {
+          "amenity": "restaurant",
+          "level": "0",
+          "toilets:wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11309436649,
+        "lat": 13.0822249,
+        "lon": 80.2779874,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "level": "0",
+          "name": "Irfan Snack Bar",
+          "street_vendor": "yes",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11309436650,
+        "lat": 13.0822821,
+        "lon": 80.278006,
+        "tags": {
+          "amenity": "restaurant",
+          "level": "0",
+          "name": "A1 Fast Food",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11309436651,
+        "lat": 13.0880784,
+        "lon": 80.2772143,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Sowcarpet - 1",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "level": "0",
+          "name": "Union Bank of India",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11309436653,
+        "lat": 13.0822992,
+        "lon": 80.2780088,
+        "tags": {
+          "amenity": "restaurant",
+          "level": "0",
+          "name": "Kuberan Tiffin Center",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11309759418,
+        "lat": 13.0835966,
+        "lon": 80.2703801,
+        "tags": {
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "cuisine": "chicken",
+          "level": "0",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11309946622,
+        "lat": 13.0825495,
+        "lon": 80.275948,
+        "tags": {
+          "alt_name": "IRCTC",
+          "amenity": "restaurant",
+          "level": "0",
+          "name": "Indian Railway Catering and Tourism Corporation",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11386758480,
+        "lat": 13.0823112,
+        "lon": 80.2749621,
+        "tags": {
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "cuisine": "chicken",
+          "diet:non-vegetarian": "yes",
+          "drive_through": "no",
+          "level": "0",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "operator": "prviate",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11386758481,
+        "lat": 13.0824657,
+        "lon": 80.2749374,
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "atm",
+          "atm": "yes",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "level": "0",
+          "name": "Indian Bank",
+          "opening_hours": "24/7",
+          "operator": "Indian Bank",
+          "operator:wikidata": "Q2003789"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11386758484,
+        "lat": 13.0827001,
+        "lon": 80.2748964,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "level": "0",
+          "name": "Ratna Cafe",
+          "opening_hours": "04:30-22:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11386758485,
+        "lat": 13.0823857,
+        "lon": 80.2748937,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:non-vegetarian": "yes",
+          "ele": "10",
+          "level": "1",
+          "name": "Star Biryani",
+          "opening_hours": "06:00-22:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11386758486,
+        "lat": 13.0827747,
+        "lon": 80.274891,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "coffee_shop",
+          "diet:vegetarian": "yes",
+          "level": "0",
+          "name": "MCH",
+          "opening_hours": "Mo-Su 05:00-22:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11397678677,
+        "lat": 13.0826167,
+        "lon": 80.2752744,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "clinic",
+          "branch": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "general;paediatrics;radiology;cardiology;intensive;cardiothoracic_surgery",
+          "name": "Apollo",
+          "opening_hours": "24/7",
+          "operator": "Apollo Hospitals",
+          "operator:type": "private_for_profit"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11397678682,
+        "lat": 13.0827826,
+        "lon": 80.275151,
+        "tags": {
+          "access": "permissive",
+          "air_conditioning": "no",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "diet:non-vegetarian": "yes",
+          "diet:vegetarian": "yes",
+          "drive_through": "no",
+          "fast_food": "cafeteria",
+          "name": "IRCTC",
+          "opening_hours": "24/7",
+          "operator": "irctc"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12146020762,
+        "lat": 13.0813864,
+        "lon": 80.2626494,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "name": "Aavin Booth",
+          "opening_hours": "Mo-Su 10:00-19:00",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12146055740,
+        "lat": 13.081276,
+        "lon": 80.2631177,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Commissioner of Police office, Greater chennai Police"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12794767503,
+        "lat": 13.0779677,
+        "lon": 80.2629459,
+        "tags": {
+          "amenity": "food_court",
+          "name": "Alihaja biriyani"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:09:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 243041570,
+        "lat": 13.0794798,
+        "lon": 80.2760155,
+        "tags": {
+          "name": "Chennai Park Town",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MPKT:1;2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 243041584,
+        "lat": 13.0730718,
+        "lon": 80.273991,
+        "tags": {
+          "name": "Chintadaripet",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 243041609,
+        "lat": 13.0620417,
+        "lon": 80.2806464,
+        "tags": {
+          "name": "Chepauk",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 243064594,
+        "lat": 13.0608709,
+        "lon": 80.2652174,
+        "tags": {
+          "bus": "yes",
+          "name": "Express avenue",
+          "network": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 254142280,
+        "lat": 13.1023579,
+        "lon": 80.2715583,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "BBQ:6"
+        }
+      },
+      {
+        "type": "node",
+        "id": 303284326,
+        "lat": 13.0851617,
+        "lon": 80.2835544,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 303284327,
+        "lat": 13.0862218,
+        "lon": 80.2812471,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 603015252,
+        "lat": 13.095369,
+        "lon": 80.2860786,
+        "tags": {
+          "name": "Mannadi",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 603015278,
+        "lat": 13.0697128,
+        "lon": 80.2730041,
+        "tags": {
+          "name": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+          "name:en": "Government Estate",
+          "name:ta": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 610963138,
+        "lat": 13.0867504,
+        "lon": 80.2586838,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 611549980,
+        "lat": 13.0928705,
+        "lon": 80.2517604,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Balaj"
+        }
+      },
+      {
+        "type": "node",
+        "id": 652426192,
+        "lat": 13.0787915,
+        "lon": 80.2504722,
+        "tags": {
+          "name": "Nehru Park",
+          "name:ta": "\u0ba8\u0bc7\u0bb0\u0bc1 \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 652426199,
+        "lat": 13.0802886,
+        "lon": 80.2630538,
+        "tags": {
+          "name": "Egmore Metro",
+          "name:ta": "\u0b8e\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 674698187,
+        "lat": 13.1023633,
+        "lon": 80.2717659,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "BBQ:7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 674698252,
+        "lat": 13.1023304,
+        "lon": 80.2713764,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "BBQ:3"
+        }
+      },
+      {
+        "type": "node",
+        "id": 919522123,
+        "lat": 13.0832295,
+        "lon": 80.2829442,
+        "tags": {
+          "local_ref": "4",
+          "name": "Chennai Fort",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MSF:4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 919522213,
+        "lat": 13.0834778,
+        "lon": 80.2826722,
+        "tags": {
+          "local_ref": "1",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MSF:1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1184256833,
+        "lat": 13.1023555,
+        "lon": 80.2715142,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "BBQ:5"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1280328281,
+        "lat": 13.0715858,
+        "lon": 80.2646192,
+        "tags": {
+          "bus": "yes",
+          "name": "Egmore Court",
+          "network": "MTC",
+          "operator": "Metropolitan Transport Corporation (Chennai) Ltd.",
+          "public_transport": "stop_position",
+          "route_ref": "27D"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2269384782,
+        "lat": 13.1023311,
+        "lon": 80.2714212,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "BBQ:4"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2272877093,
+        "lat": 13.0795162,
+        "lon": 80.2760051,
+        "tags": {
+          "name": "Chennai Park Town",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MPKT:1;2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2440033626,
+        "lat": 13.0620574,
+        "lon": 80.2805626,
+        "tags": {
+          "name": "Chepauk",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481258995,
+        "lat": 13.079587,
+        "lon": 80.2762947,
+        "tags": {
+          "name": "Chennai Park Town",
+          "name:ml": "\u0d2a\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d4d \u0d1f\u0d57\u0d7a",
+          "name:ta": "\u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe \u0ba8\u0b95\u0bb0\u0bcd",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MPKT",
+          "train": "yes",
+          "wikidata": "Q5091453",
+          "wikipedia": "en:Chennai Park Town railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481258999,
+        "lat": 13.0807537,
+        "lon": 80.2730879,
+        "tags": {
+          "internet_access": "no",
+          "name": "Chennai Park",
+          "name:ml": "\u0d1a\u0d46\u0d28\u0d4d\u0d28\u0d48 \u0d2a\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d4d",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MPK",
+          "wikidata": "Q5091452",
+          "wikipedia": "en:Chennai Park railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259036,
+        "lat": 13.0776606,
+        "lon": 80.2600514,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259037,
+        "lat": 13.0776988,
+        "lon": 80.2600443,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259038,
+        "lat": 13.0780514,
+        "lon": 80.2615176,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259039,
+        "lat": 13.0781047,
+        "lon": 80.2615048,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259040,
+        "lat": 13.0782233,
+        "lon": 80.2614998,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259041,
+        "lat": 13.0783611,
+        "lon": 80.26146,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259042,
+        "lat": 13.0784164,
+        "lon": 80.2614501,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259043,
+        "lat": 13.0785478,
+        "lon": 80.2614302,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259044,
+        "lat": 13.0785891,
+        "lon": 80.2614185,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481259045,
+        "lat": 13.0787267,
+        "lon": 80.2614163,
+        "tags": {
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2481969291,
+        "lat": 13.0824232,
+        "lon": 80.2759622,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "int_name": "Chennai Central",
+          "internet_access": "wlan",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ml": "\u0d2a\u0d41\u0d30\u0d1f\u0d4d\u0d1a\u0d3f \u0d24\u0d32\u0d48\u0d35\u0d7c \u0d21\u0d4b.\u0d0e\u0d02.\u0d1c\u0d3f.\u0d30\u0d3e\u0d2e\u0d1a\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d7b \u0d38\u0d46\u0d7b\u0d1f\u0d4d\u0d30\u0d7d",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "network": "IR",
+          "old_name": "Madras Central",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MAS",
+          "wikidata": "Q257382",
+          "wikipedia": "en:Chennai Central railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2482238496,
+        "lat": 13.0643044,
+        "lon": 80.2586227,
+        "tags": {
+          "amenity": "theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2486239287,
+        "lat": 13.0619312,
+        "lon": 80.280596,
+        "tags": {
+          "internet_access": "no",
+          "name": "Chepauk",
+          "name:ta": "\u0b9a\u0bc7\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MCPK",
+          "train": "yes",
+          "wikidata": "Q5091698",
+          "wikipedia": "en:Chepauk railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4308320193,
+        "lat": 13.072324,
+        "lon": 80.2602653,
+        "tags": {
+          "addr:postcode": "600008",
+          "addr:street": "Pantheon Road",
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum Bunk"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4393828696,
+        "lat": 13.0835855,
+        "lon": 80.2739849,
+        "tags": {
+          "name": "Moore Market Complex",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "16",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4393828697,
+        "lat": 13.0835994,
+        "lon": 80.2741136,
+        "tags": {
+          "name": "Moore Market Complex",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "15",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4393828698,
+        "lat": 13.083603,
+        "lon": 80.274255,
+        "tags": {
+          "name": "Moore Market Complex",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "14",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4533572479,
+        "lat": 13.1024603,
+        "lon": 80.2711188,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "BBQ:3"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4533572480,
+        "lat": 13.1024641,
+        "lon": 80.2711741,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "BBQ:3"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4627597189,
+        "lat": 13.0920509,
+        "lon": 80.2512648,
+        "tags": {
+          "amenity": "fuel",
+          "name:en": "IOC - Otteri"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5275790188,
+        "lat": 13.0777493,
+        "lon": 80.2612572,
+        "tags": {
+          "internet_access": "wlan",
+          "name": "Chennai Egmore",
+          "name:ml": "\u0d1a\u0d46\u0d28\u0d4d\u0d28\u0d48 \u0d0e\u0d34\u0d41\u0d2e\u0d4d\u0d2a\u0d42\u0d7c",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0b8e\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MS",
+          "survey:date": "2021-04-11",
+          "wheelchair": "yes",
+          "wikidata": "Q3536643",
+          "wikipedia": "en:Chennai Egmore railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5310193402,
+        "lat": 13.0744209,
+        "lon": 80.2737533,
+        "tags": {
+          "name": "Chintadaripet",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5311755231,
+        "lat": 13.0737952,
+        "lon": 80.2738611,
+        "tags": {
+          "internet_access": "no",
+          "name": "Chintadaripet",
+          "name:ml": "\u0d1a\u0d3f\u0d28\u0d4d\u0d24\u0d3e\u0d26\u0d4d\u0d30\u0d3f\u0d2a\u0d47\u0d1f\u0d4d\u0d1f",
+          "name:ta": "\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MCPT",
+          "train": "yes",
+          "wikidata": "Q5101294",
+          "wikipedia": "en:Chintadripet railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5328279392,
+        "lat": 13.0787744,
+        "lon": 80.2504742,
+        "tags": {
+          "name": "Nehru Park",
+          "name:ta": "\u0ba8\u0bc7\u0bb0\u0bc1 \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5328279403,
+        "lat": 13.0802705,
+        "lon": 80.2630584,
+        "tags": {
+          "name": "Egmore Metro",
+          "name:ta": "\u0b8e\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5329907490,
+        "lat": 13.0787841,
+        "lon": 80.250473,
+        "tags": {
+          "internet_access": "no",
+          "name": "Nehru Park",
+          "name:ml": "\u0d28\u0d46\u0d39\u0d4d\u200c\u0d31\u0d41 \u0d2a\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d4d",
+          "name:ta": "\u0ba8\u0bc7\u0bb0\u0bc1 \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe",
+          "network": "Chennai Metro",
+          "network:wikidata": "Q1639576",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SNP",
+          "ref": "SNP",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30638924",
+          "wikipedia": "en:Nehru Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5329907499,
+        "lat": 13.0802807,
+        "lon": 80.2630546,
+        "tags": {
+          "name": "Egmore Metro",
+          "name:ml": "\u0d0e\u0d34\u0d41\u0d2e\u0d4d\u0d2a\u0d42\u0d7c",
+          "name:ta": "\u0b8e\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+          "network": "Chennai Metro",
+          "network:wikidata": "Q1639576",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SEG",
+          "ref": "SEG",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30638926",
+          "wikipedia": "en:Egmore metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5329907502,
+        "lat": 13.0817666,
+        "lon": 80.2739102,
+        "tags": {
+          "name": "Central Metro",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5337407350,
+        "lat": 13.0643716,
+        "lon": 80.2658465,
+        "tags": {
+          "name": "\u0b8e\u0bb2\u0bcd \u0b90 \u0b9a\u0bbf",
+          "name:en": "LIC",
+          "name:ml": "\u0d0e\u0d7d\u0d10\u0d38\u0d3f",
+          "name:ta": "\u0b8e\u0bb2\u0bcd \u0b90 \u0b9a\u0bbf",
+          "network": "Chennai Metro",
+          "network:wikidata": "Q1639576",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SLI",
+          "ref": "SLI",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q62005418",
+          "wikipedia": "en:LIC metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5337407354,
+        "lat": 13.0696345,
+        "lon": 80.2730362,
+        "tags": {
+          "name": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+          "name:en": "Government Estate",
+          "name:ml": "\u0d38\u0d7c\u0d15\u0d4d\u0d15\u0d3e\u0d7c \u0d0e\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d47\u0d31\u0d4d\u0d31\u0d4d",
+          "name:ta": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+          "network": "Chennai Metro",
+          "network:wikidata": "Q1639576",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SGE",
+          "ref": "SGE",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q62005539",
+          "wikipedia": "en:Government Estate metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5337658075,
+        "lat": 13.0953587,
+        "lon": 80.2861592,
+        "tags": {
+          "name": "Mannadi",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5337658083,
+        "lat": 13.0872681,
+        "lon": 80.2849845,
+        "tags": {
+          "name": "High Court",
+          "name:en": "High Court",
+          "name:ml": "\u0d39\u0d48\u0d15\u0d4d\u0d15\u0d4b\u0d1f\u0d24\u0d3f",
+          "name:ta": "\u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SHC",
+          "ref": "SHC",
+          "start_date": "2019-02-10",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q62005403",
+          "wikipedia": "en:High Court metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5337658088,
+        "lat": 13.0954465,
+        "lon": 80.2861312,
+        "tags": {
+          "name": "Mannadi",
+          "name:en": "Mannadi",
+          "name:ml": "\u0d2e\u0d23\u0d4d\u0d23\u0d1f\u0d3f",
+          "name:ta": "\u0bae\u0ba3\u0bcd\u0ba3\u0b9f\u0bbf",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SMA",
+          "ref": "SMA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q62005430",
+          "wikipedia": "en:Mannadi metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5460685950,
+        "lat": 13.0653877,
+        "lon": 80.2676197,
+        "tags": {
+          "bus": "yes",
+          "name": "LIC",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5744866566,
+        "lat": 13.07198,
+        "lon": 80.2598553,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5817838780,
+        "lat": 13.0832404,
+        "lon": 80.2829044,
+        "tags": {
+          "local_ref": "3",
+          "name": "Chennai Fort",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "MSF:3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857250,
+        "lat": 13.0816876,
+        "lon": 80.2739223,
+        "tags": {
+          "name": "Central Metro",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857251,
+        "lat": 13.0817126,
+        "lon": 80.2739184,
+        "tags": {
+          "name": "Central Metro",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857252,
+        "lat": 13.0817435,
+        "lon": 80.2739136,
+        "tags": {
+          "name": "Central Metro",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857253,
+        "lat": 13.0817254,
+        "lon": 80.273916,
+        "tags": {
+          "internet_access": "no",
+          "name": "Chennai Central",
+          "name:en": "Chennai Central",
+          "name:ml": "\u0d1a\u0d46\u0d28\u0d4d\u0d28\u0d48 \u0d38\u0d46\u0d7b\u0d1f\u0d4d\u0d30\u0d7d",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SCC",
+          "ref": "SCC",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5091428",
+          "wikipedia": "en:Chennai Central metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6397600717,
+        "lat": 13.0872148,
+        "lon": 80.2849401,
+        "tags": {
+          "name": "High Court",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6397600718,
+        "lat": 13.0872079,
+        "lon": 80.2849935,
+        "tags": {
+          "name": "High Court",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6397600719,
+        "lat": 13.0696147,
+        "lon": 80.2731105,
+        "tags": {
+          "name": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+          "name:en": "Government Estate",
+          "name:ta": "\u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6397600720,
+        "lat": 13.0643478,
+        "lon": 80.265862,
+        "tags": {
+          "name": "\u0b8e\u0bb2\u0bcd \u0b90 \u0b9a\u0bbf",
+          "name:en": "LIC",
+          "name:ta": "\u0b8e\u0bb2\u0bcd \u0b90 \u0b9a\u0bbf",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6397600721,
+        "lat": 13.0643999,
+        "lon": 80.26583,
+        "tags": {
+          "name": "\u0b8e\u0bb2\u0bcd \u0b90 \u0b9a\u0bbf",
+          "name:en": "LIC",
+          "name:ta": "\u0b8e\u0bb2\u0bcd \u0b90 \u0b9a\u0bbf",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7057699185,
+        "lat": 13.0722894,
+        "lon": 80.2517008,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil",
+          "name:en": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7412932325,
+        "lat": 13.0883365,
+        "lon": 80.2838631,
+        "tags": {
+          "bus": "yes",
+          "name": "Broadway",
+          "operator": "MTC",
+          "public_transport": "stop_position",
+          "public_transport:version": "2"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636804603,
+        "lat": 13.0835557,
+        "lon": 80.275842,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636804604,
+        "lat": 13.0835516,
+        "lon": 80.2758095,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636804605,
+        "lat": 13.08354,
+        "lon": 80.2757,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2A",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636804606,
+        "lat": 13.0835318,
+        "lon": 80.2756071,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636804607,
+        "lat": 13.0835264,
+        "lon": 80.2755696,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636804608,
+        "lat": 13.08351,
+        "lon": 80.2754328,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7636804609,
+        "lat": 13.0835056,
+        "lon": 80.2754043,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7710665289,
+        "lat": 13.083673,
+        "lon": 80.2747381,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "11",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7710665290,
+        "lat": 13.0835317,
+        "lon": 80.2751985,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7710665291,
+        "lat": 13.0835267,
+        "lon": 80.2751567,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9504474773,
+        "lat": 13.0703667,
+        "lon": 80.2737145,
+        "tags": {
+          "bus": "yes",
+          "name": "Simson",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9504474774,
+        "lat": 13.0763679,
+        "lon": 80.2763591,
+        "tags": {
+          "bus": "yes",
+          "name": "Pallavan Salai",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9504474775,
+        "lat": 13.081935,
+        "lon": 80.2774889,
+        "tags": {
+          "bus": "yes",
+          "name": "General Hospital",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9885031455,
+        "lat": 13.0835608,
+        "lon": 80.2738737,
+        "tags": {
+          "name": "Moore Market Complex",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "17",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9885031456,
+        "lat": 13.0836178,
+        "lon": 80.2743736,
+        "tags": {
+          "name": "Moore Market Complex",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "13",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9921938891,
+        "lat": 13.0787743,
+        "lon": 80.2521242,
+        "tags": {
+          "bus": "yes",
+          "name": "KMC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9921938892,
+        "lat": 13.0799617,
+        "lon": 80.2546471,
+        "tags": {
+          "bus": "yes",
+          "name": "Purasawalkam",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9921938893,
+        "lat": 13.083453,
+        "lon": 80.2545545,
+        "tags": {
+          "bus": "yes",
+          "name": "Millers Road",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9921938894,
+        "lat": 13.0872312,
+        "lon": 80.2507024,
+        "tags": {
+          "bus": "yes",
+          "name": "Mekala Theatre",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9921938895,
+        "lat": 13.0906326,
+        "lon": 80.2510679,
+        "tags": {
+          "bus": "yes",
+          "name": "RK Mutt Road",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10137228451,
+        "lat": 13.0689227,
+        "lon": 80.2624415,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10139529277,
+        "lat": 13.0759096,
+        "lon": 80.2640838,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10187877326,
+        "lat": 13.0876838,
+        "lon": 80.2836744,
+        "tags": {
+          "bus": "yes",
+          "name": "Broadway Bus Terminus",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10536613506,
+        "lat": 13.069942,
+        "lon": 80.2725116,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10893129578,
+        "lat": 13.1036664,
+        "lon": 80.2734324,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10931210107,
+        "lat": 13.0687954,
+        "lon": 80.2558494,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11345759533,
+        "lat": 13.0790936,
+        "lon": 80.2499082,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12460941246,
+        "lat": 13.0805405,
+        "lon": 80.2665835,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2024-12-29",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12624560446,
+        "lat": 13.0791255,
+        "lon": 80.261572,
+        "tags": {
+          "amenity": "charging_station",
+          "authentication:app": "yes",
+          "brand": "eesl",
+          "capacity": "60",
+          "covered": "yes",
+          "fee": "no",
+          "level": "0",
+          "motorcar": "yes",
+          "motorcycle": "yes",
+          "opening_hours": "24/7",
+          "socket:type2:output": "22",
+          "socket:type2_cable:output": "22",
+          "socket:type2_combo": "3",
+          "socket:type2_combo:output": "60"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12794255583,
+        "lat": 13.0835001,
+        "lon": 80.2749403,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12794255584,
+        "lat": 13.0835059,
+        "lon": 80.2749931,
+        "tags": {
+          "alt_name": "Chennai Central",
+          "name": "Puratchi Thalaivar Dr. M. G. Ramachandran Central",
+          "name:ta": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 - \u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9f\u0bbe. \u0b8e\u0bae\u0bcd. \u0b9c\u0bbf. \u0bb0\u0bbe\u0bae\u0b9a\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "9",
+          "train": "yes"
+        }
+      }
+    ]
+  }
+}

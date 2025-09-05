@@ -1,0 +1,428 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:29:10Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2851477524,
+        "lat": 19.0485821,
+        "lon": 72.8260458,
+        "tags": {
+          "addr:street": "St John Baptist Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Federal Bank",
+          "brand:wikidata": "Q2044983",
+          "brand:wikipedia": "en:Federal Bank",
+          "check_date": "2023-10-20",
+          "name": "Federal Bank",
+          "name:en": "Federal Bank",
+          "website": "https://www.federalbank.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2851477528,
+        "lat": 19.0497286,
+        "lon": 72.8263437,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Mount Medical Store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4736442881,
+        "lat": 19.0486305,
+        "lon": 72.825887,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Morii Cafe",
+          "name:en": "Morii Cafe",
+          "name:mr": "\u092e\u094b\u0930\u0940 \u0915\u0945\u092b\u0947"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4736444239,
+        "lat": 19.0485691,
+        "lon": 72.8258748,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Taj Mahal Tea House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5256641022,
+        "lat": 19.0482458,
+        "lon": 72.8258712,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "St John Baptist Road",
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "operator": "Domino's Pizza",
+          "phone": "022 6888 6888",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5256641024,
+        "lat": 19.0482585,
+        "lon": 72.8260689,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "St John Baptist Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "brand:wikipedia": "en:Bank of India",
+          "name": "Bank of India",
+          "operator": "Bank of India",
+          "website": "https://www.bankofindia.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5257269338,
+        "lat": 19.0468902,
+        "lon": 72.8196283,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Byramji Jeejeebhoy Road",
+          "amenity": "fast_food",
+          "drive_through": "no",
+          "name": "Sai Samudra",
+          "name:en": "Sai Samudra",
+          "name:hi": "\u0938\u093e\u0908 \u0938\u092e\u0941\u0926\u094d\u0930",
+          "name:mr": "\u0938\u093e\u0908 \u0938\u092e\u0941\u0926\u094d\u0930"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5257269351,
+        "lat": 19.0475156,
+        "lon": 72.8200685,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Byramji Jeejeebhoy Road",
+          "amenity": "cafe",
+          "brand": "Barista",
+          "brand:wikidata": "Q644735",
+          "cuisine": "coffee_shop",
+          "name": "Barista",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12334053397,
+        "lat": 19.0480434,
+        "lon": 72.8252195,
+        "tags": {
+          "amenity": "atm",
+          "brand": "IDBI Bank",
+          "brand:wikidata": "Q3633485",
+          "drive_through": "no",
+          "name": "IDBI Bank",
+          "opening_hours": "24/7",
+          "operator": "IDBI Bank",
+          "operator:wikidata": "Q3633485",
+          "short_name": "IDBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12334053398,
+        "lat": 19.0479902,
+        "lon": 72.825201,
+        "tags": {
+          "amenity": "bank",
+          "brand": "IDBI Bank",
+          "brand:wikidata": "Q3633485",
+          "name": "IDBI Bank",
+          "short_name": "IDBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12695023189,
+        "lat": 19.0492017,
+        "lon": 72.8260317,
+        "tags": {
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "healthcare:speciality": "general",
+          "name": "Dr Madhav and Abha Thombre",
+          "opening_hours": "Mo-Su 10:30-13:30,18:00-21:00",
+          "operator": "Madhav and Abha Thombre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926508540,
+        "lat": 19.0481661,
+        "lon": 72.8260615,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "name": "Bank of India",
+          "name:en": "Bank of India",
+          "operator": "Bank of India",
+          "operator:wikidata": "Q2004439"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926508555,
+        "lat": 19.0473801,
+        "lon": 72.8250462,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "kebab",
+          "drive_through": "no",
+          "name": "The Shawarma and Momo Factory",
+          "name:en": "The Shawarma and Momo Factory",
+          "name:mr": "\u0926 \u0936\u0935\u0930\u092e\u093e \u0906\u0923\u093f \u092e\u094b\u092e\u094b \u092b\u0945\u0915\u094d\u091f\u0930\u0940",
+          "phone": "+91 93211 58685;+91 98338 85522"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926508556,
+        "lat": 19.047414,
+        "lon": 72.8250525,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "nepalese",
+          "name": "Mountain Goat",
+          "name:en": "Mountain Goat",
+          "name:mr": "\u092e\u093e\u0909\u0902\u091f\u0947\u0928 \u0917\u094b\u091f",
+          "opening_hours": "Mo-Su 13:00-01:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12926508557,
+        "lat": 19.0474509,
+        "lon": 72.8250678,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Shree Maruti Medical & General Store",
+          "name:en": "Shree Maruti Medical & General Store",
+          "name:mr": "\u0936\u094d\u0930\u0940 \u092e\u093e\u0930\u0941\u0924\u0940 \u092e\u0947\u0921\u093f\u0915\u0932 \u0906\u0923\u093f \u091c\u0928\u0930\u0932 \u0938\u094d\u091f\u094b\u0905\u0930",
+          "phone": "+91 98197 11538"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12927277234,
+        "lat": 19.0477206,
+        "lon": 72.8251225,
+        "tags": {
+          "amenity": "restaurant",
+          "contact:instagram": "theblackshepherdbom",
+          "cuisine": "british",
+          "name": "The Black Shepherd",
+          "name:en": "The Black Shepherd",
+          "opening_hours": "Mo 11:30-15:30,19:30-23:30; We-Su 11:30-15:30,19:30-23:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12927277235,
+        "lat": 19.0478896,
+        "lon": 72.8251204,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "National Chemist",
+          "name:en": "National Chemist",
+          "name:mr": "\u0928\u0945\u0936\u0928\u0932 \u0915\u0947\u092e\u093f\u0938\u094d\u091f"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12978551518,
+        "lat": 19.0474694,
+        "lon": 72.8200469,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "Byramji Jeejeebhoy Road",
+          "amenity": "cafe",
+          "name": "The Bandstand Pantry",
+          "name:en": "The Bandstand Pantry",
+          "name:mr": "\u0926 \u092c\u0901\u0921\u0938\u094d\u091f\u0945\u0923\u094d\u0921 \u092a\u0948\u0928\u094d\u091f\u094d\u0930\u0940"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13011946557,
+        "lat": 19.0477593,
+        "lon": 72.8207917,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Grounded",
+          "name:en": "Grounded"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13011946600,
+        "lat": 19.0495613,
+        "lon": 72.8211203,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "juice",
+          "name": "Camp Juice Centre",
+          "name:en": "Camp Juice Centre",
+          "name:mr": "\u0915\u0945\u092e\u094d\u092a \u091c\u094d\u092f\u0941\u0938 \u0938\u0947\u0928\u094d\u091f\u0930"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13081505592,
+        "lat": 19.0477731,
+        "lon": 72.8273774,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Nagori A-1 Tea & Kitchen",
+          "name:en": "Nagori A-1 Tea & Kitchen",
+          "name:mr": "\u0928\u093e\u0917\u094b\u0930\u0940 \u090f-\u0967 \u091f\u0940 \u0906\u0923\u093f \u0915\u093f\u091a\u0928"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:29:10Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4273389598,
+        "lat": 19.0553844,
+        "lon": 72.8386116,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Nandi Cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4309819457,
+        "lat": 19.0567446,
+        "lon": 72.828704,
+        "tags": {
+          "addr:city": "Bandra, Mumbai",
+          "addr:postcode": "400050",
+          "addr:street": "St Dominic Street;7th Road",
+          "amenity": "theatre",
+          "name": "St. Andrew's Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4341104057,
+        "lat": 19.0323529,
+        "lon": 72.8387268,
+        "tags": {
+          "addr:street": "Swatantrya Veer Savarkar Marg",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "Hindustan Petroleum",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221297196,
+        "lat": 19.0383201,
+        "lon": 72.8420421,
+        "tags": {
+          "name": "Shitala Devi Mandir",
+          "name:mr": "\u0936\u093f\u0924\u0932\u093e \u0926\u0947\u0935\u0940 \u092e\u0902\u0926\u093f\u0930",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5926157724,
+        "lat": 19.0562025,
+        "lon": 72.8338672,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR La Reve",
+          "name:en": "PVR La Reve",
+          "old_name": "Globus Cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7361030396,
+        "lat": 19.0386879,
+        "lon": 72.8418699,
+        "tags": {
+          "name": "Shitala Devi Mandir",
+          "name:mr": "\u0936\u093f\u0924\u0932\u093e \u0926\u0947\u0935\u0940 \u092e\u0902\u0926\u093f\u0930",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12855459846,
+        "lat": 19.0384641,
+        "lon": 72.8419646,
+        "tags": {
+          "name": "Shitala Devi Mandir",
+          "name:mr": "\u0936\u093f\u0924\u0932\u093e \u0926\u0947\u0935\u0940 \u092e\u0902\u0926\u093f\u0930",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q134454499"
+        }
+      }
+    ]
+  }
+}

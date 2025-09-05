@@ -1,0 +1,510 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:12:35Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 5380366023,
+        "lat": 28.7391895,
+        "lon": 77.1351639,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Kohli Cafe",
+          "phone": "+919999137953"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5380442822,
+        "lat": 28.7390615,
+        "lon": 77.1353427,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Onkar Cafe",
+          "phone": "+919213333670"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138632220,
+        "lat": 28.7371515,
+        "lon": 77.136764,
+        "tags": {
+          "addr:district": "North",
+          "addr:full": "Delhi Govt Dispensary, B-Block, Sector-18, Rohini",
+          "addr:postcode": "110089",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "contact:phone": "27855484",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "DGD Rohini Sector18",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203159,
+        "lat": 28.7449013,
+        "lon": 77.144869,
+        "tags": {
+          "addr:district": "North Delhi",
+          "addr:full": "3, Narain Market, Samaypur, Near Samaypur Badli Metro Station",
+          "addr:postcode": "110042",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Airmid Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203162,
+        "lat": 28.735014,
+        "lon": 77.1401182,
+        "tags": {
+          "addr:district": "North Delhi",
+          "addr:full": "Near Municipal Corporation Primary School, Badli, Rohini",
+          "addr:postcode": "110042",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "ESI TB Hospital",
+          "operator": "Employees' State Insurance",
+          "operator:short": "ESI",
+          "operator:type": "private",
+          "operator:wikidata": "Q3595726",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203166,
+        "lat": 28.7449215,
+        "lon": 77.1431698,
+        "tags": {
+          "addr:district": "North Delhi",
+          "addr:full": "A, Gali Number 10, Teachers Colony, Samaypur",
+          "addr:postcode": "110042",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Delhi Global Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203206,
+        "lat": 28.7327628,
+        "lon": 77.1416494,
+        "tags": {
+          "addr:district": "North Delhi",
+          "addr:full": "Badli Road, Sector 19, Rohini",
+          "addr:postcode": "110042",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Aastha Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203212,
+        "lat": 28.7336313,
+        "lon": 77.1397543,
+        "tags": {
+          "addr:district": "North Delhi",
+          "addr:full": "Plot No.1, Pocket-8B, Dr MC Davar Marg, Sector 19, Rohini",
+          "addr:postcode": "110089",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Ishan Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203249,
+        "lat": 28.7445134,
+        "lon": 77.1441451,
+        "tags": {
+          "addr:district": "North Delhi",
+          "addr:full": "Ground Floor Main, Bawana Road, Samaypur",
+          "addr:postcode": "110042",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "name": "Raj Nursing Home & Orthopaedic Center",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698562244,
+        "lat": 28.7340712,
+        "lon": 77.1390604,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Saroj Medical Institute"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698733947,
+        "lat": 28.72911,
+        "lon": 77.1396576,
+        "tags": {
+          "leisure": "park",
+          "name": "DDA Orchard Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11830035752,
+        "lat": 28.7440311,
+        "lon": 77.1423951,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "level": "0",
+          "name": "Parkash Medical Store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12172358088,
+        "lat": 28.7368719,
+        "lon": 77.1357045,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "ophthalmology",
+          "level": "3",
+          "name": "Dr. Ashwani Ghai's Eye Care Clinic"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:12:35Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 496712226,
+        "lat": 28.7561213,
+        "lon": 77.147976,
+        "tags": {
+          "amenity": "fuel",
+          "name": "IBP Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 913486465,
+        "lat": 28.7259874,
+        "lon": 77.1626826,
+        "tags": {
+          "name": "Jahangirpuri",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2837147019,
+        "lat": 28.7446411,
+        "lon": 77.1382701,
+        "tags": {
+          "name": "Samaypur Badli",
+          "name:hi": "\u0938\u092e\u092f\u092a\u0941\u0930 \u092c\u093e\u0926\u0932\u0940",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SPBI",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q21539950",
+          "wikipedia": "en:Samaypur Badli metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2837147020,
+        "lat": 28.7383795,
+        "lon": 77.1398526,
+        "tags": {
+          "name": "Rohini Sector 18, 19",
+          "name:hi": "\u0930\u094b\u0939\u093f\u0923\u0940 \u0938\u0947\u0915\u094d\u091f\u0930 18, 19",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "RISE",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q26964763",
+          "wikipedia": "en:Rohini Sector 18, 19 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2837147021,
+        "lat": 28.7299173,
+        "lon": 77.1488723,
+        "tags": {
+          "name": "Haiderpur Badli Mor",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "BIMR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3009832163,
+        "lat": 28.730428,
+        "lon": 77.1213536,
+        "tags": {
+          "addr:postcode": "110085",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3689331533,
+        "lat": 28.7296724,
+        "lon": 77.1489146,
+        "tags": {
+          "name": "Haiderpur Badli Mor",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "BIMR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4934333223,
+        "lat": 28.7359418,
+        "lon": 77.1281505,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Petrol pump",
+          "name:en": "Petrol and CNG Pump",
+          "name:hi": "\u092a\u0947\u091f\u094d\u0930\u094b\u0932 \u090f\u0902\u0921 \u0938\u0940 \u090f\u0928 \u091c\u0940 \u092a\u092e\u094d\u092a"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5397665618,
+        "lat": 28.7299398,
+        "lon": 77.1491044,
+        "tags": {
+          "name": "Haiderpur Badli Mor",
+          "name:hi": "\u0939\u0948\u0926\u0930\u092a\u0941\u0930 \u092c\u093e\u0926\u0932\u0940 \u092e\u094b\u095c",
+          "name:ur": "\u062d\u06cc\u062f\u0631 \u067e\u0648\u0631 \u0628\u0627\u062f\u0644\u06cc \u0645\u0648\u0691",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BIMR",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q26964765",
+          "wikipedia": "en:Haiderpur Badli Mor metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777602026,
+        "lat": 28.7259582,
+        "lon": 77.1626316,
+        "tags": {
+          "name": "Jahangirpuri",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6195211392,
+        "lat": 28.7526308,
+        "lon": 77.160424,
+        "tags": {
+          "name": "101 Ka Stand",
+          "public_transport": "stop_position",
+          "share_taxi": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772110,
+        "lat": 28.7259717,
+        "lon": 77.162658,
+        "tags": {
+          "name": "Jahangirpuri",
+          "name:hi": "\u091c\u0939\u093e\u0902\u0917\u0940\u0930\u092a\u0941\u0930\u0940",
+          "name:ur": "\u062c\u06c1\u0627\u0646\u06af\u06cc\u0631 \u067e\u0648\u0631\u06cc",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q862598",
+          "wikipedia": "en:Jahangirpuri metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9105396079,
+        "lat": 28.7258907,
+        "lon": 77.1435129,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9945617503,
+        "lat": 28.7383747,
+        "lon": 77.1398162,
+        "tags": {
+          "name": "Rohini Sector 18, 19",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "RISE",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9945617504,
+        "lat": 28.7383436,
+        "lon": 77.1398643,
+        "tags": {
+          "name": "Rohini Sector 18, 19",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "RISE",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9945617505,
+        "lat": 28.7446158,
+        "lon": 77.1382654,
+        "tags": {
+          "name": "Samaypur Badli",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SPBI",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9945617506,
+        "lat": 28.7446391,
+        "lon": 77.1382993,
+        "tags": {
+          "name": "Samypur Badli",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SPBI",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10703875766,
+        "lat": 28.7263595,
+        "lon": 77.1628441,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11537020815,
+        "lat": 28.7452299,
+        "lon": 77.1368003,
+        "tags": {
+          "bus": "yes",
+          "name": "Samaypur Badli",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12722875210,
+        "lat": 28.7192742,
+        "lon": 77.1404461,
+        "tags": {
+          "advertising": "totem",
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12791142282,
+        "lat": 28.7201815,
+        "lon": 77.1350893,
+        "tags": {
+          "public_transport": "stop_position",
+          "share_taxi": "yes"
+        }
+      }
+    ]
+  }
+}

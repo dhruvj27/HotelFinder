@@ -1,0 +1,787 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:28:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3875761989,
+        "lat": 26.9170881,
+        "lon": 75.743631,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Corner 10"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875761990,
+        "lat": 26.9170983,
+        "lon": 75.7433527,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "short_name": "SBI",
+          "website": "https://www.sbi.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4877294175,
+        "lat": 26.9110124,
+        "lon": 75.7421695,
+        "tags": {
+          "addr:city": "jaipur",
+          "addr:housenumber": "S-5",
+          "addr:postcode": "302021",
+          "addr:street": "JDA Central Market, Beside MTS office, Near Amarpali Circle, Vaishali Nagar",
+          "amenity": "restaurant",
+          "capacity": "50",
+          "delivery": "yes",
+          "email": "hotelmarcinn@gmail.com",
+          "name": "Hotel Marc Inn",
+          "outdoor_seating": "yes",
+          "phone": "+91-9001094661",
+          "smoking": "outside",
+          "takeaway": "yes",
+          "website": "https://www.hotelmarcinn.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6241370967,
+        "lat": 26.9108674,
+        "lon": 75.7425203,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:housenumber": "PLOT NO.3",
+          "addr:postcode": "302021",
+          "addr:street": "GUMMAN PLAZA, Amarpali circle, Vaishali Nagar",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "name": "State Bank of India",
+          "ref:ifsc": "SBIN0004129 (used for RTGS, IMPS and NEFT transactions)",
+          "short_name": "SBI",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6966530615,
+        "lat": 26.9114589,
+        "lon": 75.7448179,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976031026,
+        "lat": 26.9096688,
+        "lon": 75.7433285,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:postcode": "302021",
+          "addr:street": "Gautam Marg",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "brand:wikipedia": "en:Punjab National Bank",
+          "name": "Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976031027,
+        "lat": 26.9109778,
+        "lon": 75.743896,
+        "tags": {
+          "addr:housenumber": "20",
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Shiv Medical & General Store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976031028,
+        "lat": 26.9112339,
+        "lon": 75.7434521,
+        "tags": {
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "brand:wikipedia": "en:KFC",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:wikipedia:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976031029,
+        "lat": 26.9112988,
+        "lon": 75.7433748,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "name": "Pizza Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976031036,
+        "lat": 26.914587,
+        "lon": 75.7387878,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976031037,
+        "lat": 26.9153299,
+        "lon": 75.7437592,
+        "tags": {
+          "addr:street": "Vaishali Circle",
+          "brand": "Big Bazaar",
+          "brand:wikidata": "Q3631008",
+          "name": "Big Bazaar",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976031038,
+        "lat": 26.9124759,
+        "lon": 75.7435624,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976031045,
+        "lat": 26.9100083,
+        "lon": 75.743752,
+        "tags": {
+          "brand": "Reliance Fresh",
+          "brand:wikidata": "Q7311014",
+          "brand:wikipedia": "en:Reliance Fresh",
+          "name": "Reliance Fresh",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7027565979,
+        "lat": 26.9215199,
+        "lon": 75.7426026,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "B-6, Hanuman Nagar, Main Sirsi Road , Khatipura",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "R.K.Yadav Memorial Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7027700037,
+        "lat": 26.9194554,
+        "lon": 75.743105,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "B-52, Gautam Marg, Near Vaishali Circle, Hanuman Nagar, Khatipura",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "J. N. Mishra Memorial Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030706668,
+        "lat": 26.9118613,
+        "lon": 75.7502174,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "D-253, Amrapali Marg, Hanuman Nagar, Vaishali Nagar",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Jain Fertility and Mother Care Hospital",
+          "source": "OpenGovernmentData",
+          "website": "https://www.jainfertility.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7036785909,
+        "lat": 26.9112107,
+        "lon": 75.7420742,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "S-8 Amrapali Marg Vaishali Nagar",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Gupta Child andGenral",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040172653,
+        "lat": 26.9212879,
+        "lon": 75.7412669,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "No. 203, Officers Campus,Sirsi Road,Khatipura",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Metro Hospital and Research Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040431728,
+        "lat": 26.9086862,
+        "lon": 75.7388422,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "305, Vinayak Enclave, Opposite Post Office, Between Nursery & Amrapali Circle, Vaishali Nagar",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Max Vision Eye Care Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040552833,
+        "lat": 26.9212045,
+        "lon": 75.7422278,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "B-67, Main Road",
+          "addr:postcode": "302012",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Thar Hospital Pvt. Ltd.",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7085549985,
+        "lat": 26.9238925,
+        "lon": 75.7455491,
+        "tags": {
+          "addr:street": "Khatipura Road",
+          "brand": "Reliance Fresh",
+          "brand:wikidata": "Q7311014",
+          "name": "Reliance Fresh",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409959,
+        "lat": 26.921774,
+        "lon": 75.745466,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Dashrath Marg, Hanuman Nagar",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Usha Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409968,
+        "lat": 26.9213529,
+        "lon": 75.741565,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Khatipura",
+          "addr:postcode": "302012",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Matrix Heart & Skin Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409969,
+        "lat": 26.9139104,
+        "lon": 75.7461785,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Vaishali Nagar",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "BB Saxena Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409981,
+        "lat": 26.923371,
+        "lon": 75.7414152,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Jaipur",
+          "addr:postcode": "302002",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Prasannam Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409986,
+        "lat": 26.9184598,
+        "lon": 75.7502987,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Veer Vihar, Hanuman Nagar",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "SMS Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409988,
+        "lat": 26.9221716,
+        "lon": 75.7494306,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Chand Bihari Nagar, Hanuman Nagar",
+          "addr:postcode": "302012",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Praveen Joshi Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410038,
+        "lat": 26.9165013,
+        "lon": 75.7470773,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Valmiki Marg",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Unique Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410040,
+        "lat": 26.9249981,
+        "lon": 75.7428092,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Singh Bhoomi, Khatipura",
+          "addr:postcode": "302012",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Aarti Zenana Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410050,
+        "lat": 26.911503,
+        "lon": 75.736644,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Vaishali Nagar",
+          "addr:postcode": "302021",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Krishiv Multi Speciality Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8071848420,
+        "lat": 26.9142475,
+        "lon": 75.7379941,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8071848421,
+        "lat": 26.9143066,
+        "lon": 75.7379933,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name": "South Indian Dosa Corner"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8071848422,
+        "lat": 26.9143082,
+        "lon": 75.7380258,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "juice"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8071848427,
+        "lat": 26.9141322,
+        "lon": 75.7379587,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:housenumber": "Guman Square",
+          "addr:postcode": "302021",
+          "addr:street": "Vaishali Marg",
+          "name": "National Handloom - Vaishali Nagar",
+          "operator": "National Handloom Corporation",
+          "payment:cash": "yes",
+          "payment:contactless": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:electronic_purses": "yes",
+          "payment:maestro": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "payment:visa_debit": "yes",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8071848480,
+        "lat": 26.9139619,
+        "lon": 75.7378824,
+        "tags": {
+          "amenity": "atm",
+          "operator": "bank of india"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8119003843,
+        "lat": 26.9091075,
+        "lon": 75.738462,
+        "tags": {
+          "addr:full": "Jagdamba Colony, Nursery Circle",
+          "amenity": "cafe",
+          "name": "Coffee Break",
+          "opening_hours": "Mo-Su 10:30-23:00",
+          "phone": "+916376615428"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8137399234,
+        "lat": 26.9110073,
+        "lon": 75.7431778,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:street": "Gautam Marg",
+          "name": "Evershine Tower",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8140726962,
+        "lat": 26.9113575,
+        "lon": 75.7443533,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Citibank",
+          "brand:wikidata": "Q857063",
+          "operator": "Citibank",
+          "operator:wikidata": "Q857063",
+          "short_name": "Citi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8140727832,
+        "lat": 26.9114999,
+        "lon": 75.7458821,
+        "tags": {
+          "name": "Easyday Club",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8140978695,
+        "lat": 26.9095339,
+        "lon": 75.7433059,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Allahabad Bank",
+          "brand:wikidata": "Q2018840",
+          "brand:wikipedia": "en:Allahabad Bank",
+          "name": "Allahabad Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8140978704,
+        "lat": 26.9102046,
+        "lon": 75.7434242,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Dengri's - The Restro Lounge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8140978747,
+        "lat": 26.9098853,
+        "lon": 75.7433718,
+        "tags": {
+          "amenity": "bank",
+          "brand": "IDBI Bank",
+          "brand:wikidata": "Q3633485",
+          "brand:wikipedia": "en:IDBI Bank",
+          "name": "IDBI Bank",
+          "short_name": "IDBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8841733704,
+        "lat": 26.9077442,
+        "lon": 75.7434258,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Yes Bank",
+          "brand:wikidata": "Q2040394",
+          "name": "Yes Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8841733705,
+        "lat": 26.9078877,
+        "lon": 75.7433997,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of Maharashtra",
+          "brand:wikidata": "Q2004304",
+          "brand:wikipedia": "en:Bank of Maharashtra",
+          "name": "Bank of Maharashtra"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:28:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3784311886,
+        "lat": 26.9208765,
+        "lon": 75.7300553,
+        "tags": {
+          "bus": "yes",
+          "name": "Panchawala Pulia",
+          "network": "JCTSL",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6938645049,
+        "lat": 26.8954164,
+        "lon": 75.7486286,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:postcode": "302021",
+          "addr:street": "Ajmer Road",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "name": "Inox Movies Cinema",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:online_booking": "yes",
+          "screen": "2"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6966530613,
+        "lat": 26.912806,
+        "lon": 75.7434174,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "Inox Cinemas Vaibhav Tower",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "screen": "2",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230709,
+        "lat": 26.9059908,
+        "lon": 75.7519889,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP - GURU JAMBESHWAR PETRO SERVICES",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230710,
+        "lat": 26.914146,
+        "lon": 75.7528759,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230711,
+        "lat": 26.897245,
+        "lon": 75.7532693,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6978725498,
+        "lat": 26.9204544,
+        "lon": 75.7305273,
+        "tags": {
+          "bus": "yes",
+          "bus_routes": "7",
+          "name": "Panchawala Pulia",
+          "operator": "JCTSL",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

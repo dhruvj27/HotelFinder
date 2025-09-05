@@ -1,0 +1,173 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:02:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7138493159,
+        "lat": 28.5320512,
+        "lon": 77.0931081,
+        "tags": {
+          "addr:district": "New Delhi",
+          "addr:full": "H.No 30, Near Telephone Exchange, Samalka",
+          "addr:postcode": "110037",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "contact:phone": "25065397",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "SPUHC Samalka",
+          "source": "OpenGovernmentData"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:02:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 277420964,
+        "lat": 28.5262252,
+        "lon": 77.1007834,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 277420968,
+        "lat": 28.5336932,
+        "lon": 77.1070198,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 413315327,
+        "lat": 28.5229363,
+        "lon": 77.0996758,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 413315328,
+        "lat": 28.5248952,
+        "lon": 77.100967,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 728300538,
+        "lat": 28.5209438,
+        "lon": 77.0822696,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2511126268,
+        "lat": 28.5403844,
+        "lon": 77.116556,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum",
+          "source:amenity": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5604865253,
+        "lat": 28.5222272,
+        "lon": 77.0819917,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5605096892,
+        "lat": 28.5234741,
+        "lon": 77.0830356,
+        "tags": {
+          "bus": "yes",
+          "name": "Kapashera Border",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5605096900,
+        "lat": 28.5229846,
+        "lon": 77.0828363,
+        "tags": {
+          "bus": "yes",
+          "name": "Kapashera Border",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5753261921,
+        "lat": 28.549499,
+        "lon": 77.1045577,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Transfer bus station",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8932926096,
+        "lat": 28.5407452,
+        "lon": 77.1168164,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      }
+    ]
+  }
+}

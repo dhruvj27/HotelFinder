@@ -1,0 +1,555 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:20:24Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 545786379,
+        "lat": 18.5124118,
+        "lon": 73.9284574,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411013",
+          "addr:state": "Maharashtra",
+          "addr:street": "Magarpatta Inner Circle",
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "internet_access": "no",
+          "name": "Yummy Tummy",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1532852993,
+        "lat": 18.5124268,
+        "lon": 73.9285386,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411013",
+          "addr:state": "Maharashtra",
+          "addr:street": "Magarpatta Inner Circle",
+          "amenity": "cafe",
+          "atm": "no",
+          "cuisine": "coffee_shop",
+          "drive_through": "no",
+          "name": "Cafe Coffee Day",
+          "smoking": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1532852998,
+        "lat": 18.5099291,
+        "lon": 73.9285868,
+        "tags": {
+          "addr:housename": "Destination Center",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "HDFC",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank",
+          "short_name": "HDFC",
+          "website": "https://www.hdfcbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1532852999,
+        "lat": 18.5096188,
+        "lon": 73.9283508,
+        "tags": {
+          "addr:city": "Magarpatta City",
+          "addr:housename": "Destination Center",
+          "addr:postcode": "411028",
+          "addr:street": "Destination Centre",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Global Punjab",
+          "phone": "+9102067225957",
+          "website": "http://www.global-punjab.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1532853001,
+        "lat": 18.5094711,
+        "lon": 73.9286247,
+        "tags": {
+          "addr:housename": "Destination Center",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank",
+          "name:en": "Punjab National Bank",
+          "short_name": "PNB",
+          "website": "https://www.pnbindia.in",
+          "wikidata": "Q2743499",
+          "wikimedia_commons": "Category:Punjab National Bank",
+          "wikipedia": "en:Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1710015241,
+        "lat": 18.5050823,
+        "lon": 73.9279049,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Shamli"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1710015243,
+        "lat": 18.5032866,
+        "lon": 73.9277976,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Bashri"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2827466755,
+        "lat": 18.5098183,
+        "lon": 73.9281935,
+        "tags": {
+          "amenity": "pharmacy",
+          "atm": "no",
+          "name": "Ranveer Medical"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2827466758,
+        "lat": 18.5096072,
+        "lon": 73.9281761,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Marrakesh"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2827467014,
+        "lat": 18.5099987,
+        "lon": 73.9281637,
+        "tags": {
+          "addr:city": "Magarpatta City",
+          "addr:housenumber": "1st Floor",
+          "addr:postcode": "411028",
+          "addr:street": "Destination Centre",
+          "amenity": "doctors",
+          "name": "Omkar Clinic & Sonography Center",
+          "website": "http://www.omkarxray.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2827467019,
+        "lat": 18.5093984,
+        "lon": 73.9281865,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Chennai Express"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4154605789,
+        "lat": 18.5029092,
+        "lon": 73.9277341,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Sahyadri Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4666486136,
+        "lat": 18.5098623,
+        "lon": 73.9286042,
+        "tags": {
+          "amenity": "hospital",
+          "name": "NON",
+          "operator": "BLNOBN"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7044437265,
+        "lat": 18.503468,
+        "lon": 73.9292309,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "84 Placino Behind Vaibhav Theatre Hadapsar Behind Vaibhav Theatre Hadapsar",
+          "addr:postcode": "411028",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Welfare Medical Foundatios, Mohintara Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7045518177,
+        "lat": 18.5025879,
+        "lon": 73.9294803,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "15/2A/2A, Opp Vaibhav Theatre, Pune Solapur Road,Hadapsar",
+          "addr:postcode": "411028",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Zenith Hospital, Pune",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7047804836,
+        "lat": 18.5018572,
+        "lon": 73.9322779,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "# 163/A,Bhosale Garden, Iii Pmc Stop, ,Hadapsar",
+          "addr:postcode": "411028",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Alatkar Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049007104,
+        "lat": 18.5019482,
+        "lon": 73.9315805,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "1st Floor L P Classic, Hadapsar, Pune",
+          "addr:postcode": "411028",
+          "addr:state": "Maharashtra",
+          "addr:subdistrict": "Pune City",
+          "amenity": "hospital",
+          "name": "Shraddha Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7053694039,
+        "lat": 18.5031602,
+        "lon": 73.9321491,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "G & S Tower, Survey No.153/A, Hissa No.1 To 4/21, Magarpatta, Pune-Solapur Road, Hadapsar",
+          "addr:postcode": "411028",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Sahyadri Hospital Hadapsar",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054524654,
+        "lat": 18.5008462,
+        "lon": 73.9305311,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "84, Palacino Appartments, Behind Vaibhav Theatre, Pune-Solapur Road, Hadapsar, Pune-411028",
+          "addr:postcode": "411028",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "general",
+          "name": "Mohintara Hospital, Hadapsar",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7064364271,
+        "lat": 18.5023551,
+        "lon": 73.9288205,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Kanchanjunga Arcade, Off Pune, Solapur Road, Hadapsur",
+          "addr:postcode": "411028",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Pooja Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7649461774,
+        "lat": 18.5035846,
+        "lon": 73.9273481,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Magarpatta Road, North Hadapsar, Pune",
+          "addr:postcode": "411028",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Noble Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7649461812,
+        "lat": 18.503807,
+        "lon": 73.933446,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "R4-4, Laxmi Vihar, Bhosale Nagar, Hadapsar, Pune",
+          "addr:postcode": "411028",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "Madhavbaug Cardiac Care Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8266859601,
+        "lat": 18.5041351,
+        "lon": 73.9330393,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "First Floor",
+          "addr:postcode": "411028",
+          "addr:street": "Siyona Heights, Bhosale Nagar, Landmark: Above Roll Delight &amp;Laxmi Vihar, Kalyan Bhel, Opposite Brick Castle,, Hadapsar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "ORTHODONTIST",
+          "name": "Dr. Sahu's Dental & Orthodontic Care",
+          "website": "https://www.drsahudentalclinic.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139421798,
+        "lat": 18.504039,
+        "lon": 73.9307918,
+        "tags": {
+          "addr:city": "Pune,Maharashtra, India",
+          "addr:housenumber": "1st Floor",
+          "addr:postcode": "411028",
+          "addr:street": "Gandharva capital Bhosale nagar ,near Villoo Poonawala Hospital, Hadapsar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "orthopaedic_surgeon",
+          "name": "Oasis Orthopaedic & Sonography Clinic",
+          "website": "https://www.oasisclinicpune.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9158173333,
+        "lat": 18.5040531,
+        "lon": 73.9309888,
+        "tags": {
+          "addr:city": "Hadapsar, Pune,Maharashtra, India",
+          "addr:housenumber": "1st Floor",
+          "addr:postcode": "411028",
+          "addr:street": "Gandharva Capital, Behind Sahayadri Hospital, Bhosale Nagar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "orthopaedic_surgeon",
+          "name": "Dr.Sampat Dumbre Patil, orthopaedic surgeon",
+          "website": "https://www.drsampatdumbrepatil.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11436633896,
+        "lat": 18.5048706,
+        "lon": 73.9272792,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411013",
+          "addr:street": "Noble Hospital, Hadapsar,",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "orthopaedics",
+          "name": "Dr. Siddharth Bhandari",
+          "operator": "Novosalus Technology",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11665192168,
+        "lat": 18.5019472,
+        "lon": 73.9302327,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:housenumber": "Office no 110",
+          "addr:postcode": "411028",
+          "addr:street": "City Center, Opp. VAIBHAV THEATRE, Triveni Nagar, Hadapsar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "urologist;andrologist;orthodontist",
+          "name": "Dr. Gulhane's Urology & Dental Clinic",
+          "operator": "Novosalus Technology",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12323567372,
+        "lat": 18.505647,
+        "lon": 73.9255019,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411028",
+          "addr:street": "Spine Care Clinic, 301, 3rd floor, Polaris, Behind Noble Hospital, Magarpatta, Hadapsar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "orthopaedics",
+          "name": "Dr. Hrushikesh Mehata",
+          "operator": "Novosalus Technology",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12325408104,
+        "lat": 18.502052,
+        "lon": 73.9298115,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:housenumber": "408A",
+          "addr:postcode": "411028",
+          "addr:street": "City Center OP, Vaibhav Complex, Triveni Nagar, Hadapsar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "orthopedic;physiotherapy",
+          "name": "Dr. Karkamkar's Orthopedic and Physiotherapy Clinic",
+          "operator": "Novosalus Technology",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12462513908,
+        "lat": 18.5020288,
+        "lon": 73.9298622,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:housenumber": "Office no 207/208",
+          "addr:postcode": "411028",
+          "addr:street": "Second Floor, City Centre, opposite Vaibhav Complex, Laxmi Vihar, Hadapsar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Callus Medhub",
+          "operator": "Novosalus Technology",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12641262080,
+        "lat": 18.5032589,
+        "lon": 73.9273693,
+        "tags": {
+          "amenity": "restaurant",
+          "branch": "Hadapsar",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "NaadBrahma Idli",
+          "website": "https://naadbramha.com/"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:20:24Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 278887458,
+        "lat": 18.5152532,
+        "lon": 73.9330133,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411013",
+          "addr:state": "Maharashtra",
+          "addr:street": "Mundwha Road",
+          "amenity": "fuel",
+          "atm": "no",
+          "brand": "Pure For sure",
+          "fuel": "yes",
+          "name": "Magar Petrol Pump",
+          "operator": "Bharat Petrolium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2539975310,
+        "lat": 18.526967,
+        "lon": 73.9278252,
+        "tags": {
+          "internet_access": "no",
+          "name": "Hadapsar Railway Station",
+          "name:mr": "\u0939\u0921\u092a\u0938\u0930",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "HDP",
+          "train": "yes",
+          "wikidata": "Q18125398",
+          "wikipedia": "en:Hadapsar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2539975630,
+        "lat": 18.5267791,
+        "lon": 73.9277417,
+        "tags": {
+          "public_transport": "stop_position",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2539975640,
+        "lat": 18.5269951,
+        "lon": 73.9271246,
+        "tags": {
+          "public_transport": "stop_position",
+          "train": "yes"
+        }
+      }
+    ]
+  }
+}

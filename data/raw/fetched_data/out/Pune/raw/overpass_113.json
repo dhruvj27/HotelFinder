@@ -1,0 +1,107 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:29:31Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3681734382,
+        "lat": 18.458971,
+        "lon": 73.9118785,
+        "tags": {
+          "amenity": "atm",
+          "name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7086516364,
+        "lat": 18.4685007,
+        "lon": 73.920515,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "At Post Yawat, Pune Solapu Highway",
+          "addr:postcode": "412214",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Om Shakti Chaya Hospital - Rsby",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7112803380,
+        "lat": 18.4564763,
+        "lon": 73.9128604,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "UpSouth Undri"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7112841941,
+        "lat": 18.4575693,
+        "lon": 73.9126839,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "persian",
+          "name": "Sunrise Garden Cafe",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12345146729,
+        "lat": 18.4626,
+        "lon": 73.9133018,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-11-11",
+          "name": "Vijayraj",
+          "name:hi": "Vijayraj"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:29:31Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1223057795,
+        "lat": 18.4690649,
+        "lon": 73.8887342,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411048",
+          "addr:state": "Maharashtra",
+          "addr:street": "Kondhwa Road",
+          "amenity": "fuel",
+          "atm": "no",
+          "fuel": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5302827824,
+        "lat": 18.4691095,
+        "lon": 73.8889138,
+        "tags": {
+          "amenity": "fuel",
+          "name:en": "Sheetal petrol pump"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:33:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1652590431,
+        "lat": 22.5733215,
+        "lon": 88.4138351,
+        "tags": {
+          "addr:postcode": "700106",
+          "check_date": "2023-10-27",
+          "name": "Bigbazar",
+          "opening_hours": "07:00-22:00",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1784288704,
+        "lat": 22.5747278,
+        "lon": 88.4140635,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Shiv Sai Hotel, South Indian Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2365361407,
+        "lat": 22.579402,
+        "lon": 88.4150931,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank",
+          "name:en": "Punjab National Bank",
+          "short_name": "PNB",
+          "website": "https://www.pnbindia.in",
+          "wikimedia_commons": "Category:Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2365903278,
+        "lat": 22.5728078,
+        "lon": 88.4134692,
+        "tags": {
+          "addr:housename": "IB 175, Sector III, Salt Lake City Kolkata",
+          "addr:postcode": "700091",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Subodh Mitra Cancer Hospital and Research Centre",
+          "phone": "03323352515",
+          "source": "OpenGovernmentData",
+          "website": "http://ww16.cancerhospital.org/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2365909564,
+        "lat": 22.5735344,
+        "lon": 88.4132664,
+        "tags": {
+          "addr:housename": "IB Block, Salt Lake City",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "website": "https://www.axisbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2365911216,
+        "lat": 22.573311,
+        "lon": 88.4139758,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India ATM",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460852902,
+        "lat": 22.5769847,
+        "lon": 88.4116653,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "brand:wikipedia": "en:Bank of Baroda",
+          "name": "Bank of Baroda",
+          "name:en": "Bank of Baroda",
+          "short_name": "BoB",
+          "website": "http://www.bankofbaroda.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460852903,
+        "lat": 22.5766752,
+        "lon": 88.4128186,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI",
+          "website": "https://www.sbi.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460852904,
+        "lat": 22.5774801,
+        "lon": 88.410528,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of Maharashtra",
+          "brand:wikidata": "Q2004304",
+          "brand:wikipedia": "en:Bank of Maharashtra",
+          "name": "Bank of Maharashtra",
+          "name:en": "Bank of Maharashtra",
+          "website": "https://www.bankofmaharashtra.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2461185548,
+        "lat": 22.5725403,
+        "lon": 88.4213668,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Bowler's Den"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5574214667,
+        "lat": 22.5746479,
+        "lon": 88.4097647,
+        "tags": {
+          "amenity": "bank",
+          "branch": "personal banking branch",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "opening_hours": "Mo-Th, Sa 09:30-16:00; Su 09:30-12:00",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5576449365,
+        "lat": 22.5771509,
+        "lon": 88.4108575,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Shiraz"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5576449492,
+        "lat": 22.5733134,
+        "lon": 88.4091261,
+        "tags": {
+          "addr:housenumber": "125",
+          "addr:street": "IA Block, Sector 3",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Medicos",
+          "opening_hours": "Mo-We, Fr-Su 10:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5576452047,
+        "lat": 22.5732695,
+        "lon": 88.4089389,
+        "tags": {
+          "amenity": "atm",
+          "name": "United Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048691389,
+        "lat": 22.5713405,
+        "lon": 88.416684,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "IC Block Salt Lake,Sector-III",
+          "addr:postcode": "700091",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "check_date": "2023-10-27",
+          "contact:phone": "3323352801",
+          "healthcare": "clinic",
+          "name": "CGHS Polyclinic",
+          "opening_hours": "Mo-Sa 07:30-14:00",
+          "operator:type": "government",
+          "source": "OpenGovernmentData",
+          "website": "http://nb.bsf.gov.in/CGHS%20DIspenseries.pdf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7053438377,
+        "lat": 22.5726216,
+        "lon": 88.4090735,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "IA/173, Salt Lake City,Bidhannagar",
+          "addr:postcode": "700097",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "3323352681",
+          "healthcare": "hospital",
+          "name": "Salt Lake Eye Foundation",
+          "source": "OpenGovernmentData",
+          "website": "eyefoundation.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7199853392,
+        "lat": 22.569687,
+        "lon": 88.4152119,
+        "tags": {
+          "addr:district": "North 24 Parganas",
+          "addr:full": "Bidhan Nagar (Salt Lake), Kolkata, West Bengal, Sector-III",
+          "addr:postcode": "700098",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "description": "Medical Colleges Hospital",
+          "healthcare": "hospital",
+          "name": "All India Institute of Hygiene and Public Health (A.I.I.H. & P.H)",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8456994613,
+        "lat": 22.5661293,
+        "lon": 88.4120199,
+        "tags": {
+          "leisure": "playground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10091506118,
+        "lat": 22.5727953,
+        "lon": 88.4214503,
+        "tags": {
+          "addr:postcode": "700106",
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "cuisine": "chicken",
+          "internet_access": "wlan",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "phone": "080 4275 4444",
+          "takeaway": "yes",
+          "website": "https://kfc.co.in/"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:33:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1726094711,
+        "lat": 22.5865031,
+        "lon": 88.4245172,
+        "tags": {
+          "amenity": "fuel",
+          "fuel:diesel": "no",
+          "name": "Daga Service Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1742495415,
+        "lat": 22.5796113,
+        "lon": 88.4257949,
+        "tags": {
+          "addr:housename": "EE Block, Salt Lake City Kolkata, West Bengal 700091\u200e",
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1850221742,
+        "lat": 22.5732985,
+        "lon": 88.4135971,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Broadway"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2017123229,
+        "lat": 22.5777563,
+        "lon": 88.4005168,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460827382,
+        "lat": 22.5891916,
+        "lon": 88.4092137,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil Petrol Pump",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2461308629,
+        "lat": 22.5765416,
+        "lon": 88.430382,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP Petrol Pump",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4933663221,
+        "lat": 22.5717932,
+        "lon": 88.4090241,
+        "tags": {
+          "amenity": "fuel",
+          "name": "BP Petrol Pump",
+          "name:en": "BP Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5041514565,
+        "lat": 22.5686412,
+        "lon": 88.4330725,
+        "tags": {
+          "amenity": "cinema",
+          "name": "RDB Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5189264572,
+        "lat": 22.5506812,
+        "lon": 88.4040128,
+        "tags": {
+          "name": "Beleghata",
+          "name:bn": "\u09ac\u09c7\u09b2\u09c7\u0998\u09be\u099f\u09be",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q109968614",
+          "wikipedia": "en:Beleghata metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5189265436,
+        "lat": 22.5720265,
+        "lon": 88.3902669,
+        "tags": {
+          "name": "Phoolbagan",
+          "name:bn": "\u09ab\u09c1\u09b2\u09ac\u09be\u0997\u09be\u09a8",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5189265479,
+        "lat": 22.5862751,
+        "lon": 88.4215241,
+        "tags": {
+          "name": "Karunamoyee",
+          "name:bn": "\u0995\u09b0\u09c1\u09a3\u09be\u09ae\u09af\u09bc\u09c0",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5241930862,
+        "lat": 22.5710125,
+        "lon": 88.4011324,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:short": "INOX",
+          "brand:wikidata": "Q5972349",
+          "name": "Inox Swabhumi",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572045,
+        "lat": 22.5507265,
+        "lon": 88.4039735,
+        "tags": {
+          "name": "Beleghata",
+          "name:bn": "\u09ac\u09c7\u09b2\u09c7\u0998\u09be\u099f\u09be",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q109968614",
+          "wikipedia": "en:Beleghata metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572361,
+        "lat": 22.5862923,
+        "lon": 88.421568,
+        "tags": {
+          "name": "Karunamoyee",
+          "name:bn": "\u0995\u09b0\u09c1\u09a3\u09be\u09ae\u09af\u09bc\u09c0",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572412,
+        "lat": 22.5720898,
+        "lon": 88.3902604,
+        "tags": {
+          "name": "Phoolbagan",
+          "name:bn": "\u09ab\u09c1\u09b2\u09ac\u09be\u0997\u09be\u09a8",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572424,
+        "lat": 22.5809412,
+        "lon": 88.4290204,
+        "tags": {
+          "name": "Salt Lake Sector V",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f\u09b2\u09c7\u0995 \u09b8\u09c7\u0995\u09cd\u099f\u09b0 V",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7628479190,
+        "lat": 22.580895,
+        "lon": 88.4290467,
+        "tags": {
+          "name": "Salt Lake Sector V",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f\u09b2\u09c7\u0995 \u09b8\u09c7\u0995\u09cd\u099f\u09b0 V",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140059,
+        "lat": 22.58638,
+        "lon": 88.4215312,
+        "tags": {
+          "name": "Karunamoyee",
+          "name:bn": "\u0995\u09b0\u09c1\u09a3\u09be\u09ae\u09af\u09bc\u09c0",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Kolkata Metro Rail Corporation Limited (KMRCL)",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KESA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q62019524",
+          "wikipedia": "en:Karunamoyee metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140060,
+        "lat": 22.5904737,
+        "lon": 88.4156247,
+        "tags": {
+          "name": "Central Park",
+          "name:bn": "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Kolkata Metro Rail Corporation Limited (KMRCL)",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CPSA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632539",
+          "wikipedia": "en:Central Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140061,
+        "lat": 22.5903984,
+        "lon": 88.4156434,
+        "tags": {
+          "name": "Central Park",
+          "name:bn": "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140062,
+        "lat": 22.5903593,
+        "lon": 88.4156358,
+        "tags": {
+          "name": "Central Park",
+          "name:bn": "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140063,
+        "lat": 22.5870993,
+        "lon": 88.4078908,
+        "tags": {
+          "name": "City Centre",
+          "name:bn": "\u09b8\u09bf\u099f\u09bf \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Kolkata Metro Rail Corporation Limited (KMRCL)",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CCSC",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q63256235",
+          "wikipedia": "en:City Center metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140064,
+        "lat": 22.5869882,
+        "lon": 88.4079174,
+        "tags": {
+          "name": "City Centre",
+          "name:bn": "\u09b8\u09bf\u099f\u09bf \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140065,
+        "lat": 22.5869532,
+        "lon": 88.4079412,
+        "tags": {
+          "name": "City Centre",
+          "name:bn": "\u09b8\u09bf\u099f\u09bf \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140066,
+        "lat": 22.5800666,
+        "lon": 88.4012962,
+        "tags": {
+          "name": "Bengal Chemical",
+          "name:bn": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u0995\u09c7\u09ae\u09bf\u0995\u09cd\u09af\u09be\u09b2\u09b8",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BCSD",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q63256245",
+          "wikipedia": "en:Bengal Chemical metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140067,
+        "lat": 22.5799802,
+        "lon": 88.4013845,
+        "tags": {
+          "name": "Bengal Chemical",
+          "name:bn": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u0995\u09c7\u09ae\u09bf\u0995\u09cd\u09af\u09be\u09b2\u09b8",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140068,
+        "lat": 22.5799701,
+        "lon": 88.401335,
+        "tags": {
+          "name": "Bengal Chemical",
+          "name:bn": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u0995\u09c7\u09ae\u09bf\u0995\u09cd\u09af\u09be\u09b2\u09b8",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140069,
+        "lat": 22.5731115,
+        "lon": 88.4030891,
+        "tags": {
+          "name": "Salt Lake Stadium",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f \u09b2\u09c7\u0995 \u09b8\u09cd\u099f\u09c7\u09a1\u09bf\u09af\u09bc\u09be\u09ae",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SSSA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q65090392",
+          "wikipedia": "en:Salt Lake Stadium metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140070,
+        "lat": 22.572966,
+        "lon": 88.4030833,
+        "tags": {
+          "name": "Salt Lake Stadium",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f \u09b2\u09c7\u0995 \u09b8\u09cd\u099f\u09c7\u09a1\u09bf\u09af\u09bc\u09be\u09ae",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140071,
+        "lat": 22.5729746,
+        "lon": 88.4031237,
+        "tags": {
+          "name": "Salt Lake Stadium",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f \u09b2\u09c7\u0995 \u09b8\u09cd\u099f\u09c7\u09a1\u09bf\u09af\u09bc\u09be\u09ae",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140072,
+        "lat": 22.5721268,
+        "lon": 88.3902408,
+        "tags": {
+          "name": "Phoolbagan",
+          "name:bn": "\u09ab\u09c1\u09b2\u09ac\u09be\u0997\u09be\u09a8",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PBGB",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632551",
+          "wikipedia": "en:Phoolbagan metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140073,
+        "lat": 22.5809434,
+        "lon": 88.4290872,
+        "tags": {
+          "name": "Salt Lake Sector V",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f\u09b2\u09c7\u0995 \u09b8\u09c7\u0995\u09cd\u099f\u09b0 V",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Kolkata Metro Rail Corporation Limited (KMRCL)",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SVSA",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q55632405",
+          "wikipedia": "en:Salt Lake Sector-V metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10091511718,
+        "lat": 22.5777968,
+        "lon": 88.4010448,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR Cinemas",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11608922669,
+        "lat": 22.5735617,
+        "lon": 88.4075987,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Gyan Mancha"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088458999,
+        "lat": 22.5507084,
+        "lon": 88.4039852,
+        "tags": {
+          "name": "Beleghata",
+          "name:bn": "\u09ac\u09c7\u09b2\u09c7\u0998\u09be\u099f\u09be",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q109968614",
+          "wikipedia": "en:Beleghata metro station"
+        }
+      }
+    ]
+  }
+}

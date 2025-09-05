@@ -1,0 +1,325 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:35:41Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7019217134,
+        "lat": 26.7813383,
+        "lon": 80.8987632,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Md-22, Sector D-1, Lda Coloy, Kanpur Road",
+          "addr:postcode": "226012",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Biraj Maternity and Child Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510640723,
+        "lat": 26.780847,
+        "lon": 80.902821,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Sector D1, Lda Colony, Lucknow",
+          "addr:postcode": "226012",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Brhmashree Eye Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510640728,
+        "lat": 26.7793175,
+        "lon": 80.9046607,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Brahmashree Plaza, Parag Dairy Group, Lda Colony, Lucknow",
+          "addr:postcode": "226012",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Brahmashree Netra Chikitsalaya",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510640793,
+        "lat": 26.774066,
+        "lon": 80.891097,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Behsa, Amausi, Lucknow",
+          "addr:postcode": "226008",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Janki Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510640803,
+        "lat": 26.7769975,
+        "lon": 80.9098691,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Kanpur - Lucknow Road, Near Vishwanath Academy, Ashiyana Colony, Sector M1, Lda Colony, Lucknow",
+          "addr:postcode": "226012",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Arogya Hospital",
+          "source": "Local Knowledge"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:35:41Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2194710817,
+        "lat": 26.7774158,
+        "lon": 80.9026554,
+        "tags": {
+          "name": "Lucknow Amausi Airport",
+          "operator": "NR",
+          "railway": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3997322402,
+        "lat": 26.794391,
+        "lon": 80.891762,
+        "tags": {
+          "name": "Krishna Nagar",
+          "name:hi": "\u0915\u0943\u0937\u094d\u0923\u093e \u0928\u0917\u0930",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3997322777,
+        "lat": 26.7781141,
+        "lon": 80.8828258,
+        "tags": {
+          "name": "Transport Nagar",
+          "name:hi": "\u091f\u094d\u0930\u093e\u0902\u0938\u092a\u094b\u0930\u094d\u091f \u0928\u0917\u0930",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4977531262,
+        "lat": 26.7711411,
+        "lon": 80.8785885,
+        "tags": {
+          "name": "Amausi",
+          "name:hi": "\u0905\u092e\u094c\u0938\u0940",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777576803,
+        "lat": 26.7715478,
+        "lon": 80.8787836,
+        "tags": {
+          "name": "Amausi",
+          "name:hi": "\u0905\u092e\u094c\u0938\u0940",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777576804,
+        "lat": 26.7776382,
+        "lon": 80.8824633,
+        "tags": {
+          "name": "Transport Nagar",
+          "name:hi": "\u091f\u094d\u0930\u093e\u0902\u0938\u092a\u094b\u0930\u094d\u091f \u0928\u0917\u0930",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777576805,
+        "lat": 26.7944007,
+        "lon": 80.8917436,
+        "tags": {
+          "name": "Krishna Nagar",
+          "name:hi": "\u0915\u0943\u0937\u094d\u0923\u093e \u0928\u0917\u0930",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8001538669,
+        "lat": 26.7662824,
+        "lon": 80.8836391,
+        "tags": {
+          "alt_name": "CCS Airport",
+          "name": "Chaudhary Charan Singh International Airport",
+          "name:hi": "\u091a\u094c\u0927\u0930\u0940 \u091a\u0930\u0923 \u0938\u093f\u0902\u0939 \u0905\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q20861591",
+          "wikipedia": "en:Chaudhary Charan Singh International Airport metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8001987860,
+        "lat": 26.7662799,
+        "lon": 80.8841756,
+        "tags": {
+          "alt_name": "CCS Airport",
+          "name": "Chaudhary Charan Singh International Airport",
+          "name:hi": "\u091a\u094c\u0927\u0930\u0940 \u091a\u0930\u0923 \u0938\u093f\u0902\u0939 \u0905\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8001987861,
+        "lat": 26.7663145,
+        "lon": 80.8830062,
+        "tags": {
+          "alt_name": "CCS Airport",
+          "name": "Chaudhary Charan Singh International Airport",
+          "name:hi": "\u091a\u094c\u0927\u0930\u0940 \u091a\u0930\u0923 \u0938\u093f\u0902\u0939 \u0905\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8006089160,
+        "lat": 26.7943833,
+        "lon": 80.8917825,
+        "tags": {
+          "name": "Krishna Nagar",
+          "name:hi": "\u0915\u0943\u0937\u094d\u0923\u093e \u0928\u0917\u0930",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8006089161,
+        "lat": 26.777877,
+        "lon": 80.8826512,
+        "tags": {
+          "name": "Transport Nagar",
+          "name:hi": "\u091f\u094d\u0930\u093e\u0902\u0938\u092a\u094b\u0930\u094d\u091f \u0928\u0917\u0930",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q17123999",
+          "wikipedia": "en:Transport Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8006089162,
+        "lat": 26.7713636,
+        "lon": 80.8786976,
+        "tags": {
+          "name": "Amausi",
+          "name:hi": "\u0905\u092e\u094c\u0938\u0940",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q17049249",
+          "wikipedia": "en:Amausi metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10899869144,
+        "lat": 26.7873466,
+        "lon": 80.9120308,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil Petrol Pump",
+          "brand:wikidata": "Q1289348",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "Indian Oil Petrol Pump"
+        }
+      }
+    ]
+  }
+}

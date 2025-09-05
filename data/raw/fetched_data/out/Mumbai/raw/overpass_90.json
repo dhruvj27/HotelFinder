@@ -1,0 +1,367 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:46:34Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2313088123,
+        "lat": 19.1352428,
+        "lon": 72.9005482,
+        "tags": {
+          "addr:city": "NITIE PO, Powai, Mumbai",
+          "addr:housename": "State Bank of India",
+          "addr:postcode": "400087",
+          "addr:street": "Vihar Lake Marg",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "note": "Branch Code: 09055",
+          "phone": "022-28575099",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4228622740,
+        "lat": 19.135783,
+        "lon": 72.9084012,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400076",
+          "addr:street": "Main Gate Road",
+          "amenity": "restaurant",
+          "capacity": "20",
+          "name": "Hostel-9 Canteen",
+          "smoking": "no",
+          "takeaway": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4237027990,
+        "lat": 19.1351491,
+        "lon": 72.9001151,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Amrut "
+        }
+      },
+      {
+        "type": "node",
+        "id": 12706725248,
+        "lat": 19.1344729,
+        "lon": 72.9016991,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:housenumber": "#2&3B",
+          "addr:postcode": "400087",
+          "addr:street": "Saki Vihar Road",
+          "amenity": "restaurant",
+          "cuisine": "indian;noodle;breakfast;pasta;mediterranean;dessert;brunch",
+          "diet:gluten_free": "yes",
+          "diet:non-vegetarian": "yes",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Lake View Cafe",
+          "opening_hours": "Mo-Su 06:30-23:00",
+          "phone": "+918657415264",
+          "website": "https://www.lakeviewcafepowai.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12707269500,
+        "lat": 19.1344133,
+        "lon": 72.9015742,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:housenumber": "#2&3B",
+          "addr:postcode": "400087",
+          "addr:street": "Saki Vihar Road",
+          "amenity": "restaurant",
+          "cuisine": "asian;japanese",
+          "diet:non-vegetarian": "yes",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Mayouchi",
+          "opening_hours": "mo-fr 17:00-01:00, sa-su 12:00-01:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12707343285,
+        "lat": 19.1344839,
+        "lon": 72.9014528,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:housenumber": "#2&3B",
+          "addr:postcode": "400087",
+          "addr:street": "Saki Vihar Road",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Nawab Saheb",
+          "opening_hours": "Mo-Su 19:00-23:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12707429519,
+        "lat": 19.1327286,
+        "lon": 72.8997866,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:housenumber": "#2&3B",
+          "addr:postcode": "400087",
+          "addr:street": "Saki Vihar Road",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "pizza;coffee_shop;burger;italian;indian;breakfast;pasta",
+          "name": "Crimson",
+          "opening_hours": "Mo-Su 06:30-23:00"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:46:34Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 668494241,
+        "lat": 19.1319441,
+        "lon": 72.9143666,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Convocation Hall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 668494246,
+        "lat": 19.1322817,
+        "lon": 72.9158301,
+        "tags": {
+          "amenity": "theatre",
+          "name": "LT-PCSA",
+          "name:en": "PC Saxena Auditorium",
+          "toilets:wheelchair": "no",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4409168289,
+        "lat": 19.1242542,
+        "lon": 72.9150736,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil",
+          "name:en": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219518806,
+        "lat": 19.1293634,
+        "lon": 72.8826453,
+        "tags": {
+          "construction": "stop",
+          "name": "SEEPZ Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219518819,
+        "lat": 19.1262047,
+        "lon": 72.8905142,
+        "tags": {
+          "construction": "stop",
+          "name": "Saki Vihar Road Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219519239,
+        "lat": 19.1200084,
+        "lon": 72.9059687,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Lake Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132708011,
+        "lat": 19.1215921,
+        "lon": 72.8989663,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Udyan Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132708012,
+        "lat": 19.1242338,
+        "lon": 72.9137395,
+        "tags": {
+          "construction": "stop",
+          "name": "IIT Powai Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10102658120,
+        "lat": 19.1063277,
+        "lon": 72.8631392,
+        "tags": {
+          "addr:street": "Om Nagar Road",
+          "aeroway": "terminal",
+          "name": "transline air cargo servics pvt ltd unit no 17",
+          "name:en": "transline air cargo services pvt ltd unit no 17"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903239,
+        "lat": 19.1310462,
+        "lon": 72.8841973,
+        "tags": {
+          "name": "Aarey JVLR",
+          "name:mr": "\u0906\u0930\u0947 \u0915\u0949\u0932\u0928\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903240,
+        "lat": 19.1310808,
+        "lon": 72.8842091,
+        "tags": {
+          "name": "Aarey JVLR",
+          "name:mr": "\u0906\u0930\u0947 \u0915\u0949\u0932\u0928\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587493,
+        "lat": 19.129412,
+        "lon": 72.8826469,
+        "tags": {
+          "construction": "stop",
+          "name": "SEEPZ Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587511,
+        "lat": 19.1262483,
+        "lon": 72.8905372,
+        "tags": {
+          "construction": "stop",
+          "name": "Saki Vihar Road Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587528,
+        "lat": 19.1216096,
+        "lon": 72.8990144,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Udyan Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587550,
+        "lat": 19.1200529,
+        "lon": 72.9059473,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Lake Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587586,
+        "lat": 19.1242806,
+        "lon": 72.9137252,
+        "tags": {
+          "construction": "stop",
+          "name": "IIT Powai Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12397216407,
+        "lat": 19.1265213,
+        "lon": 72.9211956,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "name": "Shell"
+        }
+      }
+    ]
+  }
+}

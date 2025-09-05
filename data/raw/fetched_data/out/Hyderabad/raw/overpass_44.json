@@ -1,0 +1,139 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:36:59Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 767999210,
+        "lat": 17.260048,
+        "lon": 78.386917,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hyderabad House",
+          "name:te": "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c39\u0c4c\u0c38\u0c4d"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:36:59Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2531994405,
+        "lat": 17.2634072,
+        "lon": 78.3931714,
+        "tags": {
+          "internet_access": "no",
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "network": "IR",
+          "operator": "SCR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "UR",
+          "train": "yes",
+          "wikidata": "Q12991702",
+          "wikipedia": "en:Umdanagar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3668037747,
+        "lat": 17.2782387,
+        "lon": 78.4081451,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3668040239,
+        "lat": 17.271785,
+        "lon": 78.3971288,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368342,
+        "lat": 17.2631905,
+        "lon": 78.3928344,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368344,
+        "lat": 17.2631397,
+        "lon": 78.3929201,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368345,
+        "lat": 17.2632515,
+        "lon": 78.3927161,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368349,
+        "lat": 17.2632866,
+        "lon": 78.3926577,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368350,
+        "lat": 17.2633511,
+        "lon": 78.3925363,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1260 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:29:10Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4562835192,
+        "lat": 18.9952983,
+        "lon": 72.8315041,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4564918990,
+        "lat": 19.0069934,
+        "lon": 72.8392569,
+        "tags": {
+          "amenity": "bank",
+          "name:en": "Mitradham"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4564949289,
+        "lat": 19.0070037,
+        "lon": 72.8392164,
+        "tags": {
+          "addr:postcode": "400012",
+          "addr:street": "Elphinstone Bridge",
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "name:en": "SBI",
+          "opening_hours": "24/7",
+          "operator": "SBI",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4742740224,
+        "lat": 19.0003871,
+        "lon": 72.8295691,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Barking Deer"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5099872961,
+        "lat": 18.9994432,
+        "lon": 72.8405011,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "35 Dr E Borges Road, Hospital Avenue, Opposite Shirodkar High School, Parel",
+          "addr:postcode": "400012",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "contact:phone": "8024242424",
+          "email": "web.enquiries@globalhospitalsindia.com",
+          "name": "Global Hospital Super Speciality and Transplant Center",
+          "operator": "Global Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "http://www.globalhospitalsindia.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7047933154,
+        "lat": 18.9898598,
+        "lon": 72.8412236,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Royal Garden Next To Girnar Tower Ambawadi Kalachowki",
+          "addr:postcode": "400033",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Aryan Hospital and Icu",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048084564,
+        "lat": 19.0010848,
+        "lon": 72.840364,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Dr Ernest Borges Rd, Parel East,",
+          "addr:postcode": "400012",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Dr Chetan Shetty- Birth & Beyond Clinic Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052388277,
+        "lat": 19.004984,
+        "lon": 72.8432125,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Dr.E Borges Road, Parel",
+          "addr:postcode": "400012",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "email": "info@tmcmail.org; tmcit1@vsnl.com",
+          "name": "Tata Memorial Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "www.tmc.gov.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7058058366,
+        "lat": 19.0005438,
+        "lon": 72.8296269,
+        "tags": {
+          "addr:city": "Lower Parel Mumbai, Maharashtra",
+          "addr:housenumber": "126, Todi Building, Mathuradas Mill Compound,",
+          "addr:postcode": "400013",
+          "addr:street": "Senapati Bapat Marg (Tulsi Pipe Road)",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "delivery": "yes",
+          "name": "Delhi Highway",
+          "opening_hours": "Mo-Su 11:30-23:30",
+          "phone": "+912249710101"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7064867159,
+        "lat": 19.0030769,
+        "lon": 72.8402299,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "58-60 Jehangir Merwanji Street Parel",
+          "addr:postcode": "400012",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "K B Haji Bachooali Charitable Ophthalmic and E N T H",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12555154627,
+        "lat": 18.9998638,
+        "lon": 72.8440226,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12555154638,
+        "lat": 18.9989148,
+        "lon": 72.8434768,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12555154639,
+        "lat": 18.9984079,
+        "lon": 72.84816,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12603333590,
+        "lat": 18.9899194,
+        "lon": 72.8414756,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:housenumber": "36/2515 Abhyudayanagar Sagar Chs",
+          "addr:postcode": "400033",
+          "addr:street": "G D Ambedkar Marg (Parel Tank Road)",
+          "amenity": "hospital",
+          "email": "sattvapediatric@gmail.com",
+          "healthcare": "hospital",
+          "healthcare:speciality": "paediatrics;vaccination;neonatology;child_psychiatry",
+          "image": "https://lh3.googleusercontent.com/p/AF1QipNqWO4N20NhKCfqGCxIpUpdiu8KE_mlghX88Cle=s1360-w1360-h1020",
+          "level": "0",
+          "mobile": "+918655285545",
+          "name": "Sattva Pediatric - Dr. Rishabh K. Shah",
+          "operator": "Dr. Rishabh K. Shah",
+          "operator:type": "private",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:upi": "yes",
+          "website": "https://www.google.com/search?gs_ssp=eJzj4tVP1zc0LE_LMTbILso1YLRSNagwTko1T04zNLO0MDAxNk0ytTKoMDExSzY3Tk42TkkyTDJMM_cSKE4sKSlLVChITclMLCnKTAYA7LAV0Q&q=sattva+pediatric&oq=sattva+pediat&gs_lcrp=EgZjaHJvbWUqDQgBEC4YrwEYxwEYgAQyCggAEAAY4wIYgAQyDQgBEC4YrwEYxwE"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:29:10Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 245658476,
+        "lat": 18.9859,
+        "lon": 72.8427,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 296341039,
+        "lat": 18.997908,
+        "lon": 72.817372,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Worliway Service Station",
+          "operator": "BPCL"
+        }
+      },
+      {
+        "type": "node",
+        "id": 353471603,
+        "lat": 19.0172069,
+        "lon": 72.8431748,
+        "tags": {
+          "name": "Dadar (Central Railway)",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "12",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619290284,
+        "lat": 18.9987319,
+        "lon": 72.854563,
+        "tags": {
+          "name": "Sewri",
+          "name:hi": "\u0936\u093f\u0935\u0921\u093c\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619293686,
+        "lat": 18.9874068,
+        "lon": 72.8327477,
+        "tags": {
+          "level": "-1",
+          "name": "Chinchpokli",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 621911847,
+        "lat": 18.99568,
+        "lon": 72.8302756,
+        "tags": {
+          "ele": "5",
+          "internet_access": "no",
+          "name": "Lower Parel",
+          "name:hi": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0947\u0932",
+          "name:ml": "\u0d32\u0d4b\u0d35\u0d7c \u0d2a\u0d30\u0d7e",
+          "name:mr": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0933",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PL",
+          "start_date": "1867",
+          "train": "yes",
+          "wikidata": "Q6693696",
+          "wikipedia": "en:Lower Parel railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 631525227,
+        "lat": 19.0172817,
+        "lon": 72.8430625,
+        "tags": {
+          "name": "Dadar (Central Railway)",
+          "public_transport": "stop_position",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 631525245,
+        "lat": 19.0189017,
+        "lon": 72.8429524,
+        "tags": {
+          "loc_ref": "3",
+          "name": "Dadar (Western)",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DDR",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 631525247,
+        "lat": 19.0190355,
+        "lon": 72.8428066,
+        "tags": {
+          "loc_ref": "1",
+          "name": "Dadar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 631547822,
+        "lat": 19.0073669,
+        "lon": 72.8357556,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "1",
+          "name": "Prabhadevi",
+          "name:hi": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "name:mr": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "PBHD",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 700886180,
+        "lat": 18.9987796,
+        "lon": 72.8544218,
+        "tags": {
+          "internet_access": "no",
+          "name": "Sewri",
+          "name:hi": "\u0936\u093f\u0935\u0921\u093c\u0940",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SVE",
+          "train": "yes",
+          "wikidata": "Q7458298",
+          "wikipedia": "en:Sewri railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 700886403,
+        "lat": 18.9871866,
+        "lon": 72.8438965,
+        "tags": {
+          "name": "Cotton Green",
+          "name:hi": "\u0915\u0949\u091f\u0928 \u0917\u094d\u0930\u0940\u0928",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CTGN",
+          "wikidata": "Q5175691",
+          "wikipedia": "en:Cotton Green railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1236574903,
+        "lat": 19.0111824,
+        "lon": 72.8205089,
+        "tags": {
+          "amenity": "fuel",
+          "source": "GPS"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1365570208,
+        "lat": 19.0188344,
+        "lon": 72.8430459,
+        "tags": {
+          "loc_ref": "5",
+          "name": "Dadar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1365570210,
+        "lat": 19.0188808,
+        "lon": 72.8429768,
+        "tags": {
+          "loc_ref": "4",
+          "name": "Dadar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1365570212,
+        "lat": 19.0189777,
+        "lon": 72.8428185,
+        "tags": {
+          "loc_ref": "2",
+          "name": "Dadar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2163597903,
+        "lat": 19.0172196,
+        "lon": 72.8431541,
+        "tags": {
+          "name": "Dadar (Central Railway)",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "11",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2443096202,
+        "lat": 18.9775506,
+        "lon": 72.8441011,
+        "tags": {
+          "internet_access": "no",
+          "name": "Reay Road",
+          "name:hi": "\u0930\u0947 \u0930\u094b\u0921",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "RRD",
+          "wikidata": "Q5121780",
+          "wikipedia": "en:Reay Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2444001671,
+        "lat": 18.9945514,
+        "lon": 72.8328707,
+        "tags": {
+          "internet_access": "no",
+          "name": "Currey Road",
+          "name:ml": "\u0d15\u0d31\u0d3f \u0d31\u0d4b\u0d21\u0d4d",
+          "name:mr": "\u0915\u0930\u0940 \u0930\u094b\u0921",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CRD",
+          "wikidata": "Q5121321",
+          "wikipedia": "en:Currey Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2622213367,
+        "lat": 19.0072999,
+        "lon": 72.8358523,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "2",
+          "name": "Prabhadevi",
+          "name:hi": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "name:mr": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "PBHD",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075001,
+        "lat": 18.9766219,
+        "lon": 72.8327936,
+        "tags": {
+          "internet_access": "no",
+          "name": "Byculla",
+          "name:hi": "\u092d\u093e\u092f\u0916\u0932\u093e",
+          "name:ml": "\u0d2c\u0d48\u0d15\u0d41\u0d32\u0d4d\u0d32",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BY",
+          "wikidata": "Q5003980",
+          "wikipedia": "en:Byculla railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075003,
+        "lat": 19.0177342,
+        "lon": 72.8437523,
+        "tags": {
+          "internet_access": "wlan",
+          "name": "Dadar",
+          "name:hi": "\u0926\u093e\u0926\u0930",
+          "name:ml": "\u0d26\u0d3e\u0d26\u0d7c",
+          "name:mr": "\u0926\u093e\u0926\u0930",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DR",
+          "start_date": "1868",
+          "wikidata": "Q5207922",
+          "wikipedia": "en:Dadar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075004,
+        "lat": 19.0192269,
+        "lon": 72.8428479,
+        "tags": {
+          "internet_access": "wlan",
+          "name": "Dadar",
+          "name:hi": "\u0926\u093e\u0926\u0930",
+          "name:ml": "\u0d26\u0d3e\u0d26\u0d7c",
+          "name:mr": "\u0926\u093e\u0926\u0930",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DDR",
+          "start_date": "1868",
+          "train": "yes",
+          "wikidata": "Q5207922",
+          "wikipedia": "en:Dadar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3462327239,
+        "lat": 19.0074717,
+        "lon": 72.8358965,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "historic:ref": "EPR",
+          "internet_access": "no",
+          "name": "Prabhadevi",
+          "name:hi": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "name:ml": "\u0d2a\u0d4d\u0d30\u0d2d\u0d3e\u0d26\u0d47\u0d35\u0d3f",
+          "name:mr": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "name:mr:--2018-07-19": "\u090f\u0932\u092b\u093f\u0928\u094d\u0938\u091f\u0928 \u0930\u094b\u0921",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "official_name": "Prabhadevi",
+          "old_name": "Elphinstone Road",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PBHD",
+          "start_date": "1867",
+          "train": "yes",
+          "wikidata": "Q5367292",
+          "wikipedia": "en:Parel-Prabhadevi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3501418211,
+        "lat": 18.9871984,
+        "lon": 72.8326716,
+        "tags": {
+          "internet_access": "no",
+          "name": "Chinchpokli",
+          "name:hi": "\u091a\u093f\u0902\u091a\u092a\u094b\u0915\u0932\u0940",
+          "name:ml": "\u0d1a\u0d3f\u0d1e\u0d4d\u0d1a\u0d4d\u0d2a\u0d4a\u0d15\u0d4d\u0d32\u0d3f",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CHG",
+          "wikidata": "Q5100314",
+          "wikipedia": "en:Chinchpokli railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3501418212,
+        "lat": 19.0094817,
+        "lon": 72.8376614,
+        "tags": {
+          "IR:zone": "CR:CSMT",
+          "alt_name": "Parel Terminus",
+          "ele": "5.9",
+          "internet_access": "no",
+          "name": "Parel",
+          "name:hi": "\u092a\u0930\u0947\u0932",
+          "name:ml": "\u0d2a\u0d30\u0d7e",
+          "name:mr": "\u092a\u0930\u0933",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PR",
+          "start_date": "1877",
+          "train": "yes",
+          "wikidata": "Q5367292",
+          "wikipedia": "en:Parel-Prabhadevi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3501419652,
+        "lat": 18.987134,
+        "lon": 72.8328365,
+        "tags": {
+          "level": "-1",
+          "name": "Chinchpokli",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3501419682,
+        "lat": 19.0173566,
+        "lon": 72.8428869,
+        "tags": {
+          "name": "Dadar (Central Railway)",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "9",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3806743188,
+        "lat": 19.0015921,
+        "lon": 72.8442272,
+        "tags": {
+          "monorail": "yes",
+          "name": "Ambedkar Nagar",
+          "public_transport": "platform",
+          "railway": "station",
+          "station": "monorail",
+          "wikidata": "Q23926706"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3806743192,
+        "lat": 19.0162531,
+        "lon": 72.8522274,
+        "tags": {
+          "monorail": "yes",
+          "name": "Dadar East",
+          "public_transport": "platform",
+          "railway": "station",
+          "station": "monorail"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3806743194,
+        "lat": 18.9830921,
+        "lon": 72.8285867,
+        "tags": {
+          "alt_name": "Jacob Circle",
+          "monorail": "yes",
+          "name": "Sant Gadge Maharaj Chowk",
+          "public_transport": "platform",
+          "railway": "station",
+          "station": "monorail"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3806743195,
+        "lat": 18.9945142,
+        "lon": 72.8433086,
+        "tags": {
+          "monorail": "yes",
+          "name": "Mint Colony",
+          "public_transport": "platform",
+          "railway": "station",
+          "station": "monorail"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3806743196,
+        "lat": 19.0095393,
+        "lon": 72.8478709,
+        "tags": {
+          "monorail": "yes",
+          "name": "Naigaon",
+          "public_transport": "platform",
+          "railway": "station",
+          "station": "monorail"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4264478427,
+        "lat": 18.9825203,
+        "lon": 72.8242196,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "alt_name": "Mahalakshmi Railway Station",
+          "internet_access": "no",
+          "name": "Mahalaxmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "name:ml": "\u0d2e\u0d39\u0d3e\u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2e\u0d3f",
+          "name:mr": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MX",
+          "start_date": "1867",
+          "train": "yes",
+          "wikidata": "Q6732924",
+          "wikipedia": "en:Mahalaxmi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4264980597,
+        "lat": 18.986503,
+        "lon": 72.8432532,
+        "tags": {
+          "name": "Cotton Green",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5122630399,
+        "lat": 19.0186262,
+        "lon": 72.8444651,
+        "tags": {
+          "name": "Dadar Terminus",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221295394,
+        "lat": 19.015959,
+        "lon": 72.8305616,
+        "tags": {
+          "name": "Siddhivinayak Temple",
+          "name:mr": "\u0938\u093f\u0926\u094d\u0927\u093f\u0935\u093f\u0928\u093e\u092f\u0915 \u092e\u0902\u0926\u093f\u0930",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221295399,
+        "lat": 19.0085959,
+        "lon": 72.8192943,
+        "tags": {
+          "name": "Worli",
+          "name:mr": "\u0935\u0930\u0933\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221297425,
+        "lat": 18.9978264,
+        "lon": 72.8177404,
+        "tags": {
+          "name": "Acharya Atrey Chowk",
+          "name:mr": "\u0906\u091a\u093e\u0930\u094d\u092f \u0905\u0924\u094d\u0930\u0947 \u091a\u094c\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5389227951,
+        "lat": 18.9987462,
+        "lon": 72.8545246,
+        "tags": {
+          "name": "Sewri",
+          "name:hi": "\u0936\u093f\u0935\u0921\u093c\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5389227965,
+        "lat": 18.9865041,
+        "lon": 72.843223,
+        "tags": {
+          "name": "Cotton Green",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5448396122,
+        "lat": 18.9979515,
+        "lon": 72.8372765,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "name:en": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777542294,
+        "lat": 19.0158047,
+        "lon": 72.8313392,
+        "tags": {
+          "name": "Siddhivinayak Temple",
+          "name:mr": "\u0938\u093f\u0926\u094d\u0927\u093f\u0935\u093f\u0928\u093e\u092f\u0915 \u092e\u0902\u0926\u093f\u0930",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777542312,
+        "lat": 18.9978062,
+        "lon": 72.817695,
+        "tags": {
+          "name": "Acharya Atrey Chowk",
+          "name:mr": "\u0906\u091a\u093e\u0930\u094d\u092f \u0905\u0924\u094d\u0930\u0947 \u091a\u094c\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6498408219,
+        "lat": 18.9931201,
+        "lon": 72.8314698,
+        "tags": {
+          "monorail": "yes",
+          "name": "Lower Parel",
+          "public_transport": "platform",
+          "railway": "station",
+          "station": "monorail"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862062,
+        "lat": 18.9774327,
+        "lon": 72.8442643,
+        "tags": {
+          "name": "Reay Road",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862063,
+        "lat": 18.9774257,
+        "lon": 72.8442202,
+        "tags": {
+          "name": "Reay Road",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7511298719,
+        "lat": 18.9821386,
+        "lon": 72.8240475,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "2",
+          "name": "Mahalaxmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7511298720,
+        "lat": 18.982232,
+        "lon": 72.8239368,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "1",
+          "name": "Mahalaxmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7554999656,
+        "lat": 19.0173769,
+        "lon": 72.8428598,
+        "tags": {
+          "name": "Dadar (Central Railway)",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7731605577,
+        "lat": 19.0086178,
+        "lon": 72.8192495,
+        "tags": {
+          "name": "Worli",
+          "name:mr": "\u0935\u0930\u0933\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7802203490,
+        "lat": 19.0095674,
+        "lon": 72.8375091,
+        "tags": {
+          "IR:zone": "CR:CSMT",
+          "local_ref": "1",
+          "name": "Parel",
+          "name:hi": "\u092a\u0930\u0947\u0932",
+          "name:mr": "\u092a\u0930\u0933",
+          "network": "CR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7802203491,
+        "lat": 19.009507,
+        "lon": 72.8376051,
+        "tags": {
+          "IR:zone": "CR:CSMT",
+          "local_ref": "2;2A",
+          "name": "Parel",
+          "name:hi": "\u092a\u0930\u0947\u0932",
+          "name:mr": "\u092a\u0930\u0933",
+          "network": "CR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7802203492,
+        "lat": 19.0094467,
+        "lon": 72.837708,
+        "tags": {
+          "IR:zone": "CR:CSMT",
+          "local_ref": "3",
+          "name": "Parel",
+          "name:hi": "\u092a\u0930\u0947\u0932",
+          "name:mr": "\u092a\u0930\u0933",
+          "network": "CR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7802203493,
+        "lat": 19.0094169,
+        "lon": 72.8377555,
+        "tags": {
+          "IR:zone": "CR:CSMT",
+          "name": "Parel",
+          "name:hi": "\u092a\u0930\u0947\u0932",
+          "name:mr": "\u092a\u0930\u0933",
+          "network": "CR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7802203494,
+        "lat": 19.0093633,
+        "lon": 72.8378243,
+        "tags": {
+          "IR:zone": "CR:CSMT",
+          "name": "Parel",
+          "name:hi": "\u092a\u0930\u0947\u0932",
+          "name:mr": "\u092a\u0930\u0933",
+          "network": "CR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817952879,
+        "lat": 18.9955353,
+        "lon": 72.8300633,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "1",
+          "name": "Lower Parel",
+          "name:hi": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0947\u0932",
+          "name:mr": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0933",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817952880,
+        "lat": 18.9955157,
+        "lon": 72.8301006,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "2",
+          "name": "Lower Parel",
+          "name:hi": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0947\u0932",
+          "name:mr": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0933",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9135966843,
+        "lat": 18.9936274,
+        "lon": 72.8329074,
+        "tags": {
+          "name": "Currey Road",
+          "name:mr": "\u0915\u0930\u0940 \u0930\u094b\u0921",
+          "network": "CR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CRD",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9140706757,
+        "lat": 18.9936375,
+        "lon": 72.8327955,
+        "tags": {
+          "name": "Currey Road",
+          "name:mr": "\u0915\u0930\u0940 \u0930\u094b\u0921",
+          "network": "CR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CRD",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11375281416,
+        "lat": 18.9951198,
+        "lon": 72.8239441,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR Cinemas",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11451997547,
+        "lat": 19.0198704,
+        "lon": 72.8413945,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "INOX",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12171153821,
+        "lat": 19.0174632,
+        "lon": 72.8427266,
+        "tags": {
+          "name": "Dadar (Central Railway)",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12857565154,
+        "lat": 18.9978202,
+        "lon": 72.8177201,
+        "tags": {
+          "name": "Acharya Atrey Chowk",
+          "name:mr": "\u0906\u091a\u093e\u0930\u094d\u092f \u0905\u0924\u094d\u0930\u0947 \u091a\u094c\u0915",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12857565155,
+        "lat": 19.0086057,
+        "lon": 72.8192741,
+        "tags": {
+          "name": "\u0935\u0930\u0933\u0940 Worli",
+          "name:mr": "\u0935\u0930\u0933\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12857565156,
+        "lat": 19.0158935,
+        "lon": 72.8309199,
+        "tags": {
+          "name": "Siddhivinayak Temple",
+          "name:mr": "\u0938\u093f\u0926\u094d\u0927\u093f\u0935\u093f\u0928\u093e\u092f\u0915 \u092e\u0902\u0926\u093f\u0930",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13039483934,
+        "lat": 19.0016284,
+        "lon": 72.8154256,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Hindustan Petroleum Corporation Limited",
+          "name:en": "Hindustan Petroleum Corporation Limited",
+          "name:mr": "\u090f\u091a\u092a\u0940 \u0907\u0902\u0927\u0928 \u0938\u094d\u091f\u0947\u0936\u0928"
+        }
+      }
+    ]
+  }
+}

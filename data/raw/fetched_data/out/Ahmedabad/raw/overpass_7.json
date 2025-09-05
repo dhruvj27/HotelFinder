@@ -1,0 +1,1124 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:56:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 695666627,
+        "lat": 23.0422876,
+        "lon": 72.5699576,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Cyber Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1964926897,
+        "lat": 23.0376713,
+        "lon": 72.565775,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name": "Havmor Restaurant",
+          "operator": "indian&international"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3204931795,
+        "lat": 23.0406536,
+        "lon": 72.5713107,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:street": "Ashram Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "Ahmedabad District Cooperative Bank",
+          "opening_hours": "Mo-Sa 09:30-16:00",
+          "operator": "Ahmedabad Distrcit Cooperative Bank Society"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3293760662,
+        "lat": 23.0368587,
+        "lon": 72.5699511,
+        "tags": {
+          "addr:street": "St. Xavier's College Road",
+          "amenity": "hospital",
+          "name": "saviour annexe hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4358562490,
+        "lat": 23.0384792,
+        "lon": 72.5692563,
+        "tags": {
+          "addr:street": "Ashram Road",
+          "amenity": "bank",
+          "brand:wikidata": "Q2040404",
+          "brand:wikipedia": "en:Kotak Mahindra Bank",
+          "name": "Kotak Mahindra Bank",
+          "name:en": "Kotak Mahindra Bank",
+          "website": "http://www.kotak.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968717622,
+        "lat": 23.0383141,
+        "lon": 72.567755,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Behind Old Gujrat High Court",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Navrangpura",
+          "amenity": "hospital",
+          "contact:phone": "7927540336",
+          "name": "Jagmohan Hospital, Ahmedabad",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6969886484,
+        "lat": 23.0486991,
+        "lon": 72.5665131,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "3/A,Vikramnagar Society Near panchshil Bus Stop Usmanpura",
+          "addr:postcode": "380013",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Navkar Surgical Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970150307,
+        "lat": 23.0467529,
+        "lon": 72.5695668,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1, Vidya Nagar Soc No.1, OppositeUsmanpura Garden",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Chetna Maternity Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970292851,
+        "lat": 23.0474527,
+        "lon": 72.5616422,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Sardar Patel Statue, Stadium Road",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Stadium Road -Ahmedabad",
+          "amenity": "hospital",
+          "email": "info@lifecare.co.in",
+          "name": "Life Care Institute Of Medical Sciences Research Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://www.lifecare.co.in/contact.htm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970443687,
+        "lat": 23.0396088,
+        "lon": 72.5659485,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Dhanlaxmi Complex, Jivraj Park, Vejalpur Road",
+          "addr:postcode": "380015",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Dr Rupesh Shah Killol Children Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970541617,
+        "lat": 23.0376566,
+        "lon": 72.5647707,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "270/B/5, Near Amco Bank, Stadium Circle, Navrangpura",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shrey Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970584034,
+        "lat": 23.0453225,
+        "lon": 72.5623058,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "3Road Flr Royal House,Near Golden Triangal. Stadium Road, Navrangpura",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Welcare Women's Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970930475,
+        "lat": 23.0366258,
+        "lon": 72.5699088,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "25, Suhasnagar Society, B/H. Swastik Super Market, Near Dinesh Hall, Ashram Road",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:phone": "26580064",
+          "name": "Chaturbhai Mavawala Kidney Hospital and Laparoscopic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6973933641,
+        "lat": 23.0481314,
+        "lon": 72.5716656,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Ashram Road",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Aalok Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6973933657,
+        "lat": 23.0472984,
+        "lon": 72.5622028,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1st Floor, Chandraprabhu Complex, Near Sardar Patel Statue",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shalin Eyecare Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6973949897,
+        "lat": 23.0477513,
+        "lon": 72.5626641,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1st Floor, Saptarshi Complex, Near Sardar Patel Bavla, Naranpura",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "email": "pateljitendra66@gmail.com",
+          "name": "Pruthvi Medical Nursing Home and Heart Centre",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "http://pruthvihospital.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6974599099,
+        "lat": 23.0471775,
+        "lon": 72.5654282,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "76-1-B, Kheteswar Bhavan, Kirti Colony, Near Vitthal Bhavan, Usman Pura Underbridge",
+          "addr:postcode": "380013",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Kheteswar Medical Educational and Research Centre Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6974764947,
+        "lat": 23.052411,
+        "lon": 72.5697197,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "21, Shantinagar, Ashram Road, Vadaj",
+          "addr:postcode": "380013",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shah Hospital - Vadaj",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975641054,
+        "lat": 23.0454856,
+        "lon": 72.5623074,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Aabhushan Complex,2nd Floor,Near Golden Triangal,Sardar Patel Stadium Road",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Deep Urosurgical Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976120295,
+        "lat": 23.0461976,
+        "lon": 72.5616597,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "9, Nathalal Colony, Near Sardar Patel Statue, Stadium Road",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Valu Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976489896,
+        "lat": 23.0397778,
+        "lon": 72.5661081,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "B-104, Angel Complex, Near Stadium Five Roads",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Pankit Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6978383380,
+        "lat": 23.0400753,
+        "lon": 72.5777945,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Jay Kunj Cplx. Shanker Bhavan Outside Shahpur Darwaja",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Adwait Ent Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6978561277,
+        "lat": 23.0373342,
+        "lon": 72.57069,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Near Dinesh Hall Ashram Road",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shantilal Parikh Hospital and Check Up Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6978995195,
+        "lat": 23.0411786,
+        "lon": 72.5621706,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "45, Hindu Colony, Nr Stadium Circle, Navrangura",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Pramukh Neurosurgical Hosptial",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6979129057,
+        "lat": 23.0472453,
+        "lon": 72.5624844,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1st Floor, Subhlaxmi Complex, Opposite Sanghvi School, Naran Pura",
+          "addr:postcode": "380013",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Aash Surgical Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6979320336,
+        "lat": 23.0402678,
+        "lon": 72.5659271,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Blue Star Complex, Near Income Tax Railway Under Bridge",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Brain and Spine Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981560332,
+        "lat": 23.0464247,
+        "lon": 72.5709508,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "11, Vidyanagar Society No.2, B/H. Mehta Resturant, Usmanpura",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Kruti Orthopedic Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981681464,
+        "lat": 23.0355015,
+        "lon": 72.5694904,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "CGHS Dispensary No.3, 1, Jeevan PrakashSociety, Darpan Six Roads, Near St.Xaviers School Road, Navrangpura",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "contact:phone": "7926430021",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "CGHS Dispensary No.3",
+          "operator:type": "government",
+          "source": "OpenGovernmentData",
+          "website": "http://nb.bsf.gov.in/CGHS%20DIspenseries.pdf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981922067,
+        "lat": 23.0477933,
+        "lon": 72.5712056,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "103, Ashvarath Shopping Centre, Usmanpura Ashram Road",
+          "addr:postcode": "380013",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Usmanpura",
+          "amenity": "hospital",
+          "email": "drspp2003@yahoo.com",
+          "name": "Patel E.N.T Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982009469,
+        "lat": 23.045074,
+        "lon": 72.5710642,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "# 11, Sundervan Society, Ashram Road, Opposite Vidhyapith, Usmanpura",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Aalap Clinic and Surgical Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982031216,
+        "lat": 23.0364864,
+        "lon": 72.5696392,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Off'ashram Road,Near Kandoibhogilal Mulchand,Dinesh Hall Navrangpura",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Sukhmani Hospital / Saviour Annexe Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982070577,
+        "lat": 23.0459888,
+        "lon": 72.5615689,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "3rd Floor, Soham Complex, Near Navrang, Six Road, Navrangpura",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Ahmedabad",
+          "amenity": "hospital",
+          "email": "sanjivanieyehospital@gmail.com",
+          "name": "Sanjivani Eye Hospital and Phaco Centre, Ahmedabad",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "www.sanjivanieyehospital.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982581436,
+        "lat": 23.0476847,
+        "lon": 72.5663294,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "14, Vadigam Society, Opposite Nemsnath Society",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:mobile": "9825938397",
+          "name": "Adarsh Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6983294306,
+        "lat": 23.0376687,
+        "lon": 72.5652552,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "304, Narayan Complex, Opp,Havmor Restaurant Near Navrangpura",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "amenity": "doctors",
+          "name": "Dr. Suresh K. Bhanshali",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6983409961,
+        "lat": 23.0463124,
+        "lon": 72.5624067,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "14, A, Bharat Colony, Near Sardar Patel Colony, Statue, Stadium Road",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Ahmedabad",
+          "amenity": "hospital",
+          "email": "drjitendra@hotmail.com",
+          "name": "J.Chirag Surgical Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6986605689,
+        "lat": 23.045286,
+        "lon": 72.5617717,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "23, Vishwamitra Complex, Stadium Road Near : Golden Triengle",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Dr Pratap Desai Eye Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6989221492,
+        "lat": 23.040701,
+        "lon": 72.5689566,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Navdeep Complex, Opp Akashwani Near Income Tax Char Rasta, Ashram Road",
+          "addr:postcode": "380014",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Dr J J Vora Memorial General Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6991207885,
+        "lat": 23.0396353,
+        "lon": 72.5659411,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1st Floor, Near Collegian Restaurant, Near Doctor House, Parimal Crossing",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Kavit Urosurgical Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058608,
+        "lat": 23.038118,
+        "lon": 72.576487,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Adhvait Psychiatry Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058634,
+        "lat": 23.037853,
+        "lon": 72.576397,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Neuron Neuro Surgical Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058636,
+        "lat": 23.0402323,
+        "lon": 72.5777147,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Shah Colony, Kazipur Dariyapur",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Krishna Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058664,
+        "lat": 23.0399922,
+        "lon": 72.5778602,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Kazipur Dariyapur",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shivam Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9878358235,
+        "lat": 23.0396084,
+        "lon": 72.5644073,
+        "tags": {
+          "addr:street": "Navrangpura",
+          "amenity": "restaurant",
+          "description": "daskhamanhouse@yahoo.com",
+          "name": "The House of Khaman",
+          "opening_hours": "Mo-Su 08:30-21:30",
+          "phone": "+91 88660 79988",
+          "website": "http://daskhaman.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172958942,
+        "lat": 23.036498,
+        "lon": 72.5696194,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sukhmani hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172958943,
+        "lat": 23.046029,
+        "lon": 72.5615306,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sanjivani Eye Hospital"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:56:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 429460556,
+        "lat": 23.0241439,
+        "lon": 72.5804883,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1782729611,
+        "lat": 23.0268403,
+        "lon": 72.5806381,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2377178512,
+        "lat": 23.0263196,
+        "lon": 72.5841287,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683587,
+        "lat": 23.0282432,
+        "lon": 72.5814362,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683590,
+        "lat": 23.0326462,
+        "lon": 72.5701007,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683591,
+        "lat": 23.0338698,
+        "lon": 72.5695244,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683598,
+        "lat": 23.035934,
+        "lon": 72.568865,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683627,
+        "lat": 23.0423375,
+        "lon": 72.5695809,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683628,
+        "lat": 23.0433539,
+        "lon": 72.5697209,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683629,
+        "lat": 23.0519878,
+        "lon": 72.5902552,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683638,
+        "lat": 23.0555329,
+        "lon": 72.5719936,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683643,
+        "lat": 23.0612354,
+        "lon": 72.580309,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3355794772,
+        "lat": 23.0241902,
+        "lon": 72.5785562,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Lal Darwaja AMTS Bus Stop",
+          "operator": "Ahmedabad Municipal Transport Service",
+          "public_transport": "station",
+          "wikidata": "Q4696119",
+          "wikipedia": "en:Ahmedabad Municipal Transport Service"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4483474713,
+        "lat": 23.0400891,
+        "lon": 72.5781297,
+        "tags": {
+          "addr:street": "Kasturba Gandhi Road",
+          "amenity": "fuel",
+          "name": "CNG Bharat petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701055,
+        "lat": 23.0287794,
+        "lon": 72.586749,
+        "tags": {
+          "name": "Gheekanta",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701067,
+        "lat": 23.0375426,
+        "lon": 72.5670608,
+        "tags": {
+          "name": "Old High Court",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701075,
+        "lat": 23.040679,
+        "lon": 72.5530608,
+        "tags": {
+          "name": "Commerce Six Roads",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622776290,
+        "lat": 23.0564338,
+        "lon": 72.5622541,
+        "tags": {
+          "name": "Vijay Nagar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7020233387,
+        "lat": 23.0430359,
+        "lon": 72.5895319,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name:ko": "Bus stand(from Jodhpur)",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944287421,
+        "lat": 23.0392105,
+        "lon": 72.5810327,
+        "tags": {
+          "name": "Shahpur Station",
+          "name:gu": "\u0ab6\u0abe\u0ab9\u0aaa\u0ac1\u0ab0",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944287424,
+        "lat": 23.028794,
+        "lon": 72.5867752,
+        "tags": {
+          "name": "Gheekanta",
+          "name:gu": "\u0a98\u0ac0\u0a95\u0abe\u0a82\u0a9f\u0abe",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076537516,
+        "lat": 23.0287972,
+        "lon": 72.5868045,
+        "tags": {
+          "name": "Gheekanta",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565224,
+        "lat": 23.0392509,
+        "lon": 72.5810332,
+        "tags": {
+          "name": "Shahpur Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565225,
+        "lat": 23.0391575,
+        "lon": 72.5810285,
+        "tags": {
+          "name": "Shahpur Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565256,
+        "lat": 23.0375956,
+        "lon": 72.5670605,
+        "tags": {
+          "name": "Old High Court",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565279,
+        "lat": 23.0398916,
+        "lon": 72.5616387,
+        "tags": {
+          "name": "Stadium",
+          "name:gu": "\u0ab8\u0acd\u0a9f\u0ac7\u0aa1\u0abf\u0aaf\u0aae",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565280,
+        "lat": 23.0398351,
+        "lon": 72.5616387,
+        "tags": {
+          "name": "Stadium",
+          "name:gu": "\u0ab8\u0acd\u0a9f\u0ac7\u0aa1\u0abf\u0aaf\u0aae",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565295,
+        "lat": 23.0407242,
+        "lon": 72.5530873,
+        "tags": {
+          "name": "Commerce Six Roads",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616710,
+        "lat": 23.0271728,
+        "lon": 72.5688973,
+        "tags": {
+          "name": "Gandhigram",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616711,
+        "lat": 23.0271754,
+        "lon": 72.5688202,
+        "tags": {
+          "name": "Gandhigram",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616748,
+        "lat": 23.0564531,
+        "lon": 72.5623294,
+        "tags": {
+          "name": "Vijay Nagar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616753,
+        "lat": 23.0459092,
+        "lon": 72.564927,
+        "tags": {
+          "name": "Usmanpura",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616754,
+        "lat": 23.045936,
+        "lon": 72.5649953,
+        "tags": {
+          "name": "Usmanpura",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616759,
+        "lat": 23.0374805,
+        "lon": 72.5670541,
+        "tags": {
+          "name": "Old High Court",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616764,
+        "lat": 23.0374696,
+        "lon": 72.5668751,
+        "tags": {
+          "name": "Old High Court",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12526081066,
+        "lat": 23.0575051,
+        "lon": 72.5562557,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

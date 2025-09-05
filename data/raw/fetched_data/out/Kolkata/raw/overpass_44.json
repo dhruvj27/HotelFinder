@@ -1,0 +1,538 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:38:33Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3409030014,
+        "lat": 22.5194936,
+        "lon": 88.3772832,
+        "tags": {
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "short_name": "ICICI",
+          "website": "https://www.icicibank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4716413053,
+        "lat": 22.5194831,
+        "lon": 88.3829381,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6461079485,
+        "lat": 22.5193824,
+        "lon": 88.3852049,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "opening_hours": "24/7",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6461126585,
+        "lat": 22.5191662,
+        "lon": 88.377247,
+        "tags": {
+          "addr:housenumber": "267",
+          "addr:postcode": "700107",
+          "addr:street": "Rajdanga Nabapally",
+          "amenity": "bank",
+          "brand": "Bandhan Bank",
+          "brand:wikidata": "Q19882235",
+          "name": "Bandhan Bank",
+          "name:en": "Bandhan Bank",
+          "opening_hours": "Mo-Su 09:00-17:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7059152397,
+        "lat": 22.5176756,
+        "lon": 88.3713623,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "11A, Station Road, Ballygunge",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "24610315",
+          "healthcare": "clinic",
+          "name": "Acharya Srimat Yogesh Brahmachari Charitable Eye Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062396402,
+        "lat": 22.5188765,
+        "lon": 88.3717764,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "4K, Ballygunge Station Road",
+          "addr:postcode": "700019",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "24611512",
+          "healthcare": "hospital",
+          "name": "B.K.Dutt Memorial Medical Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7065871453,
+        "lat": 22.5111409,
+        "lon": 88.3732912,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "13, Sarat Ghosh Garden Road",
+          "addr:postcode": "700031",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "24152038",
+          "healthcare": "hospital",
+          "name": "Dhakuria Sree Ramkrishna Sebasram",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7071431259,
+        "lat": 22.5155247,
+        "lon": 88.379239,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "183/3,Banku Bihari Chatterjee Road",
+          "addr:postcode": "700042",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "3324412121",
+          "healthcare": "clinic",
+          "name": "Revival Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10557281120,
+        "lat": 22.5180208,
+        "lon": 88.3767903,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:housenumber": "262",
+          "addr:postcode": "700042",
+          "addr:street": "Banku Bihari Chatterjee Road",
+          "amenity": "fast_food",
+          "locality": "Kasba",
+          "name": "Sampa Snacks"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10880624605,
+        "lat": 22.5192763,
+        "lon": 88.3804237,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "The Tasty Bytes"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:38:33Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 419272417,
+        "lat": 22.5021252,
+        "lon": 88.3617949,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "South City Mall",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 651805730,
+        "lat": 22.5191616,
+        "lon": 88.3721923,
+        "tags": {
+          "name": "Ballygunge Junction",
+          "name:bn": "\u09ac\u09be\u09b2\u09bf\u0997\u099e\u09cd\u099c",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BLN",
+          "wikidata": "Q55639257",
+          "wikipedia": "en:Ballygunge Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1341614569,
+        "lat": 22.5094085,
+        "lon": 88.371185,
+        "tags": {
+          "addr:postcode": "700031",
+          "addr:street": "Sarat Ghosh Garden Road",
+          "internet_access": "no",
+          "name": "Dhakuria",
+          "name:bn": "\u09a2\u09be\u0995\u09c1\u09b0\u09bf\u09af\u09bc\u09be",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DHK",
+          "train": "yes",
+          "wheelchair": "no",
+          "wikidata": "Q57237359",
+          "wikipedia": "en:Dhakuria railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1686122936,
+        "lat": 22.526191,
+        "lon": 88.3667029,
+        "tags": {
+          "amenity": "cinema",
+          "check_date": "2023-12-16",
+          "name": "London paris cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1783135288,
+        "lat": 22.5274281,
+        "lon": 88.365843,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2023-12-16",
+          "fuel:GTL_diesel": "yes",
+          "fuel:HGV_diesel": "yes",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "internet_access": "no",
+          "name": "Bharat Petroleum",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1865813499,
+        "lat": 22.5127692,
+        "lon": 88.401791,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Ruby Hospital",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2721264604,
+        "lat": 22.5258882,
+        "lon": 88.3660841,
+        "tags": {
+          "name": "Gariahat Depot",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3641889608,
+        "lat": 22.5166073,
+        "lon": 88.3883991,
+        "tags": {
+          "bus": "yes",
+          "name": "Triborno Sangha",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5189264598,
+        "lat": 22.505295,
+        "lon": 88.4010276,
+        "tags": {
+          "alt_name": "Kalikapur",
+          "name": "Kavi Sukanta",
+          "name:bn": "\u0995\u09ac\u09bf \u09b8\u09c1\u0995\u09be\u09a8\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5189264654,
+        "lat": 22.5148584,
+        "lon": 88.4014626,
+        "tags": {
+          "alt_name": "Ruby Hospital",
+          "name": "Hemanta Mukhopadhyay",
+          "name:bn": "\u09b9\u09c7\u09ae\u09a8\u09cd\u09a4 \u09ae\u09c1\u0996\u09cb\u09aa\u09be\u09a7\u09cd\u09af\u09be\u09af\u09bc",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5768054688,
+        "lat": 22.4951079,
+        "lon": 88.3749813,
+        "tags": {
+          "name": "Jadavpur",
+          "name:bn": "\u09af\u09be\u09a6\u09ac\u09aa\u09c1\u09b0",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JDP",
+          "wikidata": "Q55614817",
+          "wikipedia": "en:Jadavpur railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572069,
+        "lat": 22.5148457,
+        "lon": 88.4014013,
+        "tags": {
+          "alt_name": "Ruby Hospital",
+          "name": "Hemanta Mukhopadhyay",
+          "name:bn": "\u09b9\u09c7\u09ae\u09a8\u09cd\u09a4 \u09ae\u09c1\u0996\u09cb\u09aa\u09be\u09a7\u09cd\u09af\u09be\u09af\u09bc",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572075,
+        "lat": 22.5053042,
+        "lon": 88.4009656,
+        "tags": {
+          "alt_name": "Kalikapur",
+          "name": "Kavi Sukanta",
+          "name:bn": "\u0995\u09ac\u09bf \u09b8\u09c1\u0995\u09be\u09a8\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6956599532,
+        "lat": 22.5022005,
+        "lon": 88.3617984,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "South City Mall",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7028874585,
+        "lat": 22.5015668,
+        "lon": 88.362052,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "INOX South City",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7028874586,
+        "lat": 22.5153371,
+        "lon": 88.393238,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cinepolis",
+          "brand:wikidata": "Q5686673",
+          "name": "Cinepolis"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10115962717,
+        "lat": 22.5093598,
+        "lon": 88.3674117,
+        "tags": {
+          "addr:street": "Dhakuria Bridge",
+          "amenity": "charging_station",
+          "name": "Electric vehicle charging station 20kw &7kw",
+          "name:en": "Electric vehicle charging station 20kw&7kw",
+          "opening_hours": "24/7",
+          "operator": "CESC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11300062926,
+        "lat": 22.4956603,
+        "lon": 88.3705633,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2023-10-30",
+          "name": "Jadavpur 8b Bus Terminal",
+          "public_transport": "station",
+          "source": "local knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11447425091,
+        "lat": 22.5148514,
+        "lon": 88.4014276,
+        "tags": {
+          "name": "Hemanta Mukhopadhyay",
+          "name:bn": "\u09b9\u09c7\u09ae\u09a8\u09cd\u09a4 \u09ae\u09c1\u0996\u09cb\u09aa\u09be\u09a7\u09cd\u09af\u09be\u09af\u09bc",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632588",
+          "wikipedia": "en:Hemanta Mukhopadhyay metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11447425092,
+        "lat": 22.5053017,
+        "lon": 88.4009957,
+        "tags": {
+          "alt_name": "Kalikapur",
+          "name": "Kavi Sukanta",
+          "name:bn": "\u0995\u09ac\u09bf \u09b8\u09c1\u0995\u09be\u09a8\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632590",
+          "wikipedia": "en:Kavi Sukanta metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12920324624,
+        "lat": 22.5018356,
+        "lon": 88.3622265,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "375",
+          "addr:postcode": "700068",
+          "addr:street": "Prince Anwar Shah Road",
+          "amenity": "cinema",
+          "name": "IMAX South City"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485706,
+        "lat": 22.5246738,
+        "lon": 88.3962115,
+        "tags": {
+          "name": "VIP Bazar",
+          "name:bn": "\u09ad\u09bf \u0986\u0987 \u09aa\u09bf \u09ac\u09be\u099c\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485707,
+        "lat": 22.5246847,
+        "lon": 88.3962331,
+        "tags": {
+          "name": "VIP Bazar",
+          "name:bn": "\u09ad\u09bf \u0986\u0987 \u09aa\u09bf \u09ac\u09be\u099c\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632589",
+          "wikipedia": "en:VIP Bazar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485708,
+        "lat": 22.5246963,
+        "lon": 88.3962697,
+        "tags": {
+          "name": "VIP Bazar",
+          "name:bn": "\u09ad\u09bf \u0986\u0987 \u09aa\u09bf \u09ac\u09be\u099c\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

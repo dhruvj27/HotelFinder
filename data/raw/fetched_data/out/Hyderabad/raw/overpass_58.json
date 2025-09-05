@@ -1,0 +1,307 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:40:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3201278048,
+        "lat": 17.3317285,
+        "lon": 78.4605602,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3201281727,
+        "lat": 17.3339267,
+        "lon": 78.461636,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6543812599,
+        "lat": 17.3342065,
+        "lon": 78.4698338,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Jangammet",
+          "addr:state": "Telangana",
+          "addr:street": "Near Govt. Jr.College",
+          "addr:subdistrict": "Charminar",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Community Health Centre, Jangammet",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140901205,
+        "lat": 17.3301804,
+        "lon": 78.467492,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11365536218,
+        "lat": 17.337349,
+        "lon": 78.4680874,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:40:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 307015407,
+        "lat": 17.3413828,
+        "lon": 78.4825938,
+        "tags": {
+          "name": "Huppuguda",
+          "public_transport": "stop_position",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1118754390,
+        "lat": 17.3326604,
+        "lon": 78.4751984,
+        "tags": {
+          "alt_name:ur": "\u0641\u0644\u06a9 \u0646\u0645\u0627",
+          "internet_access": "no",
+          "name": "Falaknuma",
+          "name:ur": "\u0641\u0644\u06a9 \u0646\u0645\u0627\u0621",
+          "network": "IR",
+          "operator": "SCR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "FM",
+          "train": "yes",
+          "wikidata": "Q5431641",
+          "wikipedia": "en:Falaknuma railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1118754593,
+        "lat": 17.3353179,
+        "lon": 78.4683887,
+        "tags": {
+          "construction": "station",
+          "disused": "yes",
+          "name": "Jungametta (u/c)",
+          "name:te": "\u0c1c\u0c02\u0c17\u0c02\u0c2e\u0c47\u0c1f",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1118754617,
+        "lat": 17.3408101,
+        "lon": 78.4683869,
+        "tags": {
+          "construction": "station",
+          "disused:railway": "station",
+          "name": "Shamserganj (u/c)",
+          "name:te": "\u0c37\u0c02\u0c37\u0c47\u0c30\u0c4d\u0c17\u0c02\u0c1c\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1118754623,
+        "lat": 17.3507744,
+        "lon": 78.4723504,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:district": "Hyderabad",
+          "addr:postcode": "500065",
+          "addr:street": "Shah Ali Banda",
+          "construction": "station",
+          "disused:railway": "station",
+          "name": "Shah Ali Banda (u/c)",
+          "name:te": "\u0c37\u0c3e \u0c05\u0c32\u0c40 \u0c2c\u0c02\u0c21\u0c3e",
+          "name:ur": "\u0634\u0627\u06c1 \u0639\u0644\u06cc \u0628\u0646\u062f\u06c1",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1118754666,
+        "lat": 17.3317141,
+        "lon": 78.4699981,
+        "tags": {
+          "construction": "station",
+          "disused": "yes",
+          "name": "Falaknuma Terminal (u/c)",
+          "name:te": "\u0c2b\u0c32\u0c15\u0c4d\u0c28\u0c41\u0c2e\u0c3e \u0c1f\u0c46\u0c30\u0c4d\u0c2e\u0c3f\u0c28\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3201283437,
+        "lat": 17.3161184,
+        "lon": 78.4535401,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3201283438,
+        "lat": 17.3148866,
+        "lon": 78.459247,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5736530966,
+        "lat": 17.3276613,
+        "lon": 78.4787851,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5936896978,
+        "lat": 17.3413588,
+        "lon": 78.4826173,
+        "tags": {
+          "name": "Huppuguda",
+          "public_transport": "stop_position",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7713200653,
+        "lat": 17.3327321,
+        "lon": 78.4748143,
+        "tags": {
+          "name": "Falaknuma",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7713200654,
+        "lat": 17.3326299,
+        "lon": 78.4749497,
+        "tags": {
+          "name": "Falaknuma",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7713200655,
+        "lat": 17.3326568,
+        "lon": 78.4749137,
+        "tags": {
+          "name": "Falaknuma",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500526,
+        "lat": 17.3289967,
+        "lon": 78.4700074,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "TSRTC BUS DEPOT , FAROOQ NAGAR",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500527,
+        "lat": 17.3297406,
+        "lon": 78.4702992,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "TSRTC BUS STAND , FALAKNUMA",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500528,
+        "lat": 17.3370379,
+        "lon": 78.4670365,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "TSRTC BUS DEPOGT, FALAKNUMA",
+          "public_transport": "station"
+        }
+      }
+    ]
+  }
+}

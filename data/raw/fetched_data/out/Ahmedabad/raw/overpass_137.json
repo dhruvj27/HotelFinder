@@ -1,0 +1,1115 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:23:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 631801188,
+        "lat": 23.0116557,
+        "lon": 72.5687622,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Bank Of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1429887846,
+        "lat": 23.0120603,
+        "lon": 72.5691606,
+        "tags": {
+          "amenity": "cafe",
+          "cost:coffee": "$2",
+          "cuisine": "indian",
+          "name": "Chai Gate!!!",
+          "wifi": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1561520723,
+        "lat": 23.0116852,
+        "lon": 72.568823,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Amul"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1781763048,
+        "lat": 23.0047261,
+        "lon": 72.5645714,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand:wikidata": "Q2003789",
+          "brand:wikipedia": "en:Indian Bank",
+          "name": "Indian Bank",
+          "name:en": "Indian Bank",
+          "website": "https://www.indianbank.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1781764967,
+        "lat": 23.0090048,
+        "lon": 72.56227,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Shushtrut Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683248,
+        "lat": 23.0137058,
+        "lon": 72.559847,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "HDFC Bank Paldi Branch"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4633783690,
+        "lat": 23.0199957,
+        "lon": 72.5580704,
+        "tags": {
+          "addr:housenumber": "Gf-7",
+          "addr:postcode": "380006",
+          "addr:street": "Chimanlal Girdharlal Road",
+          "amenity": "restaurant",
+          "cuisine": "burger;sandwich;regional;ice_cream;grill;cake;coffee_shop;pasta;noodles;pancake;pizza;chicken;fish_and_chips;curry;indian;fish;breakfast;savory_pancakes;tea;seafood;sausage;local;barbecue",
+          "diet:vegan": "yes",
+          "email": "tandoorworkz@gmail.com",
+          "name": "Tandoorworkz",
+          "name:en": "Tandoorworkz",
+          "opening_hours": "Mo-Su 11:30-18:30",
+          "phone": "+91 90168 61000"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5119000602,
+        "lat": 23.0160978,
+        "lon": 72.5733412,
+        "tags": {
+          "access": "permissive",
+          "leisure": "garden",
+          "name": "EVENT GROUND"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5527662869,
+        "lat": 23.0144058,
+        "lon": 72.565418,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Udipi Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6969601219,
+        "lat": 23.0133482,
+        "lon": 72.5641099,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Next To Adani Cng & Gajarawala Flats, Paldi Roads Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Bavishi Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6969931781,
+        "lat": 23.014477,
+        "lon": 72.5597177,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Opposite Suvidha Shopping Centre, Near Parimal Under Bridge",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Paldi",
+          "amenity": "hospital",
+          "contact:mobile": "9898236060",
+          "email": "contact@aashthehospital.com",
+          "name": "Aarna Super Speciality Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "http://www.aashthehospital.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6969947773,
+        "lat": 23.0178468,
+        "lon": 72.5582948,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "B-108, Doctor House, Ellisbridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Talsania Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970331911,
+        "lat": 23.0201192,
+        "lon": 72.5615162,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "No. 406-7, Harikrupa Tower,Near Government Ladies Hostel,Behind College,Ellisbridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Niyati Ent Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970468038,
+        "lat": 23.0083964,
+        "lon": 72.561315,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "A-305, Swaminarayan Complex, Above Navjivan Restaurant,Mahalaxmi Five Roads,Near Ankur School,Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Navkar Ear Nose Throat Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970525741,
+        "lat": 23.0172667,
+        "lon": 72.5577027,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1st Floor, Abhigam Complex, Near Parimal Railway Crossing, Opposite Doctor House, Ambawadi",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Parimal Multispeciality Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970544855,
+        "lat": 23.0085551,
+        "lon": 72.5625072,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "#202, Chiranjiv Complex,10-A, Uma Society, Near Mahalaxmi 5 Roads, Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Het Eye Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970732298,
+        "lat": 23.0074188,
+        "lon": 72.5589721,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "203, Murlidhar Complex, Near Fatehpura Bus-Stop, Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Amijyot Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970767778,
+        "lat": 23.0082903,
+        "lon": 72.5595085,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "204, Haash Business Centre, Fatehpura, Paldi",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Ratnam Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970983906,
+        "lat": 23.0165285,
+        "lon": 72.5663348,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "312, Span Trade Center, Paldi",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Gandhi Uro Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971013949,
+        "lat": 23.0183023,
+        "lon": 72.5626011,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "23, Jain Society, Ellisbridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Sannidhya Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6971932525,
+        "lat": 23.0121836,
+        "lon": 72.5589976,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "# 7, Samasta Brahma Kshtriya Society, Shantivan Char Rasta , Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Jyoti Eye Hospital- Phaco Laser Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6974487736,
+        "lat": 23.0073805,
+        "lon": 72.5589064,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "101, Murlidhar Complex, Opposite Ankur School, Fatehpura, Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Sanket Children Hospial",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6974774960,
+        "lat": 23.0194415,
+        "lon": 72.5586167,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "36,Palm Spring,Opposite Collegian Restaurant, Near Doctor House Parimal Crosssing",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Sarthak Orthopaedic Hospital, Parimal Crosssing",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975015289,
+        "lat": 23.0088754,
+        "lon": 72.5623262,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "202, Chiranjeevi Complex, 10-A, Umasociety, Mahalaxmi 5 Roads Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Dr Chirag M Desai Eye Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975605658,
+        "lat": 23.0197773,
+        "lon": 72.5653967,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "50 Pritamnagar, Ellisbridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Dr Praful Munishi's Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975868149,
+        "lat": 23.0162681,
+        "lon": 72.5681533,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "11-12,Nand Apartment",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Dr. Devendra Kanaiyalal Hospital and Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975868159,
+        "lat": 23.0152127,
+        "lon": 72.5638162,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Sumeru Complex Above Tanna Travels Paldi Chor Rasta",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Gheewala Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975904288,
+        "lat": 23.0199612,
+        "lon": 72.5604567,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Ahmedabad",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr.Santosh C.Raibagkar",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976062877,
+        "lat": 23.0182599,
+        "lon": 72.5568886,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "17, Parimal Society B/H Prerna Arcade, Near Parimal Garden",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Diva Eye Institute Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976078072,
+        "lat": 23.011259,
+        "lon": 72.5645041,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "8, Arun Society, Mahalaxmi Cross Road, Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "contact:mobile": "9825296016",
+          "name": "Stavan Eye Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976100898,
+        "lat": 23.0186294,
+        "lon": 72.5584531,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "4Th Floor Nand Kutir B/H Doctor House Nr Parimal Rly Crossing Ellisbridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Khush Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6977128103,
+        "lat": 23.0176604,
+        "lon": 72.560572,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Sonal Nursing Home, Opposite Jalaram Mandir Shitalbaug, Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Paldi",
+          "amenity": "hospital",
+          "name": "Aash Arthoscopy Centre",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://aasharthroscopy.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6977560828,
+        "lat": 23.0109689,
+        "lon": 72.5626293,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "301, Shivalik-5 Above Indore Chat, Mahalaxmi Cross Roads Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shaurya Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6977976017,
+        "lat": 23.0179184,
+        "lon": 72.5582573,
+        "tags": {
+          "addr:district": "Bhavnagar",
+          "addr:full": "Plot No: 2162, Near Hotel Sankalp, Sansakar Mandal",
+          "addr:postcode": "364002",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Om Surgical Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6978371845,
+        "lat": 23.0070435,
+        "lon": 72.5658171,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "203,204,Chirayu Complex,Vishwakunj Char Rasta,Narayan Nagar Road,Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Chirayu Orthopaedic and Spine Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6978384976,
+        "lat": 23.013039,
+        "lon": 72.5637853,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "3Road Floor, Ambika Complex, Paldi Char Rasta",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Long Life Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6978625512,
+        "lat": 23.0188639,
+        "lon": 72.5606538,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "60, Bhrahmin Mitra Mandal Soc., Near Old Sharda Mandir Railway Crossing, Ellisbridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Ahmedabad",
+          "amenity": "hospital",
+          "email": "rajanjoshi44@gmail.com",
+          "name": "Dr.Joshi Maternity And Gynec Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "http://www.joshigynechospital.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6979376757,
+        "lat": 23.0169692,
+        "lon": 72.5667264,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Aashirwad Avenue Nr Deepak, Petrol Pump ,Pritamnagar, Paldi",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Vrundavan Children Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6979514449,
+        "lat": 23.0152967,
+        "lon": 72.5638765,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Sumeru Complex, Opposite Sadhana High School, Paldi Char Rasta",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Krupanidhi Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981981259,
+        "lat": 23.0200612,
+        "lon": 72.5615551,
+        "tags": {
+          "addr:district": "Mahesana",
+          "addr:full": "Near Coneress Bhavan,Opposite District Sudbe Bunglow",
+          "addr:postcode": "384001",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shree Harikrupa Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981982797,
+        "lat": 23.0202065,
+        "lon": 72.5642668,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "#65, Pritamnagar Society, Government Ladies Hospel Road, Near College, Ellisbridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Amardeep Multispeciality Children Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982001510,
+        "lat": 23.0137364,
+        "lon": 72.560387,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1, Jinvihar, Above Sbi, Nr Suvidha Shopping Centre, Paldi",
+          "addr:postcode": "380009",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "R. Tolat Eye Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982092229,
+        "lat": 23.0072793,
+        "lon": 72.5573789,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Ahmedabad",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Ashray Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6983477457,
+        "lat": 23.0059807,
+        "lon": 72.5599363,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Opposite Ankur School Fatehpura,Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Navkalp Children Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6983623776,
+        "lat": 23.010174,
+        "lon": 72.5621974,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "16, First Floor, Shalimar Complex Mahalaxmi, Panch Rasta, Paldi",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Dr. Atul H Kansara `S (E.N.T) Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6983803124,
+        "lat": 23.0201772,
+        "lon": 72.557914,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Tf/4, 3Road Floor, Dev Parimal Garden Cross Roads, C G Road",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "healthcare:speciality": "ophthalmology",
+          "name": "Cure Sight Laser Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6986285730,
+        "lat": 23.0127576,
+        "lon": 72.5670958,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Behind: Shahaliji Dargah",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Peshant House Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6988306349,
+        "lat": 23.014419,
+        "lon": 72.5629203,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "14, Dasha Porwad Society, Behind Palid Bus Stop, Near Gajarawala Flats",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Navkar Plastic Surgery Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6988490440,
+        "lat": 23.0152707,
+        "lon": 72.5638269,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "310, Summeru Complex, Jalaram Mandir Road",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Saraiya Plastic Surgery And Burns Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6988491227,
+        "lat": 23.0090414,
+        "lon": 72.5622276,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "A Unit Of Paldi Hospital 9A, Vivekanand Society, Mahalaxmi Panch Rasta",
+          "addr:postcode": "380007",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Sushrut Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6988534634,
+        "lat": 23.0193453,
+        "lon": 72.5572944,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "4Th Floor,Viva Complex Opp: Parimal Garden Ellisbridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shyam Urological Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6989050324,
+        "lat": 23.0168791,
+        "lon": 72.5667813,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "11, Ashirwad Avenu, Opposite Cocharab Ashram, Pritamnagar, Paldi",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Nishant E N T Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6989112022,
+        "lat": 23.0175456,
+        "lon": 72.5576954,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "A - 101 / 104, Silver Brook, Near Parimal Crossing Ambawdi",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Siddhivinayak Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6990838192,
+        "lat": 23.0193008,
+        "lon": 72.5572461,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1st Floor, Kaycrest, 21-Parimal Society, Above Andhra Bank, Nr Parimal Garden, Ellisbridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Netralaya-The Eye Associates",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6993868923,
+        "lat": 23.0187158,
+        "lon": 72.5714269,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Ellis Bridge",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "email": "Info@nhlmmc.edu.in",
+          "name": "Smt.NHL Municipal Medical College Hospital",
+          "operator:type": "government",
+          "source": "OpenGovernmentData",
+          "website": "https://www.nhlmmc.edu.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6993882537,
+        "lat": 23.016489,
+        "lon": 72.5665225,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "101, Span Trade Centre, Opposite Kochrab Ashram, Near Paldi Char Rasta",
+          "addr:postcode": "380006",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:mobile": "9909013730",
+          "name": "Gujrat Diagnostic Center and Pathology Laboratory",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9844197559,
+        "lat": 23.0172912,
+        "lon": 72.55578,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:postcode": "380006",
+          "addr:street": "No.1, Tulsi Baugh Society Opp. Doctor House, near Parimal Garden, Ambawadi,Gujarat, India",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "consultant_joint_replacement",
+          "name": "Dr. Maulik Patwa",
+          "opening_hours": "available on call",
+          "operator": "Novosalus",
+          "operator:type": "private",
+          "website": "https://drmaulikpatwa.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172958955,
+        "lat": 23.0201123,
+        "lon": 72.5615615,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shree Harikrupa Hospital"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:23:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 429460556,
+        "lat": 23.0241439,
+        "lon": 72.5804883,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 625175627,
+        "lat": 23.0111829,
+        "lon": 72.5707945,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Amphitheatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1781763832,
+        "lat": 23.0045263,
+        "lon": 72.5644882,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Ansh Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1782729611,
+        "lat": 23.0268403,
+        "lon": 72.5806381,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3302227672,
+        "lat": 23.0120486,
+        "lon": 72.5638517,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "fuel:diesel": "yes",
+          "fuel:octane_80": "yes",
+          "name": "Hindustan Petroleum Station",
+          "operator": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683260,
+        "lat": 23.0049181,
+        "lon": 72.5529832,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683465,
+        "lat": 23.0117408,
+        "lon": 72.562166,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683587,
+        "lat": 23.0282432,
+        "lon": 72.5814362,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683590,
+        "lat": 23.0326462,
+        "lon": 72.5701007,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683591,
+        "lat": 23.0338698,
+        "lon": 72.5695244,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3355794772,
+        "lat": 23.0241902,
+        "lon": 72.5785562,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Lal Darwaja AMTS Bus Stop",
+          "operator": "Ahmedabad Municipal Transport Service",
+          "public_transport": "station",
+          "wikidata": "Q4696119",
+          "wikipedia": "en:Ahmedabad Municipal Transport Service"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3393656497,
+        "lat": 23.011445,
+        "lon": 72.5864365,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Adani",
+          "name": "Adani CNG Gas Station",
+          "operator": "Adani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4326504193,
+        "lat": 23.0135186,
+        "lon": 72.5644029,
+        "tags": {
+          "addr:street": "Ashram Road",
+          "amenity": "fuel",
+          "name": "CNG Adani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5527662484,
+        "lat": 23.0140063,
+        "lon": 72.5658082,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616710,
+        "lat": 23.0271728,
+        "lon": 72.5688973,
+        "tags": {
+          "name": "Gandhigram",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076616711,
+        "lat": 23.0271754,
+        "lon": 72.5688202,
+        "tags": {
+          "name": "Gandhigram",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076859848,
+        "lat": 23.0185472,
+        "lon": 72.5623281,
+        "tags": {
+          "name": "Paldi",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076859849,
+        "lat": 23.0184541,
+        "lon": 72.5623806,
+        "tags": {
+          "name": "Paldi",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076859862,
+        "lat": 23.0136478,
+        "lon": 72.5492445,
+        "tags": {
+          "name": "Shreyas",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076859863,
+        "lat": 23.0136045,
+        "lon": 72.5492643,
+        "tags": {
+          "name": "Shreyas",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

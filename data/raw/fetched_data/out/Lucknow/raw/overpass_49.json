@@ -1,0 +1,56 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:11:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 10960067038,
+        "lat": 26.7902439,
+        "lon": 81.0084746,
+        "tags": {
+          "leisure": "playground"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:11:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7597064037,
+        "lat": 26.7711792,
+        "lon": 81.0245555,
+        "tags": {
+          "name": "Bakkas",
+          "operator": "NR",
+          "railway": "station",
+          "ref": "BKKS",
+          "wikidata": "Q66717976"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11734018072,
+        "lat": 26.7837995,
+        "lon": 80.9891435,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

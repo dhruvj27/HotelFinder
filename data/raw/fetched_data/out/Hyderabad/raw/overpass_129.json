@@ -1,0 +1,178 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:53:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 767999210,
+        "lat": 17.260048,
+        "lon": 78.386917,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hyderabad House",
+          "name:te": "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c39\u0c4c\u0c38\u0c4d"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6537086759,
+        "lat": 17.2599543,
+        "lon": 78.3840267,
+        "tags": {
+          "addr:district": "Ranga Reddy",
+          "addr:full": "Road No.7, Madhura Nagar, Shamshabad.",
+          "addr:postcode": "501218",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Trident Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6548867226,
+        "lat": 17.2602591,
+        "lon": 78.3846268,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:full": "MADHURA NAGAR COLONY, NEAR ICICI BANK,SHAMSHABAD",
+          "addr:postcode": "501218",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:phone": "8413225666; 9502288555",
+          "name": "LIMS HOSPITAL",
+          "operator:type": "Private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10989310078,
+        "lat": 17.256659,
+        "lon": 78.3960705,
+        "tags": {
+          "addr:district": "Rangareddy",
+          "addr:place": "Shamshabad",
+          "addr:state": "Telangana",
+          "addr:street": "SY. No. 137, Brundavan colony",
+          "addr:subdistrict": "Shamshabad",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Govt. Unani Dispensary, Shamshabad",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:54:17Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2531994405,
+        "lat": 17.2634072,
+        "lon": 78.3931714,
+        "tags": {
+          "internet_access": "no",
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "network": "IR",
+          "operator": "SCR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "UR",
+          "train": "yes",
+          "wikidata": "Q12991702",
+          "wikipedia": "en:Umdanagar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3668040239,
+        "lat": 17.271785,
+        "lon": 78.3971288,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368342,
+        "lat": 17.2631905,
+        "lon": 78.3928344,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368344,
+        "lat": 17.2631397,
+        "lon": 78.3929201,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368345,
+        "lat": 17.2632515,
+        "lon": 78.3927161,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368349,
+        "lat": 17.2632866,
+        "lon": 78.3926577,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11425368350,
+        "lat": 17.2633511,
+        "lon": 78.3925363,
+        "tags": {
+          "name": "Umdanagar",
+          "name:te": "\u0c09\u0c2e\u0c4d\u0c26\u0c3e\u0c28\u0c17\u0c30\u0c4d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      }
+    ]
+  }
+}

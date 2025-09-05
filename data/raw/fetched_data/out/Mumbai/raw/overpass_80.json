@@ -1,0 +1,368 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:44:31Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1182393187,
+        "lat": 19.2551009,
+        "lon": 72.9804959,
+        "tags": {
+          "amenity": "atm",
+          "operator": "AXIS Bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1182393196,
+        "lat": 19.255263,
+        "lon": 72.9806729,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "website": "https://www.axisbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1235863195,
+        "lat": 19.2538962,
+        "lon": 72.9824227,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Standard Chartered Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1235863200,
+        "lat": 19.2536627,
+        "lon": 72.9820759,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Arcadia Chemist"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1581114996,
+        "lat": 19.2534323,
+        "lon": 72.9802627,
+        "tags": {
+          "amenity": "atm",
+          "operator": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1581118659,
+        "lat": 19.2526676,
+        "lon": 72.9810673,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Spice Up"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1581145453,
+        "lat": 19.2578358,
+        "lon": 72.9825882,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Cafe Coffee Day"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1581157157,
+        "lat": 19.2581624,
+        "lon": 72.9853026,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Natural's Ice Cream"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1581163256,
+        "lat": 19.255253,
+        "lon": 72.9830549,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:postcode": "400607",
+          "addr:street": "Hiranandani Circle",
+          "name": "Nature's Basket",
+          "opening_hours": "Mo-Su 08:00-22:00",
+          "organic": "yes",
+          "shop": "supermarket",
+          "website": "https://www.naturesbasket.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2211189065,
+        "lat": 19.2555036,
+        "lon": 72.9833898,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Ribbons & Balloons Cake Shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4460147089,
+        "lat": 19.2553761,
+        "lon": 72.9833889,
+        "tags": {
+          "amenity": "cafe",
+          "name:en": "D'Crepes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7856273080,
+        "lat": 19.2551245,
+        "lon": 72.9805998,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:place": "Hiranandani Estate",
+          "addr:postcode": "400607",
+          "addr:street": "Forest Avenue",
+          "name": "Magnox",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7856367916,
+        "lat": 19.2554722,
+        "lon": 72.9844192,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "brand:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "brand:wikidata": "Q37158",
+          "brand:wikipedia": "en:Starbucks",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "official_name": "Starbucks Coffee",
+          "official_name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38 \u0a15\u0a4c\u0a2b\u0a40",
+          "official_name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633 \u06a9\u0627\u0641\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7856367918,
+        "lat": 19.2558999,
+        "lon": 72.9837326,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "brand:wikidata": "Q524757",
+          "brand:wikipedia": "en:KFC",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:wikipedia:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7856367919,
+        "lat": 19.2557963,
+        "lon": 72.983906,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "brand:wikipedia": "en:Pizza Hut",
+          "cuisine": "pizza",
+          "name": "Pizza Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7856367920,
+        "lat": 19.2554422,
+        "lon": 72.9845148,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7856367921,
+        "lat": 19.255362,
+        "lon": 72.9846528,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:housenumber": "Haiko Supermarket, The Walk",
+          "addr:place": "Hiranandani Estate",
+          "addr:postcode": "400607",
+          "name": "Haiko Supermarket",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238341882,
+        "lat": 19.2569892,
+        "lon": 72.9845963,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:district": "Thane",
+          "addr:postcode": "400607",
+          "addr:street": "Central Avenue",
+          "dog": "yes",
+          "leisure": "park",
+          "name": "Children's Garden",
+          "opening_hours": "Mo-Su 09:00-18:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12548067913,
+        "lat": 19.2585478,
+        "lon": 72.9793399,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12548067914,
+        "lat": 19.2564988,
+        "lon": 72.9840406,
+        "tags": {
+          "addr:city": "Thane",
+          "addr:district": "Thane",
+          "addr:housenumber": "Fortuna, Hiranandani Estate",
+          "addr:postcode": "400607",
+          "addr:street": "Ghodbunder Road",
+          "leisure": "park",
+          "name": "Reserved Park next to Fortuna",
+          "note": "Restricted Access",
+          "opening_hours": "Mo-Fr 08:00-18:00"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:44:31Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1643401333,
+        "lat": 19.2453131,
+        "lon": 72.9981077,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899082,
+        "lat": 19.2674293,
+        "lon": 72.9666461,
+        "tags": {
+          "construction": "stop",
+          "name": "Kasarvadavli Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899089,
+        "lat": 19.2587261,
+        "lon": 72.9701337,
+        "tags": {
+          "construction": "stop",
+          "name": "Vijay Garden Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8462729071,
+        "lat": 19.2505903,
+        "lon": 72.9732622,
+        "tags": {
+          "construction": "stop",
+          "name": "Dongripada Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238582458,
+        "lat": 19.2505685,
+        "lon": 72.9732191,
+        "tags": {
+          "construction": "stop",
+          "name": "Dongripada Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603158,
+        "lat": 19.2674114,
+        "lon": 72.9666011,
+        "tags": {
+          "construction": "stop",
+          "name": "Kasarvadavli Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603766,
+        "lat": 19.2587098,
+        "lon": 72.970088,
+        "tags": {
+          "construction": "stop",
+          "name": "Vijay Garden Station",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "construction"
+        }
+      }
+    ]
+  }
+}

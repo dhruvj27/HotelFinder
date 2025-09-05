@@ -1,0 +1,2947 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:45:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1189036467,
+        "lat": 22.5727398,
+        "lon": 88.3600196,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Eden Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1189036837,
+        "lat": 22.5722242,
+        "lon": 88.3614363,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Calcutta Medical College & Hospital",
+          "wikidata": "Q3348933",
+          "wikipedia": "en:Medical College and Hospital, Kolkata"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2234881746,
+        "lat": 22.5597288,
+        "lon": 88.3534532,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:country": "IN",
+          "addr:state": "WB",
+          "layer": "-1",
+          "name": "Simpark Mall",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2814399577,
+        "lat": 22.5581513,
+        "lon": 88.3537803,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:housenumber": "8",
+          "addr:postcode": "700016",
+          "addr:street": "Sudder Street",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "New Market",
+          "brand": "Federal Bank",
+          "brand:wikidata": "Q2044983",
+          "brand:wikipedia": "en:Federal Bank",
+          "name": "Federal Bank",
+          "name:en": "Federal Bank",
+          "note": "IFSC: FDRL0001313",
+          "phone": "+913322522456",
+          "source": "http://www.federalbank.co.in/",
+          "website": "https://www.federalbank.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2814449108,
+        "lat": 22.5592286,
+        "lon": 88.3531238,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:housenumber": "8",
+          "addr:postcode": "700087",
+          "addr:street": "Nellie Sengupta Sarani",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "brand:wikipedia": "en:Bank of India",
+          "name": "Bank of India",
+          "name:en": "Bank of India",
+          "note": "IFSC: BKID0004012",
+          "phone": "+913322529907",
+          "short_name": "BoI",
+          "source": "http://www.bankofindia.co.in/",
+          "website": "https://www.bankofindia.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2814506789,
+        "lat": 22.5591914,
+        "lon": 88.3533517,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "New Market",
+          "brand": "Punjab National Bank",
+          "brand:short": "PNB",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank",
+          "website": "https://www.pnbindia.in/",
+          "wikimedia_commons": "Category:Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3406876381,
+        "lat": 22.5703815,
+        "lon": 88.3580264,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178725800,
+        "lat": 22.5743876,
+        "lon": 88.3512328,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Syndicate Bank",
+          "brand:wikidata": "Q2004088",
+          "check_date": "2023-09-30",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Syndicate Bank",
+          "name:en": "Syndicate Bank",
+          "website": "https://www.syndicatebank.in",
+          "wheelchair": "no",
+          "wikimedia_commons": "Category:Syndicate Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178727278,
+        "lat": 22.570432,
+        "lon": 88.3501668,
+        "tags": {
+          "amenity": "bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178731064,
+        "lat": 22.5757409,
+        "lon": 88.351721,
+        "tags": {
+          "amenity": "bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178731070,
+        "lat": 22.5605894,
+        "lon": 88.3514148,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "The Food Bowl"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178731626,
+        "lat": 22.5696335,
+        "lon": 88.3495277,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Punjab & Sind Bank",
+          "brand:en": "Punjab & Sind Bank",
+          "brand:hi": "\u092a\u0902\u091c\u093e\u092c \u090f\u0923\u094d\u0921 \u0938\u093f\u0902\u0927 \u092c\u0948\u0902\u0915",
+          "brand:ur": "\u067e\u0646\u062c\u0627\u0628 \u0627\u06cc\u0646\u0688 \u0633\u0646\u062f\u06be \u0628\u06cc\u0646\u06a9",
+          "brand:website": "https://punjabandsindbank.co.in/",
+          "brand:wikidata": "Q2003302",
+          "name": "Punjab & Sind Bank",
+          "name:en": "Punjab & Sind Bank",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c \u090f\u0923\u094d\u0921 \u0938\u093f\u0902\u0927 \u092c\u0948\u0902\u0915",
+          "name:pa": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c \u0a10\u0a02\u0a21 \u0a38\u0a3f\u0a70\u0a27 \u0a2c\u0a48\u0a02\u0a15",
+          "name:ur": "\u067e\u0646\u062c\u0627\u0628 \u0627\u06cc\u0646\u0688 \u0633\u0646\u062f\u06be \u0628\u06cc\u0646\u06a9"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178806616,
+        "lat": 22.5748989,
+        "lon": 88.3513875,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Citibank",
+          "brand:wikidata": "Q857063",
+          "name": "Citibank",
+          "short_name": "Citi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178815699,
+        "lat": 22.5605413,
+        "lon": 88.3513215,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Brother's snacks"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178818389,
+        "lat": 22.5756595,
+        "lon": 88.3516967,
+        "tags": {
+          "amenity": "bank",
+          "brand:wikidata": "Q5266685",
+          "brand:wikipedia": "en:DCB Bank",
+          "name": "DCB Bank",
+          "name:en": "DCB Bank",
+          "website": "https://www.dcbbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178818390,
+        "lat": 22.5688,
+        "lon": 88.3491785,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "website": "https://www.axisbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4247989992,
+        "lat": 22.558079,
+        "lon": 88.353034,
+        "tags": {
+          "amenity": "restaurant",
+          "delivery": "yes",
+          "internet_access": "wlan",
+          "name": "Blue Sky Cafe",
+          "outdoor_seating": "no",
+          "smoking": "no",
+          "source": "survey",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4368070793,
+        "lat": 22.558407,
+        "lon": 88.352278,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Gaylord's",
+          "smoking": "no",
+          "source": "survey",
+          "takeaway": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4368075292,
+        "lat": 22.558632,
+        "lon": 88.350717,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Zaranj",
+          "name:ko": "\uc11c\ub354\uc2a4\ud2b8\ub9ac\ud2b8",
+          "phone": "+91-33-2249-0369;+91-33-2249-0370;+91-90070-66664;+91-90070-66665",
+          "source": "Survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4368161895,
+        "lat": 22.558779,
+        "lon": 88.352486,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "delivery": "no",
+          "internet_access": "no",
+          "name": "Khalsa",
+          "source": "Survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4573355409,
+        "lat": 22.5615452,
+        "lon": 88.3509288,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name:zh": "\u836f\u5e97"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4592544390,
+        "lat": 22.5635423,
+        "lon": 88.3518097,
+        "tags": {
+          "brand": "Big Bazaar",
+          "brand:wikidata": "Q3631008",
+          "name": "Big Bazaar",
+          "name:en": "Big Bazaar Supermarket",
+          "name:zh": "\u5927\u8d85\u5e02",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4594048692,
+        "lat": 22.5647569,
+        "lon": 88.3533705,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name:zh": "\u836f\u623f1"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4613442991,
+        "lat": 22.565726,
+        "lon": 88.3506294,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Amazing Lassi Stall",
+          "name:en": "Amazing Lassi Stall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4613471489,
+        "lat": 22.5707559,
+        "lon": 88.3475956,
+        "tags": {
+          "amenity": "bank",
+          "brand": "HSBC",
+          "brand:wikidata": "Q190464",
+          "name": "HSBC",
+          "name:en": "HSBC",
+          "opening_hours": "Mo-Sa 10:00-04:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4638153190,
+        "lat": 22.5624082,
+        "lon": 88.3524888,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Tiwari Pure Vegetarian Restaurant",
+          "name:hi": "Tiwari Pure Vegetarian Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4638153290,
+        "lat": 22.5627857,
+        "lon": 88.3527928,
+        "tags": {
+          "addr:housenumber": "140",
+          "addr:street": "Surendra Nath Banerjee Road",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name": "Shree Krishna Mistanna Bhandar140",
+          "name:hi": "Shree Krishna Mistanna Bhandar140"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4715467290,
+        "lat": 22.5721119,
+        "lon": 88.3524008,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Bharat Biryani",
+          "name:en": "Bharat Biryani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4766298584,
+        "lat": 22.5580743,
+        "lon": 88.3541457,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Raj's Spanish Cafe",
+          "name:en": "Raj's Spanish Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4845192822,
+        "lat": 22.5605395,
+        "lon": 88.3516371,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4845252121,
+        "lat": 22.5605007,
+        "lon": 88.3515266,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Wow! Momo",
+          "brand:wikidata": "Q8037446",
+          "cuisine": "momo",
+          "name": "Wow! Momo",
+          "name:en": "Wow! Momo",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4865708823,
+        "lat": 22.5583658,
+        "lon": 88.3541137,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Raj's Spanish Restaurant",
+          "name:en": "Raj's Spanish Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4881322221,
+        "lat": 22.5580809,
+        "lon": 88.3539162,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Taj Continental Restaurant",
+          "name:en": "Taj Continental Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4974790724,
+        "lat": 22.561284,
+        "lon": 88.3509238,
+        "tags": {
+          "addr:housenumber": "26",
+          "addr:street": "Chowringhee Road",
+          "amenity": "restaurant",
+          "name": "1658",
+          "name:en": "1658"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5150935621,
+        "lat": 22.5621436,
+        "lon": 88.3535384,
+        "tags": {
+          "addr:housenumber": "22-23",
+          "addr:street": "Hogg St",
+          "amenity": "cafe",
+          "name": "Nizam's"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5151679224,
+        "lat": 22.5673829,
+        "lon": 88.3517641,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Amber"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5246633421,
+        "lat": 22.568302,
+        "lon": 88.3557366,
+        "tags": {
+          "addr:street": "Ganesh Chandra Road",
+          "amenity": "restaurant",
+          "name": "Broadway Hotel",
+          "name:hi": "Broadway Hotel",
+          "phone": "22363930"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5273034922,
+        "lat": 22.5606952,
+        "lon": 88.351802,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Ruchika"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5295758422,
+        "lat": 22.5736239,
+        "lon": 88.3563641,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sea Voi Eating House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5297233021,
+        "lat": 22.5704949,
+        "lon": 88.3474979,
+        "tags": {
+          "amenity": "bank",
+          "name": "Old Reserve Bank of India Building"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5302960722,
+        "lat": 22.567319,
+        "lon": 88.3545226,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Ananda"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135364809,
+        "lat": 22.5585521,
+        "lon": 88.3521331,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sunset"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6143228719,
+        "lat": 22.5586286,
+        "lon": 88.350755,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sol",
+          "phone": "+91-33-2249-0369;+91-33-2249-0370;+91-90070-66664;+91-90070-66665"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6143232471,
+        "lat": 22.5580361,
+        "lon": 88.3542614,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:housenumber": "6/2",
+          "addr:postcode": "700016",
+          "addr:street": "Sudder Street",
+          "amenity": "restaurant",
+          "name": "Kasturi",
+          "phone": "+91-80176-27592;+91-97489-06025"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6297081786,
+        "lat": 22.5721607,
+        "lon": 88.353319,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Gangotri 100% pure veg & pure awesome"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6433621206,
+        "lat": 22.5666449,
+        "lon": 88.3544854,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:housenumber": "Madan St, Esplanade, Chandni Chawk, Bowbazar, Kolkata, West Bengal",
+          "addr:postcode": "700013",
+          "addr:street": "Madan Street",
+          "name": "Happy Birthday Wishes",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "operator": "Happy Birthday Wishes",
+          "shop": "supermarket",
+          "website": "https://www-happybirthdaywishes.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6447820893,
+        "lat": 22.5613064,
+        "lon": 88.3548313,
+        "tags": {
+          "amenity": "fast_food",
+          "name:ja": "2\u968e\u306e\u30ed\u30fc\u30ab\u30eb\u30ec\u30b9\u30c8\u30e9\u30f3"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6447831193,
+        "lat": 22.5648376,
+        "lon": 88.3543888,
+        "tags": {
+          "amenity": "fast_food",
+          "name:ja": "\u30de\u30fc\u30b1\u30c3\u30c8"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6447831889,
+        "lat": 22.5618667,
+        "lon": 88.352453,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6533478594,
+        "lat": 22.5581343,
+        "lon": 88.3530887,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Curd Corner"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6698400585,
+        "lat": 22.5605313,
+        "lon": 88.3515299,
+        "tags": {
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "brand:wikipedia": "en:KFC",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:wikipedia:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6698406886,
+        "lat": 22.5605463,
+        "lon": 88.3514908,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Barista",
+          "brand:wikidata": "Q644735",
+          "cuisine": "coffee_shop",
+          "internet_access": "wlan",
+          "name": "Barista",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7029295993,
+        "lat": 22.5679992,
+        "lon": 88.355599,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Mission Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030815685,
+        "lat": 22.5689182,
+        "lon": 88.3491647,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "The Chutney Co."
+        }
+      },
+      {
+        "type": "node",
+        "id": 7058966323,
+        "lat": 22.564549,
+        "lon": 88.357894,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "41, Princep Biplabi Anukul Chandra Street, Chandini Chowk street",
+          "addr:postcode": "700072",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Princep Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7068409247,
+        "lat": 22.5710004,
+        "lon": 88.3587602,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "# 70, Chittaranjan Avenue",
+          "addr:postcode": "700012",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "3324751418",
+          "healthcare": "clinic",
+          "name": "Arham Clinics",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074312654,
+        "lat": 22.5665163,
+        "lon": 88.3553157,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "15, Prafulla Sarkar Street",
+          "addr:postcode": "700072",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Netra Sevasram",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074329102,
+        "lat": 22.5671621,
+        "lon": 88.3572811,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "47, Ganesh Chandra Avenue",
+          "addr:postcode": "700013",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "22376642",
+          "healthcare": "hospital",
+          "name": "Kalidas Mullick Sebayatan",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7668176310,
+        "lat": 22.563724,
+        "lon": 88.3607871,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Raja Subodh Mullick Square Road, Bowbazar",
+          "addr:postcode": "700013",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sankara Nethralaya",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9609217318,
+        "lat": 22.5681902,
+        "lon": 88.3563838,
+        "tags": {
+          "amenity": "bank",
+          "name": "Induslnd bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9609438817,
+        "lat": 22.5668511,
+        "lon": 88.3560252,
+        "tags": {
+          "addr:housenumber": "3,5",
+          "addr:postcode": "700072",
+          "addr:street": "Chandi Chowk Street",
+          "amenity": "restaurant",
+          "name": "Sabir hotel",
+          "name:en": "Sabir's hotel",
+          "opening_hours": "Mo-Su 09:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9609443317,
+        "lat": 22.5682681,
+        "lon": 88.3565434,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "cuisine": "coffee_shop",
+          "name": "Cafe Coffee Day",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9609467217,
+        "lat": 22.5677738,
+        "lon": 88.3565023,
+        "tags": {
+          "addr:housenumber": "0",
+          "addr:postcode": "700013",
+          "addr:street": "Ganesh Chandra Road",
+          "amenity": "bank",
+          "branch": "Ganesh Chandra Avenue  Kolkata Branch & ATM",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank Ganesh Chandra Avenue, Kolkata-Branch",
+          "opening_hours": "Mo-Sa 09:30-15:00",
+          "phone": "033 3366 7777",
+          "short_name": "ICICI",
+          "website": "https://www.icicibank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9609467317,
+        "lat": 22.5677143,
+        "lon": 88.356535,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9911180717,
+        "lat": 22.5622659,
+        "lon": 88.3537378,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Aminia"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11038783005,
+        "lat": 22.5612587,
+        "lon": 88.3552978,
+        "tags": {
+          "addr:street": "19, Rani Rashmoni Road, Esplanade, Dakshineswar, Kolkata, West Bengal 700087",
+          "amenity": "restaurant",
+          "name": "Hotel Sidheshwari Ashram"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11652266369,
+        "lat": 22.5602933,
+        "lon": 88.35157,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:wikidata": "Q177054",
+          "cuisine": "burger",
+          "name": "Burger King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12464184628,
+        "lat": 22.5685947,
+        "lon": 88.3543928,
+        "tags": {
+          "address": "12, Ganesh Chandra Ave, Esplanade, Chowringhee North, Bowbazar, Kolkata, West Bengal 700013",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Eau Chew Restaurant",
+          "name:zh-Hant": "\u6b50\u6d32\u98ef\u5e97",
+          "phone": "03322378260"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:45:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 252584722,
+        "lat": 22.5679661,
+        "lon": 88.3711047,
+        "tags": {
+          "addr:city": "Kolkata",
+          "air_conditioning": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "is_in": "Kolkata,West Bengal,India",
+          "is_in:city": "Kolkata",
+          "is_in:country": "India",
+          "is_in:country_code": "IN",
+          "is_in:state": "West Bengal",
+          "name": "Sealdah",
+          "name:bn": "\u09b6\u09bf\u09af\u09bc\u09be\u09b2\u09a6\u09b9",
+          "name:en": "Sealdah",
+          "name:hi": "\u0938\u093f\u092f\u093e\u0932\u0926\u093e\u0939",
+          "network": "IR",
+          "operator": "ER",
+          "owner": "Indian Railways",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SDAH",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q3347406",
+          "wikipedia": "en:Sealdah railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 664452984,
+        "lat": 22.5841872,
+        "lon": 88.3426871,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 664452999,
+        "lat": 22.5841473,
+        "lon": 88.3426671,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 664453012,
+        "lat": 22.5835534,
+        "lon": 88.3423147,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "9",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 664453205,
+        "lat": 22.5817603,
+        "lon": 88.3416442,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "18",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1187083359,
+        "lat": 22.5662481,
+        "lon": 88.3397046,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Babu Ghat",
+          "operator": "WBTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1187083428,
+        "lat": 22.5642546,
+        "lon": 88.338187,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Outram Ghat",
+          "operator": "WBTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1187083591,
+        "lat": 22.5639153,
+        "lon": 88.3383211,
+        "tags": {
+          "name": "Eden Gardens",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "EDG",
+          "wikidata": "Q5336850",
+          "wikipedia": "en:Eden Gardens railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1187133847,
+        "lat": 22.5754243,
+        "lon": 88.3453098,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Fairlie Ghat",
+          "operator": "WBTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1187133856,
+        "lat": 22.5768421,
+        "lon": 88.3466282,
+        "tags": {
+          "name": "BBD Bagh",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BBDB",
+          "wikidata": "Q25549498"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1188948187,
+        "lat": 22.5811689,
+        "lon": 88.3618766,
+        "tags": {
+          "amenity": "cinema",
+          "check_date": "2023-10-04",
+          "name": "Mahajati Sadan Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1189036756,
+        "lat": 22.5825193,
+        "lon": 88.3481814,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "check_date": "2024-07-15",
+          "ferry": "yes",
+          "name": "Armenian Ghat",
+          "operator": "West Bengal Surface Transport Corporation",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1189457787,
+        "lat": 22.5877596,
+        "lon": 88.3497472,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Jagannath Ghat",
+          "name:zh": "\u8d3e\u7518\u52a0\u7279\u8f6e\u6e21\u7ad9",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1558109889,
+        "lat": 22.5630155,
+        "lon": 88.3499708,
+        "tags": {
+          "name": "Esplanade",
+          "network": "WBTC",
+          "network:wikidata": "Q7984450",
+          "operator": "Calcutta Tramways Company",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2133670739,
+        "lat": 22.5742428,
+        "lon": 88.3734415,
+        "tags": {
+          "name": "Rajabazar",
+          "network": "WBTC",
+          "network:wikidata": "Q7984450",
+          "operator": "Calcutta Tramways Company",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2266850249,
+        "lat": 22.5648757,
+        "lon": 88.3682593,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Prachi Cinema Hall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2281953574,
+        "lat": 22.5823221,
+        "lon": 88.3496156,
+        "tags": {
+          "name": "Howrah Bridge",
+          "network": "WBTC",
+          "network:wikidata": "Q7984450",
+          "operator": "Calcutta Tramways Company",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282742917,
+        "lat": 22.5630231,
+        "lon": 88.3499934,
+        "tags": {
+          "name": "Esplanade",
+          "network": "WBTC",
+          "network:wikidata": "Q7984450",
+          "operator": "Calcutta Tramways Company",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743006,
+        "lat": 22.5625734,
+        "lon": 88.3497428,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743009,
+        "lat": 22.5626321,
+        "lon": 88.349756,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743012,
+        "lat": 22.5626472,
+        "lon": 88.3496633,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743014,
+        "lat": 22.5626977,
+        "lon": 88.3497576,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743015,
+        "lat": 22.562714,
+        "lon": 88.3496679,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743020,
+        "lat": 22.5627477,
+        "lon": 88.3497765,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743024,
+        "lat": 22.5627843,
+        "lon": 88.3496644,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743027,
+        "lat": 22.5628128,
+        "lon": 88.3497815,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743030,
+        "lat": 22.5628313,
+        "lon": 88.3496866,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743034,
+        "lat": 22.5628825,
+        "lon": 88.3497065,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743035,
+        "lat": 22.5628829,
+        "lon": 88.349781,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743040,
+        "lat": 22.5629503,
+        "lon": 88.3496335,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743041,
+        "lat": 22.5629521,
+        "lon": 88.3497064,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743046,
+        "lat": 22.5629892,
+        "lon": 88.3497367,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743050,
+        "lat": 22.5630143,
+        "lon": 88.3496395,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743051,
+        "lat": 22.5630362,
+        "lon": 88.3496861,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743056,
+        "lat": 22.5630929,
+        "lon": 88.3497049,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743058,
+        "lat": 22.5631064,
+        "lon": 88.3496105,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743061,
+        "lat": 22.563159,
+        "lon": 88.3497046,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743063,
+        "lat": 22.5631731,
+        "lon": 88.3496185,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743067,
+        "lat": 22.5632423,
+        "lon": 88.3496175,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743070,
+        "lat": 22.5632604,
+        "lon": 88.3496656,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743071,
+        "lat": 22.5633311,
+        "lon": 88.3495247,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743074,
+        "lat": 22.5633373,
+        "lon": 88.3495868,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2282743082,
+        "lat": 22.563431,
+        "lon": 88.3494908,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2284379642,
+        "lat": 22.5650989,
+        "lon": 88.3396621,
+        "tags": {
+          "bus": "yes",
+          "name": "Babu Ghat",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2339659231,
+        "lat": 22.5843833,
+        "lon": 88.3426805,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2703677642,
+        "lat": 22.5653921,
+        "lon": 88.350601,
+        "tags": {
+          "name": "Esplanade",
+          "public_transport": "station",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2703679634,
+        "lat": 22.5772917,
+        "lon": 88.3641755,
+        "tags": {
+          "name": "College Street",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2703686173,
+        "lat": 22.5695913,
+        "lon": 88.3607631,
+        "tags": {
+          "name": "College Street / Bepin Behari Ganguly Street",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2703686631,
+        "lat": 22.5630392,
+        "lon": 88.3585179,
+        "tags": {
+          "name": "Lenin Sarani/Nirmal Chandra Dev Street",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2703690674,
+        "lat": 22.5664558,
+        "lon": 88.3598884,
+        "tags": {
+          "name": "Nirmal Chandra Dev Street",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2720312081,
+        "lat": 22.5728444,
+        "lon": 88.3670158,
+        "tags": {
+          "name": "Surya Sen St / Amhurst St /  Raja Ramohan Sarani St",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2720315284,
+        "lat": 22.5646322,
+        "lon": 88.3685259,
+        "tags": {
+          "name": "Acharya Jagadish Chandra  Bose Rd / Sealdah",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2720336779,
+        "lat": 22.5681951,
+        "lon": 88.3649273,
+        "tags": {
+          "name": "Bepin Baru Ganguly St / Amhurst St",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2720337270,
+        "lat": 22.5614921,
+        "lon": 88.3672021,
+        "tags": {
+          "name": "Acharya Prafulla Chandra Road / Lenin Sarani",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2720342347,
+        "lat": 22.5727779,
+        "lon": 88.3716794,
+        "tags": {
+          "name": "Raja Bazar",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2721384860,
+        "lat": 22.5525664,
+        "lon": 88.3561356,
+        "tags": {
+          "name": "Rafi Ahmad Kidwai Road / Elliot Road",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2721388718,
+        "lat": 22.5504601,
+        "lon": 88.3628985,
+        "tags": {
+          "name": "Acharya Jagadish Chandra Bose Road / Elliot Road",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2907641509,
+        "lat": 22.5545324,
+        "lon": 88.36431,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3321321335,
+        "lat": 22.5828709,
+        "lon": 88.3428112,
+        "tags": {
+          "IR:div": "HWH",
+          "IR:stn_cat": "NSG-1",
+          "IR:zone": "ER",
+          "name": "Howrah Junction",
+          "name:ja": "\u30cf\u30a6\u30e9\u30fc",
+          "name:zh": "\u8c6a\u62c9\u706b\u8f66\u7ad9",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "HWH",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q986105",
+          "wikipedia": "en:Howrah Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178731066,
+        "lat": 22.5715987,
+        "lon": 88.3502602,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "B.B.D. Bag",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178789864,
+        "lat": 22.5861787,
+        "lon": 88.3429845,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2024-07-15",
+          "name": "Howrah Bus Station",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4178800814,
+        "lat": 22.564821,
+        "lon": 88.3514471,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Esplanade",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4368104697,
+        "lat": 22.566769,
+        "lon": 88.351883,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Paradise Cinema",
+          "source": "survey",
+          "wikidata": "Q7134255",
+          "wikipedia": "en:Paradise Cinema (Kolkata)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4393356789,
+        "lat": 22.5493149,
+        "lon": 88.3535578,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4834783222,
+        "lat": 22.5625693,
+        "lon": 88.3495988,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Esplanade Bus Stand to Airport (line VS2)",
+          "name:en": "Esplanade Bus Stand to Airport (line VS2)",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4845192821,
+        "lat": 22.5520205,
+        "lon": 88.3717304,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "compressed_air": "yes",
+          "name": "Bharat Petroleum",
+          "name:en": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4868040723,
+        "lat": 22.5498214,
+        "lon": 88.3560088,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "check_date": "2023-10-04",
+          "name": "Bharat Petroleum",
+          "name:en": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4868040823,
+        "lat": 22.5513864,
+        "lon": 88.3542235,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4891338224,
+        "lat": 22.5612312,
+        "lon": 88.3588968,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum",
+          "name:en": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421528426,
+        "lat": 22.5724857,
+        "lon": 88.3587427,
+        "tags": {
+          "name": "Central",
+          "name:bn": "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5061425",
+          "wikipedia": "en:Central metro station (Kolkata)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421528503,
+        "lat": 22.5551591,
+        "lon": 88.3501171,
+        "tags": {
+          "name": "Park Street",
+          "name:bn": "\u09aa\u09be\u09b0\u09cd\u0995 \u09b8\u09cd\u099f\u09cd\u09b0\u09c0\u099f",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7138060",
+          "wikipedia": "en:Park Street metro station (Kolkata)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421543288,
+        "lat": 22.5494672,
+        "lon": 88.3487883,
+        "tags": {
+          "name": "Maidan",
+          "name:bn": "\u09ae\u09af\u09bc\u09a6\u09be\u09a8",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q6735340",
+          "wikipedia": "en:Maidan metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421543316,
+        "lat": 22.5670118,
+        "lon": 88.3541581,
+        "tags": {
+          "name": "Chandni Chowk",
+          "name:bn": "\u099a\u09be\u0981\u09a6\u09a8\u09bf \u099a\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5071229",
+          "wikipedia": "en:Chandni Chowk metro station (Kolkata)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421545051,
+        "lat": 22.5636143,
+        "lon": 88.3512099,
+        "tags": {
+          "name": "Esplanade (Line 1)",
+          "name:bn": "\u098f\u09b8\u09aa\u09cd\u09b2\u09cd\u09af\u09be\u09a8\u09c7\u09a1",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5399030",
+          "wikipedia": "en:Esplanade metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421545390,
+        "lat": 22.5809206,
+        "lon": 88.3613271,
+        "tags": {
+          "name": "Mahatma Gandhi Road",
+          "name:bn": "\u09ae\u09b9\u09be\u09a4\u09cd\u09ae\u09be \u0997\u09be\u09a8\u09cd\u09a7\u09c0 \u09b0\u09cb\u09a1",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q6733523",
+          "wikipedia": "en:Mahatma Gandhi Road metro station (Kolkata)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421546475,
+        "lat": 22.5871445,
+        "lon": 88.3629415,
+        "tags": {
+          "name": "Girish Park",
+          "name:bn": "\u0997\u09bf\u09b0\u09bf\u09b6 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5564298",
+          "wikipedia": "en:Girish Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5587888046,
+        "lat": 22.5656628,
+        "lon": 88.3723915,
+        "tags": {
+          "addr:city": "Kolkata",
+          "air_conditioning": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Sealdah",
+          "name:bn": "\u09b6\u09bf\u09af\u09bc\u09be\u09b2\u09a6\u09b9",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SDAH",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q3347406",
+          "wikipedia": "en:Sealdah railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5647099123,
+        "lat": 22.5822232,
+        "lon": 88.3431478,
+        "tags": {
+          "addr:housenumber": "1G6",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "highway": "bus_stop",
+          "internet_access": "wlan",
+          "operator": "NBS",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572592,
+        "lat": 22.5670985,
+        "lon": 88.3543062,
+        "tags": {
+          "name": "Chandni Chowk",
+          "name:bn": "\u099a\u09be\u0981\u09a6\u09a8\u09bf \u099a\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5833876807,
+        "lat": 22.5843515,
+        "lon": 88.3426684,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135360360,
+        "lat": 22.5530094,
+        "lon": 88.353021,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil",
+          "toilets": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135361871,
+        "lat": 22.5478778,
+        "lon": 88.3530567,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6137401977,
+        "lat": 22.5717987,
+        "lon": 88.3357242,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Ramkrishnapur Ghat",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6141500453,
+        "lat": 22.5474462,
+        "lon": 88.3516232,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Satyajit Ray Auditorium",
+          "name:etymology:wikidata": "Q8873"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6143232250,
+        "lat": 22.5652459,
+        "lon": 88.3499944,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Esplanade",
+          "public_transport": "station",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6173584907,
+        "lat": 22.5727063,
+        "lon": 88.3437487,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "operator": "WBTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6173584909,
+        "lat": 22.5762291,
+        "lon": 88.3455547,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Fairlie Ghat",
+          "operator": "WBTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6173584910,
+        "lat": 22.5820164,
+        "lon": 88.3438661,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "cargo": "passengers",
+          "ferry": "yes",
+          "name": "Howrah Ghat",
+          "operator": "WBTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6173584911,
+        "lat": 22.5822063,
+        "lon": 88.3439452,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "cargo": "passengers",
+          "ferry": "yes",
+          "name": "Howrah Ghat",
+          "operator": "WBTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6173584914,
+        "lat": 22.5828373,
+        "lon": 88.3442094,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "cargo": "passengers",
+          "ferry": "yes",
+          "name": "Howrah Ghat",
+          "operator": "WBTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6173584920,
+        "lat": 22.5804819,
+        "lon": 88.3470525,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6447832086,
+        "lat": 22.546329,
+        "lon": 88.3620691,
+        "tags": {
+          "amenity": "cinema",
+          "name:ja": "\u30d1\u30fc\u30af\u30b7\u30e7\u30fc\u30cf\u30a6\u30b9"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6528659485,
+        "lat": 22.5651205,
+        "lon": 88.3397833,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Babughat bus stand",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7053793926,
+        "lat": 22.5538259,
+        "lon": 88.3557671,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577528772,
+        "lat": 22.5811474,
+        "lon": 88.3414322,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "23",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577528773,
+        "lat": 22.5811797,
+        "lon": 88.3414477,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "22",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577528775,
+        "lat": 22.5817285,
+        "lon": 88.3416295,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "19",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577528776,
+        "lat": 22.5815837,
+        "lon": 88.3415578,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "20",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577528777,
+        "lat": 22.5815479,
+        "lon": 88.3415432,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "21",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577528778,
+        "lat": 22.5818725,
+        "lon": 88.3417632,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "17",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550190,
+        "lat": 22.5842593,
+        "lon": 88.3392737,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "15",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550192,
+        "lat": 22.5833527,
+        "lon": 88.3415765,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "14",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550193,
+        "lat": 22.5833822,
+        "lon": 88.3415917,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "13",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550194,
+        "lat": 22.5832643,
+        "lon": 88.3421748,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "12",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550195,
+        "lat": 22.5833448,
+        "lon": 88.3422097,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "11",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550196,
+        "lat": 22.5834815,
+        "lon": 88.3422771,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550198,
+        "lat": 22.5838289,
+        "lon": 88.3424483,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550199,
+        "lat": 22.5838672,
+        "lon": 88.3424652,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550200,
+        "lat": 22.5839673,
+        "lon": 88.3425854,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577550201,
+        "lat": 22.5840057,
+        "lon": 88.3426029,
+        "tags": {
+          "name": "Howrah Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7717075782,
+        "lat": 22.568471,
+        "lon": 88.3711092,
+        "tags": {
+          "name": "Sealdah",
+          "name:bn": "\u09b6\u09bf\u09af\u09bc\u09be\u09b2\u09a6\u09b9",
+          "name:en": "Sealdah",
+          "name:hi": "\u0938\u093f\u092f\u093e\u0932\u0926\u093e\u0939",
+          "network": "Indian Railways",
+          "operator": "Eastern Railway",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7717075783,
+        "lat": 22.5685717,
+        "lon": 88.3710455,
+        "tags": {
+          "name": "Sealdah",
+          "name:bn": "\u09b6\u09bf\u09af\u09bc\u09be\u09b2\u09a6\u09b9",
+          "name:en": "Sealdah",
+          "name:hi": "\u0938\u093f\u092f\u093e\u0932\u0926\u093e\u0939",
+          "network": "Indian Railways",
+          "operator": "Eastern Railway",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7717075784,
+        "lat": 22.5686071,
+        "lon": 88.3710221,
+        "tags": {
+          "name": "Sealdah",
+          "name:bn": "\u09b6\u09bf\u09af\u09bc\u09be\u09b2\u09a6\u09b9",
+          "name:en": "Sealdah",
+          "name:hi": "\u0938\u093f\u092f\u093e\u0932\u0926\u093e\u0939",
+          "network": "Indian Railways",
+          "operator": "Eastern Railway",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7717085985,
+        "lat": 22.5687168,
+        "lon": 88.3709768,
+        "tags": {
+          "name": "Sealdah",
+          "name:bn": "\u09b6\u09bf\u09af\u09bc\u09be\u09b2\u09a6\u09b9",
+          "name:en": "Sealdah",
+          "name:hi": "\u0938\u093f\u092f\u093e\u0932\u0926\u093e\u0939",
+          "network": "Indian Railways",
+          "operator": "Eastern Railway",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8508732200,
+        "lat": 22.5813946,
+        "lon": 88.3528436,
+        "tags": {
+          "name": "Barabazar",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9057837717,
+        "lat": 22.5649106,
+        "lon": 88.3590689,
+        "tags": {
+          "addr:city": "KOLKATA",
+          "addr:housenumber": "76",
+          "addr:postcode": "700013",
+          "addr:street": "Ganesh Chandra Road",
+          "amenity": "cinema",
+          "name": "HIND INOX",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:discover_card": "yes",
+          "payment:maestro": "yes",
+          "payment:mastercard": "yes",
+          "payment:notes": "yes",
+          "payment:visa": "yes",
+          "payment:visa_debit": "yes",
+          "screen": "2"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9717920317,
+        "lat": 22.5665448,
+        "lon": 88.3521064,
+        "tags": {
+          "addr:housenumber": "1",
+          "addr:postcode": "700072",
+          "addr:street": "Chittaranjan Avenue",
+          "amenity": "charging_station",
+          "name": "Electric vehicle chargeing station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9717923217,
+        "lat": 22.5475251,
+        "lon": 88.3495487,
+        "tags": {
+          "addr:housenumber": "43",
+          "addr:postcode": "700071",
+          "addr:street": "Jawaharlal Nehru Road",
+          "amenity": "charging_station",
+          "name": "Electric vehicle charging station tata",
+          "opening_hours": "24/7",
+          "website": "https://nexonev.tatamotors.com/charging-locator/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9717925317,
+        "lat": 22.5813902,
+        "lon": 88.3421409,
+        "tags": {
+          "amenity": "charging_station",
+          "name": "Electric vehicle charging station",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9884790401,
+        "lat": 22.5666059,
+        "lon": 88.3697815,
+        "tags": {
+          "name": "Sealdah",
+          "name:bn": "\u09b6\u09bf\u09af\u09bc\u09be\u09b2\u09a6\u09b9 \u09ae\u09c7\u099f\u09cd\u09b0\u09cb \u09b8\u09cd\u099f\u09c7\u09b6\u09a8",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SDHM",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30278708",
+          "wikipedia": "en:Sealdah metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9884790402,
+        "lat": 22.5664154,
+        "lon": 88.3700235,
+        "tags": {
+          "name": "Sealdah",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9884790403,
+        "lat": 22.5664743,
+        "lon": 88.3700496,
+        "tags": {
+          "name": "Sealdah",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10559494009,
+        "lat": 22.568108,
+        "lon": 88.3407705,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Babughat Ferry to Howrah",
+          "operator": "WBTC",
+          "public_transport": "station",
+          "shelter": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11533663305,
+        "lat": 22.5813727,
+        "lon": 88.3528379,
+        "tags": {
+          "name": "Barabazar",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699262522,
+        "lat": 22.5833117,
+        "lon": 88.3401416,
+        "tags": {
+          "name": "Howrah",
+          "name:bn": "\u09b9\u09be\u0993\u09a1\u09bc\u09be",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699262523,
+        "lat": 22.5833721,
+        "lon": 88.340164,
+        "tags": {
+          "name": "Howrah",
+          "name:bn": "\u09b9\u09be\u0993\u09a1\u09bc\u09be",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699262526,
+        "lat": 22.5720649,
+        "lon": 88.3504831,
+        "tags": {
+          "alt_name": "New Mahakaran",
+          "name": "Mahakaran",
+          "name:bn": "\u09ae\u09b9\u09be\u0995\u09b0\u09a3",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699262527,
+        "lat": 22.5720495,
+        "lon": 88.3505501,
+        "tags": {
+          "alt_name": "New Mahakaran",
+          "name": "Mahakaran",
+          "name:bn": "\u09ae\u09b9\u09be\u0995\u09b0\u09a3",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699268219,
+        "lat": 22.5641328,
+        "lon": 88.3502238,
+        "tags": {
+          "name": "Esplanade (Line 2)",
+          "name:bn": "\u098f\u09b8\u09aa\u09cd\u09b2\u09cd\u09af\u09be\u09a8\u09c7\u09a1",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699268220,
+        "lat": 22.5641817,
+        "lon": 88.3502681,
+        "tags": {
+          "name": "Esplanade (Line 2)",
+          "name:bn": "\u098f\u09b8\u09aa\u09cd\u09b2\u09cd\u09af\u09be\u09a8\u09c7\u09a1",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699268221,
+        "lat": 22.5636505,
+        "lon": 88.351106,
+        "tags": {
+          "name": "Esplanade (Line 1)",
+          "name:bn": "\u098f\u09b8\u09aa\u09cd\u09b2\u09cd\u09af\u09be\u09a8\u09c7\u09a1",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699268222,
+        "lat": 22.5636389,
+        "lon": 88.3511709,
+        "tags": {
+          "name": "Esplanade (Line 1)",
+          "name:bn": "\u098f\u09b8\u09aa\u09cd\u09b2\u09cd\u09af\u09be\u09a8\u09c7\u09a1",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699268223,
+        "lat": 22.5720777,
+        "lon": 88.3505275,
+        "tags": {
+          "alt_name": "New Mahakaran",
+          "name": "Mahakaran",
+          "name:bn": "\u09ae\u09b9\u09be\u0995\u09b0\u09a3",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MKNA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632550",
+          "wikipedia": "bn:\u09ae\u09b9\u09be\u0995\u09b0\u09a3 \u09ae\u09c7\u099f\u09cd\u09b0\u09cb \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699268224,
+        "lat": 22.5833648,
+        "lon": 88.3403452,
+        "tags": {
+          "name": "Howrah",
+          "name:bn": "\u09b9\u09be\u0993\u09a1\u09bc\u09be",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "HWHM",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632554",
+          "wikipedia": "bn:\u09b9\u09be\u0993\u09a1\u09bc\u09be \u09ae\u09c7\u099f\u09cd\u09b0\u09cb \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703282685,
+        "lat": 22.5641292,
+        "lon": 88.3502752,
+        "tags": {
+          "name": "Esplanade (Line 2)",
+          "name:bn": "\u098f\u09b8\u09aa\u09cd\u09b2\u09cd\u09af\u09be\u09a8\u09c7\u09a1",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KESP",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5399030",
+          "wikipedia": "en:Esplanade metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491157,
+        "lat": 22.5867702,
+        "lon": 88.3628753,
+        "tags": {
+          "name": "Girish Park",
+          "name:bn": "\u0997\u09bf\u09b0\u09bf\u09b6 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491158,
+        "lat": 22.5873608,
+        "lon": 88.3629625,
+        "tags": {
+          "name": "Girish Park",
+          "name:bn": "\u0997\u09bf\u09b0\u09bf\u09b6 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491159,
+        "lat": 22.5807704,
+        "lon": 88.3613153,
+        "tags": {
+          "name": "Mahatma Gandhi Road",
+          "name:bn": "\u09ae\u09b9\u09be\u09a4\u09cd\u09ae\u09be \u0997\u09be\u09a8\u09cd\u09a7\u09c0 \u09b0\u09cb\u09a1",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491160,
+        "lat": 22.5811183,
+        "lon": 88.3613384,
+        "tags": {
+          "name": "Mahatma Gandhi Road",
+          "name:bn": "\u09ae\u09b9\u09be\u09a4\u09cd\u09ae\u09be \u0997\u09be\u09a8\u09cd\u09a7\u09c0 \u09b0\u09cb\u09a1",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491161,
+        "lat": 22.5722888,
+        "lon": 88.3587062,
+        "tags": {
+          "name": "Central",
+          "name:bn": "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491162,
+        "lat": 22.5726466,
+        "lon": 88.3587523,
+        "tags": {
+          "name": "Central",
+          "name:bn": "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491163,
+        "lat": 22.5669164,
+        "lon": 88.3540584,
+        "tags": {
+          "name": "Chandni Chowk",
+          "name:bn": "\u099a\u09be\u0981\u09a6\u09a8\u09bf \u099a\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491164,
+        "lat": 22.5549758,
+        "lon": 88.3500469,
+        "tags": {
+          "name": "Park Street",
+          "name:bn": "\u09aa\u09be\u09b0\u09cd\u0995 \u09b8\u09cd\u099f\u09cd\u09b0\u09c0\u099f",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491165,
+        "lat": 22.5552804,
+        "lon": 88.3500414,
+        "tags": {
+          "name": "Park Street",
+          "name:bn": "\u09aa\u09be\u09b0\u09cd\u0995 \u09b8\u09cd\u099f\u09cd\u09b0\u09c0\u099f",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491166,
+        "lat": 22.5493752,
+        "lon": 88.3487245,
+        "tags": {
+          "name": "Maidan",
+          "name:bn": "\u09ae\u09af\u09bc\u09a6\u09be\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491167,
+        "lat": 22.5497087,
+        "lon": 88.3487474,
+        "tags": {
+          "name": "Maidan",
+          "name:bn": "\u09ae\u09af\u09bc\u09a6\u09be\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12088322220,
+        "lat": 22.5866768,
+        "lon": 88.358668,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum, Petrol Pump -Imperial Petrol Service Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12133907038,
+        "lat": 22.5680341,
+        "lon": 88.3412589,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

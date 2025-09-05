@@ -1,0 +1,79 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:16:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6411571299,
+        "lat": 28.4571837,
+        "lon": 77.1838628,
+        "tags": {
+          "amenity": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6411571305,
+        "lat": 28.4445699,
+        "lon": 77.188257,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Green Dot Theory"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6411571307,
+        "lat": 28.4565801,
+        "lon": 77.1840356,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Syndicaye Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9159982079,
+        "lat": 28.44466,
+        "lon": 77.1879469,
+        "tags": {
+          "addr:city": "Delhi 110074, Chhattarpur, New Delhi-Maharashtra, India",
+          "addr:housenumber": "B-3/105, Shop No -3&4",
+          "addr:postcode": "110074",
+          "addr:street": "Radha Swami Satsang Road, Dera Bhati,",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "dermatology",
+          "name": "Genesis Health",
+          "website": "https://www.genesishealth.co.in/"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:16:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4618647988,
+        "lat": 28.4496992,
+        "lon": 77.1840092,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

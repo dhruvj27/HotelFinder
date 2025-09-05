@@ -1,0 +1,1134 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:18:46Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 5122054871,
+        "lat": 28.6510197,
+        "lon": 77.2988214,
+        "tags": {
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5122054872,
+        "lat": 28.6510976,
+        "lon": 77.2987351,
+        "tags": {
+          "amenity": "clinic",
+          "name": "Lifespan Diabetes Clinics"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5122054874,
+        "lat": 28.6517355,
+        "lon": 77.2982072,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5431387428,
+        "lat": 28.6611454,
+        "lon": 77.302603,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Pearl Grand"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138632251,
+        "lat": 28.6589056,
+        "lon": 77.3060238,
+        "tags": {
+          "addr:district": "Shahdara",
+          "addr:full": "A-Block, Surajmal Vihar",
+          "addr:postcode": "110092",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "contact:phone": "22373548",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "DGD Surajmal Vihar",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9648212729,
+        "lat": 28.6533199,
+        "lon": 77.2921919,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Radhepuri",
+          "brand": "Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12596571600,
+        "lat": 28.6609449,
+        "lon": 77.2976418,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12596602578,
+        "lat": 28.6604315,
+        "lon": 77.3018038,
+        "tags": {
+          "leisure": "playground",
+          "name": "Plaza Tent House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12596617618,
+        "lat": 28.6606643,
+        "lon": 77.2980495,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Haldirams"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12596636655,
+        "lat": 28.6597209,
+        "lon": 77.2973829,
+        "tags": {
+          "leisure": "playground",
+          "name": "DDA Ramleela Ground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12596643267,
+        "lat": 28.6607999,
+        "lon": 77.2974766,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Burger King"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:18:46Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 252584508,
+        "lat": 28.6498106,
+        "lon": 77.3144992,
+        "tags": {
+          "internet_access": "no",
+          "name": "Anand Vihar",
+          "name:ur": "\u0622\u0646\u0646\u062f \u0648\u06c1\u0627\u0631",
+          "network": "Indian Railways",
+          "operator": "Northern Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ANVR",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 459771176,
+        "lat": 28.656726,
+        "lon": 77.30198,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cin\u00e9polis",
+          "brand:wikidata": "Q5686673",
+          "name": "Cin\u00e9polis, CRM, Shahdara",
+          "operator": "Cin\u00e9polis India Pvt Ltd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 554257854,
+        "lat": 28.6468919,
+        "lon": 77.316053,
+        "tags": {
+          "name": "Anand Vihar (Blue Line)",
+          "name:hi": "\u0906\u0928\u0902\u0926 \u0935\u093f\u0939\u093e\u0930",
+          "name:kn": "\u0c86\u0ca8\u0c82\u0ca6\u0ccd \u0cb5\u0cbf\u0cb9\u0cbe\u0cb0\u0ccd",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "ANVR",
+          "subway": "yes",
+          "wikidata": "Q4751288"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663758748,
+        "lat": 28.6717524,
+        "lon": 77.2778548,
+        "tags": {
+          "name": "Welcome (Red Line)",
+          "name:hi": "\u0935\u0947\u0932\u0915\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q11288582",
+          "wikipedia": "en:Welcome metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663758998,
+        "lat": 28.6734298,
+        "lon": 77.2898858,
+        "tags": {
+          "name": "Shahdara",
+          "name:hi": "\u0936\u093e\u0939\u0926\u0930\u093e",
+          "name:ur": "\u0634\u0627\u06c1\u062f\u0631\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q11307902",
+          "wikipedia": "en:Shahdara metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663759047,
+        "lat": 28.6734557,
+        "lon": 77.2922087,
+        "tags": {
+          "internet_access": "no",
+          "name": "Delhi Shahdara Junction",
+          "name:ur": "\u062f\u06c1\u0644\u06cc \u0634\u0627\u06c1\u062f\u0631\u06c1 \u062c\u0646\u06a9\u0634\u0646",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSA",
+          "train": "yes",
+          "wikidata": "Q24948309"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663759674,
+        "lat": 28.6754151,
+        "lon": 77.3008694,
+        "tags": {
+          "name": "Mansarovar Park",
+          "name:hi": "\u092e\u093e\u0928\u0938\u0930\u094b\u0935\u0930 \u092a\u093e\u0930\u094d\u0915",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663759851,
+        "lat": 28.6757197,
+        "lon": 77.3123949,
+        "tags": {
+          "name": "Jhilmil",
+          "name:hi": "\u091d\u093f\u0932\u092e\u093f\u0932",
+          "name:ur": "\u062c\u06be\u0644 \u0645\u0644",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q6191072",
+          "wikipedia": "en:Jhilmil metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663790306,
+        "lat": 28.6484435,
+        "lon": 77.305527,
+        "tags": {
+          "name": "Karkarduma (Blue Line)",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663793549,
+        "lat": 28.6414409,
+        "lon": 77.2952594,
+        "tags": {
+          "name": "Preet Vihar",
+          "name:hi": "\u092a\u094d\u0930\u0940\u0924 \u0935\u093f\u0939\u093e\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q7239761"
+        }
+      },
+      {
+        "type": "node",
+        "id": 944845341,
+        "lat": 28.6488509,
+        "lon": 77.3155003,
+        "tags": {
+          "internet_access": "no",
+          "name": "Anand Vihar Terminal",
+          "network": "Indian Railways",
+          "operator": "Northern Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ANVT",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q4751289",
+          "wikipedia": "en:Anand Vihar Terminal railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833971686,
+        "lat": 28.6468336,
+        "lon": 77.3158749,
+        "tags": {
+          "name": "Anand Vihar (Blue Line)",
+          "name:hi": "\u0906\u0928\u0902\u0926 \u0935\u093f\u0939\u093e\u0930",
+          "name:kn": "\u0c86\u0ca8\u0c82\u0ca6\u0ccd \u0cb5\u0cbf\u0cb9\u0cbe\u0cb0\u0ccd",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "ANVR",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q4751288",
+          "wikipedia": "en:Anand Vihar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833971689,
+        "lat": 28.6493434,
+        "lon": 77.3060686,
+        "tags": {
+          "name": "Karkarduma (Pink Line)",
+          "name:hi": "\u0915\u0921\u093c\u0915\u0921\u093c\u0921\u0942\u092e\u093e",
+          "name:kn": "\u0c95\u0cb0\u0ccd\u0c95\u0cb0\u0ccd\u0ca6\u0cc1\u0cae",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q6371278",
+          "wikipedia": "en:Karkarduma metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833971901,
+        "lat": 28.6577953,
+        "lon": 77.290163,
+        "tags": {
+          "name": "Krishna Nagar",
+          "name:hi": "\u0915\u0943\u0937\u094d\u0923\u093e \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833971903,
+        "lat": 28.6646856,
+        "lon": 77.2848598,
+        "tags": {
+          "name": "East Azad Nagar",
+          "name:hi": "\u0906\u091c\u093e\u0926 \u0928\u0917\u0930 \u092a\u0942\u0930\u094d\u0935",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4676900919,
+        "lat": 28.6536001,
+        "lon": 77.2957877,
+        "tags": {
+          "name": "Karkarduma Court",
+          "name:hi": "\u0915\u0921\u093c\u0915\u0921\u093c\u0921\u0942\u092e\u093e \u0915\u094b\u0930\u094d\u091f",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28172856",
+          "wikipedia": "en:Karkarduma Court metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777613981,
+        "lat": 28.641388,
+        "lon": 77.2953132,
+        "tags": {
+          "name": "Preet Vihar",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777614015,
+        "lat": 28.646841,
+        "lon": 77.3160332,
+        "tags": {
+          "name": "Anand Vihar (Blue Line)",
+          "name:hi": "\u0906\u0928\u0902\u0926 \u0935\u093f\u0939\u093e\u0930",
+          "name:kn": "\u0c86\u0ca8\u0c82\u0ca6\u0ccd \u0cb5\u0cbf\u0cb9\u0cbe\u0cb0\u0ccd",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "ANVR",
+          "subway": "yes",
+          "wikidata": "Q4751288"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777614023,
+        "lat": 28.6483741,
+        "lon": 77.305544,
+        "tags": {
+          "name": "Karkarduma (Blue Line)",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777614183,
+        "lat": 28.6757505,
+        "lon": 77.3123939,
+        "tags": {
+          "name": "Jhilmil",
+          "name:hi": "\u091d\u093f\u0932\u092e\u093f\u0932",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777614202,
+        "lat": 28.6734598,
+        "lon": 77.2898815,
+        "tags": {
+          "name": "Shahdara",
+          "name:hi": "\u0936\u093e\u0939\u0926\u0930\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777614220,
+        "lat": 28.6718621,
+        "lon": 77.2778151,
+        "tags": {
+          "name": "Welcome",
+          "name:hi": "\u0935\u0947\u0932\u0915\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630622,
+        "lat": 28.6646669,
+        "lon": 77.2848234,
+        "tags": {
+          "name": "East Azad Nagar",
+          "name:hi": "\u0906\u091c\u093e\u0926 \u0928\u0917\u0930 \u092a\u0942\u0930\u094d\u0935",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630624,
+        "lat": 28.657775,
+        "lon": 77.290128,
+        "tags": {
+          "name": "Krishna Nagar",
+          "name:hi": "\u0915\u0943\u0937\u094d\u0923\u093e \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630635,
+        "lat": 28.6535862,
+        "lon": 77.2958023,
+        "tags": {
+          "name": "Karkarduma Court",
+          "name:hi": "\u0915\u0921\u093c\u0915\u0921\u093c\u0921\u0942\u092e\u093e \u0915\u094b\u0930\u094d\u091f",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630855,
+        "lat": 28.6492685,
+        "lon": 77.3060798,
+        "tags": {
+          "name": "Karkarduma (Pink Line)",
+          "name:hi": "\u0915\u0921\u093c\u0915\u0921\u093c\u0921\u0942\u092e\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630878,
+        "lat": 28.6466595,
+        "lon": 77.3153748,
+        "tags": {
+          "name": "Anand Vihar (Pink Line)",
+          "name:hi": "\u0906\u0928\u0902\u0926 \u0935\u093f\u0939\u093e\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6049373297,
+        "lat": 28.6646764,
+        "lon": 77.2848431,
+        "tags": {
+          "name": "East Azad Nagar",
+          "name:hi": "\u0906\u091c\u093e\u0926 \u0928\u0917\u0930 \u092a\u0942\u0930\u094d\u0935",
+          "name:ur": "\u0645\u0634\u0631\u0642\u06cc \u0622\u0632\u0627\u062f \u0646\u06af\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q28172733",
+          "wikipedia": "en:East Azad Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6049373298,
+        "lat": 28.6578127,
+        "lon": 77.2901199,
+        "tags": {
+          "name": "Krishna Nagar",
+          "name:hi": "\u0915\u0943\u0937\u094d\u0923\u093e \u0928\u0917\u0930",
+          "name:ur": "\u06a9\u0631\u0634\u0646\u0627 \u0646\u06af\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q28178869",
+          "wikipedia": "en:Krishna Nagar metro station (Delhi)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6049373299,
+        "lat": 28.6536459,
+        "lon": 77.2957875,
+        "tags": {
+          "name": "Karkarduma Court",
+          "name:hi": "\u0915\u0921\u093c\u0915\u0921\u093c\u0921\u0942\u092e\u093e \u0915\u094b\u0930\u094d\u091f",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6049373300,
+        "lat": 28.6493001,
+        "lon": 77.3061394,
+        "tags": {
+          "name": "Karkarduma (Pink Line)",
+          "name:hi": "\u0915\u0921\u093c\u0915\u0921\u093c\u0921\u0942\u092e\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6049373301,
+        "lat": 28.6467137,
+        "lon": 77.3154068,
+        "tags": {
+          "name": "Anand Vihar (Pink Line)",
+          "name:hi": "\u0906\u0928\u0902\u0926 \u0935\u093f\u0939\u093e\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6361672122,
+        "lat": 28.6490426,
+        "lon": 77.3152618,
+        "tags": {
+          "name": "Anand Vihar Terminal",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6403726700,
+        "lat": 28.6752663,
+        "lon": 77.291325,
+        "tags": {
+          "amenity": "fuel",
+          "fuel:cng": "yes",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "HP PETROL PUMP",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6405278617,
+        "lat": 28.6756895,
+        "lon": 77.3123961,
+        "tags": {
+          "name": "Jhilmil",
+          "name:hi": "\u091d\u093f\u0932\u092e\u093f\u0932",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6405278618,
+        "lat": 28.6753541,
+        "lon": 77.3008693,
+        "tags": {
+          "name": "Mansarovar Park",
+          "name:hi": "\u092e\u093e\u0928\u0938\u0930\u094b\u0935\u0930 \u092a\u093e\u0930\u094d\u0915",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6405278619,
+        "lat": 28.6733994,
+        "lon": 77.2898912,
+        "tags": {
+          "name": "Shahdara",
+          "name:hi": "\u0936\u093e\u0939\u0926\u0930\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6405278620,
+        "lat": 28.6717207,
+        "lon": 77.2778625,
+        "tags": {
+          "name": "Welcome",
+          "name:hi": "\u0935\u0947\u0932\u0915\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6454015469,
+        "lat": 28.6466157,
+        "lon": 77.3155317,
+        "tags": {
+          "name": "Anand Vihar (Pink Line)",
+          "name:hi": "\u0906\u0928\u0902\u0926 \u0935\u093f\u0939\u093e\u0930",
+          "name:kn": "\u0c86\u0ca8\u0c82\u0ca6\u0ccd \u0cb5\u0cbf\u0cb9\u0cbe\u0cb0\u0ccd",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ANVR",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q4751288",
+          "wikipedia": "en:Anand Vihar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6458130120,
+        "lat": 28.6483176,
+        "lon": 77.3055178,
+        "tags": {
+          "name": "Karkarduma (Blue Line)",
+          "name:hi": "\u0915\u0921\u093c\u0915\u0921\u093c\u0921\u0942\u092e\u093e",
+          "name:kn": "\u0c95\u0cb0\u0ccd\u0c95\u0cb0\u0ccd\u0ca6\u0cc1\u0cae",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q6371278",
+          "wikipedia": "en:Karkarduma metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6869787554,
+        "lat": 28.6450301,
+        "lon": 77.3168399,
+        "tags": {
+          "bus": "yes",
+          "name": "Anand Vihar ISBT",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6869949767,
+        "lat": 28.6470447,
+        "lon": 77.314798,
+        "tags": {
+          "bus": "yes",
+          "name": "Anand Vihar ISBT",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9415047899,
+        "lat": 28.6414176,
+        "lon": 77.2952819,
+        "tags": {
+          "name": "Preet Vihar",
+          "name:hi": "\u092a\u094d\u0930\u0940\u0924 \u0935\u093f\u0939\u093e\u0930",
+          "name:ur": "\u067e\u0631\u06cc\u062a \u0648\u06c1\u0627\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7239761"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9642681644,
+        "lat": 28.6740298,
+        "lon": 77.2868747,
+        "tags": {
+          "bus": "yes",
+          "name": "Shahdara Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9653165276,
+        "lat": 28.6745491,
+        "lon": 77.2877233,
+        "tags": {
+          "bus": "yes",
+          "name": "Shahdara Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10700089589,
+        "lat": 28.6474707,
+        "lon": 77.3167989,
+        "tags": {
+          "name": "Anand Vihar",
+          "name:hi": "\u0906\u0928\u0902\u0926 \u0935\u093f\u0939\u093e\u0930",
+          "name:ur": "\u0622\u0646\u0646\u062f \u0648\u06c1\u0627\u0631",
+          "network": "RRTS",
+          "operator": "National Capital Region Transport Corporation",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "A02",
+          "wikidata": "Q118124969",
+          "wikipedia": "en:Anand Vihar RRTS station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10922685709,
+        "lat": 28.675385,
+        "lon": 77.3008678,
+        "tags": {
+          "name": "Mansarovar Park",
+          "name:hi": "\u092e\u093e\u0928\u0938\u0930\u094b\u0935\u0930 \u092a\u093e\u0930\u094d\u0915 \u092e\u0947\u091f\u094d\u0930\u094b \u0938\u094d\u091f\u0947\u0936\u0928",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MPK",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q6751563",
+          "wikipedia": "en:Mansarovar Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11982168867,
+        "lat": 28.6663799,
+        "lon": 77.3070369,
+        "tags": {
+          "amenity": "fuel",
+          "check_date": "2024-06-15",
+          "name": "Hp"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11982168868,
+        "lat": 28.6663138,
+        "lon": 77.307593,
+        "tags": {
+          "amenity": "fuel",
+          "check_date": "2024-06-15",
+          "name": "Indraprast Gas Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12186858948,
+        "lat": 28.6498207,
+        "lon": 77.3144877,
+        "tags": {
+          "name": "Anand Vihar",
+          "public_transport": "stop_position",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12186858949,
+        "lat": 28.6498005,
+        "lon": 77.3145107,
+        "tags": {
+          "name": "Anand Vihar",
+          "public_transport": "stop_position",
+          "ref": "9",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12186858950,
+        "lat": 28.6496858,
+        "lon": 77.3146063,
+        "tags": {
+          "name": "Anand Vihar",
+          "public_transport": "stop_position",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12186858951,
+        "lat": 28.6495976,
+        "lon": 77.3146924,
+        "tags": {
+          "name": "Anand Vihar Terminal",
+          "public_transport": "stop_position",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12186858952,
+        "lat": 28.649484,
+        "lon": 77.3147955,
+        "tags": {
+          "name": "Anand Vihar Terminal",
+          "public_transport": "stop_position",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12186858953,
+        "lat": 28.6494327,
+        "lon": 77.314856,
+        "tags": {
+          "name": "Anand Vihar Terminal",
+          "public_transport": "stop_position",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12186858954,
+        "lat": 28.6493047,
+        "lon": 77.3149842,
+        "tags": {
+          "name": "Anand Vihar Terminal",
+          "public_transport": "stop_position",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12186858955,
+        "lat": 28.6492386,
+        "lon": 77.3150519,
+        "tags": {
+          "name": "Anand Vihar Terminal",
+          "public_transport": "stop_position",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12186858956,
+        "lat": 28.6490997,
+        "lon": 77.3151857,
+        "tags": {
+          "name": "Anand Vihar Terminal",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12194497183,
+        "lat": 28.6729485,
+        "lon": 77.292457,
+        "tags": {
+          "name": "Delhi Shahdara Junction",
+          "public_transport": "stop_position",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12194497184,
+        "lat": 28.6729829,
+        "lon": 77.2924557,
+        "tags": {
+          "name": "Delhi Shahdara Junction",
+          "public_transport": "stop_position",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12352455245,
+        "lat": 28.6492602,
+        "lon": 77.316582,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12478188648,
+        "lat": 28.647445,
+        "lon": 77.3168663,
+        "tags": {
+          "name": "Anand Vihar",
+          "name:hi": "\u0906\u0928\u0902\u0926 \u0935\u093f\u0939\u093e\u0930",
+          "network": "Namo Bharat",
+          "operator": "National Capital Region Transport Corporation",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12478188649,
+        "lat": 28.6474885,
+        "lon": 77.3167135,
+        "tags": {
+          "name": "Anand Vihar",
+          "name:hi": "\u0906\u0928\u0902\u0926 \u0935\u093f\u0939\u093e\u0930",
+          "network": "Namo Bharat",
+          "operator": "National Capital Region Transport Corporation",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12596571169,
+        "lat": 28.6619077,
+        "lon": 77.2999232,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Indraprastha Gas Limited CNG Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12596574170,
+        "lat": 28.6622203,
+        "lon": 77.3000898,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Electric Vehicle Charging Station"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1086 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:33:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2805238708,
+        "lat": 18.994382,
+        "lon": 72.824539,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "462",
+          "addr:postcode": "400013",
+          "addr:street": "Senapati Bapat Marg",
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "brand:wikidata": "Q38076",
+          "brand:wikipedia": "en:McDonald's",
+          "brand:wikipedia:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:wikipedia:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "cuisine": "burger",
+          "internet_access": "wlan",
+          "name": "McDonald's",
+          "name:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "name:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2805271348,
+        "lat": 18.9989541,
+        "lon": 72.8251728,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "cuisine": "coffee_shop",
+          "name": "Cafe Coffee Day",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2805280648,
+        "lat": 18.9956825,
+        "lon": 72.8258048,
+        "tags": {
+          "name": "Lifestyle",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3333491946,
+        "lat": 18.9987452,
+        "lon": 72.8275541,
+        "tags": {
+          "amenity": "bank",
+          "atm": "no",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "brand:wikipedia": "en:Kotak Mahindra Bank",
+          "name": "Kotak Mahindra Bank",
+          "name:en": "Kotak Mahindra Bank",
+          "website": "http://www.kotak.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3926507457,
+        "lat": 18.9932487,
+        "lon": 72.8229342,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Tasting Room",
+          "phone": "+98 22 65 28 52 84"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4055811989,
+        "lat": 18.994478,
+        "lon": 72.824616,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:pa": "\u0a2c\u0a30\u0a17\u0a30 \u0a15\u0a3f\u0a70\u0a17",
+          "brand:ur": "\u0628\u0631\u06af\u0631 \u06a9\u0646\u06af",
+          "brand:wikidata": "Q177054",
+          "brand:wikipedia": "en:Burger King",
+          "brand:wikipedia:pa": "\u0a2c\u0a30\u0a17\u0a30 \u0a15\u0a3f\u0a70\u0a17",
+          "brand:wikipedia:ur": "\u0628\u0631\u06af\u0631 \u06a9\u0646\u06af",
+          "cuisine": "burger",
+          "name": "Burger King",
+          "name:pa": "\u0a2c\u0a30\u0a17\u0a30 \u0a15\u0a3f\u0a70\u0a17",
+          "name:ru": "\u0411\u0443\u0440\u0433\u0435\u0440 \u041a\u0438\u043d\u0433",
+          "name:ur": "\u0628\u0631\u06af\u0631 \u06a9\u0646\u06af",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4055896589,
+        "lat": 18.99405,
+        "lon": 72.824471,
+        "tags": {
+          "internet_access": "wlan",
+          "name": "Palladium",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4271095990,
+        "lat": 18.9944913,
+        "lon": 72.8257483,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "8A, Janta Industrial Estate",
+          "addr:postcode": "400013",
+          "addr:street": "Senapati Bapat Marg",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "bar": "no",
+          "cuisine": "indian",
+          "delivery": "yes",
+          "diet:vegetarian": "yes",
+          "name": "SpiceKlub",
+          "opening_hours": "12:00-16:00, 18:30-00:00",
+          "outdoor_seating": "no",
+          "phone": "+91 22 4610 4610;+91 22 4610 4604",
+          "smoking": "no",
+          "website": "https://spiceklub.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4303203089,
+        "lat": 18.9947029,
+        "lon": 72.8246541,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "italian_pizza;pizza",
+          "name": "California Pizza Kitchen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4307052091,
+        "lat": 18.9946656,
+        "lon": 72.8286283,
+        "tags": {
+          "addr:housenumber": "213",
+          "addr:postcode": "400013",
+          "addr:street": "Sitram Jadhav Marg (Sun Mill Road)",
+          "amenity": "doctors",
+          "email": "bina_pansare@yahoo.com",
+          "name": "Radhakrishna Clinic. Dr Bina Pansare",
+          "phone": "9022397585",
+          "website": "http://mumbaichildspecialist.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4484180189,
+        "lat": 18.9985532,
+        "lon": 72.8116496,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "MAFCO Farm Fair"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982475286,
+        "lat": 18.9963121,
+        "lon": 72.8281849,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7036651185,
+        "lat": 18.9943158,
+        "lon": 72.81483,
+        "tags": {
+          "addr:postcode": "400018",
+          "addr:street": "Dr Annie Besant Road",
+          "amenity": "cafe",
+          "cuisine": "mediterranean;pizza;italian;thai;mexican",
+          "name:en": "Light House Cafe",
+          "opening_hours": "Mo-Su 10:30-01:30",
+          "phone": "+9199674 14148",
+          "website": "http://lighthousecafe.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7055759633,
+        "lat": 18.9925482,
+        "lon": 72.8243351,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Mumbai",
+          "addr:postcode": "400008",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Ipc Heart Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7086516381,
+        "lat": 18.9980415,
+        "lon": 72.8186139,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "395-A G.K. Marg, Worli",
+          "addr:postcode": "400018",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Nirmal Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7225067153,
+        "lat": 19.0017314,
+        "lon": 72.816903,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "BDD Chawls Worli, behind Poddar Hospital",
+          "addr:postcode": "400018",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "ESIS Hospital WORLI",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7225067192,
+        "lat": 19.0022803,
+        "lon": 72.8162624,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Dr Annie Besant Road, B Wing, BDD Chawls Worli",
+          "addr:postcode": "400018",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Poddar Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7229657887,
+        "lat": 18.9946859,
+        "lon": 72.8258984,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "1, Janta Industrial Estate",
+          "addr:postcode": "400013",
+          "addr:street": "Senapati Bapat Marg",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "bar": "no",
+          "cuisine": "indian",
+          "delivery": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Firki",
+          "opening_hours": "Mo-Su 12:00-15:30,18:30-23:30",
+          "outdoor_seating": "no",
+          "phone": "+91 22 61054695",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7229657888,
+        "lat": 18.9947003,
+        "lon": 72.8258629,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "1, Janta Industrial Estate",
+          "addr:postcode": "400013",
+          "addr:street": "Senapati Bapat Marg",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "bar": "no",
+          "cuisine": "italian;mexican;pizza;italian_pizza",
+          "delivery": "yes",
+          "diet:jain": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Riso",
+          "opening_hours": "Mo-Su 12:00-23:30",
+          "outdoor_seating": "no",
+          "phone": "+91 22 50645845",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7664032196,
+        "lat": 18.9887771,
+        "lon": 72.8230369,
+        "tags": {
+          "addr:district": "Mumbai City",
+          "addr:full": "20, Dr E Moses Road, Gandhi Nagar, Upper Worli, Lower Parel, Mumbai",
+          "addr:postcode": "400013",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Anand Niketan Hospital",
+          "opening_hours": "24/7",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11375956206,
+        "lat": 18.9939458,
+        "lon": 72.8249031,
+        "tags": {
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11375956207,
+        "lat": 18.9946569,
+        "lon": 72.8236713,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12184157097,
+        "lat": 18.989838,
+        "lon": 72.8256815,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Masque"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13049917935,
+        "lat": 18.9951845,
+        "lon": 72.8239393,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "burmese",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Burma Burma"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13049917936,
+        "lat": 18.9949605,
+        "lon": 72.8239728,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai",
+          "addr:housenumber": "462",
+          "addr:postcode": "400013",
+          "addr:street": "Senapati Bapat Marg",
+          "amenity": "restaurant",
+          "cuisine": "burmese",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Burma Burma Palladium",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "phone": "9920246500",
+          "website": "https://burmaburma.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13078412401,
+        "lat": 18.9981181,
+        "lon": 72.8230376,
+        "tags": {
+          "addr:postcode": "400012",
+          "addr:street": "Ganapatrao Kadam Marg",
+          "amenity": "doctors",
+          "email": "drakashoncologist@gmail.com",
+          "name": "Dr. Akash Dhuru - Cancer Specialist Surgeon (Siddhachal Hospital)",
+          "opening_hours": "24/7",
+          "phone": "9930000553"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:33:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 245657999,
+        "lat": 18.9784419,
+        "lon": 72.8140041,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position",
+          "source": "AND"
+        }
+      },
+      {
+        "type": "node",
+        "id": 296341039,
+        "lat": 18.997908,
+        "lon": 72.817372,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Worliway Service Station",
+          "operator": "BPCL"
+        }
+      },
+      {
+        "type": "node",
+        "id": 462270913,
+        "lat": 18.9939984,
+        "lon": 72.8145622,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 619293686,
+        "lat": 18.9874068,
+        "lon": 72.8327477,
+        "tags": {
+          "level": "-1",
+          "name": "Chinchpokli",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 621911847,
+        "lat": 18.99568,
+        "lon": 72.8302756,
+        "tags": {
+          "ele": "5",
+          "internet_access": "no",
+          "name": "Lower Parel",
+          "name:hi": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0947\u0932",
+          "name:ml": "\u0d32\u0d4b\u0d35\u0d7c \u0d2a\u0d30\u0d7e",
+          "name:mr": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0933",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PL",
+          "start_date": "1867",
+          "train": "yes",
+          "wikidata": "Q6693696",
+          "wikipedia": "en:Lower Parel railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 631547822,
+        "lat": 19.0073669,
+        "lon": 72.8357556,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "1",
+          "name": "Prabhadevi",
+          "name:hi": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "name:mr": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "PBHD",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1236574903,
+        "lat": 19.0111824,
+        "lon": 72.8205089,
+        "tags": {
+          "amenity": "fuel",
+          "source": "GPS"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1236582476,
+        "lat": 18.9922548,
+        "lon": 72.8143804,
+        "tags": {
+          "amenity": "fuel",
+          "cmt": "30-JAN-10 10:24:17",
+          "description": "30-JAN-10 10:24:17",
+          "ele": "21.995728",
+          "name": "Fuel",
+          "source": "GPS",
+          "sym": "Gas Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178254482,
+        "lat": 18.9765515,
+        "lon": 72.8326776,
+        "tags": {
+          "name": "Byculla",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178254483,
+        "lat": 18.9765534,
+        "lon": 72.8328591,
+        "tags": {
+          "name": "Byculla",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2444001671,
+        "lat": 18.9945514,
+        "lon": 72.8328707,
+        "tags": {
+          "internet_access": "no",
+          "name": "Currey Road",
+          "name:ml": "\u0d15\u0d31\u0d3f \u0d31\u0d4b\u0d21\u0d4d",
+          "name:mr": "\u0915\u0930\u0940 \u0930\u094b\u0921",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CRD",
+          "wikidata": "Q5121321",
+          "wikipedia": "en:Currey Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2622213367,
+        "lat": 19.0072999,
+        "lon": 72.8358523,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "2",
+          "name": "Prabhadevi",
+          "name:hi": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "name:mr": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "PBHD",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075001,
+        "lat": 18.9766219,
+        "lon": 72.8327936,
+        "tags": {
+          "internet_access": "no",
+          "name": "Byculla",
+          "name:hi": "\u092d\u093e\u092f\u0916\u0932\u093e",
+          "name:ml": "\u0d2c\u0d48\u0d15\u0d41\u0d32\u0d4d\u0d32",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BY",
+          "wikidata": "Q5003980",
+          "wikipedia": "en:Byculla railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306535092,
+        "lat": 18.9771509,
+        "lon": 72.8115505,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position",
+          "ref": "124"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306535093,
+        "lat": 18.9781036,
+        "lon": 72.8108602,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3462327239,
+        "lat": 19.0074717,
+        "lon": 72.8358965,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "historic:ref": "EPR",
+          "internet_access": "no",
+          "name": "Prabhadevi",
+          "name:hi": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "name:ml": "\u0d2a\u0d4d\u0d30\u0d2d\u0d3e\u0d26\u0d47\u0d35\u0d3f",
+          "name:mr": "\u092a\u094d\u0930\u092d\u093e\u0926\u0947\u0935\u0940",
+          "name:mr:--2018-07-19": "\u090f\u0932\u092b\u093f\u0928\u094d\u0938\u091f\u0928 \u0930\u094b\u0921",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "official_name": "Prabhadevi",
+          "old_name": "Elphinstone Road",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PBHD",
+          "start_date": "1867",
+          "train": "yes",
+          "wikidata": "Q5367292",
+          "wikipedia": "en:Parel-Prabhadevi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3501418211,
+        "lat": 18.9871984,
+        "lon": 72.8326716,
+        "tags": {
+          "internet_access": "no",
+          "name": "Chinchpokli",
+          "name:hi": "\u091a\u093f\u0902\u091a\u092a\u094b\u0915\u0932\u0940",
+          "name:ml": "\u0d1a\u0d3f\u0d1e\u0d4d\u0d1a\u0d4d\u0d2a\u0d4a\u0d15\u0d4d\u0d32\u0d3f",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CHG",
+          "wikidata": "Q5100314",
+          "wikipedia": "en:Chinchpokli railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3501419615,
+        "lat": 18.9765536,
+        "lon": 72.8328865,
+        "tags": {
+          "name": "Byculla",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3501419617,
+        "lat": 18.9765511,
+        "lon": 72.8327203,
+        "tags": {
+          "name": "Byculla",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3501419652,
+        "lat": 18.987134,
+        "lon": 72.8328365,
+        "tags": {
+          "level": "-1",
+          "name": "Chinchpokli",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3806743194,
+        "lat": 18.9830921,
+        "lon": 72.8285867,
+        "tags": {
+          "alt_name": "Jacob Circle",
+          "monorail": "yes",
+          "name": "Sant Gadge Maharaj Chowk",
+          "public_transport": "platform",
+          "railway": "station",
+          "station": "monorail"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3806743195,
+        "lat": 18.9945142,
+        "lon": 72.8433086,
+        "tags": {
+          "monorail": "yes",
+          "name": "Mint Colony",
+          "public_transport": "platform",
+          "railway": "station",
+          "station": "monorail"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4264478427,
+        "lat": 18.9825203,
+        "lon": 72.8242196,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "alt_name": "Mahalakshmi Railway Station",
+          "internet_access": "no",
+          "name": "Mahalaxmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "name:ml": "\u0d2e\u0d39\u0d3e\u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2e\u0d3f",
+          "name:mr": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MX",
+          "start_date": "1867",
+          "train": "yes",
+          "wikidata": "Q6732924",
+          "wikipedia": "en:Mahalaxmi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4655092790,
+        "lat": 18.9760562,
+        "lon": 72.8088408,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221295399,
+        "lat": 19.0085959,
+        "lon": 72.8192943,
+        "tags": {
+          "name": "Worli",
+          "name:mr": "\u0935\u0930\u0933\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221297425,
+        "lat": 18.9978264,
+        "lon": 72.8177404,
+        "tags": {
+          "name": "Acharya Atrey Chowk",
+          "name:mr": "\u0906\u091a\u093e\u0930\u094d\u092f \u0905\u0924\u094d\u0930\u0947 \u091a\u094c\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5448396122,
+        "lat": 18.9979515,
+        "lon": 72.8372765,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "name:en": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777542312,
+        "lat": 18.9978062,
+        "lon": 72.817695,
+        "tags": {
+          "name": "Acharya Atrey Chowk",
+          "name:mr": "\u0906\u091a\u093e\u0930\u094d\u092f \u0905\u0924\u094d\u0930\u0947 \u091a\u094c\u0915",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6168435926,
+        "lat": 18.9785446,
+        "lon": 72.8139768,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position",
+          "source": "AND"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6498408219,
+        "lat": 18.9931201,
+        "lon": 72.8314698,
+        "tags": {
+          "monorail": "yes",
+          "name": "Lower Parel",
+          "public_transport": "platform",
+          "railway": "station",
+          "station": "monorail"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7511298719,
+        "lat": 18.9821386,
+        "lon": 72.8240475,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "2",
+          "name": "Mahalaxmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7511298720,
+        "lat": 18.982232,
+        "lon": 72.8239368,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "1",
+          "name": "Mahalaxmi",
+          "name:hi": "\u092e\u0939\u093e\u0932\u0915\u094d\u0937\u094d\u092e\u0940",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7731605577,
+        "lat": 19.0086178,
+        "lon": 72.8192495,
+        "tags": {
+          "name": "Worli",
+          "name:mr": "\u0935\u0930\u0933\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817952879,
+        "lat": 18.9955353,
+        "lon": 72.8300633,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "1",
+          "name": "Lower Parel",
+          "name:hi": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0947\u0932",
+          "name:mr": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0933",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817952880,
+        "lat": 18.9955157,
+        "lon": 72.8301006,
+        "tags": {
+          "IR:zone": "WR:CCG",
+          "local_ref": "2",
+          "name": "Lower Parel",
+          "name:hi": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0947\u0932",
+          "name:mr": "\u0932\u094b\u0905\u0930 \u092a\u0930\u0933",
+          "network": "WR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9135966843,
+        "lat": 18.9936274,
+        "lon": 72.8329074,
+        "tags": {
+          "name": "Currey Road",
+          "name:mr": "\u0915\u0930\u0940 \u0930\u094b\u0921",
+          "network": "CR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CRD",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9140706757,
+        "lat": 18.9936375,
+        "lon": 72.8327955,
+        "tags": {
+          "name": "Currey Road",
+          "name:mr": "\u0915\u0930\u0940 \u0930\u094b\u0921",
+          "network": "CR",
+          "operator": "IR",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CRD",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10257911200,
+        "lat": 19.0135149,
+        "lon": 72.820006,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Worli Depot",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11375281416,
+        "lat": 18.9951198,
+        "lon": 72.8239441,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR Cinemas",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11456249853,
+        "lat": 18.9777892,
+        "lon": 72.8239971,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12857565154,
+        "lat": 18.9978202,
+        "lon": 72.8177201,
+        "tags": {
+          "name": "Acharya Atrey Chowk",
+          "name:mr": "\u0906\u091a\u093e\u0930\u094d\u092f \u0905\u0924\u094d\u0930\u0947 \u091a\u094c\u0915",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12857565155,
+        "lat": 19.0086057,
+        "lon": 72.8192741,
+        "tags": {
+          "name": "\u0935\u0930\u0933\u0940 Worli",
+          "name:mr": "\u0935\u0930\u0933\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13039483934,
+        "lat": 19.0016284,
+        "lon": 72.8154256,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Hindustan Petroleum Corporation Limited",
+          "name:en": "Hindustan Petroleum Corporation Limited",
+          "name:mr": "\u090f\u091a\u092a\u0940 \u0907\u0902\u0927\u0928 \u0938\u094d\u091f\u0947\u0936\u0928"
+        }
+      }
+    ]
+  }
+}

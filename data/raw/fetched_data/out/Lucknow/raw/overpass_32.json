@@ -1,0 +1,432 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:08:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3627170478,
+        "lat": 26.8806441,
+        "lon": 80.9309742,
+        "tags": {
+          "addr:city": "lucknow",
+          "addr:postcode": "226020",
+          "addr:street": "Sitapur Road",
+          "name": "bansal super store",
+          "operator": "bansal",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5531163621,
+        "lat": 26.8728354,
+        "lon": 80.9384858,
+        "tags": {
+          "leisure": "playground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7019151337,
+        "lat": 26.8753527,
+        "lon": 80.936797,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "B-54, Nirala Nagar",
+          "addr:postcode": "226020",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "clinic",
+          "name": "Garg Ophthalmic Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7020925962,
+        "lat": 26.8783457,
+        "lon": 80.9326704,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "B-171, Nirala Nagar",
+          "addr:postcode": "226020",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Rml Mehrotra Pathology",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7024837638,
+        "lat": 26.8748096,
+        "lon": 80.9341127,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "C-398, Nirala Nagar, Shanker Nagar Crossin",
+          "addr:postcode": "226001",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "clinic",
+          "name": "Kapoor Surgical Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7025114554,
+        "lat": 26.8748754,
+        "lon": 80.9402738,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "B-127, Nirala Nagar",
+          "addr:postcode": "226001",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Lucknow Gastroenterology and Gynaecology Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7027336988,
+        "lat": 26.8715497,
+        "lon": 80.9284915,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Mausamganj, Panna Lal Road Daliganj",
+          "addr:postcode": "226020",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Daliganj Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7029017920,
+        "lat": 26.8794653,
+        "lon": 80.9326687,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "B1/196, Nirala Nagar,Near Dali Ganj Railway Crossing",
+          "addr:postcode": "226020",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "B. N. K. Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030517275,
+        "lat": 26.8747475,
+        "lon": 80.9415139,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "A-3, Nirala Nagar",
+          "addr:postcode": "226020",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Globe Medicare",
+          "source": "OpenGovernmentData",
+          "website": "https://globemedicare.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030903315,
+        "lat": 26.8796945,
+        "lon": 80.9316971,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "B-167, A, Near Daliganj Crossing, Nirala Nagar",
+          "addr:postcode": "226001",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Green Cross Medical center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7035846137,
+        "lat": 26.8794264,
+        "lon": 80.9422727,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "2-B/6, Chandganj Garden Road",
+          "addr:postcode": "226010",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Sunflower Medical and Gynae Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9103926567,
+        "lat": 26.8716423,
+        "lon": 80.9423628,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "cash_in": "yes",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "HDFC Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "operator:wikipedia": "en:HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9753508717,
+        "lat": 26.8748633,
+        "lon": 80.9402724,
+        "tags": {
+          "addr:street": "Nirala Nagar",
+          "amenity": "clinic",
+          "name:en": "Dr. Punit Meharatro Gastro Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13105259936,
+        "lat": 26.8767749,
+        "lon": 80.9422234,
+        "tags": {
+          "addr:city": "Lucknow",
+          "addr:district": "LUCKNOW",
+          "addr:postcode": "226020",
+          "addr:street": "A -9, Officers Colony, Nirala Nagar, Lucknow, Uttar Pradesh",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr Prasoon Shamshery",
+          "operator": "Novosalus Technology",
+          "operator:type": "private"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:08:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 564716972,
+        "lat": 26.8753418,
+        "lon": 80.9275723,
+        "tags": {
+          "name": "Daliganj",
+          "network": "IR",
+          "operator": "NER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DAL",
+          "wikidata": "Q27962020",
+          "wikipedia": "en:Daliganj Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2217075733,
+        "lat": 26.8711954,
+        "lon": 80.9584756,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Umrao Cineplex"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4186033390,
+        "lat": 26.8818485,
+        "lon": 80.946383,
+        "tags": {
+          "amenity": "cinema",
+          "name": "novelty cinema aliganj"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4977535798,
+        "lat": 26.8539423,
+        "lon": 80.9368471,
+        "tags": {
+          "name": "KD Singh Babu Stadium",
+          "name:hi": "\u0915\u0947\u0921\u0940 \u0938\u093f\u0902\u0939 \u092c\u093e\u092c\u0942 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4977535810,
+        "lat": 26.8654923,
+        "lon": 80.9395636,
+        "tags": {
+          "name": "Vishwavidyalaya",
+          "name:hi": "\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6444506695,
+        "lat": 26.8710043,
+        "lon": 80.945608,
+        "tags": {
+          "name": "IT College",
+          "name:hi": "\u0906\u0908\u091f\u0940 \u0915\u0949\u0932\u0947\u091c",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6634933375,
+        "lat": 26.8709347,
+        "lon": 80.9405916,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "fuel:diesel": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6635130652,
+        "lat": 26.8672342,
+        "lon": 80.9223085,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655708798,
+        "lat": 26.8710268,
+        "lon": 80.9456475,
+        "tags": {
+          "name": "IT College",
+          "name:hi": "\u0906\u0908\u091f\u0940 \u0915\u0949\u0932\u0947\u091c",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655708799,
+        "lat": 26.865529,
+        "lon": 80.9395458,
+        "tags": {
+          "name": "Vishwavidyalaya",
+          "name:hi": "\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655708800,
+        "lat": 26.8539449,
+        "lon": 80.9368084,
+        "tags": {
+          "name": "KD Singh Babu Stadium",
+          "name:hi": "\u0915\u0947\u0921\u0940 \u0938\u093f\u0902\u0939 \u092c\u093e\u092c\u0942 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655728255,
+        "lat": 26.8710537,
+        "lon": 80.94561,
+        "tags": {
+          "name": "IT College",
+          "name:hi": "\u0906\u0908\u091f\u0940 \u0915\u0949\u0932\u0947\u091c",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655728269,
+        "lat": 26.8655077,
+        "lon": 80.939511,
+        "tags": {
+          "name": "Vishwavidyalaya",
+          "name:hi": "\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655728294,
+        "lat": 26.8539129,
+        "lon": 80.9368026,
+        "tags": {
+          "name": "KD Singh Babu Stadium",
+          "name:hi": "\u0915\u0947\u0921\u0940 \u0938\u093f\u0902\u0939 \u092c\u093e\u092c\u0942 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+          "network": "Lucknow Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Lucknow Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

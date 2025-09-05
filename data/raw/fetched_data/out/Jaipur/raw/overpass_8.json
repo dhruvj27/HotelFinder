@@ -1,0 +1,1357 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:00:35Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 691261875,
+        "lat": 26.9106803,
+        "lon": 75.7985655,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Anokhi Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2130274953,
+        "lat": 26.9149,
+        "lon": 75.7947041,
+        "tags": {
+          "addr:housenumber": "1",
+          "addr:street": "Gopal Bari, Ajmer Road",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dental Care Centre 2"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2684721077,
+        "lat": 26.9108905,
+        "lon": 75.7889678,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:street": "Achrol House, Civil Lines",
+          "amenity": "restaurant",
+          "name": "Spice Court"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2690970389,
+        "lat": 26.9026028,
+        "lon": 75.7926001,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2694200840,
+        "lat": 26.9047068,
+        "lon": 75.7805686,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:housenumber": "1 Shivaji Nagar, Civil Lines, jaipur \u2013 302006, Rajasthan, India",
+          "addr:postcode": "302006",
+          "addr:street": "1 Shivaji Nagar, Civil Lines",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "ALCS: Cosmetic Surgery, Hair Transplant & Laser Clinic in Jaipur"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3685074596,
+        "lat": 26.915555,
+        "lon": 75.7949393,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2023-10-23",
+          "name": "Nibs",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3840693081,
+        "lat": 26.9025479,
+        "lon": 75.7853756,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4015018939,
+        "lat": 26.9060748,
+        "lon": 75.7970467,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:housenumber": "R-14",
+          "addr:postcode": "302001",
+          "addr:street": "Yudhishthir Marg",
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "brand:wikipedia": "en:Caf\u00e9 Coffee Day",
+          "cuisine": "coffee_shop",
+          "internet_access": "no",
+          "level": "0",
+          "name": "Cafe Coffee Day",
+          "opening_hours": "11:00-23:00",
+          "phone": "+911414048647",
+          "smoking": "outside",
+          "takeaway": "yes",
+          "website": "https://www.cafecoffeeday.com/",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4826369122,
+        "lat": 26.9120381,
+        "lon": 75.7920659,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Cheap food places",
+          "name:hi": "Cheap food places"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4830934021,
+        "lat": 26.9063152,
+        "lon": 75.7966924,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Dhaba",
+          "name:hi": "Dhaba"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4959451821,
+        "lat": 26.9130736,
+        "lon": 75.7853986,
+        "tags": {
+          "addr:street": "Jacob Road",
+          "amenity": "restaurant",
+          "cuisine": "italian_pizza;italian",
+          "diet:vegan": "yes",
+          "name:en": "Giardino",
+          "opening_hours": "Mo-Su 07:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5144379721,
+        "lat": 26.9050829,
+        "lon": 75.7946411,
+        "tags": {
+          "addr:housenumber": "E-145 First",
+          "addr:postcode": "302001",
+          "addr:street": "Ramesh Marg",
+          "amenity": "cafe",
+          "internet_access": "wlan",
+          "name:en": "Poppin Organic Caf\u00e9",
+          "opening_hours": "Mo-Su 11:00-22:00",
+          "phone": "+91 97996 28666",
+          "website": "https://poppin-organic-cafe.business.site/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5147754221,
+        "lat": 26.9060714,
+        "lon": 75.795372,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Thank god it's healthy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5213122428,
+        "lat": 26.9069676,
+        "lon": 75.789381,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:housenumber": "34-A",
+          "addr:postcode": "302006",
+          "addr:street": "Shree Rampura Colony",
+          "amenity": "restaurant",
+          "name": "Lazy Mozo Backpackers"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5422169221,
+        "lat": 26.9042168,
+        "lon": 75.7969605,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Curious Life Coffee Roasters"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6766661285,
+        "lat": 26.9024904,
+        "lon": 75.7943953,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Nibs Restaurant Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6908274785,
+        "lat": 26.9053917,
+        "lon": 75.7943144,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Brown Bites bakes and cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7025222996,
+        "lat": 26.9081588,
+        "lon": 75.7963179,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "21,Near Bagadia Bhawan, Jamna Lal Bajaj Marg, C-Scheme, Jaipur",
+          "addr:postcode": "302005",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Anand Eye Hospital",
+          "source": "OpenGovernmentData",
+          "website": "https://anandeyehospital.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7035107000,
+        "lat": 26.9096883,
+        "lon": 75.7899821,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "1, Jacob Road, Civil Lines",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Gautam Hospital and Research Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7038265808,
+        "lat": 26.9080954,
+        "lon": 75.7908113,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "A-2, Jamnnalal Bazaz Marg, C-Scheme",
+          "addr:postcode": "302001",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "ophthalmology",
+          "name": "Dr Agarwals Eye Hospital",
+          "operator": "Dr. Agarwal's Eye Hospital",
+          "operator:wikidata": "Q17052044",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7039556018,
+        "lat": 26.9128574,
+        "lon": 75.7970139,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "R 8/A, Yudhishtar Marg Behind Ashok Nagar Police Station",
+          "addr:postcode": "302001",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sr Kalla Memorial Gastro and General Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7039684189,
+        "lat": 26.9147732,
+        "lon": 75.7955489,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "15-16, Hathroi Market, Ajmer Road",
+          "addr:postcode": "302001",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Welfare Clinic, Jaipur",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7039702397,
+        "lat": 26.9144575,
+        "lon": 75.7962348,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "62-A,Dhuleshwar Garden,C-Scheme",
+          "addr:postcode": "302001",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Vivekanand Hospital and Fertility Centre",
+          "source": "OpenGovernmentData",
+          "website": "https://www.vivekanandfertility.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043371159,
+        "lat": 26.9154928,
+        "lon": 75.7889389,
+        "tags": {
+          "leisure": "garden",
+          "name": "Ganpati Nagar Ground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043371160,
+        "lat": 26.9162526,
+        "lon": 75.7866588,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Railway Hospital",
+          "name:hi": "\u0930\u0947\u0932\u0935\u0947 \u0939\u0949\u0938\u094d\u092a\u093f\u091f\u0932"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7046290880,
+        "lat": 26.9032872,
+        "lon": 75.7929498,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:street": "Sahakar Marg",
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "brand:wikidata": "Q38076",
+          "brand:wikipedia": "en:McDonald's",
+          "brand:wikipedia:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:wikipedia:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "name:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "name:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7046290881,
+        "lat": 26.9033421,
+        "lon": 75.7923228,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "delivery": "yes",
+          "name": "Pizza Hut Delivery",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7232291585,
+        "lat": 26.9132795,
+        "lon": 75.7940823,
+        "tags": {
+          "addr:housenumber": "18",
+          "addr:street": "Ajmer pulia",
+          "amenity": "cafe",
+          "cuisine": "breakfast;indian",
+          "diet:vegetarian": "yes",
+          "name": "Charis cafe",
+          "name:ru": "\u0427\u0430\u0440\u0438\u0441 \u043a\u0430\u0444\u0435",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "phone": "+9190251 55906",
+          "website": "https://charis-cafe-cafe.business.site"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7248042885,
+        "lat": 26.9053514,
+        "lon": 75.7949791,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name:en": "Deststahn - Homemade Desi Food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7279102584,
+        "lat": 26.907893,
+        "lon": 75.783374,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Raj Bhavan, Civil Lines, Madrampur, Raj Bhavan Road",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "addr:subdistrict": "Jaipur",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Government Homeopathic Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410024,
+        "lat": 26.9055509,
+        "lon": 75.7805557,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Civil Lines, Jaipur",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Narendra Singh",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410027,
+        "lat": 26.9117105,
+        "lon": 75.7792639,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Shanti Nagar, Civil Lines",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Gastro and Liver care",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410051,
+        "lat": 26.902571,
+        "lon": 75.7827749,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Civil Lines, Keshav Nagar",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Parikh's Heart Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698486526,
+        "lat": 26.9015598,
+        "lon": 75.7888362,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Kartarpura, Jaipur",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Gupta Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698486534,
+        "lat": 26.9119478,
+        "lon": 75.7956561,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Panch Batti, Hathroi, Jaipur",
+          "addr:postcode": "302007",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "name": "Dr. G C. Bothra",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698486575,
+        "lat": 26.9061939,
+        "lon": 75.7962708,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Ashok Nagar",
+          "addr:postcode": "302001",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "ITS Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8083911703,
+        "lat": 26.9023845,
+        "lon": 75.7866415,
+        "tags": {
+          "addr:street": "Hawa sadak",
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "KK Medicos"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8084157086,
+        "lat": 26.9016256,
+        "lon": 75.7849972,
+        "tags": {
+          "addr:street": "Hawa sadak",
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "brand:wikipedia": "en:Caf\u00e9 Coffee Day",
+          "cuisine": "coffee_shop",
+          "name": "Cafe Coffee Day",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8084157087,
+        "lat": 26.9015496,
+        "lon": 75.7848006,
+        "tags": {
+          "amenity": "bank",
+          "name": "DCB Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9249525420,
+        "lat": 26.9107569,
+        "lon": 75.7952415,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:housenumber": "A-5, Suryavanshi Pearl",
+          "addr:postcode": "302007",
+          "addr:street": "Chomu House Circle",
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "brand:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "brand:wikidata": "Q37158",
+          "brand:wikipedia": "en:Starbucks",
+          "cuisine": "coffee_shop;coffee",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Starbucks",
+          "name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "official_name": "Starbucks Coffee",
+          "official_name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38 \u0a15\u0a4c\u0a2b\u0a40",
+          "official_name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633 \u06a9\u0627\u0641\u06cc",
+          "opening_hours": "Mo-Su 09:00-22:00",
+          "website": "https://www.starbucks.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10013086817,
+        "lat": 26.9053547,
+        "lon": 75.794676,
+        "tags": {
+          "amenity": "cafe",
+          "internet_access": "wlan",
+          "name:en": "Coffee Sutra"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11162418128,
+        "lat": 26.9073957,
+        "lon": 75.7954528,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:district": "Jaipur",
+          "addr:housenumber": "F-31",
+          "addr:postcode": "302001",
+          "addr:street": "Azad Marg",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop;sandwich;american;cake",
+          "description": "Freshly roasted Indian Specialty Coffee Shop and Roastery. Experience Farm to Cup.",
+          "email": "info@halflightcoffee.com",
+          "highchair": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Half Light Coffee Roasters",
+          "opening_hours": "08:00-22:00",
+          "outdoor_seating": "yes",
+          "phone": "+919602602849",
+          "takeaway": "yes",
+          "website": "https://halflightcoffee.com/",
+          "website:menu": "https://fudr.in/welcome/1162000"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11260402237,
+        "lat": 26.9073874,
+        "lon": 75.7954138,
+        "tags": {
+          "addr:housenumber": "F 31",
+          "addr:postcode": "302001",
+          "addr:street": "Azad Marg",
+          "amenity": "cafe",
+          "cuisine": "american;coffee_shop;international",
+          "internet_access": "wlan",
+          "name:en": "Half Light Coffee Roasters",
+          "opening_hours": "Su-Sa 08:00-22:00",
+          "phone": "9602602849",
+          "website": "https://halflightcoffee.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11747461069,
+        "lat": 26.9034396,
+        "lon": 75.7929249,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:wikidata": "Q38076",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "name:en": "McDonalds",
+          "takeaway": "yes"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:00:35Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1064270823,
+        "lat": 26.9225949,
+        "lon": 75.7999012,
+        "tags": {
+          "name": "Sindhi Camp",
+          "name:hi": "\u0938\u093f\u0928\u094d\u0927\u0940 \u0915\u0948\u0902\u092a",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "SICP",
+          "shelter": "yes",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1064270856,
+        "lat": 26.9235814,
+        "lon": 75.8005946,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Sindhi Camp",
+          "name:en": "Jaipur Main Bus station",
+          "operator": "RSRTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1946919383,
+        "lat": 26.9017919,
+        "lon": 75.7895065,
+        "tags": {
+          "internet_access": "no",
+          "name": "Bais Godam",
+          "network": "IR",
+          "operator": "NWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BSGD",
+          "train": "no",
+          "wikidata": "Q24949515",
+          "wikipedia": "en:Bais Godam railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2669084994,
+        "lat": 26.9207888,
+        "lon": 75.7866539,
+        "tags": {
+          "internet_access": "wlan",
+          "name": "Jaipur Junction",
+          "network": "IR",
+          "operator": "NWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JP",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q6124154",
+          "wikipedia": "en:Jaipur Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2690970281,
+        "lat": 26.9026493,
+        "lon": 75.7923721,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3139919926,
+        "lat": 26.9094527,
+        "lon": 75.7811364,
+        "tags": {
+          "name": "Civil Lines",
+          "name:hi": "\u0938\u093f\u0935\u093f\u0932 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "CLJP",
+          "shelter": "yes",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3139920400,
+        "lat": 26.9180833,
+        "lon": 75.7900798,
+        "tags": {
+          "name": "Railway Station",
+          "name:hi": "\u0930\u0947\u0932\u0935\u0947 \u0938\u094d\u091f\u0947\u0936\u0928",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "MRSN",
+          "shelter": "yes",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3139920401,
+        "lat": 26.9017699,
+        "lon": 75.7746219,
+        "tags": {
+          "layer": "1",
+          "name": "Ram Nagar",
+          "name:hi": "\u0930\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "RMNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3139920402,
+        "lat": 26.8964858,
+        "lon": 75.7706033,
+        "tags": {
+          "name": "Shyam Nagar",
+          "name:hi": "\u0936\u094d\u092f\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "SMNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3677353031,
+        "lat": 26.9169156,
+        "lon": 75.8063152,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3862442972,
+        "lat": 26.9033655,
+        "lon": 75.7924281,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "Inox",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4466634254,
+        "lat": 26.901561,
+        "lon": 75.7827,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5284145023,
+        "lat": 26.917631,
+        "lon": 75.7902938,
+        "tags": {
+          "addr:street": "Hasanpura Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name:en": "Kalpana Chembar, near Hasanapura Puliya railway st.",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5391526672,
+        "lat": 26.9226849,
+        "lon": 75.7998222,
+        "tags": {
+          "name": "Sindhi Camp",
+          "name:hi": "\u0938\u093f\u0928\u094d\u0927\u0940 \u0915\u0948\u0902\u092a",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "SICP",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28180440",
+          "wikipedia": "en:Sindhi Camp metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5391527174,
+        "lat": 26.9181132,
+        "lon": 75.790129,
+        "tags": {
+          "name": "Railway Station",
+          "name:hi": "\u0930\u0947\u0932\u0935\u0947 \u0938\u094d\u091f\u0947\u0936\u0928",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "MRSN",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28180437",
+          "wikipedia": "en:Railway Station metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6133852985,
+        "lat": 26.923305,
+        "lon": 75.8006345,
+        "tags": {
+          "addr:postcode": "302006",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Sindhi Camp Bus Stand",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6630557586,
+        "lat": 26.9231668,
+        "lon": 75.7937215,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum",
+          "name:en": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6781585323,
+        "lat": 26.9225493,
+        "lon": 75.7999247,
+        "tags": {
+          "name": "Sindhi Camp",
+          "name:hi": "\u0938\u093f\u0928\u094d\u0927\u0940 \u0915\u0948\u0902\u092a",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "SICP",
+          "shelter": "yes",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6783208321,
+        "lat": 26.9096783,
+        "lon": 75.7812494,
+        "tags": {
+          "name": "Civil Lines",
+          "name:hi": "\u0938\u093f\u0935\u093f\u0932 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "CLJP",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28180430",
+          "wikipedia": "en:Civil Lines metro station (Jaipur)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230712,
+        "lat": 26.9004314,
+        "lon": 75.7691078,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968230713,
+        "lat": 26.901353,
+        "lon": 75.7709911,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7707870458,
+        "lat": 26.9202441,
+        "lon": 75.7863643,
+        "tags": {
+          "name": "Jaipur Junction",
+          "name:de": "Jaipur Junction Gleis 5",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7707870459,
+        "lat": 26.9203278,
+        "lon": 75.786465,
+        "tags": {
+          "name": "Jaipur Junction",
+          "name:de": "Jaipur Junction Gleis 4",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7707870460,
+        "lat": 26.9203604,
+        "lon": 75.7865017,
+        "tags": {
+          "name": "Jaipur Junction",
+          "name:de": "Jaipur Junction Gleis 3",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7707870461,
+        "lat": 26.9204689,
+        "lon": 75.7866071,
+        "tags": {
+          "name": "Jaipur Junction",
+          "name:de": "Jaipur Junction Gleis 2",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7707870462,
+        "lat": 26.9204954,
+        "lon": 75.7866329,
+        "tags": {
+          "name": "Jaipur Junction",
+          "name:de": "Jaipur Junction Gleis 1",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8042098373,
+        "lat": 26.9017572,
+        "lon": 75.7746732,
+        "tags": {
+          "layer": "1",
+          "name": "Ram Nagar",
+          "name:hi": "\u0930\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "RMNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8042595579,
+        "lat": 26.9094099,
+        "lon": 75.7811653,
+        "tags": {
+          "name": "Civil Lines",
+          "name:hi": "\u0938\u093f\u0935\u093f\u0932 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "CLJP",
+          "shelter": "yes",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8042601995,
+        "lat": 26.9180968,
+        "lon": 75.7901165,
+        "tags": {
+          "name": "Railway Station",
+          "name:hi": "\u0930\u0947\u0932\u0935\u0947 \u0938\u094d\u091f\u0947\u0936\u0928",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "MRSN",
+          "shelter": "yes",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8042602063,
+        "lat": 26.8964694,
+        "lon": 75.7706558,
+        "tags": {
+          "name": "Shyam Nagar",
+          "name:hi": "\u0936\u094d\u092f\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "ref": "SMNR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8075691873,
+        "lat": 26.9188762,
+        "lon": 75.7982521,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Ganpati plaza",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8075691874,
+        "lat": 26.9189549,
+        "lon": 75.7983159,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Ganpati plaza",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8084157103,
+        "lat": 26.9020437,
+        "lon": 75.7930168,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "22 Godam Public Bus Stop",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8149193787,
+        "lat": 26.8964768,
+        "lon": 75.7706279,
+        "tags": {
+          "name": "Shyam Nagar",
+          "name:hi": "\u0936\u094d\u092f\u093e\u092e \u0928\u0917\u0930",
+          "network": "Jaipur Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Jaipur Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "ref": "SMNR",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28180421",
+          "wikipedia": "en:Shyam Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8167940763,
+        "lat": 26.9115355,
+        "lon": 75.7850152,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8665176577,
+        "lat": 26.91708,
+        "lon": 75.8006737,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9249518832,
+        "lat": 26.9128924,
+        "lon": 75.7916301,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "RSRTC Bus Depot",
+          "operator": "RSRTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10904794879,
+        "lat": 26.9154253,
+        "lon": 75.8100827,
+        "tags": {
+          "addr:housenumber": "C-16, Bhagwan Das Rd, Panch Batti, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+          "amenity": "cinema",
+          "name": "raj mandir cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10936787897,
+        "lat": 26.9167126,
+        "lon": 75.8048644,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11586819554,
+        "lat": 26.8959825,
+        "lon": 75.8093318,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11747571769,
+        "lat": 26.9027002,
+        "lon": 75.7903837,
+        "tags": {
+          "amenity": "fuel",
+          "name:en": "BPCL BAIS GODAM PETROL PUMP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11747573469,
+        "lat": 26.9035483,
+        "lon": 75.7887016,
+        "tags": {
+          "amenity": "fuel",
+          "name:en": "BPCL BAIS GODAM PETROL PUMP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11765686547,
+        "lat": 26.9017025,
+        "lon": 75.7825909,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11765964116,
+        "lat": 26.8988076,
+        "lon": 75.7935498,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

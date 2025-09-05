@@ -1,0 +1,713 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:26:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4511556293,
+        "lat": 28.7168703,
+        "lon": 77.1142763,
+        "tags": {
+          "brand": "More",
+          "brand:wikidata": "Q6910891",
+          "level": "-1",
+          "name": "More",
+          "name:en": "More Megastore (City Centre)",
+          "name:hi": "\u092e\u094b\u0930 \u092e\u0947\u0917\u093e\u0938\u094d\u091f\u094b\u0930\u0947",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4511572789,
+        "lat": 28.7165032,
+        "lon": 77.1137155,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:wikidata": "Q38076",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "name:en": "Mcdonald's India",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5340920122,
+        "lat": 28.7055417,
+        "lon": 77.1112272,
+        "tags": {
+          "amenity": "clinic",
+          "name": "Joshi Diabetes Centre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6076117385,
+        "lat": 28.7105191,
+        "lon": 77.1069394,
+        "tags": {
+          "addr:city": "Rohini",
+          "addr:housenumber": "d7/224",
+          "addr:postcode": "110085",
+          "addr:state": "Delhi",
+          "addr:street": "Sector 6",
+          "amenity": "clinic",
+          "contact:phone": "+9101127054943",
+          "healthcare:speciality": "dentist",
+          "name": "Dental Health Point",
+          "opening_hours": "Mo-Sa 09:00-12:00, Mo-Sa 17:00-20:00",
+          "operator": "Dr. Renu Garg"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6076216285,
+        "lat": 28.7135177,
+        "lon": 77.1095424,
+        "tags": {
+          "addr:housenumber": "c4/94",
+          "addr:street": "Chotu Ram Marg, Sector 6",
+          "amenity": "pharmacy",
+          "name": "Jain Medicos"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6390207096,
+        "lat": 28.712011,
+        "lon": 77.1177846,
+        "tags": {
+          "amenity": "clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138632150,
+        "lat": 28.7113776,
+        "lon": 77.1176777,
+        "tags": {
+          "addr:district": "North West",
+          "addr:full": "Brahmaputra Marg, Pocket 15, Sector 7D, Rohini",
+          "addr:postcode": "110085",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "contact:phone": "27044007",
+          "healthcare": "hospital",
+          "name": "MCD Maternity Government Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7375578444,
+        "lat": 28.7152357,
+        "lon": 77.1097082,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203148,
+        "lat": 28.712718,
+        "lon": 77.119198,
+        "tags": {
+          "addr:district": "North West Delhi",
+          "addr:full": "Jai Apartments, Sector 9, Metro Pillar #417 168, Rohini",
+          "addr:postcode": "110085",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "North Delhi Diabetes Center",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203165,
+        "lat": 28.7101355,
+        "lon": 77.1166883,
+        "tags": {
+          "addr:district": "North West Delhi",
+          "addr:full": "D16-66, Shiva Road, Pocket 16, Sector 7D, Rohini",
+          "addr:postcode": "110085",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "name": "Atul Path Labs and Eye Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203205,
+        "lat": 28.711308,
+        "lon": 77.117682,
+        "tags": {
+          "addr:district": "North West Delhi",
+          "addr:full": "D- 16/ 434, Brahmkumaris Marg, Pocket 16, Sector 7D, Rohini",
+          "addr:postcode": "110085",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Lala Hansraj Gupta Polyclinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8014567391,
+        "lat": 28.7118409,
+        "lon": 77.1140943,
+        "tags": {
+          "addr:city": "delhi",
+          "addr:housenumber": "F26/12",
+          "addr:postcode": "110085",
+          "addr:street": "Maharaja Agrasen Marg, Sector 7, Rohini, Delhi, 110085",
+          "name": "Aryanveda Cosmeceuticals, Rohini",
+          "organic": "yes",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219994,
+        "lat": 28.7094086,
+        "lon": 77.112844,
+        "tags": {
+          "addr:full": "Plot No. 28, Pocket E2, Sector 7, Rohini, Block G-23, Pocket 23, Sector 7, Rohini, Delhi,",
+          "amenity": "bank",
+          "name": "AU SMALL FINANCE BANK LIMITED"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8223628694,
+        "lat": 28.7104326,
+        "lon": 77.1131248,
+        "tags": {
+          "addr:street": "Avantika Road",
+          "amenity": "restaurant",
+          "description": "Sweets Shop",
+          "name": "Bansi Vala",
+          "opening_hours": "Mo-Su 06:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8223660655,
+        "lat": 28.710397,
+        "lon": 77.1132755,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "Street Vendor",
+          "name": "Kadai Dhudh"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8507386135,
+        "lat": 28.7087148,
+        "lon": 77.1116283,
+        "tags": {
+          "addr:housenumber": "f-24/68",
+          "addr:street": "HL Parwana Road, sector 7, rohini",
+          "amenity": "fast_food",
+          "name": "My Shop",
+          "opening_hours": "Mo-Su 00:00-22:00",
+          "phone": "7404526162"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11027276730,
+        "lat": 28.7188196,
+        "lon": 77.1125072,
+        "tags": {
+          "name": "Smart Bazaar",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11399945110,
+        "lat": 28.7200216,
+        "lon": 77.1083551,
+        "tags": {
+          "amenity": "fast_food",
+          "contact:mobile": "+91-999-034-7340",
+          "name": "AK Perfect Momo"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11399945112,
+        "lat": 28.7200142,
+        "lon": 77.1082999,
+        "tags": {
+          "amenity": "fast_food",
+          "contact:mobile": "+91-706-555-666-5",
+          "name": "Mahakal Rajma Chawal"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11403077877,
+        "lat": 28.7161846,
+        "lon": 77.1142271,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "name": "Pizza Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11407244968,
+        "lat": 28.714682,
+        "lon": 77.1163209,
+        "tags": {
+          "amenity": "fast_food",
+          "level": "1;2",
+          "name": "Bikanervala"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698814338,
+        "lat": 28.7147763,
+        "lon": 77.1164177,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12022913234,
+        "lat": 28.7147527,
+        "lon": 77.1162173,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Roslyn Coffee",
+          "phone": "01161110148"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12022913236,
+        "lat": 28.7148291,
+        "lon": 77.1161113,
+        "tags": {
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12028989717,
+        "lat": 28.7151011,
+        "lon": 77.1164799,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Keventers",
+          "website": "https://www.keventers.com/",
+          "wikidata": "Q110654891",
+          "wikipedia": "en:Keventers Milkshake"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12028989718,
+        "lat": 28.7151387,
+        "lon": 77.1164102,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Barbecue Nation"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12078121195,
+        "lat": 28.7160627,
+        "lon": 77.1143886,
+        "tags": {
+          "alt_name": "Haldiram",
+          "amenity": "fast_food",
+          "brand": "Haldiram's",
+          "brand:wikidata": "Q17054442",
+          "cuisine": "indian",
+          "name": "Haldiram's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12091875139,
+        "lat": 28.7162256,
+        "lon": 77.1141644,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12091875140,
+        "lat": 28.7161351,
+        "lon": 77.1142898,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:wikidata": "Q244457",
+          "cuisine": "sandwich",
+          "name": "Subway",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12091875141,
+        "lat": 28.7164464,
+        "lon": 77.1138079,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:wikidata": "Q177054",
+          "brand:wikipedia": "en:Burger King",
+          "cuisine": "burger",
+          "name": "Burger King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12630193528,
+        "lat": 28.7168369,
+        "lon": 77.1143111,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "cuisine": "coffee_shop",
+          "name": "Cafe Coffee Day",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12806537952,
+        "lat": 28.7150335,
+        "lon": 77.1190705,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Wong Kitchen"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:26:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 268381455,
+        "lat": 28.7208064,
+        "lon": 77.1071813,
+        "tags": {
+          "name": "Rithala",
+          "name:hi": "\u0930\u093f\u0920\u093e\u0932\u093e",
+          "name:ur": "\u0631\u0679\u06be\u0627\u0644\u0627",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q4207358",
+          "wikipedia": "en:Rithala metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663765153,
+        "lat": 28.7032676,
+        "lon": 77.1322497,
+        "tags": {
+          "name": "Pitam Pura",
+          "name:hi": "\u092a\u0940\u0924\u092e\u092a\u0941\u0930\u093e",
+          "name:ur": "\u067e\u06cc\u062a\u0645 \u067e\u0648\u0631\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q7198601",
+          "wikipedia": "en:Pitampura metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663766390,
+        "lat": 28.7075774,
+        "lon": 77.1259971,
+        "tags": {
+          "name": "Rohini East",
+          "name:hi": "\u0930\u094b\u0939\u093f\u0923\u0940 \u0908\u0938\u094d\u091f",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q11351030",
+          "wikipedia": "en:Rohini East metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1825166559,
+        "lat": 28.7008618,
+        "lon": 77.1151548,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1988598418,
+        "lat": 28.7149569,
+        "lon": 77.115385,
+        "tags": {
+          "name": "Rohini West",
+          "name:hi": "\u0930\u094b\u0939\u093f\u0923\u0940 \u0935\u0947\u0938\u094d\u091f",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7359754"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3009827645,
+        "lat": 28.7212501,
+        "lon": 77.1093964,
+        "tags": {
+          "addr:city": "Sector - 10, Rohini,, Delhi",
+          "addr:postcode": "110085",
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3009832163,
+        "lat": 28.730428,
+        "lon": 77.1213536,
+        "tags": {
+          "addr:postcode": "110085",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3043578397,
+        "lat": 28.7180141,
+        "lon": 77.1103196,
+        "tags": {
+          "addr:city": "Sector - 5, Rohini, Delhi",
+          "addr:postcode": "110085",
+          "amenity": "fuel",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4511544390,
+        "lat": 28.7011545,
+        "lon": 77.1163405,
+        "tags": {
+          "amenity": "theatre",
+          "name": "M2K"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4511567591,
+        "lat": 28.7150994,
+        "lon": 77.1160674,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "brand": "Cin\u00e9polis",
+          "name": "Cinepolis",
+          "name:en": "Cinepolis",
+          "not:brand:wikidata": "Q5686673",
+          "wikidata": "Q5686673",
+          "wikipedia": "en:Cin\u00e9polis"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777614209,
+        "lat": 28.7207878,
+        "lon": 77.1071611,
+        "tags": {
+          "name": "Rithala",
+          "name:hi": "\u0930\u093f\u0920\u093e\u0932\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777614216,
+        "lat": 28.7075969,
+        "lon": 77.1260218,
+        "tags": {
+          "name": "Rohini East",
+          "name:hi": "\u0930\u094b\u0939\u093f\u0923\u0940 \u0908\u0938\u094d\u091f",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5818158988,
+        "lat": 28.6939117,
+        "lon": 77.1026607,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6405278634,
+        "lat": 28.7075492,
+        "lon": 77.1259785,
+        "tags": {
+          "name": "Rohini East",
+          "name:hi": "\u0930\u094b\u0939\u093f\u0923\u0940 \u0908\u0938\u094d\u091f",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6405278635,
+        "lat": 28.7207504,
+        "lon": 77.1071112,
+        "tags": {
+          "name": "Rithala",
+          "name:hi": "\u0930\u093f\u0920\u093e\u0932\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8248060283,
+        "lat": 28.7346851,
+        "lon": 77.1135715,
+        "tags": {
+          "amenity": "cinema",
+          "landmark": "yes",
+          "name": "G3S Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11834901854,
+        "lat": 28.7203101,
+        "lon": 77.1082353,
+        "tags": {
+          "bus": "yes",
+          "name": "Rithala",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11834901855,
+        "lat": 28.7204697,
+        "lon": 77.1082335,
+        "tags": {
+          "bus": "yes",
+          "name": "Rithala",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12791142283,
+        "lat": 28.7088448,
+        "lon": 77.1249782,
+        "tags": {
+          "public_transport": "stop_position",
+          "share_taxi": "yes"
+        }
+      }
+    ]
+  }
+}

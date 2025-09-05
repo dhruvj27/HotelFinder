@@ -1,0 +1,467 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:32:47Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6978571769,
+        "lat": 23.0442336,
+        "lon": 72.6049981,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Near : Dena Bank Asarwa Chakla",
+          "addr:postcode": "380016",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sharda Clinic and Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6983724286,
+        "lat": 23.0482079,
+        "lon": 72.6016447,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Glauoma Squint Centre, Baliya Limdi, Civil Hospital Road",
+          "addr:postcode": "380016",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Narang Eye Hospital, Munohwa By Pass Chowk",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6987886544,
+        "lat": 23.0489292,
+        "lon": 72.6016849,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Maruti Complex, Opposite New Civil Hospital, Asarwa",
+          "addr:postcode": "380016",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Rachana Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6991317932,
+        "lat": 23.0489175,
+        "lon": 72.6041847,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Opposite New Civil Hospital Gate-5, Near Petrol Pump, Asarwa",
+          "addr:postcode": "380016",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Radha Krishna Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058614,
+        "lat": 23.048502,
+        "lon": 72.601561,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Patel Society, Asarwa",
+          "addr:postcode": "380016",
+          "addr:state": "Gujarat",
+          "amenity": "doctors",
+          "name": "Dr. Atul Vaidhya",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058641,
+        "lat": 23.0347002,
+        "lon": 72.5951832,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Dariapur",
+          "addr:postcode": "380001",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Lokhandwala General Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058647,
+        "lat": 23.048981,
+        "lon": 72.601662,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Patel Society, Asarwa",
+          "addr:postcode": "380004",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Namrata Heart and Medical Clinic",
+          "source": "Local Knowledge"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:32:47Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 566222693,
+        "lat": 23.0440925,
+        "lon": 72.6132157,
+        "tags": {
+          "internet_access": "no",
+          "name": "Asarva",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ASV",
+          "train": "yes",
+          "wikidata": "Q24949933"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1206485486,
+        "lat": 23.0251057,
+        "lon": 72.6017011,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1206485574,
+        "lat": 23.0251068,
+        "lon": 72.6020896,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1206490577,
+        "lat": 23.0251064,
+        "lon": 72.6019452,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2377178512,
+        "lat": 23.0263196,
+        "lon": 72.5841287,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2669084968,
+        "lat": 23.0263312,
+        "lon": 72.601,
+        "tags": {
+          "addr:postcode": "380001",
+          "addr:street": "Station Road",
+          "alt_name": "Kalupur Railway Station",
+          "historic:ref": "ADIJ",
+          "internet_access": "wlan",
+          "name": "Ahmedabad Junction",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ADI",
+          "train": "yes",
+          "wikidata": "Q4696124",
+          "wikipedia": "en:Ahmedabad Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683587,
+        "lat": 23.0282432,
+        "lon": 72.5814362,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683612,
+        "lat": 23.0396523,
+        "lon": 72.5955759,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683629,
+        "lat": 23.0519878,
+        "lon": 72.5902552,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683639,
+        "lat": 23.0560223,
+        "lon": 72.5910561,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683642,
+        "lat": 23.0603256,
+        "lon": 72.5919869,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683644,
+        "lat": 23.0621551,
+        "lon": 72.5952829,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3336777167,
+        "lat": 23.0218734,
+        "lon": 72.5984903,
+        "tags": {
+          "addr:street": "Gandhi Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Ahmedabad",
+          "name:en": "Kalupur Bus stop",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4483474713,
+        "lat": 23.0400891,
+        "lon": 72.5781297,
+        "tags": {
+          "addr:street": "Kasturba Gandhi Road",
+          "amenity": "fuel",
+          "name": "CNG Bharat petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4530241653,
+        "lat": 23.0251063,
+        "lon": 72.6018905,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701044,
+        "lat": 23.0246945,
+        "lon": 72.603093,
+        "tags": {
+          "name": "Kalupur Railway Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701055,
+        "lat": 23.0287794,
+        "lon": 72.586749,
+        "tags": {
+          "name": "Gheekanta",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7020233387,
+        "lat": 23.0430359,
+        "lon": 72.5895319,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name:ko": "Bus stand(from Jodhpur)",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7707519216,
+        "lat": 23.025107,
+        "lon": 72.6021398,
+        "tags": {
+          "name": "Ahmedabad Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944287415,
+        "lat": 23.0246913,
+        "lon": 72.6031447,
+        "tags": {
+          "name": "Kalupur Railway Station",
+          "name:gu": "\u0a95\u0abe\u0ab2\u0ac1\u0aaa\u0ac1\u0ab0 \u0ab0\u0ac7\u0ab2\u0acd\u0ab5\u0ac7 \u0ab8\u0acd\u0a9f\u0ac7\u0ab6\u0aa8",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q114400466"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944287421,
+        "lat": 23.0392105,
+        "lon": 72.5810327,
+        "tags": {
+          "name": "Shahpur Station",
+          "name:gu": "\u0ab6\u0abe\u0ab9\u0aaa\u0ac1\u0ab0",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944287424,
+        "lat": 23.028794,
+        "lon": 72.5867752,
+        "tags": {
+          "name": "Gheekanta",
+          "name:gu": "\u0a98\u0ac0\u0a95\u0abe\u0a82\u0a9f\u0abe",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076537499,
+        "lat": 23.0246998,
+        "lon": 72.603211,
+        "tags": {
+          "name": "Kalupur Railway Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076537516,
+        "lat": 23.0287972,
+        "lon": 72.5868045,
+        "tags": {
+          "name": "Gheekanta",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565224,
+        "lat": 23.0392509,
+        "lon": 72.5810332,
+        "tags": {
+          "name": "Shahpur Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565225,
+        "lat": 23.0391575,
+        "lon": 72.5810285,
+        "tags": {
+          "name": "Shahpur Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11991899052,
+        "lat": 23.0710381,
+        "lon": 72.6208273,
+        "tags": {
+          "aeroway": "terminal",
+          "name": "Terminal 4 Building"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:38:33Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": []
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:38:33Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2009360836,
+        "lat": 22.5904272,
+        "lon": 88.4746741,
+        "tags": {
+          "name": "mothers wax museum",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2454098330,
+        "lat": 22.5791224,
+        "lon": 88.4601196,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Bioscope"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2464548291,
+        "lat": 22.5818722,
+        "lon": 88.4563526,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "building": "yes",
+          "name": "Indian Oil Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3157361873,
+        "lat": 22.5826577,
+        "lon": 88.4539212,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "New Town Bus Depot",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10553919109,
+        "lat": 22.5942498,
+        "lon": 88.4719544,
+        "tags": {
+          "addr:postcode": "700156",
+          "addr:street": "NH-34",
+          "amenity": "charging_station",
+          "name": "Electric Vehicle Charging Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10553919709,
+        "lat": 22.5994781,
+        "lon": 88.4719664,
+        "tags": {
+          "amenity": "charging_station",
+          "name": "Electric Vehicle Charging Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10553919710,
+        "lat": 22.5845228,
+        "lon": 88.4908908,
+        "tags": {
+          "addr:postcode": "700135",
+          "addr:street": "Ecospace Seating Area Path2",
+          "amenity": "charging_station",
+          "name": "Electric Vehicle Charging Station"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "city": "Pune",
+  "generated_at": "2025-09-07T17:07:56.964939",
+  "data_summary": {
+    "hotels_count": 150,
+    "reviews_count": 750,
+    "landmarks_count": 750,
+    "unique_place_ids": 150
+  },
+  "api_usage": {
+    "text_search": 16,
+    "route_matrix": 750,
+    "overpass": 300
+  },
+  "data_quality": {
+    "rating_stats": {
+      "avg_rating": 4.09,
+      "min_rating": 2.8,
+      "max_rating": 4.9,
+      "rating_count": 150
+    }
+  },
+  "field_completeness": {
+    "rating": "100.0%",
+    "user_rating_count": "100.0%",
+    "phone_number": "92.0%",
+    "website_uri": "82.0%"
+  },
+  "locality_analysis": {
+    "avg_locality_score": 71.6,
+    "overpass_enrichment_success": "98.0%"
+  }
+}

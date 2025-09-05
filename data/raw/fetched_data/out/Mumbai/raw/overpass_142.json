@@ -1,0 +1,1688 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:55:51Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3972961045,
+        "lat": 19.1438085,
+        "lon": 72.842605,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sweet Corner"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6881057802,
+        "lat": 19.1352022,
+        "lon": 72.8481451,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "MUMBAI",
+          "addr:full": "CTS NO-167 / 168 / A1, 101-104, Grace Plaza, S. V. Road, Near Railway Phatak, Jogeshwari (W), Mumbai",
+          "addr:postcode": "400102",
+          "addr:state": "Maharashtra",
+          "contact:mobile": "9833832271",
+          "contact:phone": "2226784546",
+          "leisure": "park",
+          "name": "Manas Serological Institute Blood Bank",
+          "opening_hours": "24/7",
+          "operator:type": "ngo",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043230046,
+        "lat": 19.1284312,
+        "lon": 72.8468965,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "202, Bonaza Residency, Behind : Laxmi Auto S V Road, Amboli",
+          "addr:postcode": "400058",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "chiropractic",
+          "name": "Prime Orthopedic Speciality Hospital, Mumbai",
+          "operator": "abv",
+          "operator:type": "public",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049344773,
+        "lat": 19.1433248,
+        "lon": 72.8427203,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "1st Floor, Aftab Classic, Opposite City Hospital, S.V Road, Jogeshwari(West)",
+          "addr:postcode": "400102",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "contact:phone": "2226771188",
+          "email": "info@orbiteyehospital.in",
+          "healthcare": "hospital",
+          "name": "Orbit Eye Hospital, Mumbai",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://orbiteyehospital.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7050264239,
+        "lat": 19.1371699,
+        "lon": 72.8484696,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "C-101, Sani Shopping Centre, Opposite Railway Station, Jogeshwari (West)",
+          "addr:postcode": "400102",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Pooja Nursing Home, Mumbai",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7051070842,
+        "lat": 19.1373789,
+        "lon": 72.8466645,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Sharma Estate, Next To Dlwan Shopping Centre,S.V.Road, Jogeswari (W)",
+          "addr:postcode": "400102",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Mallika Hospital and Envision Eye Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7053250902,
+        "lat": 19.1400396,
+        "lon": 72.844626,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "139, Markez View Bldg, Near 24 Karat Talkies, Opp Excel Industries , S V Road, Jogeshwari",
+          "addr:postcode": "400102",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr Shah Piles Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054625890,
+        "lat": 19.1361449,
+        "lon": 72.8503498,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "B3/4, Satellite Classic Caves Road, Near Jogeshwari Railway Station, Jogeshwari (East)",
+          "addr:postcode": "400060",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr. Kamat's Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054797503,
+        "lat": 19.1359498,
+        "lon": 72.8520081,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Kesar Plaza, Caves Road, Station Road, Jogeshwari (E)",
+          "addr:postcode": "400014",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr Kulkarni Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7055476546,
+        "lat": 19.1309793,
+        "lon": 72.8468147,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Gokul Apt. Kevanipada, Next To Farooq High School, S. V Road Jogeshwari (W)",
+          "addr:postcode": "400102",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Mother Care Maternity and Surgical Nursing Home - Mumbai",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7066497782,
+        "lat": 19.1322818,
+        "lon": 72.8496706,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Plot No-13 , Gr. Floor, & 1st Floor, Ushahkal Hindu Friends Society Road, Jogeshwari(E)",
+          "addr:postcode": "400060",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Parulekar Maternity and Surgical Nursing Home - Mumbai",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7068099987,
+        "lat": 19.1352922,
+        "lon": 72.8542954,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "4/5/6-C Janakdeep, J.P.Road, 7 Bunglows, Andherw)",
+          "addr:postcode": "400061",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Piyush Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7070857483,
+        "lat": 19.1439215,
+        "lon": 72.8430556,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Hafizi House, S.V. Road, Oshiwara Jogeshwari(W)",
+          "addr:postcode": "400102",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shivam Netram Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073099556,
+        "lat": 19.139644,
+        "lon": 72.8435008,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "105, First Floor , Markaz View, Opposite Excel Industries , S.V Road, Jogeshwari(W)",
+          "addr:postcode": "400059",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Diamond Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074576485,
+        "lat": 19.136651,
+        "lon": 72.8501849,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "004/C-2, Satellite Classic, Caves Road, Opposite, Jogeshwari Railway Station, Jogeshwari (E)",
+          "addr:postcode": "400060",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr. Shindes Childrens Hospital and Nicu",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7080205265,
+        "lat": 19.1373264,
+        "lon": 72.8485105,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "C wing, 1st floor, Opposite Jogeshwari station west",
+          "addr:postcode": "400102",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr Shah Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7082518991,
+        "lat": 19.1352453,
+        "lon": 72.8381807,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Andheri",
+          "addr:postcode": "400102",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Society Of The Helpers Of Mary Shraddha Vihar Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961414,
+        "lat": 19.1433169,
+        "lon": 72.8431331,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Ripon Apartment, 176, 1st Floor, Tulsi Pipe Road, Mumbai",
+          "addr:postcode": "400102",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "City Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961426,
+        "lat": 19.1358754,
+        "lon": 72.8446193,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Anmol Apartment, Ground Floor, Sankar Road, Jogeshwari West, Mumbai",
+          "addr:postcode": "400102",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Jogeshwari Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961473,
+        "lat": 19.1447706,
+        "lon": 72.8431122,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Sufi Sayed Kamal Ahmed Marg, Khoja Society, Vaishali Nagar, Jogeshwari, Mumbai",
+          "addr:postcode": "400102",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Ruby Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961477,
+        "lat": 19.1437117,
+        "lon": 72.8426357,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Mathra Apartment, Swami Vivekanand Marg, Beside Jain Mandir, Jogeshwari, Mumbai",
+          "addr:postcode": "400102",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Noor Nursing Home",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961488,
+        "lat": 19.1372927,
+        "lon": 72.8541522,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "S. K. Apartment, Building, 2, 10, Dalwal Compound Gumpha Road, Near Police Station, Bandrekar Wadi, Jogeshwari East, Mumbai",
+          "addr:postcode": "400060",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Shalyak Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961490,
+        "lat": 19.1450501,
+        "lon": 72.8436497,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Dreamland Apartments, 1st, Govindji Shroff Marg, Vaishali Nagar, Jogeshwari, Mumbai",
+          "addr:postcode": "400102",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Fathima Children Hospital & Criticare Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7883866558,
+        "lat": 19.1333878,
+        "lon": 72.8422047,
+        "tags": {
+          "leisure": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8797130860,
+        "lat": 19.1401815,
+        "lon": 72.842786,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Shastri Nagar, Jogeshwari West, Mumbai",
+          "addr:postcode": "400062",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Millat Dialysis Center",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10218172785,
+        "lat": 19.1356062,
+        "lon": 72.8476525,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "Delhi darbar",
+          "addr:postcode": "400102",
+          "addr:street": "Swami Vivekanand Road",
+          "amenity": "restaurant",
+          "cuisine": "kebab;indian;asian",
+          "diet:halal": "yes",
+          "diet:meat": "yes",
+          "name": "Delhi Darbar",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10262338883,
+        "lat": 19.135665,
+        "lon": 72.8476468,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10268915662,
+        "lat": 19.1361266,
+        "lon": 72.8544984,
+        "tags": {
+          "leisure": "park",
+          "name": "rajaram garden"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12289961582,
+        "lat": 19.1455968,
+        "lon": 72.8454563,
+        "tags": {
+          "amenity": "cafe",
+          "indoor_seating": "no",
+          "level": "0",
+          "name": "Nagori Chai Adda",
+          "outdoor_seating": "no",
+          "survey:date": "2024-10-26"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12290000838,
+        "lat": 19.1455768,
+        "lon": 72.8454573,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "F S Tasty Food",
+          "survey:date": "2024-10-26"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12290006107,
+        "lat": 19.1462254,
+        "lon": 72.8460017,
+        "tags": {
+          "amenity": "pharmacy",
+          "check_date": "2024-10-26",
+          "healthcare": "pharmacy",
+          "name": "Carona Chemist"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12290026416,
+        "lat": 19.1457263,
+        "lon": 72.8453909,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2024-10-26",
+          "name": "Baba Seekh Paratha"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12290031488,
+        "lat": 19.1460287,
+        "lon": 72.845383,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2024-10-26",
+          "cuisine": "coffee_shop",
+          "name": "Nahori Chaya Katta"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12290032454,
+        "lat": 19.1453499,
+        "lon": 72.8467616,
+        "tags": {
+          "check_date": "2024-10-26",
+          "name": "National",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12290032649,
+        "lat": 19.1462213,
+        "lon": 72.8471677,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2024-10-26",
+          "name": "Miya & Banos Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12290034712,
+        "lat": 19.1453198,
+        "lon": 72.8463767,
+        "tags": {
+          "amenity": "pharmacy",
+          "check_date": "2024-10-26",
+          "healthcare": "pharmacy",
+          "internet_access": "no",
+          "name": "Reliable Medical",
+          "payment:cards": "no",
+          "payment:cash": "yes",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no",
+          "phone": "+91 98192 62635",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12290060214,
+        "lat": 19.1455882,
+        "lon": 72.8460408,
+        "tags": {
+          "addr:housenumber": "Karimi Building no. 5",
+          "addr:street": "Oshiwara Garden Road",
+          "addr:unit": "Shop no 3",
+          "amenity": "clinic",
+          "check_date": "2024-10-26",
+          "description": "Deitician, Cosmetologist, Tricologist, Hijama, Pathology",
+          "email": "walkincare26@gmail.com",
+          "healthcare": "clinic",
+          "healthcare:speciality": "diet;cosmetics;tricology;pathology",
+          "internet_access": "no",
+          "name": "Walk In care",
+          "operator:type": "private",
+          "phone": "+91 77385 05906; +91 92244 12662; +91 97689 02660",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12290145012,
+        "lat": 19.1447133,
+        "lon": 72.8428353,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2024-10-26",
+          "name": "Tashkend Cafe",
+          "name:en": "Tashkend Cafe",
+          "name:hi": "Tashkend Cafe",
+          "name:mr": "Tashkend Cafe",
+          "phone": "+91 82918 82243"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12308967217,
+        "lat": 19.1304368,
+        "lon": 72.8476691,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "name": "Pizza Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12308967218,
+        "lat": 19.1307351,
+        "lon": 72.8476935,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12536558507,
+        "lat": 19.1349659,
+        "lon": 72.8474338,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "MUMBAI",
+          "addr:housenumber": "201",
+          "addr:postcode": "400102",
+          "addr:street": "Station Road",
+          "leisure": "park",
+          "name": "jogeshwari park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12536558508,
+        "lat": 19.1342706,
+        "lon": 72.8480475,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "MUMBAI",
+          "addr:postcode": "400060",
+          "addr:street": "Station Road",
+          "leisure": "park",
+          "name": "jogeshwari park"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:55:51Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 623881644,
+        "lat": 19.1209139,
+        "lon": 72.8480322,
+        "tags": {
+          "name": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "name:ru": "\u042d\u043d\u0434\u0435\u0440\u0438",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 623881914,
+        "lat": 19.1281782,
+        "lon": 72.8308125,
+        "tags": {
+          "name": "D. N. Nagar",
+          "name:mr": "\u0921\u0940. \u090f\u0928. \u0928\u0917\u0930",
+          "name:ru": "\u0414\u0430\u0434\u0430\u0431\u0445\u0430\u0439 \u041d\u0430\u043e\u0440\u043e\u0434\u0436\u0438 \u041d\u0430\u0433\u0430\u0440",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 984287752,
+        "lat": 19.1549228,
+        "lon": 72.8562728,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Movietime Hub",
+          "name:en": "Movietime Hub"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1646774124,
+        "lat": 19.1189755,
+        "lon": 72.847101,
+        "tags": {
+          "name": "Andheri",
+          "name:en": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "9",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1646774126,
+        "lat": 19.1192749,
+        "lon": 72.8470336,
+        "tags": {
+          "name": "Andheri",
+          "name:en": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1646774128,
+        "lat": 19.1192854,
+        "lon": 72.8469802,
+        "tags": {
+          "name": "Andheri",
+          "name:en": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1646774129,
+        "lat": 19.1192914,
+        "lon": 72.846845,
+        "tags": {
+          "name": "Andheri",
+          "name:en": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1646774130,
+        "lat": 19.1192956,
+        "lon": 72.8467967,
+        "tags": {
+          "name": "Andheri",
+          "name:en": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1646774131,
+        "lat": 19.1193178,
+        "lon": 72.8466577,
+        "tags": {
+          "name": "Andheri",
+          "name:en": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1646774132,
+        "lat": 19.1193246,
+        "lon": 72.8465965,
+        "tags": {
+          "name": "Andheri",
+          "name:en": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1646850368,
+        "lat": 19.1235899,
+        "lon": 72.8426582,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Navrang Talkies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1651801044,
+        "lat": 19.1389362,
+        "lon": 72.8647596,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Majas Depot",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2125320198,
+        "lat": 19.1414227,
+        "lon": 72.8310054,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Cinemax Versova",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2125322944,
+        "lat": 19.1385954,
+        "lon": 72.8314565,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR ECX",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2909184659,
+        "lat": 19.1284058,
+        "lon": 72.8295743,
+        "tags": {
+          "name": "D. N. Nagar",
+          "name:mr": "\u0921\u0940. \u090f\u0928. \u0928\u0917\u0930",
+          "name:ru": "\u0414\u0430\u0434\u0430\u0431\u0445\u0430\u0439 \u041d\u0430\u043e\u0440\u043e\u0434\u0436\u0438 \u041d\u0430\u0433\u0430\u0440",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2913172821,
+        "lat": 19.1270227,
+        "lon": 72.8370213,
+        "tags": {
+          "name": "Azad Nagar",
+          "name:mr": "\u0906\u091d\u093e\u0926 \u0928\u0917\u0930",
+          "name:ru": "\u0410\u0437\u0430\u0434 \u041d\u0430\u0433\u0430\u0440",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3389150481,
+        "lat": 19.1200415,
+        "lon": 72.8494816,
+        "tags": {
+          "name": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "name:ru": "\u042d\u043d\u0434\u0435\u0440\u0438",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3389150482,
+        "lat": 19.1268055,
+        "lon": 72.8382668,
+        "tags": {
+          "name": "Azad Nagar",
+          "name:mr": "\u0906\u091d\u093e\u0926 \u0928\u0917\u0930",
+          "name:ru": "\u0410\u0437\u0430\u0434 \u041d\u0430\u0433\u0430\u0440",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4413539589,
+        "lat": 19.1368511,
+        "lon": 72.8325849,
+        "tags": {
+          "addr:housenumber": "311-314",
+          "addr:postcode": "400053",
+          "addr:street": "Kamalakarpant L Walawalkar Mg",
+          "amenity": "cinema",
+          "name:en": "Custard Apple Pictures",
+          "opening_hours": "Mo-Fr 10:00-18:00",
+          "website": "http://www.icustardapple.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219518747,
+        "lat": 19.1406596,
+        "lon": 72.8272155,
+        "tags": {
+          "construction": "stop",
+          "name": "Lokhandwala Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219518752,
+        "lat": 19.1417935,
+        "lon": 72.8336078,
+        "tags": {
+          "construction": "stop",
+          "name": "Adarsh Nagar Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219622852,
+        "lat": 19.12918,
+        "lon": 72.8314255,
+        "tags": {
+          "name": "Andheri (West)",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940 (\u092a\u0936\u094d\u091a\u093f\u092e)",
+          "name:ru": "\u0410\u043d\u0434\u0445\u0435\u0440\u0438-\u0423\u044d\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219622868,
+        "lat": 19.1460554,
+        "lon": 72.8339507,
+        "tags": {
+          "name": "Oshiwara",
+          "name:mr": "\u0913\u0936\u093f\u0935\u093e\u0930\u093e",
+          "name:ru": "\u041e\u0448\u0438\u0432\u0430\u0440\u0430",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219622877,
+        "lat": 19.1530229,
+        "lon": 72.8356937,
+        "tags": {
+          "name": "Goregaon (West)",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935 (\u092a\u0936\u094d\u091a\u093f\u092e)",
+          "name:ru": "\u0413\u043e\u0440\u0435\u0433\u0430\u043e\u043d-\u0423\u044d\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5220954742,
+        "lat": 19.1524116,
+        "lon": 72.8566221,
+        "tags": {
+          "name": "Goregaon (East)",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935 (\u092a\u0942\u0930\u094d\u0935)",
+          "name:ru": "\u0413\u043e\u0440\u0435\u0433\u0430\u043e\u043d-\u0418\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5220954743,
+        "lat": 19.1429335,
+        "lon": 72.8552066,
+        "tags": {
+          "name": "Jogeshwari (East)",
+          "name:mr": "\u091c\u094b\u0917\u0947\u0936\u094d\u0935\u0930\u0940 (\u092a\u0942\u0930\u094d\u0935)",
+          "name:ru": "\u0414\u0436\u043e\u0433\u0435\u0448\u0432\u0430\u0440\u0438-\u0418\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5220954744,
+        "lat": 19.1284481,
+        "lon": 72.8554647,
+        "tags": {
+          "name": "Mogra",
+          "name:mr": "\u092e\u094b\u0917\u0930\u093e",
+          "name:ru": "\u041c\u043e\u0433\u0440\u0430",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5696928866,
+        "lat": 19.1196976,
+        "lon": 72.8464205,
+        "tags": {
+          "date:rebuilt": "2015",
+          "date:renamed": "1934",
+          "historic:name": "Salsette\u2013Trombay",
+          "internet_access": "no",
+          "name": "Andheri",
+          "name:1928-1934": "Salsette\u2013Trombay",
+          "name:hi": "\u0905\u0928\u094d\u0927\u0947\u0930\u0940",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "Western Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ADH",
+          "start_date": "1928",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q4754334",
+          "wikipedia": "en:Andheri railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777542614,
+        "lat": 19.1291714,
+        "lon": 72.8314667,
+        "tags": {
+          "name": "Andheri (West)",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940 (\u092a\u0936\u094d\u091a\u093f\u092e)",
+          "name:ru": "\u0410\u043d\u0434\u0445\u0435\u0440\u0438-\u0423\u044d\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777542631,
+        "lat": 19.1460157,
+        "lon": 72.8339547,
+        "tags": {
+          "name": "Oshiwara",
+          "name:mr": "\u0913\u0936\u093f\u0935\u093e\u0930\u093e",
+          "name:ru": "\u041e\u0448\u0438\u0432\u0430\u0440\u0430",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777542640,
+        "lat": 19.1530287,
+        "lon": 72.8357355,
+        "tags": {
+          "name": "Goregaon (West)",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935 (\u092a\u0936\u094d\u091a\u093f\u092e)",
+          "name:ru": "\u0413\u043e\u0440\u0435\u0433\u0430\u043e\u043d-\u0423\u044d\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5909533857,
+        "lat": 19.151023,
+        "lon": 72.8501467,
+        "tags": {
+          "internet_access": "no",
+          "name": "Ram Mandir",
+          "name:hi": "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930",
+          "name:mr": "\u0930\u093e\u092e \u092e\u0902\u0926\u093f\u0930",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "RMAR",
+          "train": "yes",
+          "wikidata": "Q18129030",
+          "wikipedia": "en:Ram Mandir railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6020955334,
+        "lat": 19.1204624,
+        "lon": 72.8487861,
+        "tags": {
+          "building": "transportation",
+          "description": "Andheri Metro Station",
+          "name": "Andheri L1",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q17512034",
+          "wikipedia": "en:Andheri metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862070,
+        "lat": 19.119344,
+        "lon": 72.8464384,
+        "tags": {
+          "name": "Andheri",
+          "name:en": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862071,
+        "lat": 19.1193373,
+        "lon": 72.8464956,
+        "tags": {
+          "name": "Andheri",
+          "name:en": "Andheri",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817967700,
+        "lat": 19.1360983,
+        "lon": 72.8490857,
+        "tags": {
+          "name": "Jogeshwari (Western Line)",
+          "name:mr": "\u091c\u094b\u0917\u0947\u0936\u094d\u200d\u0935\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817967701,
+        "lat": 19.1361128,
+        "lon": 72.8489563,
+        "tags": {
+          "name": "Jogeshwari (Western Line)",
+          "name:mr": "\u091c\u094b\u0917\u0947\u0936\u094d\u200d\u0935\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817967702,
+        "lat": 19.136116,
+        "lon": 72.8489156,
+        "tags": {
+          "name": "Jogeshwari (Western Line)",
+          "name:mr": "\u091c\u094b\u0917\u0947\u0936\u094d\u200d\u0935\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817967703,
+        "lat": 19.136124,
+        "lon": 72.8487896,
+        "tags": {
+          "name": "Jogeshwari (Western Line)",
+          "name:mr": "\u091c\u094b\u0917\u0947\u0936\u094d\u200d\u0935\u0930\u0940",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817991345,
+        "lat": 19.151382,
+        "lon": 72.850086,
+        "tags": {
+          "name": "Ram Mandir",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817991346,
+        "lat": 19.1513815,
+        "lon": 72.8500404,
+        "tags": {
+          "name": "Ram Mandir",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817991347,
+        "lat": 19.151369,
+        "lon": 72.8498795,
+        "tags": {
+          "name": "Ram Mandir",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817991348,
+        "lat": 19.151392,
+        "lon": 72.8502254,
+        "tags": {
+          "name": "Ram Mandir",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9120487882,
+        "lat": 19.1490275,
+        "lon": 72.839974,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Mahanagar Gas",
+          "fuel:cng": "yes",
+          "name": "SK CNG Gas Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132708002,
+        "lat": 19.139783,
+        "lon": 72.8459649,
+        "tags": {
+          "construction": "stop",
+          "name": "Momin Nagar Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132708009,
+        "lat": 19.1405068,
+        "lon": 72.8540075,
+        "tags": {
+          "construction": "stop",
+          "name": "JVLR Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132708010,
+        "lat": 19.1392202,
+        "lon": 72.8618974,
+        "tags": {
+          "construction": "stop",
+          "name": "Majas Depot Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132742306,
+        "lat": 19.143531,
+        "lon": 72.8311026,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "compressed_air": "yes",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132850193,
+        "lat": 19.1280502,
+        "lon": 72.8322034,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "compressed_air": "yes",
+          "fuel:cng": "yes",
+          "fuel:diesel": "yes",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10102658120,
+        "lat": 19.1063277,
+        "lon": 72.8631392,
+        "tags": {
+          "addr:street": "Om Nagar Road",
+          "aeroway": "terminal",
+          "name": "transline air cargo servics pvt ltd unit no 17",
+          "name:en": "transline air cargo services pvt ltd unit no 17"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576622712,
+        "lat": 19.1284364,
+        "lon": 72.8554558,
+        "tags": {
+          "name": "Mogra",
+          "name:mr": "\u092e\u094b\u0917\u0930\u093e",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576622721,
+        "lat": 19.1429455,
+        "lon": 72.855185,
+        "tags": {
+          "name": "Jogeshwari (East)",
+          "name:mr": "\u091c\u094b\u0917\u0947\u0936\u094d\u0935\u0930\u0940 (\u092a\u0942\u0930\u094d\u0935)",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576622722,
+        "lat": 19.1524492,
+        "lon": 72.8565966,
+        "tags": {
+          "name": "Goregaon (East)",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935 (\u092a\u0942\u0930\u094d\u0935)",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576622726,
+        "lat": 19.1524194,
+        "lon": 72.8565586,
+        "tags": {
+          "name": "Goregaon (East)",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935 (\u092a\u0942\u0930\u094d\u0935)",
+          "name:ru": "\u0413\u043e\u0440\u0435\u0433\u0430\u043e\u043d-\u0418\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576622731,
+        "lat": 19.1429467,
+        "lon": 72.8551559,
+        "tags": {
+          "name": "Jogeshwari (East)",
+          "name:mr": "\u091c\u094b\u0917\u0947\u0936\u094d\u0935\u0930\u0940 (\u092a\u0942\u0930\u094d\u0935)",
+          "name:ru": "\u0414\u0436\u043e\u0433\u0435\u0448\u0432\u0430\u0440\u0438-\u0418\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576622733,
+        "lat": 19.1284504,
+        "lon": 72.8554211,
+        "tags": {
+          "name": "Mogra",
+          "name:mr": "\u092e\u094b\u0917\u0930\u093e",
+          "name:ru": "\u041c\u043e\u0433\u0440\u0430",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576726748,
+        "lat": 19.1291337,
+        "lon": 72.8314307,
+        "tags": {
+          "name": "Andheri (West)",
+          "name:mr": "\u0905\u0902\u0927\u0947\u0930\u0940 (\u092a\u0936\u094d\u091a\u093f\u092e)",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576726749,
+        "lat": 19.1407214,
+        "lon": 72.8316872,
+        "tags": {
+          "name": "Lower Oshiwara",
+          "name:mr": "\u0932\u094b\u0905\u0930 \u0913\u0936\u093f\u0935\u0930\u093e",
+          "name:ru": "\u041b\u043e\u0443\u044d\u0440-\u041e\u0448\u0438\u0432\u0430\u0440\u0430",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576726750,
+        "lat": 19.1407248,
+        "lon": 72.8317293,
+        "tags": {
+          "name": "Lower Oshiwara",
+          "name:mr": "\u0932\u094b\u0905\u0930 \u0913\u0936\u093f\u0935\u0930\u093e",
+          "name:ru": "\u041b\u043e\u0443\u044d\u0440-\u041e\u0448\u0438\u0432\u0430\u0440\u0430",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576726751,
+        "lat": 19.1406979,
+        "lon": 72.8317139,
+        "tags": {
+          "name": "Lower Oshiwara",
+          "name:mr": "\u0932\u094b\u0905\u0930 \u0913\u0936\u093f\u0935\u0930\u093e",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576726756,
+        "lat": 19.1460351,
+        "lon": 72.833952,
+        "tags": {
+          "name": "Oshiwara",
+          "name:mr": "\u0913\u0936\u093f\u0935\u093e\u0930\u093e",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576726757,
+        "lat": 19.1530241,
+        "lon": 72.8356664,
+        "tags": {
+          "name": "Goregaon (West)",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935 (\u092a\u0936\u094d\u091a\u093f\u092e)",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10879528557,
+        "lat": 19.1411522,
+        "lon": 72.8494398,
+        "tags": {
+          "name": "Jogeshwari (Harbour Line)",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10879528558,
+        "lat": 19.1411552,
+        "lon": 72.8494019,
+        "tags": {
+          "name": "Jogeshwari (Harbour Line)",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12189351698,
+        "lat": 19.1411537,
+        "lon": 72.8494209,
+        "tags": {
+          "name": "Jogeshwari (Harbour Line)",
+          "name:mr": "\u091c\u094b\u0917\u0947\u0936\u094d\u200d\u0935\u0930\u0940",
+          "network": "Indian Railways",
+          "operator": "Western Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JOS",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12189363305,
+        "lat": 19.1361144,
+        "lon": 72.848936,
+        "tags": {
+          "name": "Jogeshwari (Western Line)",
+          "name:mr": "\u091c\u094b\u0917\u0947\u0936\u094d\u200d\u0935\u0930\u0940",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "Western Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JOS",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219566476,
+        "lat": 19.1406986,
+        "lon": 72.8271846,
+        "tags": {
+          "construction": "stop",
+          "name": "Lokhandwala Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219566486,
+        "lat": 19.141842,
+        "lon": 72.8336123,
+        "tags": {
+          "construction": "stop",
+          "name": "Adarsh Nagar Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587411,
+        "lat": 19.1398313,
+        "lon": 72.8459716,
+        "tags": {
+          "construction": "stop",
+          "name": "Momin Nagar Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587427,
+        "lat": 19.1405541,
+        "lon": 72.8539952,
+        "tags": {
+          "construction": "stop",
+          "name": "JVLR Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587441,
+        "lat": 19.1392678,
+        "lon": 72.861908,
+        "tags": {
+          "construction": "stop",
+          "name": "Majas Depot Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12959559950,
+        "lat": 19.1194235,
+        "lon": 72.8460235,
+        "tags": {
+          "bus": "yes",
+          "name": "Andheri",
+          "public_transport": "stop_position",
+          "route_ref": "252"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12959559951,
+        "lat": 19.1194665,
+        "lon": 72.8458654,
+        "tags": {
+          "bus": "yes",
+          "name": "Andheri",
+          "public_transport": "stop_position",
+          "route_ref": "266"
+        }
+      }
+    ]
+  }
+}

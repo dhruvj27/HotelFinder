@@ -1,0 +1,87 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:21:34Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7935280841,
+        "lat": 22.9859705,
+        "lon": 72.5008661,
+        "tags": {
+          "addr:full": "near sapna theatre above balubhai motors, Sarkhej, Sarkhej-Okaf, Gujarat 382210",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Navjivan hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7935280842,
+        "lat": 22.985509,
+        "lon": 72.493561,
+        "tags": {
+          "addr:full": "M.K House Nr. Manpasand Hotel Opp. Amber Tower Nr. Sawan Party Plot, Sarkhej, Ahmedabad, Gujarat 382210",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Hope Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7935280844,
+        "lat": 22.9845108,
+        "lon": 72.4989295,
+        "tags": {
+          "addr:full": "Sarkhej, Ahmedabad, Gujarat 380055",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Mamata Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7935280849,
+        "lat": 22.9835997,
+        "lon": 72.4984705,
+        "tags": {
+          "addr:full": "khodiyar complex, Late Shri Satishbhai D Patel Marg, Sarkhej, Ahmedabad, Gujarat 382210",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "SHREY HOSPITAL"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:21:34Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1545721824,
+        "lat": 22.9821021,
+        "lon": 72.4975186,
+        "tags": {
+          "internet_access": "no",
+          "name": "Sarkhej",
+          "network": "IR",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SEJ",
+          "train": "yes",
+          "wikidata": "Q63357047"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:11:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7695123030,
+        "lat": 26.7997343,
+        "lon": 75.8654685,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:postcode": "302033",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "name": "Panwar Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7695123049,
+        "lat": 26.8097423,
+        "lon": 75.8672891,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Jagatpura",
+          "addr:postcode": "302019",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "Bhagwati Ayurveda & Panchkarma Research Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7695123051,
+        "lat": 26.802886,
+        "lon": 75.866088,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Nilay Kunj Road, Jagatpura, Jaipur",
+          "addr:postcode": "303905",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "name": "SG Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7695123052,
+        "lat": 26.8127301,
+        "lon": 75.8660832,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Ramnagariya",
+          "addr:postcode": "303905",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "name": "Dr. Sunil Clinic",
+          "source": "Local Knowledge"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:11:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 8883763422,
+        "lat": 26.8032504,
+        "lon": 75.8598257,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Bharat Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11773201162,
+        "lat": 26.8173467,
+        "lon": 75.8632763,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      }
+    ]
+  }
+}

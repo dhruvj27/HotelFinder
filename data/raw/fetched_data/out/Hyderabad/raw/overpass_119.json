@@ -1,0 +1,2099 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:51:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 813571613,
+        "lat": 17.4378187,
+        "lon": 78.5108106,
+        "tags": {
+          "amenity": "atm",
+          "cash_in": "no",
+          "drive_through": "no",
+          "operator": "Canara Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1334561741,
+        "lat": 17.4421759,
+        "lon": 78.5047802,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Corporation Bank",
+          "brand:wikidata": "Q2003387",
+          "brand:wikipedia": "en:Corporation Bank",
+          "level": "0",
+          "name": "Corporation Bank",
+          "name:en": "Corporation Bank",
+          "opening_hours": "24/7",
+          "website": "https://corpbank.com/",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1416850704,
+        "lat": 17.4412663,
+        "lon": 78.5003508,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Pickles"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2710944008,
+        "lat": 17.4402089,
+        "lon": 78.5104952,
+        "tags": {
+          "leisure": "park",
+          "name": "railnilayam colony park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3533084115,
+        "lat": 17.4289946,
+        "lon": 78.5120703,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "H. No: 11-4-523, Near Gandhi Statue and Chilkalguda Bus Stop, Chilkalguda, Secunderabad",
+          "addr:postcode": "500025",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:email": "info@lifespring.in",
+          "contact:phone": "+91 7893851613",
+          "healthcare": "hospital",
+          "name": "Life Spring Hospitals",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4187300504,
+        "lat": 17.4395483,
+        "lon": 78.5048737,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "Pollicetty Towers, St.John's Road, Bhagyanagar Colony, Beside Keyes High School, Secunderabad",
+          "addr:postcode": "500003",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "emergency": "yes",
+          "healthcare": "hospital",
+          "medical_system": "Allopathic",
+          "name": "Apollo Hospital",
+          "operator:type": "private",
+          "phone": "040 27718888",
+          "source": "OpenGovernmentData",
+          "website": "https://www.apollohospitals.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4187311996,
+        "lat": 17.4412403,
+        "lon": 78.5006168,
+        "tags": {
+          "amenity": "bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4715099192,
+        "lat": 17.4439091,
+        "lon": 78.5043433,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "241, Uma Plaza, Road No. 9, West Maredpally, Secunderabad",
+          "addr:postcode": "500026",
+          "addr:state": "Telangana",
+          "alt_name": "Pushpagiri Vitreo Retinal Institute",
+          "amenity": "hospital",
+          "contact:email": "pvri.india@gmail.com",
+          "contact:phone": "040-27804949/5959",
+          "healthcare": "hospital",
+          "name": "Pushpagiri Eye Institute",
+          "shop": "optician",
+          "source": "OpenGovernmentData",
+          "website": "https://pvri.org"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5289289911,
+        "lat": 17.4412304,
+        "lon": 78.5005384,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5289291959,
+        "lat": 17.4416613,
+        "lon": 78.500761,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "brand:ur": "\u0633\u0628 \u0648\u06d2",
+          "brand:wikidata": "Q244457",
+          "brand:wikipedia": "en:Subway (restaurant)",
+          "cuisine": "sandwich",
+          "name": "Subway",
+          "name:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "name:ur": "\u0633\u0628 \u0648\u06d2",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6154835392,
+        "lat": 17.440235,
+        "lon": 78.5077847,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Metro Bawarchi Irani Chai Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6484884147,
+        "lat": 17.4396489,
+        "lon": 78.4991692,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "9-1-192, St. Marys Road, Secunderabad",
+          "addr:postcode": "500003",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "email": "info@mamatafertility.com",
+          "healthcare": "hospital",
+          "name": "Mamata Fertility Hospital",
+          "old_name": "Infertility Institute and Research Centre Pvt. Ltd (IIRC)",
+          "phone": "040-45678899; 040-27701414; 040-27700150; 040-27719471",
+          "source": "OpenGovernmentData",
+          "website": "https://www.mamatafertility.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6485663642,
+        "lat": 17.4409578,
+        "lon": 78.5020941,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "Plot No. 43, Opp. St Mary's Church, S.D Road",
+          "addr:postcode": "500003",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Madhava Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6485873602,
+        "lat": 17.4350761,
+        "lon": 78.5028817,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "9-4-269, Regimental Bazar, Opp Main Gate",
+          "addr:postcode": "500025",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Saluja Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6498031548,
+        "lat": 17.4381142,
+        "lon": 78.5049681,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "10-3-72, St. John's Road, Opp Keyes High School, Chilakalguda, Secunderabad",
+          "addr:postcode": "500025",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shubhodaya Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6507570343,
+        "lat": 17.4422795,
+        "lon": 78.5043204,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "F-14, First Floor, Deepthi Apartments, Beside St.Ann's High School, S.P.Road",
+          "addr:postcode": "500003",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:email": "contact@drgowd.com",
+          "contact:mobile": "+91 8886664790",
+          "contact:phone": "040 66338377; 040 66312447",
+          "healthcare": "hospital",
+          "name": "The Dental Venue Multi Speciality Hospital (unit of Dr.Gowd\u2019s)",
+          "source": "OpenGovernmentData",
+          "website": "https://www.drgowd.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6548826056,
+        "lat": 17.4389273,
+        "lon": 78.5060866,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:full": "#10-3-167/A, Lane opp apollo hospitals, St.Johns road, Secunderabad",
+          "addr:postcode": "500025",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:phone": "040-27830534, 040-27831534, +91-7207375534",
+          "healthcare": "hospital",
+          "name": "KASTURI MULTISPECIALITY HOSPITAL",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://kasturihospitals.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6765562773,
+        "lat": 17.4295332,
+        "lon": 78.5126616,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sri Raghavendra Udipi Veg"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6773884883,
+        "lat": 17.4360316,
+        "lon": 78.5007779,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "brand:wikipedia": "en:Union Bank of India",
+          "name": "Union Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6773898392,
+        "lat": 17.4307259,
+        "lon": 78.5108163,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6773898394,
+        "lat": 17.4307097,
+        "lon": 78.5108082,
+        "tags": {
+          "amenity": "atm",
+          "name": "SBI ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7015155402,
+        "lat": 17.4374781,
+        "lon": 78.4997088,
+        "tags": {
+          "amenity": "atm",
+          "operator": "ICICI Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7608585725,
+        "lat": 17.4387545,
+        "lon": 78.4989416,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Thirumala Medical Store",
+          "name:te": "\u0c24\u0c3f\u0c30\u0c41\u0c2e\u0c32 \u0c2e\u0c46\u0c21\u0c3f\u0c15\u0c32\u0c4d \u0c38\u0c4d\u0c1f\u0c4b\u0c30\u0c4d"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7611017181,
+        "lat": 17.4291902,
+        "lon": 78.5122118,
+        "tags": {
+          "leisure": "park",
+          "name": "pancheela park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7642365582,
+        "lat": 17.441665,
+        "lon": 78.5008233,
+        "tags": {
+          "amenity": "atm",
+          "operator": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7642365583,
+        "lat": 17.4412556,
+        "lon": 78.5005765,
+        "tags": {
+          "addr:city": "Secunderabad",
+          "addr:housenumber": "9-1-166/A",
+          "addr:postcode": "500003",
+          "addr:street": "Sarojini Devi Road",
+          "amenity": "restaurant",
+          "name": "Royal Reve Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7642406389,
+        "lat": 17.4403663,
+        "lon": 78.5030147,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500003",
+          "addr:street": "Sarojini Devi Road",
+          "name": "Dmart",
+          "organic": "yes",
+          "shop": "supermarket",
+          "website": "https://www.dmart.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8233220020,
+        "lat": 17.4400212,
+        "lon": 78.5049503,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500003",
+          "addr:street": "St Johns Road",
+          "name": "Spar Hypermarket",
+          "organic": "yes",
+          "payment:cash": "yes",
+          "payment:debit_cards": "yes",
+          "shop": "supermarket",
+          "website": "https://www.sparindia.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8935145535,
+        "lat": 17.4396508,
+        "lon": 78.5092677,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Canara Bank",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "brand:wikipedia": "en:Canara Bank",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "drive_through": "no",
+          "name": "Canara Bank",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980352006,
+        "lat": 17.4328512,
+        "lon": 78.5033398,
+        "tags": {
+          "amenity": "fast_food",
+          "fast_food": "cafeteria"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353465,
+        "lat": 17.4335071,
+        "lon": 78.5027612,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353466,
+        "lat": 17.4335217,
+        "lon": 78.5027758,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353467,
+        "lat": 17.4333291,
+        "lon": 78.5020455,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353468,
+        "lat": 17.4333657,
+        "lon": 78.5017807,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353469,
+        "lat": 17.4334066,
+        "lon": 78.5017782,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353470,
+        "lat": 17.4330793,
+        "lon": 78.5012389,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353471,
+        "lat": 17.4329347,
+        "lon": 78.5006213,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353472,
+        "lat": 17.4332662,
+        "lon": 78.5004232,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353473,
+        "lat": 17.433375,
+        "lon": 78.5012858,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353474,
+        "lat": 17.4333445,
+        "lon": 78.5013225,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353475,
+        "lat": 17.4334137,
+        "lon": 78.5016711,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353476,
+        "lat": 17.4334959,
+        "lon": 78.5020135,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353477,
+        "lat": 17.4335042,
+        "lon": 78.5020689,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353478,
+        "lat": 17.4336726,
+        "lon": 78.5027693,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353479,
+        "lat": 17.4337807,
+        "lon": 78.5031514,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353480,
+        "lat": 17.4332123,
+        "lon": 78.5035922,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353481,
+        "lat": 17.4331156,
+        "lon": 78.5031087,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353482,
+        "lat": 17.4330032,
+        "lon": 78.5018187,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353483,
+        "lat": 17.4328038,
+        "lon": 78.5016649,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353484,
+        "lat": 17.4327939,
+        "lon": 78.5016324,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353485,
+        "lat": 17.4325705,
+        "lon": 78.5015765,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353486,
+        "lat": 17.4327897,
+        "lon": 78.5024405,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353487,
+        "lat": 17.4328588,
+        "lon": 78.5026562,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353488,
+        "lat": 17.4328799,
+        "lon": 78.5027438,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353489,
+        "lat": 17.4326877,
+        "lon": 78.5026921,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353490,
+        "lat": 17.4329306,
+        "lon": 78.502982,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353491,
+        "lat": 17.4330612,
+        "lon": 78.5034528,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353492,
+        "lat": 17.433083,
+        "lon": 78.5004417,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353493,
+        "lat": 17.4327507,
+        "lon": 78.5005321,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353494,
+        "lat": 17.4329274,
+        "lon": 78.501385,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353495,
+        "lat": 17.4330513,
+        "lon": 78.5020115,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353496,
+        "lat": 17.4330506,
+        "lon": 78.5027498,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353497,
+        "lat": 17.4335292,
+        "lon": 78.5035205,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353498,
+        "lat": 17.4331928,
+        "lon": 78.5001207,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353499,
+        "lat": 17.4332653,
+        "lon": 78.5003984,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353500,
+        "lat": 17.4336501,
+        "lon": 78.5019052,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353501,
+        "lat": 17.4336496,
+        "lon": 78.5019507,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353502,
+        "lat": 17.4338001,
+        "lon": 78.5026819,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10980353503,
+        "lat": 17.4326908,
+        "lon": 78.5026786,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Catering Stalls in SC Station",
+          "fast_food": "cafeteria",
+          "name": "Catering"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11001495387,
+        "lat": 17.4302213,
+        "lon": 78.5107232,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Musheerabad",
+          "addr:state": "Telangana",
+          "addr:street": "Srinivas Nagar",
+          "addr:subdistrict": "Musheerabad",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Urban Primary Health Centre, Chilakalguda",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11001545015,
+        "lat": 17.434364,
+        "lon": 78.5015624,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Himayath Nagar",
+          "addr:state": "Telangana",
+          "addr:street": "Hyderguda",
+          "addr:subdistrict": "Himayatnagar",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Government Homoeo Dispensary, OLD MLA Qtrs",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:52:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 582824405,
+        "lat": 17.4395738,
+        "lon": 78.4985352,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Prashanth theatre",
+          "name:en": "Prashanth theatre",
+          "name:te": "\u0c2a\u0c4d\u0c30\u0c36\u0c3e\u0c02\u0c24\u0c4d \u0c25\u0c3f\u0c2f\u0c47\u0c1f\u0c30\u0c4d"
+        }
+      },
+      {
+        "type": "node",
+        "id": 582824598,
+        "lat": 17.4404726,
+        "lon": 78.4935719,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Manju Cinema",
+          "name:te": "\u0c2e\u0c02\u0c1c\u0c41 \u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e"
+        }
+      },
+      {
+        "type": "node",
+        "id": 771240789,
+        "lat": 17.4146824,
+        "lon": 78.4981191,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Sri Sai Raja theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 813571228,
+        "lat": 17.4435568,
+        "lon": 78.4877615,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 813571286,
+        "lat": 17.4430364,
+        "lon": 78.4905722,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 813571521,
+        "lat": 17.4409489,
+        "lon": 78.5052645,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 813571553,
+        "lat": 17.4397896,
+        "lon": 78.5089043,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "fuel:cng": "yes",
+          "fuel:diesel": "yes",
+          "name": "Bharat Petroleum",
+          "operator": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 817353582,
+        "lat": 17.4367489,
+        "lon": 78.5179571,
+        "tags": {
+          "amenity": "fuel",
+          "name": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 886358982,
+        "lat": 17.4407086,
+        "lon": 78.5045814,
+        "tags": {
+          "amenity": "cinema",
+          "building": "yes",
+          "name": "Sangeet (Permanently Closed)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 893170355,
+        "lat": 17.4329515,
+        "lon": 78.4873218,
+        "tags": {
+          "internet_access": "no",
+          "name": "James Street",
+          "name:te": "\u0c1c\u0c47\u0c2e\u0c4d\u0c38\u0c4d \u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c40\u0c1f\u0c4d",
+          "name:ur": "\u062c\u06cc\u0645\u0632 \u0627\u0633\u0679\u0631\u06cc\u0679",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JET",
+          "train": "yes",
+          "wikidata": "Q6143758",
+          "wikipedia": "en:James Street railway station, Hyderabad"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1038397148,
+        "lat": 17.439912,
+        "lon": 78.4880414,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1118773825,
+        "lat": 17.4488218,
+        "lon": 78.4964407,
+        "tags": {
+          "alt_name": "Jubilee Bus Station",
+          "name": "JBS",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2084119304,
+        "lat": 17.4272947,
+        "lon": 78.5207231,
+        "tags": {
+          "alt_name": "Sitafal Mandi",
+          "internet_access": "no",
+          "name": "Sitafalmandi",
+          "name:te": "\u0c38\u0c40\u0c24\u0c3e\u0c2b\u0c32\u0c4d\u200c\u0c2e\u0c02\u0c21\u0c3f",
+          "name:ur": "\u0633\u06cc\u062a\u0627 \u067e\u06be\u0644 \u0645\u0646\u0688\u06cc",
+          "network": "IR",
+          "operator": "SCR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "STPD",
+          "train": "yes",
+          "wikidata": "Q7531662",
+          "wikipedia": "en:Sitaphalmandi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573644,
+        "lat": 17.4332387,
+        "lon": 78.5028861,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573646,
+        "lat": 17.433424,
+        "lon": 78.5028185,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573685,
+        "lat": 17.4333878,
+        "lon": 78.5028476,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573687,
+        "lat": 17.4330215,
+        "lon": 78.502945,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "9",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573719,
+        "lat": 17.4329748,
+        "lon": 78.5029553,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573735,
+        "lat": 17.4335638,
+        "lon": 78.5027974,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573760,
+        "lat": 17.4335955,
+        "lon": 78.5027936,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573769,
+        "lat": 17.4337432,
+        "lon": 78.5027517,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573771,
+        "lat": 17.4331516,
+        "lon": 78.5029134,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573775,
+        "lat": 17.4337186,
+        "lon": 78.5027557,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2214136534,
+        "lat": 17.4359536,
+        "lon": 78.5000501,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Secunderabad",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926",
+          "name:pa": "\u0a38\u0a3f\u0a15\u0a70\u0a26\u0a30\u0a3e\u0a2c\u0a3e\u0a26",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "network": "Secunderabad-Medchal-Lingampalli",
+          "operator": "TSRTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2390894252,
+        "lat": 17.4338339,
+        "lon": 78.499501,
+        "tags": {
+          "name": "Secunderabad West",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173034,
+        "lat": 17.4431713,
+        "lon": 78.4974685,
+        "tags": {
+          "name": "Parade Grounds (Blue Line)",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173052,
+        "lat": 17.4357106,
+        "lon": 78.5054333,
+        "tags": {
+          "name": "Secunderabad East",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173063,
+        "lat": 17.4434398,
+        "lon": 78.4862445,
+        "tags": {
+          "name": "Paradise",
+          "name:te": "\u0c2a\u0c4d\u0c2f\u0c3e\u0c30\u0c21\u0c48\u0c1c\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173068,
+        "lat": 17.4355036,
+        "lon": 78.5195573,
+        "tags": {
+          "name": "Mettuguda",
+          "name:te": "\u0c2e\u0c46\u0c1f\u0c4d\u0c1f\u0c41\u0c17\u0c42\u0c21",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q83788029"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2446524797,
+        "lat": 17.4432701,
+        "lon": 78.4905593,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Paradise Cross Roads"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2528192948,
+        "lat": 17.4328721,
+        "lon": 78.4868199,
+        "tags": {
+          "name": "James Street",
+          "public_transport": "stop_position",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3200943741,
+        "lat": 17.4244702,
+        "lon": 78.4917485,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3200948743,
+        "lat": 17.4273857,
+        "lon": 78.5018327,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3200948982,
+        "lat": 17.4367067,
+        "lon": 78.516726,
+        "tags": {
+          "amenity": "fuel",
+          "name": "unigas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3782524808,
+        "lat": 17.4187247,
+        "lon": 78.5200434,
+        "tags": {
+          "name": "Arts College",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3782524873,
+        "lat": 17.4280183,
+        "lon": 78.5198369,
+        "tags": {
+          "name": "Sitafalmandi",
+          "public_transport": "stop_position",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3782525068,
+        "lat": 17.440948,
+        "lon": 78.5248854,
+        "tags": {
+          "name": "Lalaguda Gate",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4416333791,
+        "lat": 17.432773,
+        "lon": 78.4929081,
+        "tags": {
+          "amenity": "fuel",
+          "name": "petrol bunk",
+          "name:en": "petrol bunk"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5289026745,
+        "lat": 17.4415788,
+        "lon": 78.5005956,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787787701,
+        "lat": 17.4337798,
+        "lon": 78.4995347,
+        "tags": {
+          "name": "Secunderabad West",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788977,
+        "lat": 17.4355442,
+        "lon": 78.5195963,
+        "tags": {
+          "name": "Mettuguda",
+          "name:te": "\u0c2e\u0c46\u0c1f\u0c4d\u0c1f\u0c41\u0c17\u0c42\u0c21",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788978,
+        "lat": 17.4357255,
+        "lon": 78.5054889,
+        "tags": {
+          "name": "Secunderabad East",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788979,
+        "lat": 17.4432188,
+        "lon": 78.497471,
+        "tags": {
+          "name": "Parade Grounds (Blue Line)",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788980,
+        "lat": 17.4434911,
+        "lon": 78.4862461,
+        "tags": {
+          "name": "Paradise",
+          "name:te": "\u0c2a\u0c4d\u0c2f\u0c3e\u0c30\u0c21\u0c48\u0c1c\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6283517747,
+        "lat": 17.440854,
+        "lon": 78.5249501,
+        "tags": {
+          "name": "Lalaguda Gate",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6594733962,
+        "lat": 17.4329035,
+        "lon": 78.4868305,
+        "tags": {
+          "name": "James Street",
+          "public_transport": "stop_position",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6624724909,
+        "lat": 17.4187345,
+        "lon": 78.5200045,
+        "tags": {
+          "name": "Arts College",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6685486347,
+        "lat": 17.4346769,
+        "lon": 78.5047567,
+        "tags": {
+          "addr:city": "Secunderabad",
+          "addr:postcode": "509001",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "TSRTC BUS STAND , RATHIFILE ( SECUNDRABAD )",
+          "network": "Secunderabad Railway Station",
+          "operator": "TSRTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6685486361,
+        "lat": 17.4267722,
+        "lon": 78.5161035,
+        "tags": {
+          "amenity": "cinema",
+          "building": "yes",
+          "name": "Suresh Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069756,
+        "lat": 17.4355207,
+        "lon": 78.5195754,
+        "tags": {
+          "name": "Mettuguda",
+          "name:ml": "\u0d2e\u0d47\u0d1f\u0d4d\u0d1f\u0d41\u0d17\u0d41\u0d21",
+          "name:te": "\u0c2e\u0c46\u0c1f\u0c4d\u0c1f\u0c41\u0c17\u0c42\u0c21",
+          "name:ur": "\u0645\u06cc\u0679\u0648 \u06af\u0648\u0691\u06c1",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069757,
+        "lat": 17.4357184,
+        "lon": 78.5054623,
+        "tags": {
+          "name": "Secunderabad East",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c08\u0c38\u0c4d\u0c1f\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631 \u0622\u0628\u0627\u062f \u0627\u06cc\u0633\u0679",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q58814860"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069758,
+        "lat": 17.4431943,
+        "lon": 78.4974687,
+        "tags": {
+          "name": "Parade Grounds (Blue Line)",
+          "name:ml": "\u0d2a\u0d30\u0d47\u0d21\u0d4d \u0d17\u0d4d\u0d30\u0d57\u0d23\u0d4d\u0d1f\u0d4d\u0d38\u0d4d",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069759,
+        "lat": 17.4434668,
+        "lon": 78.4862436,
+        "tags": {
+          "name": "Paradise",
+          "name:ml": "\u0d2a\u0d3e\u0d30\u0d21\u0d48\u0d38\u0d4d",
+          "name:te": "\u0c2a\u0c4d\u0c2f\u0c3e\u0c30\u0c21\u0c48\u0c1c\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061307,
+        "lat": 17.4488147,
+        "lon": 78.4965237,
+        "tags": {
+          "alt_name": "Jubilee Bus Station",
+          "name": "JBS",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061308,
+        "lat": 17.4445164,
+        "lon": 78.4976151,
+        "tags": {
+          "name": "Parade Grounds (Green Line)",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061309,
+        "lat": 17.4444527,
+        "lon": 78.497553,
+        "tags": {
+          "name": "Parade Grounds (Green Line)",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061310,
+        "lat": 17.4444775,
+        "lon": 78.497584,
+        "tags": {
+          "name": "Parade Grounds (Green Line)",
+          "name:ml": "\u0d2a\u0d30\u0d47\u0d21\u0d4d \u0d17\u0d4d\u0d30\u0d57\u0d23\u0d4d\u0d1f\u0d4d\u0d38\u0d4d",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061311,
+        "lat": 17.4255216,
+        "lon": 78.5018818,
+        "tags": {
+          "name": "Gandhi Hospital",
+          "name:te": "\u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c39\u0c3e\u0c38\u0c4d\u0c2a\u0c3f\u0c1f\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061312,
+        "lat": 17.4178876,
+        "lon": 78.4994715,
+        "tags": {
+          "name": "Musheerabad",
+          "name:te": "\u0c2e\u0c41\u0c37\u0c40\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7201054971,
+        "lat": 17.4488181,
+        "lon": 78.4964843,
+        "tags": {
+          "alt_name": "Jubilee Bus Station",
+          "name": "JBS",
+          "name:ml": "\u0d1c\u0d46\u0d2c\u0d3f\u0d0e\u0d38\u0d4d",
+          "name:te": "\u0c1c\u0c46 \u0c2c\u0c3f \u0c0e\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663503,
+        "lat": 17.4178744,
+        "lon": 78.4995051,
+        "tags": {
+          "name": "Musheerabad",
+          "name:ml": "\u0d2e\u0d41\u0d37\u0d40\u0d31\u0d3e\u0d2c\u0d3e\u0d26\u0d4d",
+          "name:te": "\u0c2e\u0c41\u0c37\u0c40\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q84890478"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663504,
+        "lat": 17.4178644,
+        "lon": 78.4995327,
+        "tags": {
+          "name": "Musheerabad",
+          "name:te": "\u0c2e\u0c41\u0c37\u0c40\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663505,
+        "lat": 17.4255191,
+        "lon": 78.5019187,
+        "tags": {
+          "name": "Gandhi Hospital",
+          "name:te": "\u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c39\u0c3e\u0c38\u0c4d\u0c2a\u0c3f\u0c1f\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663506,
+        "lat": 17.4255155,
+        "lon": 78.501956,
+        "tags": {
+          "name": "Gandhi Hospital",
+          "name:ml": "\u0d17\u0d3e\u0d28\u0d4d\u0d27\u0d3f \u0d39\u0d4b\u0d38\u0d4d\u0d2a\u0d3f\u0d31\u0d4d\u0d31\u0d7d",
+          "name:te": "\u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c39\u0c3e\u0c38\u0c4d\u0c2a\u0c3f\u0c1f\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q84766563"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663518,
+        "lat": 17.4338034,
+        "lon": 78.4995181,
+        "tags": {
+          "name": "Secunderabad West",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631 \u0622\u0628\u0627\u062f \u0648\u06cc\u0633\u0679",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q108874730"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10252989488,
+        "lat": 17.4338591,
+        "lon": 78.502051,
+        "tags": {
+          "addr:city": "Secunderabad",
+          "addr:postcode": "500003",
+          "addr:street": "Station Road",
+          "internet_access": "wlan",
+          "internet_access:fee": "yes",
+          "internet_access:ssid": "Rail Wire Free Wi-Fi",
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631 \u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "network": "Indian Railways",
+          "operator": "South Central Railway",
+          "platforms": "10",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SC",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q7444810",
+          "wikipedia": "en:Secunderabad Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10789538087,
+        "lat": 17.4314082,
+        "lon": 78.5129425,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Sridevi Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500545,
+        "lat": 17.4324529,
+        "lon": 78.4865033,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "TSRTC BUS DEPOT, RANIGUNJ",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500546,
+        "lat": 17.4340378,
+        "lon": 78.506033,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11770988854,
+        "lat": 17.434867,
+        "lon": 78.500774,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "check_date": "2024-03-29",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11868150776,
+        "lat": 17.4367392,
+        "lon": 78.5176824,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873446435,
+        "lat": 17.4411728,
+        "lon": 78.5042445,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12114475158,
+        "lat": 17.4281552,
+        "lon": 78.5199694,
+        "tags": {
+          "name": "Sitafalmandi",
+          "public_transport": "stop_position",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12114475159,
+        "lat": 17.4279884,
+        "lon": 78.5198047,
+        "tags": {
+          "name": "Sitafalmandi",
+          "public_transport": "stop_position",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12114475160,
+        "lat": 17.4279018,
+        "lon": 78.5196975,
+        "tags": {
+          "name": "Sitafalmandi",
+          "public_transport": "stop_position",
+          "ref": "1",
+          "train": "yes"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:36:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 5419597998,
+        "lat": 26.8279302,
+        "lon": 75.8062494,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "First Floor",
+          "level": "1",
+          "name": "CIP Lounge Airport Jaipur"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5419597999,
+        "lat": 26.8277778,
+        "lon": 75.8061437,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Airr Toast"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6341259416,
+        "lat": 26.8401687,
+        "lon": 75.8058755,
+        "tags": {
+          "amenity": "hospital",
+          "emergency": "yes",
+          "healthcare": "hospital",
+          "name": "Eternal Heart Care Center"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7969344386,
+        "lat": 26.8436065,
+        "lon": 75.8024609,
+        "tags": {
+          "addr:floor": "8",
+          "addr:full": "8th floor, Corporate Tower, Jawahar Circle, Sector 8, Malviya Nagar, Jaipur",
+          "amenity": "restaurant",
+          "cuisine": "thali",
+          "name": "Sri Motu Ram Prasadam"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13043421492,
+        "lat": 26.8422328,
+        "lon": 75.8021621,
+        "tags": {
+          "name": "jaipur traditional center",
+          "shop": "mall"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:36:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1064270892,
+        "lat": 26.8355542,
+        "lon": 75.7936432,
+        "tags": {
+          "construction": "station",
+          "disused": "yes",
+          "name": "Durgapura Metro (u/c)",
+          "network": "Jaipur Metro",
+          "operator": "NWR",
+          "railway": "station",
+          "station": "subway"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3078037353,
+        "lat": 26.8361321,
+        "lon": 75.7782433,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:country": "IN",
+          "addr:district": "Jaipur",
+          "addr:state": "Rajasthan",
+          "amenity": "cinema",
+          "name": "Galaxy Cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894733,
+        "lat": 26.8470878,
+        "lon": 75.8084963,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:country": "IN",
+          "addr:state": "Rajasthan",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "Shaheed Amit Bharadwaj Petrol Pump",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6979547432,
+        "lat": 26.8408583,
+        "lon": 75.8072035,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11762982185,
+        "lat": 26.8359403,
+        "lon": 75.793404,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12596446121,
+        "lat": 26.8358795,
+        "lon": 75.7783902,
+        "tags": {
+          "amenity": "cinema"
+        }
+      }
+    ]
+  }
+}

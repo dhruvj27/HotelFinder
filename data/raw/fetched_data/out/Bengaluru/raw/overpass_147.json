@@ -1,0 +1,149 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:26:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6938637678,
+        "lat": 13.1631138,
+        "lon": 77.6293449,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "OppositeReliance Petrol Pump, B.B. Road, Near Vidyanagar Cross",
+          "addr:postcode": "562157",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "N.R.V Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6948725861,
+        "lat": 13.1579281,
+        "lon": 77.6252103,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Bettahalasur Cross",
+          "addr:postcode": "562157",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "Lakshmi Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10162630478,
+        "lat": 13.1674349,
+        "lon": 77.6314813,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "name": "Third Wave Coffee",
+          "outdoor_seating": "no",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10266700960,
+        "lat": 13.1581941,
+        "lon": 77.6250559,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Vidyanagar",
+          "brand": "Bank of Baroda",
+          "was": "Vijaya Bank;Dena Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10266700961,
+        "lat": 13.1580702,
+        "lon": 77.6248348,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Bank of India",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10266700965,
+        "lat": 13.1581698,
+        "lon": 77.6250404,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Bank of Baroda"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12625817232,
+        "lat": 13.1706722,
+        "lon": 77.6320794,
+        "tags": {
+          "amenity": "bank"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:27:44Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6040742752,
+        "lat": 13.1527767,
+        "lon": 77.6214271,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11819640659,
+        "lat": 13.151207,
+        "lon": 77.6201961,
+        "tags": {
+          "bus": "yes",
+          "name": "MVIT Cross",
+          "name:en": "MVIT Cross",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11819640660,
+        "lat": 13.1513903,
+        "lon": 77.6197865,
+        "tags": {
+          "bus": "yes",
+          "name": "MVIT Cross",
+          "name:en": "MVIT Cross",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

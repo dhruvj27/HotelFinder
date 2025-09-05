@@ -1,0 +1,954 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:21:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1370783346,
+        "lat": 13.0383104,
+        "lon": 77.6072338,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "MedPlus",
+          "brand:wikidata": "Q65684234",
+          "healthcare": "pharmacy",
+          "name": "Medplus",
+          "name:kn": "\u0cae\u0cc6\u0ca1\u0ccd\u200d\u0caa\u0ccd\u0cb2\u0cb8\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1370789888,
+        "lat": 13.0496822,
+        "lon": 77.6137731,
+        "tags": {
+          "leisure": "playground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4445614215,
+        "lat": 13.0373064,
+        "lon": 77.6052013,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "20",
+          "addr:postcode": "560032",
+          "addr:street": "1st Main Rd, Kanaka Nagar, Hebbal,",
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "delivery": "yes",
+          "name": "Al Khair Restaurant",
+          "opening_hours": "11:00-23:00",
+          "phone": "080 2365 1666",
+          "smoking": "no",
+          "takeaway": "yes",
+          "website": "https://www.alkhair.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5286949430,
+        "lat": 13.0441606,
+        "lon": 77.6010657,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5434550525,
+        "lat": 13.0492695,
+        "lon": 77.6038518,
+        "tags": {
+          "addr:postcode": "560024",
+          "name": "Families Supermarket",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6948529644,
+        "lat": 13.034899,
+        "lon": 77.6050904,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "#9 Sulthanpalya Main Road,2nd Cross,6Th Main,Bhuvaneshwari Nagar,R.T.Nagar Post",
+          "addr:postcode": "560032",
+          "addr:state": "Karnataka",
+          "amenity": "clinic",
+          "name": "Parvathi Piles Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7256985308,
+        "lat": 13.0407965,
+        "lon": 77.616876,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10009663792,
+        "lat": 13.0495152,
+        "lon": 77.6038357,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10009663793,
+        "lat": 13.0495713,
+        "lon": 77.6038451,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank",
+          "name:kn": "\u0c95\u0ccb\u0c9f\u0c95\u0ccd \u0cae\u0cb9\u0cbf\u0c82\u0ca6\u0ccd\u0cb0 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Kotak Mahindra Bank",
+          "operator:wikidata": "Q2040404"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10895948753,
+        "lat": 13.0439675,
+        "lon": 77.6010563,
+        "tags": {
+          "amenity": "fast_food",
+          "diet:vegetarian": "only",
+          "indoor_seating": "yes",
+          "name": "Venkatam Cafe",
+          "outdoor_seating": "no",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11119054523,
+        "lat": 13.0356097,
+        "lon": 77.6096075,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Durga shree Samruddhi Grand"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11917495171,
+        "lat": 13.0417221,
+        "lon": 77.613477,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "check_date": "2024-05-19",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12027541896,
+        "lat": 13.0387741,
+        "lon": 77.6144426,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Indira Canteen",
+          "brand:wikidata": "Q36164828",
+          "cuisine": "south_indian",
+          "name": "Indira Canteen",
+          "operator": "BBMP",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12915170801,
+        "lat": 13.0421146,
+        "lon": 77.6124806,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "check_date": "2025-06-14",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:21:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 387555071,
+        "lat": 13.0580205,
+        "lon": 77.6233682,
+        "tags": {
+          "bus": "yes",
+          "name": "Rachenahalli",
+          "name:en": "Rachenahalli",
+          "name:kn": "\u0cb0\u0cbe\u0c9a\u0cc7\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1709531085,
+        "lat": 13.0220957,
+        "lon": 77.6032439,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Pushpanjili Theatre",
+          "name:kn": "\u0caa\u0cc1\u0cb7\u0ccd\u0caa\u0cbe\u0c82\u0c9c\u0cb2\u0cbf \u0c9a\u0cbf\u0ca4\u0ccd\u0cb0\u0cae\u0c82\u0ca6\u0cbf\u0cb0"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2408701942,
+        "lat": 13.0434709,
+        "lon": 77.6078589,
+        "tags": {
+          "bus": "yes",
+          "name": "Lumbini Gardens",
+          "name:en": "Lumbini Gardens",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3451594563,
+        "lat": 13.0452129,
+        "lon": 77.626801,
+        "tags": {
+          "amenity": "cinema",
+          "name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4443491273,
+        "lat": 13.0456386,
+        "lon": 77.6267858,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "Survey No. 132P, 133P, & 134P, Nagawara Junction, Manayata Tech Park",
+          "addr:postcode": "560077",
+          "addr:street": "Thanisandra Main Road",
+          "amenity": "cinema",
+          "level": "1",
+          "name": "PVR entertainment",
+          "opening_hours": "10:00-22:30",
+          "phone": "092380 23889",
+          "website": "https://www.pvrcinemas.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5269791616,
+        "lat": 13.0383119,
+        "lon": 77.5891333,
+        "tags": {
+          "bus": "yes",
+          "name": "Hebbala",
+          "name:en": "Hebbala",
+          "name:kn": "\u0cb9\u0cc6\u0cac\u0ccd\u0cac\u0cbe\u0cb3",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5286949431,
+        "lat": 13.0413718,
+        "lon": 77.6218064,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0c86\u0caf\u0cbf\u0cb2\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5303349404,
+        "lat": 13.0388971,
+        "lon": 77.5896159,
+        "tags": {
+          "bus": "yes",
+          "name": "Hebbala",
+          "name:en": "Hebbala",
+          "name:kn": "\u0cb9\u0cc6\u0cac\u0ccd\u0cac\u0cbe\u0cb3",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6856463612,
+        "lat": 13.0426259,
+        "lon": 77.5897631,
+        "tags": {
+          "bus": "yes",
+          "name": "Hebbala Bridge",
+          "name:en": "Hebbala Bridge",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7104861385,
+        "lat": 13.0496189,
+        "lon": 77.592734,
+        "tags": {
+          "bus": "yes",
+          "name": "Kempapura Hebbala",
+          "name:en": "Kempapura Hebbala",
+          "name:kn": "\u0cb9\u0cc6\u0cac\u0ccd\u0cac\u0cbe\u0cb3 \u0c95\u0cc6\u0c82\u0caa\u0cbe\u0caa\u0cc1\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7104861401,
+        "lat": 13.0576725,
+        "lon": 77.5932444,
+        "tags": {
+          "bus": "yes",
+          "name": "Kodigehalli Gate",
+          "name:en": "Kodigehalli Gate",
+          "name:kn": "\u0c95\u0cca\u0ca1\u0cbf\u0c97\u0cc7\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf \u0c97\u0cc7\u0c9f\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7104861402,
+        "lat": 13.0360685,
+        "lon": 77.5889036,
+        "tags": {
+          "bus": "yes",
+          "name": "Canara Bank Hebbala",
+          "name:en": "Canara Bank Hebbala",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd \u0cb9\u0cc6\u0cac\u0ccd\u0cac\u0cbe\u0cb3",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106068381,
+        "lat": 13.0413302,
+        "lon": 77.5890489,
+        "tags": {
+          "bus": "yes",
+          "name": "Hebbala",
+          "name:en": "Hebbala",
+          "name:kn": "\u0cb9\u0cc6\u0cac\u0ccd\u0cac\u0cbe\u0cb3",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084442,
+        "lat": 13.0474129,
+        "lon": 77.628536,
+        "tags": {
+          "bus": "yes",
+          "name": "Sarayipalya",
+          "name:en": "Sarayipalya",
+          "name:kn": "\u0cb8\u0cbe\u0cb0\u0cbe\u0caf\u0cbf\u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084443,
+        "lat": 13.0453246,
+        "lon": 77.6272392,
+        "tags": {
+          "bus": "yes",
+          "name": "Vidhyasagara",
+          "name:en": "Vidhyasagara",
+          "name:kn": "\u0cb5\u0cbf\u0ca6\u0ccd\u0caf\u0cbe\u0cb8\u0cbe\u0c97\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084445,
+        "lat": 13.0420399,
+        "lon": 77.6248942,
+        "tags": {
+          "bus": "yes",
+          "name": "Petrol Bunk Nagavara Junction",
+          "name:en": "Petrol Bunk Nagavara Junction",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084447,
+        "lat": 13.0407202,
+        "lon": 77.6244461,
+        "tags": {
+          "bus": "yes",
+          "name": "Nagavara Junction",
+          "name:en": "Nagavara Junction",
+          "name:kn": "\u0ca8\u0cbe\u0c97\u0cb5\u0cbe\u0cb0 \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084448,
+        "lat": 13.041313,
+        "lon": 77.6216623,
+        "tags": {
+          "bus": "yes",
+          "name": "Manyata Embassy Business Park",
+          "name:en": "Manyata Embassy Business Park",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084449,
+        "lat": 13.0424489,
+        "lon": 77.6133351,
+        "tags": {
+          "bus": "yes",
+          "name": "Veerannapalya",
+          "name:en": "Veerannapalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084450,
+        "lat": 13.0437419,
+        "lon": 77.6010305,
+        "tags": {
+          "bus": "yes",
+          "name": "Kempapura",
+          "name:en": "Kempapura",
+          "name:kn": "\u0c95\u0cc6\u0c82\u0caa\u0cbe\u0caa\u0cc1\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084451,
+        "lat": 13.0428978,
+        "lon": 77.5914477,
+        "tags": {
+          "bus": "yes",
+          "name": "Hebbala Bridge",
+          "name:en": "Hebbala Bridge",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477344,
+        "lat": 13.0379292,
+        "lon": 77.6234376,
+        "tags": {
+          "bus": "yes",
+          "name": "Nagavara",
+          "name:en": "Nagavara",
+          "name:kn": "\u0ca8\u0cbe\u0c97\u0cb5\u0cbe\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477345,
+        "lat": 13.0339074,
+        "lon": 77.62254,
+        "tags": {
+          "bus": "yes",
+          "name": "Glass Factory",
+          "name:en": "Glass Factory",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477346,
+        "lat": 13.0321498,
+        "lon": 77.6218502,
+        "tags": {
+          "bus": "yes",
+          "name": "Govindapura Cross",
+          "name:en": "Govindapura Cross",
+          "name:kn": "\u0c97\u0ccb\u0cb5\u0cbf\u0c82\u0ca6\u0caa\u0cc1\u0cb0 \u0c95\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477347,
+        "lat": 13.0299798,
+        "lon": 77.6208862,
+        "tags": {
+          "bus": "yes",
+          "name": "Arabic College",
+          "name:en": "Arabic College",
+          "name:kn": "\u0c85\u0cb0\u0cac\u0cbf\u0c95\u0ccd \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477349,
+        "lat": 13.025462,
+        "lon": 77.619815,
+        "tags": {
+          "bus": "yes",
+          "name": "KGH Railway Gate",
+          "name:en": "KGH Railway Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132495606,
+        "lat": 13.0215262,
+        "lon": 77.6045178,
+        "tags": {
+          "bus": "yes",
+          "name": "P&T Quarters",
+          "name:en": "P&T Quarters",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132495607,
+        "lat": 13.0222102,
+        "lon": 77.6022447,
+        "tags": {
+          "bus": "yes",
+          "name": "Sultanpalya Cross Pushpanjali Talkies",
+          "name:en": "Sultanpalya Cross Pushpanjali Talkies",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132495608,
+        "lat": 13.0239882,
+        "lon": 77.5989031,
+        "tags": {
+          "bus": "yes",
+          "name": "Dinnuru Main Road",
+          "name:en": "Dinnuru Main Road",
+          "name:kn": "\u0ca6\u0cbf\u0ca8\u0ccd\u0ca8\u0cc2\u0cb0\u0cc1 \u0cae\u0cc1\u0c96\u0ccd\u0caf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140599428,
+        "lat": 13.0503945,
+        "lon": 77.6303379,
+        "tags": {
+          "bus": "yes",
+          "name": "Ashwath Nagara Cross",
+          "name:en": "Ashwath Nagara Cross",
+          "name:kn": "\u0c85\u0cb6\u0ccd\u0cb5\u0ca4\u0ccd\u0ca5\u0ca8\u0c97\u0cb0 \u0c95\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097545,
+        "lat": 13.023115,
+        "lon": 77.6126119,
+        "tags": {
+          "bus": "yes",
+          "name": "Ambedkar Medical College Shampura",
+          "name:en": "Ambedkar Medical College Shampura",
+          "name:kn": "\u0c85\u0c82\u0cac\u0cc7\u0ca1\u0ccd\u0c95\u0cb0\u0ccd \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0c95\u0cc0\u0caf \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097549,
+        "lat": 13.0574993,
+        "lon": 77.626494,
+        "tags": {
+          "bus": "yes",
+          "name": "IBM Gate",
+          "name:en": "IBM Gate",
+          "name:kn": "\u0cb0\u0cbe\u0c9a\u0cc7\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156942399,
+        "lat": 13.0266238,
+        "lon": 77.6040613,
+        "tags": {
+          "bus": "yes",
+          "name": "Sultanpalya",
+          "name:en": "Sultanpalya",
+          "name:kn": "\u0cb8\u0cc1\u0cb2\u0ccd\u0ca4\u0cbe\u0ca8\u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156942400,
+        "lat": 13.0246006,
+        "lon": 77.6033636,
+        "tags": {
+          "bus": "yes",
+          "name": "Ashwathkatte Sultanpalya",
+          "name:en": "Ashwathkatte Sultanpalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216398999,
+        "lat": 13.0346004,
+        "lon": 77.628856,
+        "tags": {
+          "bus": "yes",
+          "name": "HBR Layout",
+          "name:en": "HBR Layout",
+          "name:kn": "\u0cb9\u0cc6\u0ca3\u0ccd\u0ca3\u0cc2\u0cb0\u0cc1 \u0cac\u0cb3\u0ccd\u0cb3\u0cbe\u0cb0\u0cbf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6 \u0cb2\u0cc7\u0c94\u0c9f\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216399001,
+        "lat": 13.0352451,
+        "lon": 77.6283771,
+        "tags": {
+          "bus": "yes",
+          "name": "HBR Layout",
+          "name:en": "HBR Layout",
+          "name:kn": "\u0cb9\u0cc6\u0ca3\u0ccd\u0ca3\u0cc2\u0cb0\u0cc1 \u0cac\u0cb3\u0ccd\u0cb3\u0cbe\u0cb0\u0cbf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6 \u0cb2\u0cc7\u0c94\u0c9f\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216620550,
+        "lat": 13.0435142,
+        "lon": 77.6018306,
+        "tags": {
+          "bus": "yes",
+          "name": "Kempapura",
+          "name:en": "Kempapura",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216699820,
+        "lat": 13.0431991,
+        "lon": 77.6096311,
+        "tags": {
+          "bus": "yes",
+          "name": "Lumbini Gardens",
+          "name:en": "Lumbini Gardens",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216699836,
+        "lat": 13.040877,
+        "lon": 77.6183731,
+        "tags": {
+          "bus": "yes",
+          "name": "Manyatha Tech Park",
+          "name:en": "Manyatha Tech Park",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216699946,
+        "lat": 13.041146,
+        "lon": 77.6204108,
+        "tags": {
+          "bus": "yes",
+          "name": "Manyatha Tech Park",
+          "name:en": "Manyatha Tech Park",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7256985322,
+        "lat": 13.0379996,
+        "lon": 77.6260757,
+        "tags": {
+          "bus": "yes",
+          "name": "HBR Layout 5th Block",
+          "name:en": "HBR Layout 5th Block",
+          "name:kn": "\u0c8e\u0c9a\u0ccd\u200c\u0cac\u0cbf\u0c86\u0cb0\u0ccd \u0cb2\u0cc7\u0c94\u0c9f\u0ccd \u0ceb\u0ca8\u0cc7 \u0cac\u0ccd\u0cb2\u0cbe\u0c95\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8684335453,
+        "lat": 13.0329988,
+        "lon": 77.5991477,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum",
+          "name:kn": "\u0cad\u0cbe\u0cb0\u0ca4\u0ccd \u0caa\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb\u0cb2\u0cbf\u0caf\u0c82"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9527967749,
+        "lat": 13.0415766,
+        "lon": 77.6204588,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9527967833,
+        "lat": 13.04959,
+        "lon": 77.6298009,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Star Auto LPG"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11280734330,
+        "lat": 13.0558123,
+        "lon": 77.5939613,
+        "tags": {
+          "bus": "yes",
+          "name": "Jn of Dasarahalli Road",
+          "name:en": "Jn of Dasarahalli Road",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11869393632,
+        "lat": 13.0571397,
+        "lon": 77.5932328,
+        "tags": {
+          "bus": "yes",
+          "name": "Kodigehalli Gate",
+          "name:en": "Kodigehalli Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11869483354,
+        "lat": 13.0359144,
+        "lon": 77.58924,
+        "tags": {
+          "bus": "yes",
+          "name": "Canara Bank Hebbal",
+          "name:en": "Canara Bank Hebbal",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11869483355,
+        "lat": 13.0500162,
+        "lon": 77.5931288,
+        "tags": {
+          "bus": "yes",
+          "name": "Kempapura Hebbala",
+          "name:en": "Kempapura Hebbala",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11869483356,
+        "lat": 13.0569898,
+        "lon": 77.5936455,
+        "tags": {
+          "bus": "yes",
+          "name": "Kodigehalli Gate",
+          "name:en": "Kodigehalli Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12265548493,
+        "lat": 13.0358602,
+        "lon": 77.6229561,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12265573693,
+        "lat": 13.0282177,
+        "lon": 77.6207124,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Gas Plus"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12285541096,
+        "lat": 13.0393786,
+        "lon": 77.5962148,
+        "tags": {
+          "amenity": "fuel",
+          "check_date": "2024-10-24",
+          "fuel:cng": "yes",
+          "name": "Go Gas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13043333368,
+        "lat": 13.0613252,
+        "lon": 77.6203679,
+        "tags": {
+          "bus": "yes",
+          "name": "Mestripalya",
+          "name:en": "Mestripalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:15:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": []
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:15:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2242712145,
+        "lat": 26.8815593,
+        "lon": 81.0888944,
+        "tags": {
+          "name": "Jugaur",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JRR",
+          "wikidata": "Q63370018"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2242713833,
+        "lat": 26.8980333,
+        "lon": 81.1167756,
+        "tags": {
+          "name": "Safedabad",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SFH",
+          "wikidata": "Q63370019"
+        }
+      }
+    ]
+  }
+}

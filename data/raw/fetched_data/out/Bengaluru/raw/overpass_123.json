@@ -1,0 +1,199 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:21:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7178544341,
+        "lat": 13.1523336,
+        "lon": 77.5688732,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "operator": "Domino's Pizza"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7178544347,
+        "lat": 13.1542585,
+        "lon": 77.567744,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Cafe Coffee Day"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12862846457,
+        "lat": 13.1522343,
+        "lon": 77.5689309,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "burger;wings;chicken",
+          "delivery": "yes",
+          "name": "Big Guys: Wings & More",
+          "takeaway": "yes"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:21:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 5303386567,
+        "lat": 13.1746304,
+        "lon": 77.5655922,
+        "tags": {
+          "internet_access": "no",
+          "name": "Rajanukunte",
+          "network": "IR",
+          "operator": "SWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "RNN",
+          "wikidata": "Q63369760"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7285505613,
+        "lat": 13.1716301,
+        "lon": 77.5580807,
+        "tags": {
+          "bus": "yes",
+          "name": "Sri Banashankri Layout",
+          "name:en": "Sri Banashankri Layout",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11556966062,
+        "lat": 13.17011,
+        "lon": 77.5501067,
+        "tags": {
+          "bus": "yes",
+          "name": "Itagalapura Gate",
+          "name:en": "Itagalapura Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11598166637,
+        "lat": 13.1728609,
+        "lon": 77.5712485,
+        "tags": {
+          "alt_name": "Addiganahalli Extension 1",
+          "bus": "yes",
+          "loc_name": "Rajanakunte",
+          "name": "Addiganahalli Extension",
+          "name:en": "Addiganahalli Extension",
+          "name:kn": "\u0c85\u0ca6\u0ccd\u0ca6\u0cbf\u0c97\u0cbe\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11598166639,
+        "lat": 13.172884,
+        "lon": 77.5710722,
+        "tags": {
+          "bus": "yes",
+          "loc_name": "Rajanakunte",
+          "name": "Addiganahalli Extension",
+          "name:en": "Addiganahalli Extension",
+          "name:kn": "\u0c85\u0ca6\u0ccd\u0ca6\u0cbf\u0c97\u0cbe\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020380232,
+        "lat": 13.1728534,
+        "lon": 77.5643389,
+        "tags": {
+          "bus": "yes",
+          "name": "Rajanukunte",
+          "name:en": "Rajanukunte",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020380233,
+        "lat": 13.1598844,
+        "lon": 77.5665739,
+        "tags": {
+          "bus": "yes",
+          "name": "Honnenahalli",
+          "name:en": "Honnenahalli",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020380234,
+        "lat": 13.147821,
+        "lon": 77.5696705,
+        "tags": {
+          "bus": "yes",
+          "name": "Singanayakanahalli Gate",
+          "name:en": "Singanayakanahalli Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020380235,
+        "lat": 13.1353982,
+        "lon": 77.569099,
+        "tags": {
+          "bus": "yes",
+          "name": "Avalahalli",
+          "name:en": "Avalahalli",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

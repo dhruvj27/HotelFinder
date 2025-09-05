@@ -1,0 +1,1283 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:00:12Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1928815022,
+        "lat": 28.5960809,
+        "lon": 77.0408019,
+        "tags": {
+          "amenity": "atm",
+          "designation": "ATM",
+          "operator": "Punjan National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5158535344,
+        "lat": 28.5960692,
+        "lon": 77.0411256,
+        "tags": {
+          "addr:city": "Dwarka",
+          "addr:housenumber": "sector 12",
+          "addr:postcode": "110075",
+          "addr:street": "Road 205",
+          "amenity": "cafe",
+          "cuisine": "burger",
+          "name": "Modern Bazaar",
+          "name:fa": "\u0645\u062f\u0631\u0646 \u0628\u0627\u0632\u0627\u0631"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138493232,
+        "lat": 28.5917228,
+        "lon": 77.02906,
+        "tags": {
+          "addr:district": "South West",
+          "addr:full": "Delhi Govt. Building, Sec-17, New Delhi-75",
+          "addr:postcode": "110075",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "DGD Sec 17 Dwarka",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138493235,
+        "lat": 28.5964391,
+        "lon": 77.0457328,
+        "tags": {
+          "addr:district": "South West",
+          "addr:full": "HAF-B, Sector-12, Dwarka, Phase-1",
+          "addr:postcode": "110075",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "contact:phone": "4822 2222",
+          "healthcare": "hospital",
+          "name": "Medeor Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138493267,
+        "lat": 28.5938928,
+        "lon": 77.0441507,
+        "tags": {
+          "addr:district": "South West",
+          "addr:full": "Sec 12, Dwarka",
+          "addr:postcode": "110075",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "check_date": "2025-03-09",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "Health Centre Sec 12 Dwarka",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203152,
+        "lat": 28.5982541,
+        "lon": 77.041201,
+        "tags": {
+          "addr:district": "South West Delhi",
+          "addr:full": "Plot no. 54, Sec-12/A, Opposite Bal Bharti School, Dwarka",
+          "addr:postcode": "110075",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Shree Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203184,
+        "lat": 28.593462,
+        "lon": 77.044685,
+        "tags": {
+          "addr:district": "South West Delhi",
+          "addr:full": "Road Number 203, Sector 7 Extension, Sector 12, Dwarka",
+          "addr:postcode": "110075",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "name": "Delhi Government Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203190,
+        "lat": 28.5995579,
+        "lon": 77.0436777,
+        "tags": {
+          "addr:district": "South West Delhi",
+          "addr:full": "Flat no.373, Gangotri Apartments Road, Dwarka",
+          "addr:postcode": "110078",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Dwarka Heart Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203192,
+        "lat": 28.5978809,
+        "lon": 77.0351429,
+        "tags": {
+          "addr:district": "South West Delhi",
+          "addr:full": "Plot 96, Sector 13, Dwarka",
+          "addr:postcode": "110075",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kalpavriksh Super Speciality Center",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7545203252,
+        "lat": 28.5941071,
+        "lon": 77.0426925,
+        "tags": {
+          "addr:district": "South West Delhi",
+          "addr:full": "42, Road Number 203, Parmanand Colony, Dwarka",
+          "addr:postcode": "110075",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Lifeline Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219615,
+        "lat": 28.6022885,
+        "lon": 77.0381498,
+        "tags": {
+          "addr:full": "MRV School, Sector 13, Dwarka, Sector 13, Dwarka, New Delhi, Delhi",
+          "amenity": "bank",
+          "brand": "Oriental Bank of Commerce",
+          "brand:wikidata": "Q367008",
+          "brand:wikipedia": "en:Oriental Bank of Commerce",
+          "name": "Oriental Bank of Commerce"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8151219630,
+        "lat": 28.596781,
+        "lon": 77.039786,
+        "tags": {
+          "addr:full": "PN 28, Gr Flr, Sector12A, Dwarka, Block A, Sector 12 Dwarka, Dwarka, New Delhi, Delhi",
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074868081,
+        "lat": 28.5958278,
+        "lon": 77.0364131,
+        "tags": {
+          "brand": "Shoppers Stop",
+          "brand:wikidata": "Q7501155",
+          "check_date": "2024-07-26",
+          "level": "0;1",
+          "name": "Shoppers Stop",
+          "name:hi": "Shoppers Stop",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074868083,
+        "lat": 28.5958144,
+        "lon": 77.0366009,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Barista",
+          "brand:wikidata": "Q644735",
+          "check_date": "2024-07-26",
+          "cuisine": "coffee_shop",
+          "level": "1",
+          "name": "Barista",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074868093,
+        "lat": 28.5961329,
+        "lon": 77.0358967,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-07-26",
+          "level": "1",
+          "name": "Spring Coffee Shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074868094,
+        "lat": 28.596264,
+        "lon": 77.0362265,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2024-07-26",
+          "level": "1",
+          "name": "The Atrium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12452885558,
+        "lat": 28.6007475,
+        "lon": 77.0300842,
+        "tags": {
+          "alt_name": "Haldiram",
+          "amenity": "fast_food",
+          "brand": "Haldiram's",
+          "cuisine": "indian",
+          "level": "0",
+          "name": "Haldiram's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12579202238,
+        "lat": 28.5926518,
+        "lon": 77.0409797,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "cuisine": "pizza",
+          "level": "0",
+          "name": "Domino's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12579202240,
+        "lat": 28.5925226,
+        "lon": 77.0411718,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:wikidata": "Q244457",
+          "cuisine": "sandwich",
+          "level": "0",
+          "name": "Subway",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12579202253,
+        "lat": 28.592471,
+        "lon": 77.0413332,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "level": "0",
+          "name": "Pizza Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12579202255,
+        "lat": 28.5924696,
+        "lon": 77.0412582,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Wow! Momo",
+          "brand:wikidata": "Q8037446",
+          "cuisine": "momo",
+          "level": "0",
+          "name": "Wow! Momo",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12584466345,
+        "lat": 28.5974584,
+        "lon": 77.0423682,
+        "tags": {
+          "addr:city": "Dwarka, New Delhi, Delhi",
+          "addr:district": "South West Delhi",
+          "addr:housenumber": "12, Pocket 3, Sector 12, Dwarka, New Delhi, (India) - 110075",
+          "addr:postcode": "110075",
+          "addr:street": "Road 201",
+          "name": "Aap ka Bazar",
+          "phone": "+91-9150030303",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647087327,
+        "lat": 28.5923828,
+        "lon": 77.0451669,
+        "tags": {
+          "addr:floor": "G",
+          "amenity": "pharmacy",
+          "check_date": "2025-03-09",
+          "healthcare": "pharmacy",
+          "level": "0",
+          "name": "Apical Medicine And Health Care Products"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647109295,
+        "lat": 28.5908115,
+        "lon": 77.043424,
+        "tags": {
+          "amenity": "pharmacy",
+          "contact:mobile": "+91 98997 07040;+91 76785 14665",
+          "healthcare": "pharmacy",
+          "level": "0",
+          "name": "Naman Pharmaceuticals",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113742,
+        "lat": 28.5952564,
+        "lon": 77.0410684,
+        "tags": {
+          "amenity": "bank",
+          "branch": "(Global)",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "level": "0",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113743,
+        "lat": 28.5943218,
+        "lon": 77.04241,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Punjab & Sind Bank",
+          "brand:en": "Punjab & Sind Bank",
+          "brand:hi": "\u092a\u0902\u091c\u093e\u092c \u090f\u0923\u094d\u0921 \u0938\u093f\u0902\u0927 \u092c\u0948\u0902\u0915",
+          "level": "0",
+          "name": "Punjab & Sind Bank",
+          "name:en": "Punjab & Sind Bank",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c \u090f\u0923\u094d\u0921 \u0938\u093f\u0902\u0927 \u092c\u0948\u0902\u0915"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113749,
+        "lat": 28.5960548,
+        "lon": 77.0406394,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "level": "0",
+          "name": "Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113750,
+        "lat": 28.5966249,
+        "lon": 77.0397888,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Dwarka Sector-12",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "level": "0",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113751,
+        "lat": 28.5945738,
+        "lon": 77.0421041,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bandhan Bank",
+          "brand:wikidata": "Q19882235",
+          "level": "0",
+          "name": "Bandhan Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113752,
+        "lat": 28.5964346,
+        "lon": 77.0400311,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Apollo Fertility",
+          "operator": "Apollo Hospitals",
+          "operator:type": "private",
+          "operator:wikidata": "Q4780321"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113753,
+        "lat": 28.5964173,
+        "lon": 77.0400013,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Sector 12A",
+          "brand": "AU Small Finance Bank",
+          "brand:wikidata": "Q48729722",
+          "level": "0",
+          "name": "AU Small Finance Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113754,
+        "lat": 28.5941981,
+        "lon": 77.0426053,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of Baroda",
+          "level": "0",
+          "name": "Bank of Baroda"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113757,
+        "lat": 28.59532,
+        "lon": 77.0409497,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "level": "0",
+          "name": "Pinaak Health Care"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113762,
+        "lat": 28.5947617,
+        "lon": 77.0418572,
+        "tags": {
+          "amenity": "bank",
+          "level": "0",
+          "name": "Unity Small Finance Bank",
+          "name:en": "Unity Small Finance Bank",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647113763,
+        "lat": 28.5949565,
+        "lon": 77.0415522,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Aroma Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647121746,
+        "lat": 28.5924465,
+        "lon": 77.0451321,
+        "tags": {
+          "amenity": "pharmacy",
+          "check_date": "2025-03-09",
+          "healthcare": "pharmacy",
+          "level": "0",
+          "name": "Kanha Medicos"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647121750,
+        "lat": 28.5925185,
+        "lon": 77.0450134,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2025-03-09",
+          "cuisine": "burger",
+          "level": "0",
+          "name": "Meeru's Grill"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123146,
+        "lat": 28.5966661,
+        "lon": 77.0396859,
+        "tags": {
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "orthopaedics",
+          "name": "QI Spine"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123148,
+        "lat": 28.593469,
+        "lon": 77.0428859,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Yes Bank",
+          "name": "Yes Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123150,
+        "lat": 28.5959478,
+        "lon": 77.0407224,
+        "tags": {
+          "amenity": "bank",
+          "brand": "IndusInd Bank",
+          "brand:wikidata": "Q2040323",
+          "name": "IndusInd Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123151,
+        "lat": 28.5945776,
+        "lon": 77.0420967,
+        "tags": {
+          "amenity": "bank",
+          "brand": "IDBI Bank",
+          "brand:wikidata": "Q3633485",
+          "name": "IDBI Bank",
+          "short_name": "IDBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123155,
+        "lat": 28.596354,
+        "lon": 77.0401186,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Dwarka Sector 12",
+          "brand": "IDFC First Bank",
+          "brand:wikidata": "Q22031467",
+          "name": "IDFC First Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123158,
+        "lat": 28.5950964,
+        "lon": 77.0413078,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "name": "Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123161,
+        "lat": 28.5964768,
+        "lon": 77.0399454,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123164,
+        "lat": 28.5954298,
+        "lon": 77.0408324,
+        "tags": {
+          "amenity": "bank",
+          "brand": "RBL Bank",
+          "brand:wikidata": "Q13120398",
+          "name": "RBL Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123166,
+        "lat": 28.5961458,
+        "lon": 77.0404883,
+        "tags": {
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647123167,
+        "lat": 28.5950592,
+        "lon": 77.0413954,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "name": "Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647144284,
+        "lat": 28.5905755,
+        "lon": 77.0437252,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Punjab Grill",
+          "contact:phone": "+91 989138057",
+          "cuisine": "north_indian",
+          "delivery": "yes",
+          "level": "0",
+          "name": "Punjab Chicken",
+          "takeaway": "yes",
+          "toilets": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647144285,
+        "lat": 28.5905835,
+        "lon": 77.0437069,
+        "tags": {
+          "addr:state": "DL",
+          "amenity": "fast_food",
+          "level": "0",
+          "name": "77 Cafe",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647144983,
+        "lat": 28.5905876,
+        "lon": 77.0437009,
+        "tags": {
+          "amenity": "restaurant",
+          "contact:phone": "+91 98111 45841",
+          "cuisine": "north_indian",
+          "level": "0",
+          "name": "Mehfil Restaurant",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647146204,
+        "lat": 28.5921725,
+        "lon": 77.0416734,
+        "tags": {
+          "amenity": "cafe",
+          "level": "1",
+          "name": "After Hours"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647146205,
+        "lat": 28.592265,
+        "lon": 77.0417847,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "Apollo Pharmacy",
+          "brand:wikidata": "Q62562612",
+          "healthcare": "pharmacy",
+          "name": "Apollo Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647146207,
+        "lat": 28.5923639,
+        "lon": 77.0414092,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Cafe Coffee Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647146208,
+        "lat": 28.5922837,
+        "lon": 77.0418026,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647146210,
+        "lat": 28.5922121,
+        "lon": 77.04169,
+        "tags": {
+          "amenity": "cafe",
+          "level": "1",
+          "name": "Cafe After Hours"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647146762,
+        "lat": 28.5926433,
+        "lon": 77.0410945,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:wikidata": "Q177054",
+          "cuisine": "burger",
+          "level": "0",
+          "name": "Burger King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647146763,
+        "lat": 28.5927401,
+        "lon": 77.0411001,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Chaayos",
+          "brand:wikidata": "Q117235235",
+          "cuisine": "tea",
+          "level": "0",
+          "name": "Chaayos",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647146764,
+        "lat": 28.5925203,
+        "lon": 77.041268,
+        "tags": {
+          "alt_name": "Dunkin' Donuts",
+          "amenity": "fast_food",
+          "brand": "Dunkin'",
+          "brand:wikidata": "Q847743",
+          "cuisine": "donut;coffee_shop",
+          "level": "0",
+          "name": "Dunkin'",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647146765,
+        "lat": 28.5927001,
+        "lon": 77.0410663,
+        "tags": {
+          "alt_name": "Haldiram",
+          "amenity": "fast_food",
+          "brand": "Haldiram's",
+          "brand:wikidata": "Q17054442",
+          "cuisine": "indian",
+          "level": "0",
+          "name": "Haldiram's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647161605,
+        "lat": 28.5907629,
+        "lon": 77.0434755,
+        "tags": {
+          "addr:housenumber": "E-2&3",
+          "addr:street": "New Rajendra Nagar",
+          "amenity": "bank",
+          "email": "sstarsociety@yahoo.com",
+          "level": "1",
+          "name": "Southern Star Co-operative (Urban) Thrift & Credit Society Limited",
+          "phone": "+91 11 2874 1801;+91 11 2874 1821",
+          "website": "https://southstar.org",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12772224528,
+        "lat": 28.6015592,
+        "lon": 77.0398217,
+        "tags": {
+          "leisure": "playground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12969324748,
+        "lat": 28.5966675,
+        "lon": 77.0396743,
+        "tags": {
+          "addr:block": "A",
+          "addr:district": "New Delhi",
+          "addr:floor": "2",
+          "addr:housenumber": "28",
+          "addr:place": "Dwarka Sector 12",
+          "addr:postcode": "110075",
+          "addr:street": "Dwarka Sector 12A Road",
+          "amenity": "clinic",
+          "contact:facebook": "https://www.facebook.com/anvayahealthcareclinic/",
+          "description": "Anvaya Healthcare is a mental health clinic in Dwarka, Delhi. Anvaya Healthcare provides counselling, therapy, and psychiatry-related services for mental well-being. The team consists of mental health experts, including psychiatrists and psychologists.",
+          "email": "info@anvayahealthcare.com",
+          "emergency": "yes",
+          "fax": "+91 98106 59825",
+          "healthcare": "clinic",
+          "healthcare:speciality": "psychiatry;psychotherapist;psychology;neuropsychiatry",
+          "image": "https://anvayahealthcare.com/wp-content/uploads/2024/12/cropped-Anvaya-Healthcare-Logo.png",
+          "level": "2",
+          "loc_name": "Anvaya Healthcare",
+          "mobile": "+91 98106 59825",
+          "name": "Anvaya Healthcare",
+          "official_name": "Anvaya Healthcare",
+          "opening_hours": "Mo-Sa 09:00-18:00",
+          "website": "https://anvayahealthcare.in",
+          "wheelchair": "yes"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:00:12Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 249235041,
+        "lat": 28.5922515,
+        "lon": 77.0407464,
+        "tags": {
+          "name": "Dwarka Sector 12",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 249235042,
+        "lat": 28.597025,
+        "lon": 77.0335556,
+        "tags": {
+          "name": "Dwarka Sector 13",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSTN",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 249235048,
+        "lat": 28.6149318,
+        "lon": 77.0227861,
+        "tags": {
+          "name": "Dwarka (Blue Line)",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 249823531,
+        "lat": 28.602234,
+        "lon": 77.0259935,
+        "tags": {
+          "name": "Dwarka Sector 14",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSFN",
+          "subway": "yes",
+          "wikidata": "Q5317948",
+          "wikipedia": "en:Dwarka Sector 14 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347688420,
+        "lat": 28.586462,
+        "lon": 77.0494551,
+        "tags": {
+          "name": "Dwarka Sector 11",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 11",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSE",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 723739718,
+        "lat": 28.5910461,
+        "lon": 77.037474,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 723739793,
+        "lat": 28.5959237,
+        "lon": 77.0290084,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "IGL",
+          "fuel:cng": "yes",
+          "name": "CNG Fuel Station",
+          "operator": "IGL",
+          "self_service": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2178271096,
+        "lat": 28.6048283,
+        "lon": 77.0541707,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4453247292,
+        "lat": 28.5906402,
+        "lon": 77.0369101,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "IGL",
+          "name": "CNG Fuel Station",
+          "operator": "IGL",
+          "self_service": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167978,
+        "lat": 28.6149427,
+        "lon": 77.0227407,
+        "tags": {
+          "name": "Dwarka (Blue Line)",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167992,
+        "lat": 28.6022038,
+        "lon": 77.0259614,
+        "tags": {
+          "name": "Dwarka Sector 14",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSFN",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167995,
+        "lat": 28.5969921,
+        "lon": 77.0335271,
+        "tags": {
+          "name": "Dwarka Sector 13",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSTN",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737168025,
+        "lat": 28.586443,
+        "lon": 77.0494433,
+        "tags": {
+          "name": "Dwarka Sector 11",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 11",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSE",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q5317945",
+          "wikipedia": "en:Dwarka Sector 11 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737168034,
+        "lat": 28.5922186,
+        "lon": 77.0407179,
+        "tags": {
+          "name": "Dwarka Sector 12",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSW",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6539894848,
+        "lat": 28.5922362,
+        "lon": 77.0407315,
+        "tags": {
+          "name": "Dwarka Sector 12",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 12",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSW",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5317946",
+          "wikipedia": "en:Dwarka Sector 12 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6541854255,
+        "lat": 28.6149362,
+        "lon": 77.0227628,
+        "tags": {
+          "name": "Dwarka (Blue Line)",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DW",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q5317936",
+          "wikipedia": "en:Dwarka metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6541854256,
+        "lat": 28.6022218,
+        "lon": 77.0259765,
+        "tags": {
+          "name": "Dwarka Sector 14",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 14",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSFN",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q5317948",
+          "wikipedia": "en:Dwarka Sector 14 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6541854257,
+        "lat": 28.597009,
+        "lon": 77.0335407,
+        "tags": {
+          "name": "Dwarka Sector 13",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 13",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSTN",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5317947",
+          "wikipedia": "en:Dwarka Sector 13 metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7661805973,
+        "lat": 28.586429,
+        "lon": 77.0494267,
+        "tags": {
+          "name": "Dwarka Sector 11",
+          "name:hi": "\u0926\u094d\u0935\u093e\u0930\u0915\u093e \u0938\u0947\u0915\u094d\u091f\u0930 11",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DSE",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9044613459,
+        "lat": 28.6099203,
+        "lon": 77.0369267,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "theatre",
+          "name": "Auditorium",
+          "operator": "NSUT"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9044613460,
+        "lat": 28.6095946,
+        "lon": 77.0380655,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "theatre",
+          "name": "Mini Auditorium",
+          "operator": "NSUT"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10993966167,
+        "lat": 28.6014197,
+        "lon": 77.0292596,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR Cinemas",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11947456384,
+        "lat": 28.5940895,
+        "lon": 77.0207778,
+        "tags": {
+          "amenity": "theatre",
+          "name": "AMPHI THEATRE",
+          "theatre:type": "amphi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12647193426,
+        "lat": 28.5910595,
+        "lon": 77.0429824,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Yuma",
+          "charging_station:battery_swapping": "yes",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    ]
+  }
+}

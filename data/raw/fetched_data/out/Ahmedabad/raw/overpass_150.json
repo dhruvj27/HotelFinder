@@ -1,0 +1,907 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:26:41Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 440320413,
+        "lat": 23.0487566,
+        "lon": 72.5312683,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Sterling Hospital Building, Off Gurukul Road, B/H. Drive In Cinema, Memnagar",
+          "addr:postcode": "380054",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:phone": "9825181745",
+          "name": "Sterling Hospital Div. Of Addlife Medical Institute Pvt. Ltd.",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3241011933,
+        "lat": 23.0480405,
+        "lon": 72.526862,
+        "tags": {
+          "addr:city": "ahmedabad",
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Barbeque Nation"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4369863491,
+        "lat": 23.0464898,
+        "lon": 72.5294517,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Subway",
+          "brand:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "brand:ur": "\u0633\u0628 \u0648\u06d2",
+          "brand:wikidata": "Q244457",
+          "brand:wikipedia": "en:Subway (restaurant)",
+          "name": "Subway",
+          "name:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "name:ur": "\u0633\u0628 \u0648\u06d2"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4444998991,
+        "lat": 23.0475825,
+        "lon": 72.5265833,
+        "tags": {
+          "name": "Reliance Smart",
+          "name:en": "Reliance Smart",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4445025089,
+        "lat": 23.0478082,
+        "lon": 72.5269346,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4445025489,
+        "lat": 23.0478572,
+        "lon": 72.526783,
+        "tags": {
+          "amenity": "atm",
+          "name": "Bank of Baroda",
+          "operator": "Bank of Baroda"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4449189293,
+        "lat": 23.0460963,
+        "lon": 72.533033,
+        "tags": {
+          "amenity": "hospital",
+          "name": "little flower",
+          "name:en": "little flower"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5140818187,
+        "lat": 23.0398379,
+        "lon": 72.5276503,
+        "tags": {
+          "amenity": "fast_food",
+          "delivery": "no",
+          "drive_through": "no",
+          "name": "Iscon Ghantiya",
+          "outdoor_seating": "no",
+          "smoking": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5141463317,
+        "lat": 23.045838,
+        "lon": 72.5299101,
+        "tags": {
+          "name": "Vijay Sales",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968417889,
+        "lat": 23.0461279,
+        "lon": 72.5364487,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "(Suyog) Building, 2nd Floor, Beside Kamala Kamdhenu Hall, Opposite Gandhi Labour Institute, Drive In Road, Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Cornea Foundation Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6968717525,
+        "lat": 23.0499504,
+        "lon": 72.5338505,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Subhash Chowk Sonal Char Rasta Gurukul Road Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "contact:mobile": "9824069697",
+          "healthcare": "hospital",
+          "name": "Chandrabhan Hospital and Gynac Institute",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6969601213,
+        "lat": 23.047633,
+        "lon": 72.5258862,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Siddhachal, Nr, Doordarshan Kendra Drive In Road",
+          "addr:postcode": "380054",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Mehta Hospital, Siddhachal",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970024809,
+        "lat": 23.0471787,
+        "lon": 72.5333127,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "F/5, Veermurti Comlex Opp Oxford Tower Gurukul Road Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shreeji Orthopaedic And Ent Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970039123,
+        "lat": 23.0363111,
+        "lon": 72.5325295,
+        "tags": {
+          "addr:district": "Amreli",
+          "addr:full": "2, Chaitanya Society, Opp. IIM New Gate, Vastrapur",
+          "addr:postcode": "380015",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shivam Orthopaedic and Gynec Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970462158,
+        "lat": 23.0482276,
+        "lon": 72.5333825,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "B- 4 Surya Complex Opp Navneet House, Gurukul Road, Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shraddha Surgical Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970724547,
+        "lat": 23.0461853,
+        "lon": 72.5326094,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "# 25, 1st Floor, Maruti Centre, Near Gurukul, Drive-In-Road",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shree Raj Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6970872877,
+        "lat": 23.0475378,
+        "lon": 72.5265107,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Yogi Complex, Opposite Drive-In-Cinema,Thaltej Tekra",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Chandandwar Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6972590270,
+        "lat": 23.0462186,
+        "lon": 72.5338653,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "102, Heritage Plaza, Opposite Gurukul, Drive - In - Road, Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "mobile": "+919426398190",
+          "name": "Milan Orthopaedic and Fracture Hospital",
+          "opening_hours": "Mo-Su 10:30-14:00, 18:00-20:00",
+          "phone": "07927460049",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6972590272,
+        "lat": 23.0470491,
+        "lon": 72.533298,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1st Floor, Oxford Tower, Gurukul Road, Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Jain Hospital And Icu, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6972590274,
+        "lat": 23.0469763,
+        "lon": 72.5276975,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Gurukul Road, Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "clinic",
+          "name": "Raghudeep Eye Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6972590275,
+        "lat": 23.0497418,
+        "lon": 72.531753,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "4,L K Society, B/H Sunset Row House, Next To Sterling Hospital, Gurukul Road, Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "P.N.Desai Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6972590281,
+        "lat": 23.0500997,
+        "lon": 72.5338753,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Bhaktinagar, Opposite Sun-Set Row House, Gurukul Road, Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sharda Eye Hospital Phaco And Laser Centre - Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6972590283,
+        "lat": 23.0463111,
+        "lon": 72.5345345,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Aavkar Complex,Opposite Gurukul Driven - In - Road,Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Smruti Fracture Orthopedic Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6972593085,
+        "lat": 23.0492285,
+        "lon": 72.5334294,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Shantam Complex, Gurukul Road, Opp Navnit House , Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kidney And Urology Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6972593093,
+        "lat": 23.0371812,
+        "lon": 72.522199,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "49-A, Lad Society ,Sandesh Press Road, Bodakdev",
+          "addr:postcode": "380054",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Avataran Eye Hospital and Oculoplasty Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6974588378,
+        "lat": 23.0405047,
+        "lon": 72.5211865,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "7, Platinum Plaza ( Ground Floor ), Judges`S Bunglow Road, Opp Ioc Petrol Pump",
+          "addr:postcode": "380054",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Arthro Care Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975854570,
+        "lat": 23.0371183,
+        "lon": 72.5290078,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "A/405-406, Himalaya Arcade, Opposite Vastrapur Lake, Vastrapur",
+          "addr:postcode": "380015",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Aashwi E.N.T.Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://aashwient.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975868164,
+        "lat": 23.046184,
+        "lon": 72.533758,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "2nd Floor, Heritage Plaza, Opposite Gurukul Tower, Drive-In-Road",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Rushabh Uro Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6977959988,
+        "lat": 23.0482795,
+        "lon": 72.5337875,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "New Natraj Complex, Opposite Vijaya Bank , ,Near Navneet Publication, Gurukul Road",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Vatsalya Children Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6979534905,
+        "lat": 23.0499602,
+        "lon": 72.5348282,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "1st Floor, Suryadeep Towers Shopping Complex, Naroda Bank Lane",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "addr:subdistrict": "Memnagar",
+          "amenity": "hospital",
+          "email": "adityaeyehospital@gmail.com",
+          "healthcare": "hospital",
+          "name": "Aditya Eye Hospital, Ahmedabad",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6979632818,
+        "lat": 23.0462322,
+        "lon": 72.5337466,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "208/209, Heritage Plaza, Opposite Gurukul Temple, Drive In Road",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Aayush Surgical Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6981405297,
+        "lat": 23.0460902,
+        "lon": 72.5286249,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Next To Asia School, B/H Hdfc Bank, Opp Drive In Cinema",
+          "addr:postcode": "380054",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Rainbow Super Speciality Children's Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6982092223,
+        "lat": 23.0369328,
+        "lon": 72.5273097,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "24, Himalay Complex Nehru Park Vastrapur",
+          "addr:postcode": "380015",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Ashish Orthopaedic Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864133783,
+        "lat": 23.0464267,
+        "lon": 72.5343808,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Memnagar",
+          "addr:postcode": "380052",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shreeji ENT and Orthopaedic Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864133824,
+        "lat": 23.04711,
+        "lon": 72.527537,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Sunrise Park, Gurukul",
+          "addr:postcode": "380059",
+          "addr:state": "Gujarat",
+          "amenity": "doctors",
+          "name": "Dr. Manish Goyal",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864133843,
+        "lat": 23.0405865,
+        "lon": 72.5264512,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Vastrapur",
+          "addr:postcode": "380015",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Brinda Women's Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864133850,
+        "lat": 23.040905,
+        "lon": 72.526418,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Vastrapur",
+          "addr:postcode": "380015",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shri Gordhandas Charitable Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9287451026,
+        "lat": 23.0371443,
+        "lon": 72.5290405,
+        "tags": {
+          "addr:housenumber": "Himalaya Arcade B",
+          "addr:street": "Sargam Marg, Nehru Park Cir, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat 380015",
+          "amenity": "fast_food",
+          "name": "Shreeji Krupa Bombay Vadapav"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9296316189,
+        "lat": 23.0371776,
+        "lon": 72.5291086,
+        "tags": {
+          "addr:housenumber": "Himalaya Arcade B",
+          "addr:street": "Sargam Marg, Nehru Park Cir, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat 380015",
+          "amenity": "fast_food",
+          "name": "Gajanand Pauva House",
+          "opening_hours": "Mo-Su 04:30-23:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9296318313,
+        "lat": 23.0371316,
+        "lon": 72.5290981,
+        "tags": {
+          "addr:housenumber": "Himalaya Arcade B",
+          "addr:street": "Sargam Marg, Nehru Park Cir, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat 380015",
+          "amenity": "fast_food",
+          "description": "Chole Puri, Parathas, Thepla, Pulav",
+          "name": "Jay Mataji Fast Food",
+          "opening_hours": "Mo-Su 08:00-21:00",
+          "phone": "+919377080380"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172958965,
+        "lat": 23.0461549,
+        "lon": 72.536403,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Cornea Foundation Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10750415881,
+        "lat": 23.0410761,
+        "lon": 72.5269272,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Choco drama"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10750415883,
+        "lat": 23.040802,
+        "lon": 72.5256771,
+        "tags": {
+          "name": "market",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10750415884,
+        "lat": 23.040704,
+        "lon": 72.528048,
+        "tags": {
+          "leisure": "park",
+          "name": "park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10750415885,
+        "lat": 23.0407863,
+        "lon": 72.5275081,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "leela sandwich"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10882768855,
+        "lat": 23.0492471,
+        "lon": 72.5219853,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:postcode": "380054",
+          "addr:street": "Opp. Sardar Patel Institute, Next to Udgam School for Children",
+          "amenity": "hospital",
+          "description": "Are you looking for a gynecology hospital in Ahmedabad? Diva Women's Hospital provides pregnancy counseling, infertility management, PCOD/PCOS, ultrasonic sonography, and much more under one roof.",
+          "emergency": "yes",
+          "healthcare": "hospital",
+          "healthcare:speciality": "gynaecology",
+          "name": "Diva Women's Hospital",
+          "opening_hours": "Open 24 Hours",
+          "phone": "9978872345",
+          "website": "https://divahospital.com/"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:26:41Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 440320409,
+        "lat": 23.0465768,
+        "lon": 72.531028,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Adlabs, BIG Cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1746677973,
+        "lat": 23.0331106,
+        "lon": 72.5139509,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP Fuel Station",
+          "official_name": "Hindustan Petroleum",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3247497622,
+        "lat": 23.0490934,
+        "lon": 72.5160613,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:postcode": "380054",
+          "amenity": "cinema",
+          "name": "PVR, acropolis mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701075,
+        "lat": 23.040679,
+        "lon": 72.5530608,
+        "tags": {
+          "name": "Commerce Six Roads",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701095,
+        "lat": 23.04814,
+        "lon": 72.5245036,
+        "tags": {
+          "name": "Doordarshan Kendra",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622701102,
+        "lat": 23.0497505,
+        "lon": 72.5159937,
+        "tags": {
+          "name": "Thaltej",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565295,
+        "lat": 23.0407242,
+        "lon": 72.5530873,
+        "tags": {
+          "name": "Commerce Six Roads",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565314,
+        "lat": 23.0448371,
+        "lon": 72.5435125,
+        "tags": {
+          "name": "Gujarat University Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565315,
+        "lat": 23.0448892,
+        "lon": 72.5435282,
+        "tags": {
+          "name": "Gujarat University Station",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565330,
+        "lat": 23.045928,
+        "lon": 72.5348776,
+        "tags": {
+          "name": "Gurukul Road",
+          "name:gu": "\u0a97\u0ac1\u0ab0\u0ac1\u0a95\u0ac1\u0ab2 \u0ab0\u0acb\u0aa1",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565331,
+        "lat": 23.0458688,
+        "lon": 72.5348755,
+        "tags": {
+          "name": "Gurukul Road",
+          "name:gu": "\u0a97\u0ac1\u0ab0\u0ac1\u0a95\u0ac1\u0ab2 \u0ab0\u0acb\u0aa1",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565352,
+        "lat": 23.0481838,
+        "lon": 72.5245109,
+        "tags": {
+          "name": "Doordarshan Kendra",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076565366,
+        "lat": 23.049782,
+        "lon": 72.5160136,
+        "tags": {
+          "name": "Thaltej",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115111903,
+        "lat": 23.0501817,
+        "lon": 72.5070211,
+        "tags": {
+          "name": "Thaltej Gam",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115111904,
+        "lat": 23.050233,
+        "lon": 72.5070056,
+        "tags": {
+          "name": "Thaltej Gam",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12406995811,
+        "lat": 23.049748,
+        "lon": 72.5160152,
+        "tags": {
+          "name": "Thaltej",
+          "name:gu": "\u0aa5\u0ab2\u0aa4\u0ac7\u0a9c",
+          "network": "Ahmedabad Metro",
+          "network:wikidata": "Q1895288",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q114400494"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12408894281,
+        "lat": 23.0502062,
+        "lon": 72.5070123,
+        "tags": {
+          "name": "Thaltej Gam",
+          "name:gu": "\u0aa5\u0ab2\u0aa4\u0ac7\u0a9c",
+          "network": "Ahmedabad Metro",
+          "network:wikidata": "Q1895288",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

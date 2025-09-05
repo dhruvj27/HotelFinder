@@ -1,0 +1,1621 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:21:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3207060489,
+        "lat": 13.0413885,
+        "lon": 77.6223832,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "Hyderabadi_Biryani",
+          "name": "Biryani House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3328011093,
+        "lat": 13.04098,
+        "lon": 77.6243953,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:postcode": "560045",
+          "addr:street": "Thanisandra Main Road",
+          "amenity": "restaurant",
+          "brand": "Adyar Ananda Bhavan",
+          "brand:wikidata": "Q15178238",
+          "cuisine": "regional",
+          "name": "Adyar Ananda Bhavan",
+          "name:kn": "\u0c86\u0ca6\u0ccd\u0caf\u0cbe\u0cb0\u0ccd \u0c86\u0ca8\u0c82\u0ca6 \u0cad\u0cb5\u0ca8",
+          "phone": "918025448999",
+          "shop": "confectionery",
+          "website": "https://aabsweets.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4443700234,
+        "lat": 13.0454341,
+        "lon": 77.6267753,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "Survey No. 132P, 133P, & 134P, Nagawara Junction, Manayata Tech Park",
+          "addr:postcode": "560077",
+          "addr:street": "Thanisandra Main Road",
+          "brand": "Spar",
+          "brand:wikidata": "Q610492",
+          "brand:wikipedia": "en:Spar (retailer)",
+          "level": "0",
+          "name": "Spar",
+          "opening_hours": "10:00-22:30",
+          "organic": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "phone": "8067294041",
+          "shop": "supermarket",
+          "website": "http://sparindia.org.in/locations/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4447495451,
+        "lat": 13.0450945,
+        "lon": 77.6265054,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "Survey No. 132P, 133P, & 134P, Nagawara Junction, Manayata Tech Park",
+          "addr:postcode": "560077",
+          "addr:street": "Thanisandra Main Road",
+          "amenity": "cafe",
+          "cuisine": "cafe",
+          "internet_access": "wlan",
+          "level": "3",
+          "name": "Cafe Coffee Day",
+          "name:kn": "\u0c95\u0cab\u0cc6 \u0c95\u0cbe\u0cab\u0cbf \u0ca1\u0cc7",
+          "opening_hours": "10:00-21:30",
+          "phone": "74832 95691",
+          "smoking": "no",
+          "website": "https://www.cafecoffeeday.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4586355538,
+        "lat": 13.0450568,
+        "lon": 77.6265787,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:postcode": "560077",
+          "addr:street": "Thanisandra Main Road",
+          "amenity": "cafe",
+          "cuisine": "dessert",
+          "name": "Ibaco",
+          "name:kn": "\u0c90\u0cac\u0cbe\u0c95\u0cca",
+          "opening_hours": "11:00 - 23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4834590320,
+        "lat": 13.0506655,
+        "lon": 77.6214043,
+        "tags": {
+          "amenity": "food_court"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4973098285,
+        "lat": 13.0408726,
+        "lon": 77.620387,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "check_date": "2025-06-14",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4973098286,
+        "lat": 13.0408987,
+        "lon": 77.6207343,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Meghana Biryani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4973098292,
+        "lat": 13.0456035,
+        "lon": 77.6267868,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "brand:wikidata": "Q38076",
+          "brand:wikipedia": "en:McDonald's",
+          "brand:wikipedia:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:wikipedia:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "name:kn": "\u0cae\u0ccd\u0caf\u0cbe\u0c95\u0ccd\u200c\u0ca1\u0cca\u0ca8\u0cbe\u0cb2\u0ccd\u0ca1\u0ccd\u0cb8\u0ccd",
+          "name:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "name:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4973098293,
+        "lat": 13.0454872,
+        "lon": 77.6269262,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:pa": "\u0a2c\u0a30\u0a17\u0a30 \u0a15\u0a3f\u0a70\u0a17",
+          "brand:ur": "\u0628\u0631\u06af\u0631 \u06a9\u0646\u06af",
+          "brand:wikidata": "Q177054",
+          "brand:wikipedia": "en:Burger King",
+          "brand:wikipedia:pa": "\u0a2c\u0a30\u0a17\u0a30 \u0a15\u0a3f\u0a70\u0a17",
+          "brand:wikipedia:ur": "\u0628\u0631\u06af\u0631 \u06a9\u0646\u06af",
+          "cuisine": "burger",
+          "name": "Burger King",
+          "name:kn": "\u0cac\u0cb0\u0ccd\u0c97\u0cb0\u0ccd \u0c95\u0cbf\u0c82\u0c97\u0ccd",
+          "name:pa": "\u0a2c\u0a30\u0a17\u0a30 \u0a15\u0a3f\u0a70\u0a17",
+          "name:ru": "\u0411\u0443\u0440\u0433\u0435\u0440 \u041a\u0438\u043d\u0433",
+          "name:ur": "\u0628\u0631\u06af\u0631 \u06a9\u0646\u06af",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4973098294,
+        "lat": 13.0453918,
+        "lon": 77.6270134,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Felicita"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5286949432,
+        "lat": 13.0409375,
+        "lon": 77.6223743,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5295004543,
+        "lat": 13.0454415,
+        "lon": 77.6269767,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:kn": "\u0ca1\u0cbe\u0cae\u0cbf\u0ca8\u0ccb\u0cb8\u0ccd",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5295004544,
+        "lat": 13.0466774,
+        "lon": 77.6279032,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Sri Devi Grand Veg"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5416734324,
+        "lat": 13.0509256,
+        "lon": 77.6212057,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "brand:ur": "\u0633\u0628 \u0648\u06d2",
+          "brand:wikidata": "Q244457",
+          "brand:wikipedia": "en:Subway (restaurant)",
+          "name": "Subway",
+          "name:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "name:ur": "\u0633\u0628 \u0648\u06d2"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5416744421,
+        "lat": 13.0511064,
+        "lon": 77.621253,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:kn": "\u0ca1\u0cbe\u0cae\u0cbf\u0ca8\u0ccb\u0cb8\u0ccd",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5416744721,
+        "lat": 13.0510068,
+        "lon": 77.6212211,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "California Burrito"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418244422,
+        "lat": 13.0508399,
+        "lon": 77.6211776,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "WOW momo"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418246323,
+        "lat": 13.0506091,
+        "lon": 77.6212545,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "name:kn": "\u0cad\u0cbe\u0cb0\u0ca4\u0cc0\u0caf \u0cb8\u0ccd\u0c9f\u0cc7\u0c9f\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418246324,
+        "lat": 13.0511515,
+        "lon": 77.6214595,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "brand:wikidata": "Q524757",
+          "brand:wikipedia": "en:KFC",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:wikipedia:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:kn": "\u0c95\u0cc6\u0c8e\u0cab\u0ccd\u200c\u0cb8\u0cbf",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418248823,
+        "lat": 13.0507698,
+        "lon": 77.6211686,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Kinara"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418248824,
+        "lat": 13.0511739,
+        "lon": 77.6213725,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Chung Wah",
+          "name:kn": "\u0c9a\u0cc1\u0c82\u0c97\u0ccd \u0cb5\u0cbe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418248825,
+        "lat": 13.051133,
+        "lon": 77.6215445,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Sizzling Tandoor"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418255621,
+        "lat": 13.050685,
+        "lon": 77.6211396,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Aaha Andhra"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418327424,
+        "lat": 13.0510863,
+        "lon": 77.6216974,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Pathankot"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418365221,
+        "lat": 13.0452657,
+        "lon": 77.6209798,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "name:kn": "\u0c86\u0c95\u0ccd\u0cb8\u0cbf\u0cb8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418989025,
+        "lat": 13.0451508,
+        "lon": 77.6209471,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:kn": "\u0ca1\u0cbe\u0cae\u0cbf\u0ca8\u0ccb\u0cb8\u0ccd",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418989026,
+        "lat": 13.0447975,
+        "lon": 77.6208872,
+        "tags": {
+          "alt_name": "Dunkin' Donuts",
+          "amenity": "fast_food",
+          "brand": "Dunkin'",
+          "brand:wikidata": "Q847743",
+          "brand:wikipedia": "en:Dunkin' Donuts",
+          "cuisine": "donut;coffee_shop",
+          "name": "Dunkin'",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5418989524,
+        "lat": 13.0448386,
+        "lon": 77.620895,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "cuisine": "coffee_shop",
+          "name": "Cafe Coffee Day",
+          "name:kn": "\u0c95\u0cab\u0cc6 \u0c95\u0cbe\u0cab\u0cbf \u0ca1\u0cc7",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5420443541,
+        "lat": 13.0446064,
+        "lon": 77.6209898,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5966255482,
+        "lat": 13.0411194,
+        "lon": 77.624478,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Zaica Dine & Wine"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5966255484,
+        "lat": 13.0412239,
+        "lon": 77.6245156,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Baithaa"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6938005237,
+        "lat": 13.0370143,
+        "lon": 77.6238732,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "#978, 18Th Cross,14Th Main, 5Th Block, 1st Stage,H.B.R.Layout",
+          "addr:postcode": "560043",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "Sri Sai Hospital, Bengaluru Urban",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6938695174,
+        "lat": 13.0398217,
+        "lon": 77.6230843,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Nagarwara",
+          "addr:postcode": "560045",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "J M J Hospital, Bengaluru Urban",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216398518,
+        "lat": 13.0406271,
+        "lon": 77.6236064,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "burger",
+          "name": "Burwinger"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216699930,
+        "lat": 13.0414329,
+        "lon": 77.620731,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "juice",
+          "name": "Lassi Shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7232653689,
+        "lat": 13.0409247,
+        "lon": 77.6225422,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "La Zizone"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7256985308,
+        "lat": 13.0407965,
+        "lon": 77.616876,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7256985313,
+        "lat": 13.040834,
+        "lon": 77.6197195,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Ancient Hyderabad"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7256985314,
+        "lat": 13.0413703,
+        "lon": 77.6219407,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Food Castle"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577248182,
+        "lat": 13.037942,
+        "lon": 77.62326,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Bengaluru",
+          "addr:postcode": "560045",
+          "addr:state": "Karnataka",
+          "amenity": "clinic",
+          "name": "Chethana Eye Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7577248211,
+        "lat": 13.040826,
+        "lon": 77.6189605,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Nagawara, Bengaluru",
+          "addr:postcode": "560045",
+          "addr:state": "Karnataka",
+          "amenity": "clinic",
+          "fixme": "Find actual location",
+          "name": "KMC Multispeciality Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9527967763,
+        "lat": 13.0414029,
+        "lon": 77.6227494,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Orange Leaf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9527967779,
+        "lat": 13.0370182,
+        "lon": 77.6278442,
+        "tags": {
+          "amenity": "clinic",
+          "name": "Navashakthi Nethralaya"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9590333379,
+        "lat": 13.0414094,
+        "lon": 77.6215772,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Biriyani Zone"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10032026861,
+        "lat": 13.040585,
+        "lon": 77.6196662,
+        "tags": {
+          "amenity": "restaurant",
+          "contact:instagram": "thewoodpegger",
+          "name": "The Woodpegger"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10095905211,
+        "lat": 13.0505896,
+        "lon": 77.6217434,
+        "tags": {
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:kn": "\u0c90\u0cb8\u0cbf\u0c90\u0cb8\u0cbf\u0c90 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0cc1",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11229746065,
+        "lat": 13.0415009,
+        "lon": 77.6196219,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Third Wave Coffee Roasters",
+          "brand:wikidata": "Q7785004",
+          "cuisine": "coffee_shop",
+          "delivery": "yes",
+          "name": "Third Wave Coffee Roasters",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11229746066,
+        "lat": 13.0415139,
+        "lon": 77.6194583,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name": "Toscano"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11696226868,
+        "lat": 13.0419372,
+        "lon": 77.6196541,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Nagavara Social"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11811087970,
+        "lat": 13.0418236,
+        "lon": 77.6194368,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Daily Sushi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11811087971,
+        "lat": 13.0418536,
+        "lon": 77.6196474,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Bombay Curry House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11878470077,
+        "lat": 13.0419502,
+        "lon": 77.6247788,
+        "tags": {
+          "amenity": "pharmacy",
+          "check_date": "2024-05-04",
+          "healthcare": "pharmacy",
+          "name": "Medishop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11917495171,
+        "lat": 13.0417221,
+        "lon": 77.613477,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "check_date": "2024-05-19",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12020449758,
+        "lat": 13.0416067,
+        "lon": 77.6196259,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "cuisine": "mexican",
+          "indoor_seating": "yes",
+          "name": "Sanchez",
+          "opening_hours": "12:00-00:00",
+          "outdoor_seating": "no",
+          "phone": "+91 96060 71430"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12027541896,
+        "lat": 13.0387741,
+        "lon": 77.6144426,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Indira Canteen",
+          "brand:wikidata": "Q36164828",
+          "cuisine": "south_indian",
+          "name": "Indira Canteen",
+          "operator": "BBMP",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12260570015,
+        "lat": 13.0420326,
+        "lon": 77.6194409,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Bombay Brasserie"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12450977225,
+        "lat": 13.0413862,
+        "lon": 77.6216592,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2024-12-25",
+          "name": "The Taste of Bengal"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12450977226,
+        "lat": 13.0413867,
+        "lon": 77.6217785,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2024-12-25",
+          "name": "Kakatiya Foods"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12461000329,
+        "lat": 13.0416197,
+        "lon": 77.6194652,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Theobroma",
+          "brand:wikidata": "Q124374469",
+          "delivery": "yes",
+          "name": "Theobroma",
+          "shop": "pastry",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12461000330,
+        "lat": 13.0420275,
+        "lon": 77.6196581,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:country": "IN",
+          "addr:place": "Manyata Tech Park",
+          "addr:suburb": "Nagavara",
+          "amenity": "restaurant",
+          "contact:facebook": "nasiandmee",
+          "contact:instagram": "nasiandmee",
+          "cuisine": "asian",
+          "delivery": "yes",
+          "name": "Nasi and Mee",
+          "official_name": "Nasi and Mee Asian Canteen",
+          "outdoor_seating": "yes",
+          "takeaway": "yes",
+          "website": "https://www.nasiandmee.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12915170801,
+        "lat": 13.0421146,
+        "lon": 77.6124806,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "check_date": "2025-06-14",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:21:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 353187819,
+        "lat": 13.0276245,
+        "lon": 77.6324005,
+        "tags": {
+          "bus": "yes",
+          "name": "Hennur Junction",
+          "name:en": "Hennur Junction",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 387555071,
+        "lat": 13.0580205,
+        "lon": 77.6233682,
+        "tags": {
+          "bus": "yes",
+          "name": "Rachenahalli",
+          "name:en": "Rachenahalli",
+          "name:kn": "\u0cb0\u0cbe\u0c9a\u0cc7\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2125916101,
+        "lat": 13.0434244,
+        "lon": 77.6424087,
+        "tags": {
+          "bus": "yes",
+          "name": "Janaki Rama Layout",
+          "name:en": "Janaki Rama Layout",
+          "name:kn": "\u0c9c\u0cbe\u0ca8\u0c95\u0cbf\u0cb0\u0cbe\u0cae \u0cac\u0ca1\u0cbe\u0cb5\u0ca3\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2408701942,
+        "lat": 13.0434709,
+        "lon": 77.6078589,
+        "tags": {
+          "bus": "yes",
+          "name": "Lumbini Gardens",
+          "name:en": "Lumbini Gardens",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2411038821,
+        "lat": 13.029358,
+        "lon": 77.631625,
+        "tags": {
+          "bus": "yes",
+          "name": "Hennur Cross",
+          "name:en": "Hennur Cross",
+          "name:kn": "\u0cb9\u0cc6\u0ca3\u0ccd\u0ca3\u0cc2\u0cb0\u0ccd \u0c95\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2468851954,
+        "lat": 13.0319216,
+        "lon": 77.6362087,
+        "tags": {
+          "bus": "yes",
+          "name": "Hennur Cross",
+          "name:en": "Hennur Cross",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3451594563,
+        "lat": 13.0452129,
+        "lon": 77.626801,
+        "tags": {
+          "amenity": "cinema",
+          "name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4443491273,
+        "lat": 13.0456386,
+        "lon": 77.6267858,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "Survey No. 132P, 133P, & 134P, Nagawara Junction, Manayata Tech Park",
+          "addr:postcode": "560077",
+          "addr:street": "Thanisandra Main Road",
+          "amenity": "cinema",
+          "level": "1",
+          "name": "PVR entertainment",
+          "opening_hours": "10:00-22:30",
+          "phone": "092380 23889",
+          "website": "https://www.pvrcinemas.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5286949431,
+        "lat": 13.0413718,
+        "lon": 77.6218064,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0c86\u0caf\u0cbf\u0cb2\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5358365861,
+        "lat": 13.0277371,
+        "lon": 77.6336571,
+        "tags": {
+          "bus": "yes",
+          "name": "Hennur Cross",
+          "name:en": "Hennur Cross",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084440,
+        "lat": 13.0561748,
+        "lon": 77.6328655,
+        "tags": {
+          "bus": "yes",
+          "name": "Thanisandra",
+          "name:en": "Thanisandra",
+          "name:kn": "\u0ca5\u0ca3\u0cbf\u0cb8\u0c82\u0ca6\u0ccd\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084441,
+        "lat": 13.0528481,
+        "lon": 77.6313077,
+        "tags": {
+          "bus": "yes",
+          "name": "Ashwath Nagara",
+          "name:en": "Ashwath Nagara",
+          "name:kn": "\u0c85\u0cb6\u0ccd\u0cb5\u0ca4\u0ccd\u0ca5\u0ca8\u0c97\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084442,
+        "lat": 13.0474129,
+        "lon": 77.628536,
+        "tags": {
+          "bus": "yes",
+          "name": "Sarayipalya",
+          "name:en": "Sarayipalya",
+          "name:kn": "\u0cb8\u0cbe\u0cb0\u0cbe\u0caf\u0cbf\u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084443,
+        "lat": 13.0453246,
+        "lon": 77.6272392,
+        "tags": {
+          "bus": "yes",
+          "name": "Vidhyasagara",
+          "name:en": "Vidhyasagara",
+          "name:kn": "\u0cb5\u0cbf\u0ca6\u0ccd\u0caf\u0cbe\u0cb8\u0cbe\u0c97\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084445,
+        "lat": 13.0420399,
+        "lon": 77.6248942,
+        "tags": {
+          "bus": "yes",
+          "name": "Petrol Bunk Nagavara Junction",
+          "name:en": "Petrol Bunk Nagavara Junction",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084447,
+        "lat": 13.0407202,
+        "lon": 77.6244461,
+        "tags": {
+          "bus": "yes",
+          "name": "Nagavara Junction",
+          "name:en": "Nagavara Junction",
+          "name:kn": "\u0ca8\u0cbe\u0c97\u0cb5\u0cbe\u0cb0 \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084448,
+        "lat": 13.041313,
+        "lon": 77.6216623,
+        "tags": {
+          "bus": "yes",
+          "name": "Manyata Embassy Business Park",
+          "name:en": "Manyata Embassy Business Park",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084449,
+        "lat": 13.0424489,
+        "lon": 77.6133351,
+        "tags": {
+          "bus": "yes",
+          "name": "Veerannapalya",
+          "name:en": "Veerannapalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106084450,
+        "lat": 13.0437419,
+        "lon": 77.6010305,
+        "tags": {
+          "bus": "yes",
+          "name": "Kempapura",
+          "name:en": "Kempapura",
+          "name:kn": "\u0c95\u0cc6\u0c82\u0caa\u0cbe\u0caa\u0cc1\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106320872,
+        "lat": 13.021513,
+        "lon": 77.6287378,
+        "tags": {
+          "bus": "yes",
+          "name": "Kacharakanahalli",
+          "name:en": "Kacharakanahalli",
+          "name:kn": "\u0c95\u0cbe\u0c9a\u0cb0\u0c95\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106320874,
+        "lat": 13.0261852,
+        "lon": 77.6308748,
+        "tags": {
+          "bus": "yes",
+          "name": "Depot-10 Gate",
+          "name:en": "Depot-10 Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106320877,
+        "lat": 13.0366933,
+        "lon": 77.6405238,
+        "tags": {
+          "bus": "yes",
+          "name": "Hennur Bande",
+          "name:en": "Hennur Bande",
+          "name:kn": "\u0cb9\u0cc6\u0ca3\u0ccd\u0ca3\u0cc2\u0cb0\u0cc1 \u0cac\u0c82\u0ca1\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477344,
+        "lat": 13.0379292,
+        "lon": 77.6234376,
+        "tags": {
+          "bus": "yes",
+          "name": "Nagavara",
+          "name:en": "Nagavara",
+          "name:kn": "\u0ca8\u0cbe\u0c97\u0cb5\u0cbe\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477345,
+        "lat": 13.0339074,
+        "lon": 77.62254,
+        "tags": {
+          "bus": "yes",
+          "name": "Glass Factory",
+          "name:en": "Glass Factory",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477346,
+        "lat": 13.0321498,
+        "lon": 77.6218502,
+        "tags": {
+          "bus": "yes",
+          "name": "Govindapura Cross",
+          "name:en": "Govindapura Cross",
+          "name:kn": "\u0c97\u0ccb\u0cb5\u0cbf\u0c82\u0ca6\u0caa\u0cc1\u0cb0 \u0c95\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477347,
+        "lat": 13.0299798,
+        "lon": 77.6208862,
+        "tags": {
+          "bus": "yes",
+          "name": "Arabic College",
+          "name:en": "Arabic College",
+          "name:kn": "\u0c85\u0cb0\u0cac\u0cbf\u0c95\u0ccd \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477349,
+        "lat": 13.025462,
+        "lon": 77.619815,
+        "tags": {
+          "bus": "yes",
+          "name": "KGH Railway Gate",
+          "name:en": "KGH Railway Gate",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477350,
+        "lat": 13.0207594,
+        "lon": 77.6190102,
+        "tags": {
+          "bus": "yes",
+          "name": "Kadugondanahalli Police Station",
+          "name:en": "Kadugondanahalli Police Station",
+          "name:kn": "\u0c95\u0cbe\u0ca1\u0cc1\u0c97\u0cca\u0c82\u0ca1\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf, \u0c86\u0cb0\u0c95\u0ccd\u0cb7\u0c95 \u0ca0\u0cbe\u0ca3\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140581376,
+        "lat": 13.0398404,
+        "lon": 77.6414434,
+        "tags": {
+          "bus": "yes",
+          "name": "Hennur",
+          "name:en": "Hennur",
+          "name:kn": "\u0cb9\u0cc6\u0ca3\u0ccd\u0ca3\u0cc2\u0cb0\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140599428,
+        "lat": 13.0503945,
+        "lon": 77.6303379,
+        "tags": {
+          "bus": "yes",
+          "name": "Ashwath Nagara Cross",
+          "name:en": "Ashwath Nagara Cross",
+          "name:kn": "\u0c85\u0cb6\u0ccd\u0cb5\u0ca4\u0ccd\u0ca5\u0ca8\u0c97\u0cb0 \u0c95\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097543,
+        "lat": 13.0211026,
+        "lon": 77.6190418,
+        "tags": {
+          "bus": "yes",
+          "name": "Kadugondanahalli Police Station",
+          "name:en": "Kadugondanahalli Police Station",
+          "name:kn": "\u0c95\u0cbe\u0ca1\u0cc1\u0c97\u0cca\u0c82\u0ca1\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf, \u0c86\u0cb0\u0c95\u0ccd\u0cb7\u0c95 \u0ca0\u0cbe\u0ca3\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097545,
+        "lat": 13.023115,
+        "lon": 77.6126119,
+        "tags": {
+          "bus": "yes",
+          "name": "Ambedkar Medical College Shampura",
+          "name:en": "Ambedkar Medical College Shampura",
+          "name:kn": "\u0c85\u0c82\u0cac\u0cc7\u0ca1\u0ccd\u0c95\u0cb0\u0ccd \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0c95\u0cc0\u0caf \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097547,
+        "lat": 13.0560139,
+        "lon": 77.6319434,
+        "tags": {
+          "bus": "yes",
+          "name": "Thanisandra",
+          "name:en": "Thanisandra",
+          "name:kn": "\u0ca5\u0ca3\u0cbf\u0cb8\u0c82\u0ca6\u0ccd\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097549,
+        "lat": 13.0574993,
+        "lon": 77.626494,
+        "tags": {
+          "bus": "yes",
+          "name": "IBM Gate",
+          "name:en": "IBM Gate",
+          "name:kn": "\u0cb0\u0cbe\u0c9a\u0cc7\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7206360778,
+        "lat": 13.0264542,
+        "lon": 77.6363506,
+        "tags": {
+          "bus": "yes",
+          "name": "Kalyananagara Junction",
+          "name:en": "Kalyananagara Junction",
+          "name:kn": "\u0c95\u0cb2\u0ccd\u0caf\u0cbe\u0ca3\u0ca8\u0c97\u0cb0 \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216398999,
+        "lat": 13.0346004,
+        "lon": 77.628856,
+        "tags": {
+          "bus": "yes",
+          "name": "HBR Layout",
+          "name:en": "HBR Layout",
+          "name:kn": "\u0cb9\u0cc6\u0ca3\u0ccd\u0ca3\u0cc2\u0cb0\u0cc1 \u0cac\u0cb3\u0ccd\u0cb3\u0cbe\u0cb0\u0cbf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6 \u0cb2\u0cc7\u0c94\u0c9f\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216399001,
+        "lat": 13.0352451,
+        "lon": 77.6283771,
+        "tags": {
+          "bus": "yes",
+          "name": "HBR Layout",
+          "name:en": "HBR Layout",
+          "name:kn": "\u0cb9\u0cc6\u0ca3\u0ccd\u0ca3\u0cc2\u0cb0\u0cc1 \u0cac\u0cb3\u0ccd\u0cb3\u0cbe\u0cb0\u0cbf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6 \u0cb2\u0cc7\u0c94\u0c9f\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216620550,
+        "lat": 13.0435142,
+        "lon": 77.6018306,
+        "tags": {
+          "bus": "yes",
+          "name": "Kempapura",
+          "name:en": "Kempapura",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216699820,
+        "lat": 13.0431991,
+        "lon": 77.6096311,
+        "tags": {
+          "bus": "yes",
+          "name": "Lumbini Gardens",
+          "name:en": "Lumbini Gardens",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216699836,
+        "lat": 13.040877,
+        "lon": 77.6183731,
+        "tags": {
+          "bus": "yes",
+          "name": "Manyatha Tech Park",
+          "name:en": "Manyatha Tech Park",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7216699946,
+        "lat": 13.041146,
+        "lon": 77.6204108,
+        "tags": {
+          "bus": "yes",
+          "name": "Manyatha Tech Park",
+          "name:en": "Manyatha Tech Park",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7256979623,
+        "lat": 13.0368297,
+        "lon": 77.6409185,
+        "tags": {
+          "bus": "yes",
+          "name": "Hennuru Bande",
+          "name:en": "Hennur Bande",
+          "name:kn": "\u0cb9\u0cc6\u0ca3\u0ccd\u0ca3\u0cc2\u0cb0\u0cc1 \u0cac\u0c82\u0ca1\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7256979676,
+        "lat": 13.0437112,
+        "lon": 77.6427715,
+        "tags": {
+          "bus": "yes",
+          "name": "Janaki Rama Layout",
+          "name:en": "Janaki Rama Layout",
+          "name:kn": "\u0c9c\u0cbe\u0ca8\u0c95\u0cbf\u0cb0\u0cbe\u0cae \u0cac\u0ca1\u0cbe\u0cb5\u0ca3\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7256985322,
+        "lat": 13.0379996,
+        "lon": 77.6260757,
+        "tags": {
+          "bus": "yes",
+          "name": "HBR Layout 5th Block",
+          "name:en": "HBR Layout 5th Block",
+          "name:kn": "\u0c8e\u0c9a\u0ccd\u200c\u0cac\u0cbf\u0c86\u0cb0\u0ccd \u0cb2\u0cc7\u0c94\u0c9f\u0ccd \u0ceb\u0ca8\u0cc7 \u0cac\u0ccd\u0cb2\u0cbe\u0c95\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9527967749,
+        "lat": 13.0415766,
+        "lon": 77.6204588,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9527967833,
+        "lat": 13.04959,
+        "lon": 77.6298009,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Star Auto LPG"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9954825906,
+        "lat": 13.0600945,
+        "lon": 77.632058,
+        "tags": {
+          "internet_access": "no",
+          "name": "Thanisandra",
+          "name:kn": "\u0ca5\u0ca3\u0cbf\u0cb8\u0c82\u0ca6\u0ccd\u0cb0",
+          "name:ml": "\u0d25\u0d23\u0d3f\u0d38\u0d28\u0d4d\u0d26\u0d4d\u0d30",
+          "network": "IR",
+          "operator": "SWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "THSA",
+          "train": "yes",
+          "wikidata": "Q85806236",
+          "wikipedia": "en:Thanisandra railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11872033079,
+        "lat": 13.0328041,
+        "lon": 77.6371641,
+        "tags": {
+          "bus": "yes",
+          "name": "Hennur Petrol Bunk",
+          "name:en": "Hennur Petrol Bunk",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12265548493,
+        "lat": 13.0358602,
+        "lon": 77.6229561,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12265573693,
+        "lat": 13.0282177,
+        "lon": 77.6207124,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Gas Plus"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12915151600,
+        "lat": 13.0311175,
+        "lon": 77.6301995,
+        "tags": {
+          "amenity": "fuel",
+          "check_date": "2025-06-14",
+          "name": "Gail Gas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13043333368,
+        "lat": 13.0613252,
+        "lon": 77.6203679,
+        "tags": {
+          "bus": "yes",
+          "name": "Mestripalya",
+          "name:en": "Mestripalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

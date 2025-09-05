@@ -1,0 +1,1140 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:58:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2332295780,
+        "lat": 22.5252392,
+        "lon": 88.3440289,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank ATM",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2471894122,
+        "lat": 22.5264408,
+        "lon": 88.3471209,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "paediatrics",
+          "name": "Chittaranjan Shishu Hospital",
+          "name:etymology:wikidata": "Q560182"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2471894125,
+        "lat": 22.5259264,
+        "lon": 88.3470069,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Chittaranjan Seva Sadan",
+          "name:etymology:wikidata": "Q560182"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2471894143,
+        "lat": 22.5252694,
+        "lon": 88.3466423,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "37",
+          "addr:postcode": "700026",
+          "addr:state": "West Bengal",
+          "addr:street": "Shyama Prasad Mukherjee Road",
+          "amenity": "hospital",
+          "check_date": "2023-09-30",
+          "healthcare": "hospital",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Chittaranjan National Cancer Institute Hospital",
+          "name:etymology:wikidata": "Q560182",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "source": "OpenGovernmentData",
+          "wheelchair": "yes",
+          "wikidata": "Q5102433",
+          "wikipedia": "en:Chittaranjan National Cancer Institute"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2471903968,
+        "lat": 22.5291683,
+        "lon": 88.3451221,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "27/T, Raj Krishna Street, Uttarpara,",
+          "addr:postcode": "712258",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "email": "info@thecarenursinghome.com",
+          "healthcare": "clinic",
+          "name": "Centre Point Nursing Home",
+          "phone": "9830511168;9051968444",
+          "source": "OpenGovernmentData",
+          "website": "http://thecarenursinghome.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4243771893,
+        "lat": 22.5245108,
+        "lon": 88.3524953,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "cuisine": "coffee_shop",
+          "name": "Cafe Coffee Day",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5303024722,
+        "lat": 22.5377827,
+        "lon": 88.344129,
+        "tags": {
+          "addr:housenumber": "10/B",
+          "addr:postcode": "700025",
+          "addr:street": "Harish Mukherjee Road",
+          "amenity": "restaurant",
+          "check_date": "2023-10-28",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Balwant Singh's Eating House",
+          "phone": "09903975361",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5339103822,
+        "lat": 22.5362771,
+        "lon": 88.3459966,
+        "tags": {
+          "name": "Homeland Mall",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5574213623,
+        "lat": 22.5248903,
+        "lon": 88.3493982,
+        "tags": {
+          "addr:street": "Beltola Road",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Paramount Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5574214722,
+        "lat": 22.5239877,
+        "lon": 88.3486944,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "109/1, Hazra Road",
+          "addr:postcode": "700026",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Paramount Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6517554085,
+        "lat": 22.5372375,
+        "lon": 88.3485487,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Union Bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7035409285,
+        "lat": 22.5331803,
+        "lon": 88.3531588,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Jai Hind Dhaba"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048064567,
+        "lat": 22.5339512,
+        "lon": 88.3409129,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "55/C, Dhirendra Nath Ghosh Road",
+          "addr:postcode": "700025",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "28702219",
+          "healthcare": "clinic",
+          "name": "Relief Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048158968,
+        "lat": 22.5234205,
+        "lon": 88.3519824,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "99,Sarat Bose Road,Kalighat",
+          "addr:postcode": "700026",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Rama Krishna Mission Seva Pratisthan",
+          "source": "OpenGovernmentData",
+          "website": "https://rkmsevapratishthan.org/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7051091185,
+        "lat": 22.522012,
+        "lon": 88.3492184,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "11/1A,Manohar Pukur Road",
+          "addr:postcode": "700026",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Elite Nursing Home",
+          "source": "OpenGovernmentData",
+          "website": "https://maritimemedical.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062470862,
+        "lat": 22.5310898,
+        "lon": 88.3532457,
+        "tags": {
+          "addr:district": "Hooghly",
+          "addr:full": "21, Prannath Pandit Street",
+          "addr:postcode": "700 025",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "email": "info@healthpointhospital.com",
+          "healthcare": "hospital",
+          "name": "Health Point Hospitals",
+          "phone": "91 629 220 6008",
+          "source": "OpenGovernmentData",
+          "website": "https://www.healthpointhospital.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7065232721,
+        "lat": 22.5353788,
+        "lon": 88.3518905,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "4, Justice Chandra Madhav Road",
+          "addr:postcode": "700020",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sri Lakshmi Narayana Trust Maternity Home and Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7068297492,
+        "lat": 22.5203148,
+        "lon": 88.3456953,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "21B, Sadananda Road,Kali Temple Road",
+          "addr:postcode": "700026",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Ashutosh Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7068798177,
+        "lat": 22.5366525,
+        "lon": 88.343991,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "42/IA,Harish Mulherjee Road, Elgin Road",
+          "addr:housenumber": "42/1a",
+          "addr:postcode": "700020",
+          "addr:state": "West Bengal",
+          "addr:street": "Harish Mukherjee Road",
+          "amenity": "hospital",
+          "check_date": "2023-10-28",
+          "email": "info@khfindia.com",
+          "healthcare": "hospital",
+          "healthcare:speciality": "cardiology",
+          "name": "Kolkata Heart Foundation",
+          "opening_hours": "10:00-20:00",
+          "source": "OpenGovernmentData",
+          "website": "https://www.drkunalsarkar.com/appointment/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7068798178,
+        "lat": 22.5233166,
+        "lon": 88.3525617,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "114B, Sarat Bose Road, Opposite Shishu Mangal Hospital",
+          "addr:postcode": "700029",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Calcutta Heart Research Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7071431249,
+        "lat": 22.5351718,
+        "lon": 88.3438583,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "50/10 B,Harish Mukherjee Road",
+          "addr:housenumber": "50/10b",
+          "addr:postcode": "700025",
+          "addr:state": "West Bengal",
+          "addr:street": "Harish Mukherjee Road",
+          "amenity": "doctors",
+          "check_date": "2023-10-28",
+          "contact:phone": "24553212",
+          "healthcare": "doctor",
+          "name": "Dr. D.S.Chopra",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074312655,
+        "lat": 22.5220804,
+        "lon": 88.3476297,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Bhownipur-Kalighat, 1-A, Satish Mukherjee Road",
+          "addr:postcode": "700025",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "3324641852",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "CGHS Dispensary, Bhownipur-Kalighat",
+          "operator:type": "government",
+          "source": "OpenGovernmentData",
+          "website": "http://nb.bsf.gov.in/CGHS%20DIspenseries.pdf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7668176272,
+        "lat": 22.5311485,
+        "lon": 88.345912,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Ashutosh Mukherjee Road, Paddapukur, Bhowanipore",
+          "addr:postcode": "700025",
+          "addr:state": "West Bengal",
+          "addr:street": "Ashutosh Mukhejee Road",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Anandalok Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7668176283,
+        "lat": 22.532648,
+        "lon": 88.34615,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Ashutosh Mukherjee Road, Paddapukur, Bhowanipore",
+          "addr:postcode": "700025",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Harlaka Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7668176330,
+        "lat": 22.5321441,
+        "lon": 88.3432901,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Harish Mukherjee Road, Jatin Das Park, Patuapara, Bhowanipore",
+          "addr:housenumber": "28",
+          "addr:postcode": "700025",
+          "addr:state": "West Bengal",
+          "addr:street": "Harish Mukherjee Road",
+          "amenity": "hospital",
+          "check_date": "2023-10-28",
+          "healthcare": "hospital",
+          "name": "Netaji Eye Hospital",
+          "phone": "03324551174",
+          "source": "Local Knowledge",
+          "website": "http://www.asimananda.com/founded/founded_eye_hosp.htm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8014162874,
+        "lat": 22.533162,
+        "lon": 88.3533683,
+        "tags": {
+          "addr:city": "kolkata",
+          "addr:housenumber": "42",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "bar": "yes",
+          "cuisine": "pizza;burger;coffee_shop;chinese;sandwich;chicken;french;international;ice_cream;hookah",
+          "delivery": "yes",
+          "internet_access:fee": "no",
+          "name": "Dawntown Cafe",
+          "opening_hours": "Mo-Su 12:00-4:00",
+          "outdoor_seating": "no",
+          "smoking": "yes",
+          "start_date": "2020-10-11",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8543466091,
+        "lat": 22.5370729,
+        "lon": 88.3436743,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:housenumber": "11A",
+          "addr:postcode": "700025",
+          "addr:street": "Beninandan Street",
+          "amenity": "restaurant",
+          "cuisine": "fish_and_chips;pizza;burger;sandwich",
+          "diet:healthy": "yes",
+          "diet:non-vegetarian": "yes",
+          "name": "Loading Tummy",
+          "phone": "+916206404151",
+          "website": "https://loadingtummy.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824909705,
+        "lat": 22.535624,
+        "lon": 88.3496132,
+        "tags": {
+          "leisure": "playground",
+          "name": "Noman Academy"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:58:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1686122936,
+        "lat": 22.526191,
+        "lon": 88.3667029,
+        "tags": {
+          "amenity": "cinema",
+          "check_date": "2023-12-16",
+          "name": "London paris cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1783135288,
+        "lat": 22.5274281,
+        "lon": 88.365843,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2023-12-16",
+          "fuel:GTL_diesel": "yes",
+          "fuel:HGV_diesel": "yes",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "internet_access": "no",
+          "name": "Bharat Petroleum",
+          "payment:cash": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1833423572,
+        "lat": 22.522132,
+        "lon": 88.3248895,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum",
+          "operator": "IndianOil Corporation Ltd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1860605880,
+        "lat": 22.5246096,
+        "lon": 88.3525906,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2283899290,
+        "lat": 22.5200581,
+        "lon": 88.3464233,
+        "tags": {
+          "name": "Kalighat",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2471894117,
+        "lat": 22.5272169,
+        "lon": 88.3466356,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Indira Cinema Hall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2471903967,
+        "lat": 22.5278661,
+        "lon": 88.3455882,
+        "tags": {
+          "amenity": "fuel",
+          "building": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2721264604,
+        "lat": 22.5258882,
+        "lon": 88.3660841,
+        "tags": {
+          "name": "Gariahat Depot",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2721308238,
+        "lat": 22.5167884,
+        "lon": 88.3457793,
+        "tags": {
+          "name": "Rash Behari Avenue",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4176886089,
+        "lat": 22.5384051,
+        "lon": 88.3513137,
+        "tags": {
+          "addr:housenumber": "10/3",
+          "addr:postcode": "700020",
+          "addr:street": "Elgin Lane",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "check_date": "2023-10-28",
+          "name": "INOX Cinema",
+          "short_name": "INOX",
+          "website": "https://m.inoxmovies.com/",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4393356789,
+        "lat": 22.5493149,
+        "lon": 88.3535578,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5241916893,
+        "lat": 22.516496,
+        "lon": 88.3488079,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cinepolis",
+          "brand:wikidata": "Q5686673",
+          "brand:wikipedia": "en:Cin\u00e9polis",
+          "name": "Cinepolis"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5271335721,
+        "lat": 22.5387245,
+        "lon": 88.3655643,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "Inox quest cinema",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421538365,
+        "lat": 22.5072216,
+        "lon": 88.3454936,
+        "tags": {
+          "name": "Rabindra Sarobar",
+          "name:bn": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09b0\u09cb\u09ac\u09b0",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7278757",
+          "wikipedia": "en:Rabindra Sarobar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421539684,
+        "lat": 22.5168752,
+        "lon": 88.3458448,
+        "tags": {
+          "name": "Kalighat",
+          "name:bn": "\u0995\u09be\u09b2\u09c0\u0998\u09be\u099f",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q15041932",
+          "wikipedia": "en:Kalighat metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421540159,
+        "lat": 22.5241535,
+        "lon": 88.3464729,
+        "tags": {
+          "name": "Jatin Das Park",
+          "name:bn": "\u09af\u09a4\u09c0\u09a8 \u09a6\u09be\u09b8 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q6164578",
+          "wikipedia": "en:Jatin Das Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421541284,
+        "lat": 22.5331821,
+        "lon": 88.3459269,
+        "tags": {
+          "name": "Netaji Bhavan",
+          "name:bn": "\u09a8\u09c7\u09a4\u09be\u099c\u09bf \u09ad\u09ac\u09a8",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q6998599",
+          "wikipedia": "en:Netaji Bhavan metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421542551,
+        "lat": 22.5414899,
+        "lon": 88.3473493,
+        "tags": {
+          "name": "Rabindra Sadan",
+          "name:bn": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09a6\u09a8",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7278756",
+          "wikipedia": "en:Rabindra Sadan metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5421543288,
+        "lat": 22.5494672,
+        "lon": 88.3487883,
+        "tags": {
+          "name": "Maidan",
+          "name:bn": "\u09ae\u09af\u09bc\u09a6\u09be\u09a8",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q6735340",
+          "wikipedia": "en:Maidan metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135361871,
+        "lat": 22.5478778,
+        "lon": 88.3530567,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135361872,
+        "lat": 22.54208,
+        "lon": 88.3515791,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135362906,
+        "lat": 22.5348072,
+        "lon": 88.3620549,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135363494,
+        "lat": 22.5407554,
+        "lon": 88.3578473,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6135364027,
+        "lat": 22.5438555,
+        "lon": 88.3608132,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6141500453,
+        "lat": 22.5474462,
+        "lon": 88.3516232,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Satyajit Ray Auditorium",
+          "name:etymology:wikidata": "Q8873"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6520727185,
+        "lat": 22.5412219,
+        "lon": 88.3492589,
+        "tags": {
+          "amenity": "fuel",
+          "name": "India Tradeing Petrol Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6955697629,
+        "lat": 22.5105326,
+        "lon": 88.3354264,
+        "tags": {
+          "name": "New Alipore",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NACC",
+          "wikidata": "Q7005286",
+          "wikipedia": "en:New Alipore"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6955697644,
+        "lat": 22.5077549,
+        "lon": 88.3477217,
+        "tags": {
+          "name": "Tollygunge",
+          "name:bn": "\u099f\u09be\u09b2\u09bf\u0997\u099e\u09cd\u099c",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TLG",
+          "website": "https://er.indianrailways.gov.in/",
+          "wikidata": "Q56278562",
+          "wikipedia": "en:Tollygunge railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6955697648,
+        "lat": 22.5080547,
+        "lon": 88.3533289,
+        "tags": {
+          "name": "Lake Gardens",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "LKF",
+          "wikidata": "Q56278563"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9717923217,
+        "lat": 22.5475251,
+        "lon": 88.3495487,
+        "tags": {
+          "addr:housenumber": "43",
+          "addr:postcode": "700071",
+          "addr:street": "Jawaharlal Nehru Road",
+          "amenity": "charging_station",
+          "name": "Electric vehicle charging station tata",
+          "opening_hours": "24/7",
+          "website": "https://nexonev.tatamotors.com/charging-locator/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10093215417,
+        "lat": 22.5223282,
+        "lon": 88.3487972,
+        "tags": {
+          "addr:housenumber": "10/1/1",
+          "addr:postcode": "700026",
+          "addr:street": "Manohar Pukur Road",
+          "amenity": "theatre",
+          "name": "Mahanayak Uttam Manch",
+          "phone": "033 2474 0125"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11521235520,
+        "lat": 22.5284275,
+        "lon": 88.3362661,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil Petrol Pump",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491166,
+        "lat": 22.5493752,
+        "lon": 88.3487245,
+        "tags": {
+          "name": "Maidan",
+          "name:bn": "\u09ae\u09af\u09bc\u09a6\u09be\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491167,
+        "lat": 22.5497087,
+        "lon": 88.3487474,
+        "tags": {
+          "name": "Maidan",
+          "name:bn": "\u09ae\u09af\u09bc\u09a6\u09be\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703491168,
+        "lat": 22.5414273,
+        "lon": 88.3472361,
+        "tags": {
+          "name": "Rabindra Sadan",
+          "name:bn": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09a6\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500769,
+        "lat": 22.5417879,
+        "lon": 88.3472276,
+        "tags": {
+          "name": "Rabindra Sadan",
+          "name:bn": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09a6\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500770,
+        "lat": 22.5330323,
+        "lon": 88.3459483,
+        "tags": {
+          "name": "Netaji Bhavan",
+          "name:bn": "\u09a8\u09c7\u09a4\u09be\u099c\u09bf \u09ad\u09ac\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500771,
+        "lat": 22.5334398,
+        "lon": 88.3459203,
+        "tags": {
+          "name": "Netaji Bhavan",
+          "name:bn": "\u09a8\u09c7\u09a4\u09be\u099c\u09bf \u09ad\u09ac\u09a8",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500772,
+        "lat": 22.523971,
+        "lon": 88.3465099,
+        "tags": {
+          "name": "Jatin Das Park",
+          "name:bn": "\u09af\u09a4\u09c0\u09a8 \u09a6\u09be\u09b8 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500773,
+        "lat": 22.5242532,
+        "lon": 88.3464254,
+        "tags": {
+          "name": "Jatin Das Park",
+          "name:bn": "\u09af\u09a4\u09c0\u09a8 \u09a6\u09be\u09b8 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500774,
+        "lat": 22.5167254,
+        "lon": 88.3458097,
+        "tags": {
+          "name": "Kalighat",
+          "name:bn": "\u0995\u09be\u09b2\u09c0\u0998\u09be\u099f",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500775,
+        "lat": 22.5171299,
+        "lon": 88.3457808,
+        "tags": {
+          "name": "Kalighat",
+          "name:bn": "\u0995\u09be\u09b2\u09c0\u0998\u09be\u099f",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500776,
+        "lat": 22.507203,
+        "lon": 88.3454779,
+        "tags": {
+          "name": "Rabindra Sarobar",
+          "name:bn": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09b0\u09cb\u09ac\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11703500777,
+        "lat": 22.5076062,
+        "lon": 88.3454327,
+        "tags": {
+          "name": "Rabindra Sarobar",
+          "name:bn": "\u09b0\u09ac\u09c0\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09b0\u09cb\u09ac\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12133241425,
+        "lat": 22.5236192,
+        "lon": 88.3427695,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12133903489,
+        "lat": 22.5293502,
+        "lon": 88.3318583,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum"
+        }
+      }
+    ]
+  }
+}

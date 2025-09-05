@@ -1,0 +1,879 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:15:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 364650995,
+        "lat": 13.0211808,
+        "lon": 80.1858412,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Manapakkam, 4/112, Mount Poonamalle Road",
+          "addr:postcode": "600089",
+          "addr:state": "Tamil Nadu",
+          "addr:street": "4/112, Mount Poonamalle High Rd, Sathya Nagar, Manapakkam, Chennai, Tamil Nadu 600089",
+          "amenity": "hospital",
+          "email": "enq@miothospitals.com",
+          "healthcare": "hospital",
+          "name": "MIOT International",
+          "opening_hours": "24/7",
+          "operator:type": "private",
+          "phone": "044 4200 2288",
+          "source": "OpenGovernmentData",
+          "website": "https://www.miotinternational.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 370969705,
+        "lat": 13.0221607,
+        "lon": 80.181209,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "SBI Nandambakkam",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 370972598,
+        "lat": 13.0200993,
+        "lon": 80.1853119,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "brand:wikipedia": "en:Canara Bank",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 370972603,
+        "lat": 13.0255546,
+        "lon": 80.17608,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549",
+          "operator:wikipedia": "en:Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1955972449,
+        "lat": 13.0218567,
+        "lon": 80.1738652,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1955972450,
+        "lat": 13.0218724,
+        "lon": 80.1738116,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "DLF IT Park Branch",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1993242743,
+        "lat": 13.0218776,
+        "lon": 80.173846,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:wikidata": "Q244457",
+          "cuisine": "sandwich",
+          "name": "Subway",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2168329696,
+        "lat": 13.0163006,
+        "lon": 80.1749834,
+        "tags": {
+          "is_in": "Manapackam",
+          "name": "Alams Super Market",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2206324576,
+        "lat": 13.0185837,
+        "lon": 80.1779341,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Allahabad Bank",
+          "brand:wikidata": "Q2018840",
+          "brand:wikipedia": "en:Allahabad Bank",
+          "name": "Allahabad Bank",
+          "name:en": "Allahabad Bank",
+          "website": "https://www.allahabadbank.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2206324579,
+        "lat": 13.0185251,
+        "lon": 80.1779117,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Allahabad Bank",
+          "brand:wikidata": "Q2018840",
+          "brand:wikipedia": "en:Allahabad Bank",
+          "name": "Allahabad Bank",
+          "name:en": "Allahabad Bank",
+          "operator": "Allahabad Bank",
+          "operator:wikidata": "Q2018840",
+          "website": "https://www.allahabadbank.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2424060961,
+        "lat": 13.0158805,
+        "lon": 80.1750645,
+        "tags": {
+          "amenity": "restaurant",
+          "comment": "Highly Subsidized Eatery",
+          "name": "Amma Canteen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2734244476,
+        "lat": 13.0175064,
+        "lon": 80.1745662,
+        "tags": {
+          "name": "Grow SuperMarket Manapakkam",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2926952454,
+        "lat": 13.0158037,
+        "lon": 80.1748437,
+        "tags": {
+          "amenity": "doctors",
+          "is_in": "Manapackam",
+          "name": "Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2926952456,
+        "lat": 13.0158622,
+        "lon": 80.1748512,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "no",
+          "is_in": "Manapackam",
+          "name": "LAB"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2926952458,
+        "lat": 13.015755,
+        "lon": 80.1748112,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3120780787,
+        "lat": 13.0205079,
+        "lon": 80.1842431,
+        "tags": {
+          "air_conditioning": "yes",
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "brand:wikipedia": "en:KFC",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:wikipedia:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "cuisine": "chicken",
+          "diet:vegetarian": "yes",
+          "indoor_seating": "yes",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "outdoor_seating": "no",
+          "smoking": "no",
+          "takeaway": "yes",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4186895419,
+        "lat": 13.0150919,
+        "lon": 80.1839551,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sree Saiva Bhavan",
+          "opening_hours": "Mo-Su 07:30-22:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4186906491,
+        "lat": 13.0161035,
+        "lon": 80.1750099,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "D A Brothers food center Briyani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4358925992,
+        "lat": 13.025889,
+        "lon": 80.1831772,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "name:en": "Indian Bank",
+          "opening_hours": "24/7",
+          "operator": "Indian Bank",
+          "operator:wikidata": "Q2003789"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4359053697,
+        "lat": 13.0260253,
+        "lon": 80.1831736,
+        "tags": {
+          "name:en": "welcome  stores",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4362999889,
+        "lat": 13.0226712,
+        "lon": 80.1841744,
+        "tags": {
+          "name:en": "selvam stores",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411778292,
+        "lat": 13.0279535,
+        "lon": 80.1834318,
+        "tags": {
+          "amenity": "cafe",
+          "name:en": "leo coffee store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411778293,
+        "lat": 13.0283918,
+        "lon": 80.1835547,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "lakshmi bhavan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411841290,
+        "lat": 13.0211168,
+        "lon": 80.183088,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "New Arcot Biryani",
+          "name:en": "VASANTH BHAVAN"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411841293,
+        "lat": 13.022756,
+        "lon": 80.1838415,
+        "tags": {
+          "amenity": "cafe",
+          "name:en": "PRIYA TEA STALL"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411841296,
+        "lat": 13.0277177,
+        "lon": 80.1832101,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411841793,
+        "lat": 13.0275425,
+        "lon": 80.1833846,
+        "tags": {
+          "amenity": "pharmacy",
+          "name:en": "mother medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411841794,
+        "lat": 13.0278579,
+        "lon": 80.1832616,
+        "tags": {
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "name:en": "HDFC BANK",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411841795,
+        "lat": 13.0280405,
+        "lon": 80.1833494,
+        "tags": {
+          "name:en": "GANESH STORES",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411841796,
+        "lat": 13.0286757,
+        "lon": 80.183588,
+        "tags": {
+          "addr:street": "Ramapuram Main Rd",
+          "amenity": "clinic",
+          "name:en": "Dr.subramaniyam(child specialist)",
+          "opening_hours": "Mo-Su 18:30-21:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411851893,
+        "lat": 13.0231089,
+        "lon": 80.1839792,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411852389,
+        "lat": 13.0214797,
+        "lon": 80.1829866,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "dindugal thalapakaati briyani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411853092,
+        "lat": 13.0261769,
+        "lon": 80.1831142,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411853990,
+        "lat": 13.0230154,
+        "lon": 80.1848008,
+        "tags": {
+          "addr:street": "2nd street",
+          "name:en": "Sri venakteshwara stores",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411853993,
+        "lat": 13.0233241,
+        "lon": 80.1840325,
+        "tags": {
+          "amenity": "atm",
+          "name:en": "union bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411853994,
+        "lat": 13.0261003,
+        "lon": 80.1831162,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411853996,
+        "lat": 13.0278142,
+        "lon": 80.1832579,
+        "tags": {
+          "amenity": "clinic",
+          "name:en": "bone specialist doctor"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411855589,
+        "lat": 13.026489,
+        "lon": 80.1829882,
+        "tags": {
+          "amenity": "hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411855590,
+        "lat": 13.0288007,
+        "lon": 80.1834643,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name:en": "State Bank of India",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4794992304,
+        "lat": 13.0236753,
+        "lon": 80.1841038,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "ice_cream",
+          "name": "corner shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5367536436,
+        "lat": 13.0155329,
+        "lon": 80.1837764,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5617333880,
+        "lat": 13.0251187,
+        "lon": 80.1761226,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:street": "Mount Poonamallee Highway",
+          "amenity": "restaurant",
+          "name": "shri om hottel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5617342892,
+        "lat": 13.0256747,
+        "lon": 80.1759143,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:street": "Mount Poonamallee Highway",
+          "amenity": "restaurant",
+          "capacity": "25",
+          "name": "K.k food shop",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5617351534,
+        "lat": 13.0256218,
+        "lon": 80.1759233,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:street": "Mount Poonamallee Highway",
+          "amenity": "restaurant",
+          "capacity": "35",
+          "name": "SRE BHAVAN",
+          "smoking": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7026638412,
+        "lat": 13.0279585,
+        "lon": 80.1775218,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Bank and ATM",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "brand:wikipedia": "en:Bank of Baroda",
+          "name": "Bank of Baroda",
+          "opening_hours": "Mo-Fr 10:00-16:00; Sa 10:00-13:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7166857145,
+        "lat": 13.0246313,
+        "lon": 80.1768658,
+        "tags": {
+          "addr:street": "Mount Poonamalle High Rd, Ramapuram, Chennai, Tamil Nadu 600125",
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "currency:INR": "yes",
+          "description": "hdfc atm",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "HDFC Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "operator:wikipedia": "en:HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7166901031,
+        "lat": 13.0270886,
+        "lon": 80.1771232,
+        "tags": {
+          "addr:street": "Kanniyappan St, Meenakshi Nagar, Ramapuram, Chennai, Tamil Nadu 600087",
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:en": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "brand:wikipedia": "en:ICICI Bank",
+          "currency:INR": "yes",
+          "description": "ICICI bank atm",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "ICICI Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:en": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "operator:wikipedia": "en:ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7166901309,
+        "lat": 13.0269705,
+        "lon": 80.177095,
+        "tags": {
+          "addr:street": "No: 2/3, Shanthi Nagar, Kanniappan Street, Shanthi Nagar Main Road, Park Dugar, Ramapuram, Chennai, Tamil Nadu 600089",
+          "name": "Lokeshwari Maligai Store",
+          "opening_hours": "Mo-Su 07:00-22:00",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7176551868,
+        "lat": 13.0261003,
+        "lon": 80.1772279,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Pattukotai mess"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823212581,
+        "lat": 13.0164671,
+        "lon": 80.1772853,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Ambedkar Nagar, Manapakkam",
+          "addr:postcode": "600116",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "name": "Nalam Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7823212588,
+        "lat": 13.0154658,
+        "lon": 80.1838246,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Tulasingapuram, Nandambakkam",
+          "addr:postcode": "600089",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "name": "Healthwise Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11850592829,
+        "lat": 13.0203079,
+        "lon": 80.1845758,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-04-26",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Santrupti Fine Dine"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:15:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 364651023,
+        "lat": 13.0200917,
+        "lon": 80.1853891,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "compressed_air": "yes",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 370972600,
+        "lat": 13.0259345,
+        "lon": 80.1753026,
+        "tags": {
+          "amenity": "fuel",
+          "compressed_air": "yes",
+          "created_by": "Potlatch 0.10f",
+          "name": "Indainoil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 370972606,
+        "lat": 13.0310451,
+        "lon": 80.1651264,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "created_by": "Potlatch 0.10f",
+          "name": "Shell"
+        }
+      },
+      {
+        "type": "node",
+        "id": 391823888,
+        "lat": 13.0073386,
+        "lon": 80.1969623,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Butt Road",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1149067214,
+        "lat": 13.0145999,
+        "lon": 80.1743748,
+        "tags": {
+          "bus": "yes",
+          "name": "Manapakkam",
+          "operator": "MTC",
+          "public_transport": "stop_position",
+          "tram": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2137260915,
+        "lat": 13.008573,
+        "lon": 80.1977929,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4488007996,
+        "lat": 13.0378648,
+        "lon": 80.1918972,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4488007997,
+        "lat": 13.0378858,
+        "lon": 80.1921778,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5367536435,
+        "lat": 13.0154656,
+        "lon": 80.1840501,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "fuel:diesel": "yes",
+          "fuel:gasoline": "yes",
+          "fuel:octane_95": "yes",
+          "fuel:octane_98": "yes",
+          "name": "Bharat Petroleum",
+          "operator": "Bharat Petroleum",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5489108080,
+        "lat": 13.0410443,
+        "lon": 80.1733792,
+        "tags": {
+          "bus": "yes",
+          "name": "Valasaravakkam",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11617869405,
+        "lat": 13.0312675,
+        "lon": 80.1645244,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "compressed_air": "yes",
+          "name": "Shell"
+        }
+      }
+    ]
+  }
+}

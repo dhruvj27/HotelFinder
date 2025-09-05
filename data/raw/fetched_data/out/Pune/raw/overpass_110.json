@@ -1,0 +1,874 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:28:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1305056480,
+        "lat": 18.4789234,
+        "lon": 73.8241232,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Mahalaxmi Society , Hingane, Khurd Vitthalwadi Sinhagad Road",
+          "addr:postcode": "411051",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Madhukar General Hospital",
+          "name:mr": "\u092e\u0927\u0941\u0915\u0930 \u0939\u0949\u0938\u094d\u092a\u093f\u091f\u0932",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1305056483,
+        "lat": 18.4745969,
+        "lon": 73.8139227,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Siddhivinayak Medico"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1305074639,
+        "lat": 18.4779601,
+        "lon": 73.8240347,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1309316771,
+        "lat": 18.477369,
+        "lon": 73.8190575,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1309316784,
+        "lat": 18.477361,
+        "lon": 73.819019,
+        "tags": {
+          "amenity": "clinic",
+          "designation": "Children Specialist",
+          "emergency": "no",
+          "healthcare": "clinic",
+          "name": "Dr. Mudgerikar Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1309316786,
+        "lat": 18.4745186,
+        "lon": 73.8132288,
+        "tags": {
+          "amenity": "clinic",
+          "emergency": "no",
+          "healthcare": "clinic",
+          "name": "Dr. Bodhe Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1309316787,
+        "lat": 18.4745644,
+        "lon": 73.8140764,
+        "tags": {
+          "amenity": "hospital",
+          "emergency": "no",
+          "name": "Dr. Naik Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1309316799,
+        "lat": 18.4740659,
+        "lon": 73.8135399,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1311585649,
+        "lat": 18.4788316,
+        "lon": 73.8240413,
+        "tags": {
+          "addr:postcode": "411041",
+          "addr:street": "Sinhgad Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of Maharashtra",
+          "brand:wikidata": "Q2004304",
+          "brand:wikipedia": "en:Bank of Maharashtra",
+          "name": "Bank of Maharashtra",
+          "name:en": "Bank of Maharashtra",
+          "website": "https://www.bankofmaharashtra.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1311585979,
+        "lat": 18.4769185,
+        "lon": 73.8181727,
+        "tags": {
+          "addr:housename": "Sun Orbit",
+          "addr:postcode": "411051",
+          "addr:street": "SunCity Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "Sarswat Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1765302803,
+        "lat": 18.4747326,
+        "lon": 73.8132241,
+        "tags": {
+          "addr:housename": "SUn Empire",
+          "addr:postcode": "411051",
+          "addr:street": "Suncity Road",
+          "amenity": "pharmacy",
+          "name": "Sun Medico"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1765313281,
+        "lat": 18.4747091,
+        "lon": 73.8134617,
+        "tags": {
+          "amenity": "atm",
+          "operator": "HDFC ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3504367749,
+        "lat": 18.4737902,
+        "lon": 73.8221562,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:street": "Manikbaug",
+          "amenity": "restaurant",
+          "contact:phone": "+91 20 2435 8292;+91 20 2435 0120",
+          "contact:website": "http://www.brahmahotels.in",
+          "cuisine": "Multi-Cuisine",
+          "diet:lacto_vegetarian": "yes",
+          "diet:ovo_vegetarian": "no",
+          "diet:vegetarian": "only",
+          "drive_in": "no",
+          "name": "Brahma Garden",
+          "name:mr": "\u092c\u094d\u0930\u092e\u094d\u0939\u093e \u0917\u093e\u0930\u094d\u0921\u0928",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "operator": "Brahma Garden Hotels and Resorts Pvt. Ltd.",
+          "smoking": "no",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3596314729,
+        "lat": 18.4758284,
+        "lon": 73.8224743,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "brand:wikidata": "Q38076",
+          "brand:wikipedia": "en:McDonald's",
+          "brand:wikipedia:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:wikipedia:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "contact:website": "http://www.mcdonaldsindia.com/",
+          "cuisine": "burger",
+          "delivery": "yes",
+          "name": "McDonald's",
+          "name:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "name:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "opening_hours": "Mo-Su 07:00-23:00",
+          "phone": "02066000666",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3596337423,
+        "lat": 18.4773643,
+        "lon": 73.8232565,
+        "tags": {
+          "addr:place": "Hingane Khurd",
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "delivery": "yes",
+          "drive_through": "no",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "phone": "02024353333",
+          "smoking": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3689571886,
+        "lat": 18.4708901,
+        "lon": 73.8209384,
+        "tags": {
+          "amenity": "bank",
+          "name": "Shamrao Vithal Co-operative (SVC) Bank Ltd."
+        }
+      },
+      {
+        "type": "node",
+        "id": 3698221213,
+        "lat": 18.4673022,
+        "lon": 73.818644,
+        "tags": {
+          "amenity": "bank",
+          "atm": "no",
+          "name": "Sampada Sahakari Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3698221295,
+        "lat": 18.4642879,
+        "lon": 73.8190082,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Chandani Garden Restaurant and Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3698222000,
+        "lat": 18.4758304,
+        "lon": 73.8229832,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "New Kalyan Bhel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3698222001,
+        "lat": 18.4787805,
+        "lon": 73.8244406,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Santosh Bhel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3719797432,
+        "lat": 18.4791887,
+        "lon": 73.8247015,
+        "tags": {
+          "amenity": "hospital",
+          "contact:phone": "02024351109",
+          "name": "Patil Hospital",
+          "phone": "+919225825463"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3721775728,
+        "lat": 18.4741113,
+        "lon": 73.8219101,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Pramukh Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3736416243,
+        "lat": 18.4764495,
+        "lon": 73.8233822,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3740998863,
+        "lat": 18.4656426,
+        "lon": 73.8176244,
+        "tags": {
+          "leisure": "park",
+          "name": "Sinhagad Vikas Udyan",
+          "operator": "Pune Mahanagar Palika"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3750410210,
+        "lat": 18.4779796,
+        "lon": 73.8240483,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4023798138,
+        "lat": 18.4786047,
+        "lon": 73.8243852,
+        "tags": {
+          "addr:housename": "Navanand Singh",
+          "addr:housenumber": "Shop No. 3",
+          "addr:place": "Anand Nagar",
+          "addr:street": "Sinhagad Road",
+          "amenity": "fast_food",
+          "description": "Burger Shop",
+          "name": "Jumboking Vada Pav",
+          "opening_hours": "Mo-Su 09:00-22:30",
+          "website": "https://www.jumboking.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4508436590,
+        "lat": 18.4784921,
+        "lon": 73.8240336,
+        "tags": {
+          "amenity": "bank",
+          "name:en": "Rajarshi sahu bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4677886296,
+        "lat": 18.4752986,
+        "lon": 73.8228355,
+        "tags": {
+          "amenity": "clinic",
+          "name:en": "Dr dudhbhate eye clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5814482007,
+        "lat": 18.4787653,
+        "lon": 73.8193777,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Sinhagad Road",
+          "name": "Hare Krishna Super Shopee",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "operator": "Ramesh Chaudhari",
+          "payment:american_express": "yes",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6265665728,
+        "lat": 18.4669249,
+        "lon": 73.8146529,
+        "tags": {
+          "addr:city": "WADGAON BK, PUNE",
+          "addr:housenumber": "S NO 71/9B",
+          "addr:postcode": "411041",
+          "addr:street": "NEAR PRAYEJA CITY, SINHAGAD ROAD",
+          "amenity": "restaurant",
+          "cuisine": "regional;indian;chicken",
+          "delivery": "yes",
+          "diet:vegetarian": "yes",
+          "email": "balajitreats@gmail.com",
+          "name": "BALAJI TREATS",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "outdoor_seating": "yes",
+          "phone": "+91 94230 60606",
+          "start_date": "09/01/19",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6376292789,
+        "lat": 18.4669663,
+        "lon": 73.8205367,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Om Sai Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043136200,
+        "lat": 18.4729307,
+        "lon": 73.8193627,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Sr No.33, Ground Floor,A Bldg,Kudale Patil Town Ship,Near Manik Baug,Opposite Bhramha Garden Restaurant, Sinhagad Road",
+          "addr:postcode": "411041",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Wadekar Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049524369,
+        "lat": 18.4774187,
+        "lon": 73.8237825,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Star Diagnostics Centre, Anandnagar,Sinhagad Road, Near Santosh Hall",
+          "addr:postcode": "411051",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Jagtap Hospital",
+          "phone": "+912024353046",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7050255935,
+        "lat": 18.4785979,
+        "lon": 73.8238536,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "1st Floor, Opp Chamanlal Complex, Opp Santosh Hall Singhad Road",
+          "addr:postcode": "411051",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Dr Chavans Fracture and Orthopaedic Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7054762489,
+        "lat": 18.4785438,
+        "lon": 73.8235485,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Plot No 7, Mahalaxmi Residency, Opposite Santosh Hall, Narveer Tanaji Malusare Road , Hingne Khurd",
+          "addr:postcode": "411051",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Chinchanikar Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062497106,
+        "lat": 18.4797674,
+        "lon": 73.8251685,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "S No. 28, Swaroop Building, Hingane Khurd, Opposite Nilay Complex, Sinhgad Road",
+          "addr:postcode": "411051",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Patil Hospital - Pune",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7076529383,
+        "lat": 18.4777164,
+        "lon": 73.8234164,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "4, Narveer Tanaji Malusare Rd, Anand Nagar",
+          "addr:postcode": "411051",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Bhandari Maternity and Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7079665745,
+        "lat": 18.4777316,
+        "lon": 73.8239729,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Shop No. 1, Anant Apartment, Near Santosh Hall, Hingnekhord, Sinhgad Road",
+          "addr:postcode": "411051",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Pharande Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7086795229,
+        "lat": 18.467118,
+        "lon": 73.8190001,
+        "tags": {
+          "addr:district": "Thane",
+          "addr:full": "Next To Ganesh Society, Near Kashikar Company, Kalyan Road",
+          "addr:postcode": "421308",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kamaladevi Maternity Hospital & Research Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8266591878,
+        "lat": 18.4772502,
+        "lon": 73.8236797,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "Flat No. 6",
+          "addr:postcode": "411051",
+          "addr:street": "Triveni Apartments, Above Annapurna Wadewale, Narveer Tanaji Malusare Road, Anand Nagar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "Diabetologist",
+          "name": "Dhope Diabetes Care and Thyroid Clinic",
+          "website": "https://www.diabetologistpune.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8711632382,
+        "lat": 18.4718862,
+        "lon": 73.8204546,
+        "tags": {
+          "amenity": "cafe",
+          "name": "The Veg Culture"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9216057495,
+        "lat": 18.4745607,
+        "lon": 73.8138527,
+        "tags": {
+          "addr:city": "pune",
+          "addr:housenumber": "Sun Paradise Phase 1",
+          "addr:postcode": "411051",
+          "addr:street": "Suncity Road",
+          "name": "Chetana Super market",
+          "opening_hours": "Mo-Su 08:00-22:00",
+          "payment:cash": "yes",
+          "payment:electronic_purses": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10108645131,
+        "lat": 18.4806559,
+        "lon": 73.8257857,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Sinhagad Road",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Chop Stick pure Chinese"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10108645134,
+        "lat": 18.4804011,
+        "lon": 73.8264716,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Sinhagad Road",
+          "amenity": "restaurant",
+          "cuisine": "south_indian;biryani",
+          "name": "South Corner's SC Biryani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11145765251,
+        "lat": 18.4745218,
+        "lon": 73.8134196,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "delivery": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Shanti Swaipakghar",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "phone": "+91-9822414804"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11145772676,
+        "lat": 18.4758022,
+        "lon": 73.81738,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Suncity Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Anandnagar Branch",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11330873667,
+        "lat": 18.4702681,
+        "lon": 73.820687,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411041",
+          "addr:street": "Sinhagad Road",
+          "amenity": "bank",
+          "name": "Mahesh Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11330873668,
+        "lat": 18.4702398,
+        "lon": 73.8208698,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411041",
+          "addr:street": "Goel Ganga road",
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11330878770,
+        "lat": 18.4699531,
+        "lon": 73.8224077,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Goel Ganga road",
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Atithi Pure Veg"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11330878771,
+        "lat": 18.4699733,
+        "lon": 73.8226116,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Goel Ganga road",
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "operator": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11330878772,
+        "lat": 18.4699752,
+        "lon": 73.8232298,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Goel Ganga road",
+          "amenity": "cafe",
+          "name": "Goodluck Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11909430134,
+        "lat": 18.4758041,
+        "lon": 73.8175358,
+        "tags": {
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "check_date": "2024-05-13",
+          "name": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12105669126,
+        "lat": 18.4766396,
+        "lon": 73.822846,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:wikidata": "Q177054",
+          "cuisine": "burger",
+          "name": "Burger King",
+          "takeaway": "yes"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:29:31Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1304739481,
+        "lat": 18.4748763,
+        "lon": 73.8136551,
+        "tags": {
+          "addr:city": "pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Suncity Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Sun City",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1714023640,
+        "lat": 18.462949,
+        "lon": 73.8165301,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:floor": "3",
+          "addr:place": "Abhiruchi Mall and Multiplex",
+          "addr:postcode": "411041",
+          "amenity": "cinema",
+          "name": "Abhiruchi City Pride",
+          "opening_hours": "Mo-Su 08:00-22:30",
+          "phone": "+912066846111",
+          "website": "http://www.citypride.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1829975077,
+        "lat": 18.4576966,
+        "lon": 73.829066,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3504368176,
+        "lat": 18.4827024,
+        "lon": 73.826623,
+        "tags": {
+          "addr:housenumber": "Survey No. 19/3",
+          "addr:place": "Hingane Khurd",
+          "addr:street": "Sinhagad Road",
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "fuel:cng": "yes",
+          "fuel:diesel": "yes",
+          "fuel:octane_91": "yes",
+          "name": "Bharat Petroleum",
+          "phone": "02024345105",
+          "website": "http://bharatpetroleum.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6743671987,
+        "lat": 18.4821829,
+        "lon": 73.8032047,
+        "tags": {
+          "addr:postcode": "411052",
+          "amenity": "fuel",
+          "name:en": "Vanaz CNG Pump",
+          "opening_hours": "Mo-Su 06:00-21:00",
+          "phone": "02225232414",
+          "website": "https://www.vanaz.com/"
+        }
+      }
+    ]
+  }
+}

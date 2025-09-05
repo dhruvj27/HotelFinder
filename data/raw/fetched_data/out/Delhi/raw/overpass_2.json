@@ -1,0 +1,1029 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T06:59:11Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3424252688,
+        "lat": 28.601773,
+        "lon": 77.2413829,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "short_name": "ICICI",
+          "website": "https://www.icicibank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3424254855,
+        "lat": 28.6017433,
+        "lon": 77.2413799,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "HDFC",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/02/19)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3424254856,
+        "lat": 28.6012973,
+        "lon": 77.2408638,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Standard Chartered",
+          "brand:wikidata": "Q548278",
+          "name": "Standard Chartered",
+          "operator": "Standard Chartered",
+          "operator:wikidata": "Q548278"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3424254864,
+        "lat": 28.6025805,
+        "lon": 77.2409575,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Nathu Sweets"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5218620423,
+        "lat": 28.5917587,
+        "lon": 77.2379033,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Indian Accent"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5297002821,
+        "lat": 28.6026965,
+        "lon": 77.2410926,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Masala House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6110288473,
+        "lat": 28.6021934,
+        "lon": 77.2371123,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:short": "SBI",
+          "brand:wikidata": "Q1340361",
+          "check_date": "2023-01-23",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/02/19)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6793251785,
+        "lat": 28.6013446,
+        "lon": 77.2410517,
+        "tags": {
+          "addr:housenumber": "28",
+          "addr:street": "Sunder Nagar",
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name:ru": "\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d Basil and Thyme",
+          "opening_hours": "Mo-Su 11:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138493150,
+        "lat": 28.6001742,
+        "lon": 77.230795,
+        "tags": {
+          "addr:district": "New Delhi",
+          "addr:full": "Plot no 213, 1st Floor, Golf Link, Dispensary Complex",
+          "addr:postcode": "110003",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "contact:phone": "011-24646844",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "NDMC Dispensary",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138493271,
+        "lat": 28.6002912,
+        "lon": 77.2306526,
+        "tags": {
+          "addr:district": "New Delhi",
+          "addr:full": "Plot no. 213, Golf Link",
+          "addr:postcode": "110003",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "contact:phone": "011-24652762",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "Golf Link Allopathic Dispensary",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10313220263,
+        "lat": 28.5983534,
+        "lon": 77.247102,
+        "tags": {
+          "fee": "yes",
+          "leisure": "playground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10589065506,
+        "lat": 28.5916336,
+        "lon": 77.2434618,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Chemist Shop",
+          "survey:date": "2023-01-28"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10649049407,
+        "lat": 28.6023974,
+        "lon": 77.2405965,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Kamal's"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11710416669,
+        "lat": 28.5984992,
+        "lon": 77.2460848,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12387964701,
+        "lat": 28.5911564,
+        "lon": 77.2436745,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian;local;regional",
+          "name": "Karim's"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T06:59:11Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 496457099,
+        "lat": 28.5848782,
+        "lon": 77.2602207,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "IGL",
+          "brand:wikidata": "Q125553945",
+          "name": "Indraprastha Gas Limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 562620239,
+        "lat": 28.5882486,
+        "lon": 77.2338082,
+        "tags": {
+          "name": "Jawaharlal Nehru Stadium",
+          "name:hi": "\u091c\u0935\u093e\u0939\u0930 \u0932\u093e\u0932 \u0928\u0947\u0939\u0930\u0942 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 562620241,
+        "lat": 28.5830411,
+        "lon": 77.2393458,
+        "tags": {
+          "name": "Jangpura",
+          "name:hi": "\u091c\u0902\u0917\u092a\u0941\u0930\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 910356522,
+        "lat": 28.5789548,
+        "lon": 77.2276886,
+        "tags": {
+          "internet_access": "no",
+          "name": "Sewa Nagar",
+          "name:ur": "\u0633\u06cc\u0648\u0627 \u0646\u06af\u0631",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SWNR",
+          "train": "yes",
+          "wikidata": "Q12458603"
+        }
+      },
+      {
+        "type": "node",
+        "id": 927873481,
+        "lat": 28.6022643,
+        "lon": 77.2291415,
+        "tags": {
+          "name": "Khan Market",
+          "name:en": "Khan Market",
+          "name:hi": "\u0916\u093e\u0928 \u092c\u093e\u091c\u093e\u0930",
+          "name:ur": "\u062e\u0627\u0646 \u0628\u0627\u0632\u0627\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938635417,
+        "lat": 28.5862689,
+        "lon": 77.2533241,
+        "tags": {
+          "bus": "yes",
+          "name": "Nizamuddin Railway Station",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938635590,
+        "lat": 28.5860931,
+        "lon": 77.2532285,
+        "tags": {
+          "bus": "yes",
+          "name": "Nizamuddin Railway Station",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1988513581,
+        "lat": 28.5792815,
+        "lon": 77.2440352,
+        "tags": {
+          "internet_access": "no",
+          "name": "Lajpat Nagar",
+          "name:ar": "\u0644\u0627\u062c\u0628\u062a \u0646\u063a\u0631",
+          "name:hi": "\u0932\u093e\u091c\u092a\u0924 \u0928\u0917\u0930",
+          "name:ur": "\u0644\u0627\u062c\u067e\u062a \u0646\u06af\u0631",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "LPNR",
+          "train": "yes",
+          "wikidata": "Q12451209"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1988513583,
+        "lat": 28.6160392,
+        "lon": 77.2472109,
+        "tags": {
+          "internet_access": "no",
+          "name": "Pragati Maidan",
+          "name:hi": "\u092a\u094d\u0930\u0917\u0924\u093f \u092e\u0948\u0926\u093e\u0928",
+          "name:ur": "\u067e\u0631\u06af\u062a\u06cc \u0645\u06cc\u062f\u0627\u0646",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PGMD",
+          "train": "yes",
+          "wikidata": "Q24949212",
+          "wikipedia": "en:Pragati Maidan railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1988585233,
+        "lat": 28.5889646,
+        "lon": 77.2535202,
+        "tags": {
+          "alt_name:hi": "\u0939\u091c\u0930\u0924 \u0928\u093f\u091c\u093e\u092e\u0941\u0926\u094d\u0926\u0940\u0928 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "internet_access": "wlan",
+          "name": "Hazrat Nizamuddin Junction",
+          "name:hi": "\u0939\u091c\u093c\u0930\u0924 \u0928\u093f\u091c\u093c\u093e\u092e\u0941\u0926\u094d\u0926\u0940\u0928 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:ml": "\u0d39\u0d38\u0d4d\u0d30\u0d24\u0d4d\u0d24\u0d4d \u0d28\u0d3f\u0d38\u0d3e\u0d2e\u0d41\u0d26\u0d4d\u0d26\u0d40\u0d7b \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ur": "\u062d\u0636\u0631\u062a \u0646\u0638\u0627\u0645 \u0627\u0644\u062f\u06cc\u0646 \u062c\u0646\u06a9\u0634\u0646",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NZM",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q2723139",
+          "wikipedia": "en:Hazrat Nizamuddin railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2416151585,
+        "lat": 28.5924259,
+        "lon": 77.2375948,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "compressed_air": "yes",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3450272490,
+        "lat": 28.5859568,
+        "lon": 77.2602284,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4692007714,
+        "lat": 28.6045138,
+        "lon": 77.2245624,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Jiwan Service Station",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4700705789,
+        "lat": 28.6086972,
+        "lon": 77.2302094,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Bikaner Bus Depot",
+          "name:hi": "Bikaner Bus Depot",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5122127038,
+        "lat": 28.5870134,
+        "lon": 77.2413569,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5273030317,
+        "lat": 28.5745515,
+        "lon": 77.2378394,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "compressed_air": "yes",
+          "name": "Bharat Petroleum",
+          "opening_hours": "Mo-Su,PH 06:00-12:00+"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777629158,
+        "lat": 28.5882285,
+        "lon": 77.2337552,
+        "tags": {
+          "name": "Jawaharlal Nehru Stadium",
+          "name:hi": "\u091c\u0935\u093e\u0939\u0930 \u0932\u093e\u0932 \u0928\u0947\u0939\u0930\u0942 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777629164,
+        "lat": 28.6022239,
+        "lon": 77.2291083,
+        "tags": {
+          "name": "Khan Market",
+          "name:en": "Khan Market",
+          "name:hi": "\u0916\u093e\u0928 \u092c\u093e\u091c\u093e\u0930",
+          "name:ur": "\u062e\u0627\u0646 \u0628\u0627\u0632\u0627\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777629829,
+        "lat": 28.5830369,
+        "lon": 77.2392883,
+        "tags": {
+          "name": "Jangpura",
+          "name:hi": "\u091c\u0902\u0917\u092a\u0941\u0930\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630298,
+        "lat": 28.5898274,
+        "lon": 77.2570468,
+        "tags": {
+          "name": "Sarai Kale Khan - Nizamuddin",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NIZM",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6122143946,
+        "lat": 28.5783437,
+        "lon": 77.2458619,
+        "tags": {
+          "bus": "yes",
+          "name": "Jal Vihar Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6195740840,
+        "lat": 28.58886,
+        "lon": 77.253766,
+        "tags": {
+          "name": "Hazrat Nizamuddin Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes",
+          "usage": "main"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6196100471,
+        "lat": 28.5883001,
+        "lon": 77.2573864,
+        "tags": {
+          "name": "Sarai Kale Khan - Nizamuddin",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NIZM",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6196100480,
+        "lat": 28.5887494,
+        "lon": 77.2572494,
+        "tags": {
+          "departures_board": "realtime",
+          "name": "Sarai Kale Khan - Nizamuddin",
+          "name:hi": "\u0938\u0930\u093e\u092f \u0915\u093e\u0932\u0947 \u0916\u093e\u0902 - \u0928\u093f\u091c\u093e\u092e\u0941\u0926\u094d\u0926\u0940\u0928",
+          "name:ur": "\u0633\u0631\u0627\u0626\u06d2 \u06a9\u0627\u0644\u06d2 \u062e\u0627\u06ba - \u0646\u0638\u0627\u0645 \u0627\u0644\u062f\u06cc\u0646",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NIZM",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q28172665",
+          "wikipedia": "en:Sarai Kale Khan - Nizamuddin metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6287897760,
+        "lat": 28.5791482,
+        "lon": 77.2439717,
+        "tags": {
+          "name": "Lajpat Nagar",
+          "name:ar": "\u0644\u0627\u062c\u0628\u062a \u0646\u063a\u0631",
+          "name:hi": "\u0932\u093e\u091c\u092a\u0924 \u0928\u0917\u0930",
+          "name:ur": "\u0644\u0627\u062c\u067e\u062a \u0646\u06af\u0631",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6362607176,
+        "lat": 28.608699,
+        "lon": 77.2528266,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indraprastha Gas",
+          "fuel:cng": "yes",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6371764318,
+        "lat": 28.5894992,
+        "lon": 77.2459159,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6918479540,
+        "lat": 28.5854347,
+        "lon": 77.2203893,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7282286731,
+        "lat": 28.6022446,
+        "lon": 77.2291281,
+        "tags": {
+          "name": "Khan Market",
+          "name:hi": "\u0916\u093e\u0928 \u092c\u093e\u091c\u093e\u0930",
+          "name:ur": "\u062e\u0627\u0646 \u0628\u0627\u0632\u0627\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7554880184,
+        "lat": 28.5889991,
+        "lon": 77.253915,
+        "tags": {
+          "name": "Hazrat Nizamuddin Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7554999585,
+        "lat": 28.5890048,
+        "lon": 77.2540192,
+        "tags": {
+          "name": "Hazrat Nizamuddin Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7554999586,
+        "lat": 28.5890128,
+        "lon": 77.2541662,
+        "tags": {
+          "name": "Hazrat Nizamuddin Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7554999587,
+        "lat": 28.5890207,
+        "lon": 77.2543093,
+        "tags": {
+          "name": "Hazrat Nizamuddin Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7554999588,
+        "lat": 28.5890216,
+        "lon": 77.254354,
+        "tags": {
+          "name": "Hazrat Nizamuddin Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7554999589,
+        "lat": 28.5890272,
+        "lon": 77.2545176,
+        "tags": {
+          "name": "Hazrat Nizamuddin Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7554999590,
+        "lat": 28.5890285,
+        "lon": 77.2545879,
+        "tags": {
+          "name": "Hazrat Nizamuddin Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9584236505,
+        "lat": 28.5830386,
+        "lon": 77.2393151,
+        "tags": {
+          "name": "Jangpura",
+          "name:hi": "\u091c\u0902\u0917\u092a\u0941\u0930\u093e",
+          "name:ur": "\u062c\u0646\u06af \u067e\u0648\u0631\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "opening_hours": "Mo-Su 06:00-23:15",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9584236506,
+        "lat": 28.5882347,
+        "lon": 77.2337833,
+        "tags": {
+          "name": "Jawaharlal Nehru Stadium",
+          "name:hi": "\u091c\u0935\u093e\u0939\u0930 \u0932\u093e\u0932 \u0928\u0947\u0939\u0930\u0942 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+          "network": "Delhi Metro",
+          "network:wikidata": "Q271195",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:wikidata": "Q1029339",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10241768254,
+        "lat": 28.5903206,
+        "lon": 77.2201483,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10241775591,
+        "lat": 28.5902808,
+        "lon": 77.2197587,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10241805232,
+        "lat": 28.5903207,
+        "lon": 77.2201225,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10241808063,
+        "lat": 28.5903054,
+        "lon": 77.2199561,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10273662432,
+        "lat": 28.5891733,
+        "lon": 77.2466782,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "compressed_air": "yes",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10564130631,
+        "lat": 28.6003513,
+        "lon": 77.2267809,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576228241,
+        "lat": 28.596925,
+        "lon": 77.2229085,
+        "tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "covered": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11132023351,
+        "lat": 28.5844378,
+        "lon": 77.2205342,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11278156847,
+        "lat": 28.5890626,
+        "lon": 77.2252522,
+        "tags": {
+          "amenity": "theatre",
+          "level": "0;1",
+          "name": "Stein Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11278174379,
+        "lat": 28.5890358,
+        "lon": 77.2252913,
+        "tags": {
+          "alt_name": "The Theatre",
+          "amenity": "theatre",
+          "level": "-1",
+          "name": "Amaltas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11406900271,
+        "lat": 28.6019401,
+        "lon": 77.2372754,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Tata Power",
+          "capacity": "1",
+          "socket:type2": "1"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11660058732,
+        "lat": 28.5812001,
+        "lon": 77.2420522,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "Inox",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11934676233,
+        "lat": 28.586642,
+        "lon": 77.2407912,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12163145955,
+        "lat": 28.5790976,
+        "lon": 77.2439733,
+        "tags": {
+          "name": "Lajpat Nagar",
+          "name:ar": "\u0644\u0627\u062c\u0628\u062a \u0646\u063a\u0631",
+          "name:hi": "\u0932\u093e\u091c\u092a\u0924 \u0928\u0917\u0930",
+          "name:ur": "\u0644\u0627\u062c\u067e\u062a \u0646\u06af\u0631",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12163145956,
+        "lat": 28.5789762,
+        "lon": 77.2439774,
+        "tags": {
+          "name": "Lajpat Nagar",
+          "name:ar": "\u0644\u0627\u062c\u0628\u062a \u0646\u063a\u0631",
+          "name:hi": "\u0932\u093e\u091c\u092a\u0924 \u0928\u0917\u0930",
+          "name:ur": "\u0644\u0627\u062c\u067e\u062a \u0646\u06af\u0631",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12163145957,
+        "lat": 28.5789345,
+        "lon": 77.2439787,
+        "tags": {
+          "name": "Lajpat Nagar",
+          "name:ar": "\u0644\u0627\u062c\u0628\u062a \u0646\u063a\u0631",
+          "name:hi": "\u0932\u093e\u091c\u092a\u0924 \u0928\u0917\u0930",
+          "name:ur": "\u0644\u0627\u062c\u067e\u062a \u0646\u06af\u0631",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12672890507,
+        "lat": 28.5904687,
+        "lon": 77.2331036,
+        "tags": {
+          "amenity": "charging_station",
+          "charging_station:battery_swapping": "yes",
+          "level": "0"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12894372007,
+        "lat": 28.6112384,
+        "lon": 77.2449181,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12901933482,
+        "lat": 28.5875463,
+        "lon": 77.226213,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12901933483,
+        "lat": 28.58752,
+        "lon": 77.226218,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12903526837,
+        "lat": 28.5810704,
+        "lon": 77.2390952,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Yuma",
+          "charging_station:battery_swapping": "yes"
+        }
+      }
+    ]
+  }
+}

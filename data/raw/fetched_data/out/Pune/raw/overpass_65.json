@@ -1,0 +1,1328 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:19:19Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 283166314,
+        "lat": 18.5364098,
+        "lon": 73.8973015,
+        "tags": {
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "indian",
+          "name": "The Great Punjab",
+          "ramp": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 313785040,
+        "lat": 18.5396234,
+        "lon": 73.8873711,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:street": "Koregaon Park",
+          "amenity": "cafe",
+          "name": "German Bakery",
+          "name:mr": "\u091c\u0930\u094d\u092e\u0928 \u092c\u0947\u0915\u0930\u0940"
+        }
+      },
+      {
+        "type": "node",
+        "id": 518295335,
+        "lat": 18.5396305,
+        "lon": 73.8833529,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Le Pizzeria"
+        }
+      },
+      {
+        "type": "node",
+        "id": 667287796,
+        "lat": 18.5395824,
+        "lon": 73.8870419,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "cuisine": "coffee_shop",
+          "name": "Cafe Coffee Day",
+          "name:mr": "\u0915\u0945\u092b\u0947 \u0915\u0949\u092b\u0940 \u0921\u0947",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 672675264,
+        "lat": 18.5392674,
+        "lon": 73.8866937,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411001",
+          "addr:street": "North Main Road",
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "brand:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "brand:wikidata": "Q37158",
+          "brand:wikipedia": "en:Starbucks",
+          "cuisine": "coffee_shop",
+          "internet_access": "no",
+          "internet_access:fee": "no",
+          "name": "Starbucks",
+          "name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "official_name": "Starbucks Coffee",
+          "official_name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38 \u0a15\u0a4c\u0a2b\u0a40",
+          "official_name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633 \u06a9\u0627\u0641\u06cc",
+          "outdoor_seating": "yes",
+          "smoking": "separated",
+          "takeaway": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1796882692,
+        "lat": 18.5404542,
+        "lon": 73.8852292,
+        "tags": {
+          "alt_name": "ICICI Bank Bund Garden Rd",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "short_name": "ICICI",
+          "website": "https://www.icicibank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1796901377,
+        "lat": 18.5374326,
+        "lon": 73.8973367,
+        "tags": {
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "thai;asian",
+          "name": "Malaka Spice",
+          "ramp": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3642844984,
+        "lat": 18.5363996,
+        "lon": 73.8986483,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "brand:wikipedia": "en:Bank of India",
+          "name": "Bank of India",
+          "name:en": "Bank of India",
+          "short_name": "BoI",
+          "website": "https://www.bankofindia.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3642844986,
+        "lat": 18.536566,
+        "lon": 73.8991446,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "american;burger;chicken",
+          "name": "Mad House Grill"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3937245716,
+        "lat": 18.5377222,
+        "lon": 73.8989649,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "name": "Mia Cuccina"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3964005611,
+        "lat": 18.5412531,
+        "lon": 73.8876529,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Yogi Tree Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4354672913,
+        "lat": 18.536754,
+        "lon": 73.8974099,
+        "tags": {
+          "name": "Godrej's Natures Basket",
+          "organic": "yes",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4583528602,
+        "lat": 18.5370853,
+        "lon": 73.8987605,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "One O Eight"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4583821521,
+        "lat": 18.5332739,
+        "lon": 73.8872318,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Joy Foods"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4725214138,
+        "lat": 18.5395793,
+        "lon": 73.8869838,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Standard Chartered",
+          "brand:wikidata": "Q548278",
+          "name": "Standard Chartered",
+          "name:mr": "\u0938\u094d\u091f\u0945\u0902\u0921\u0930\u094d\u0921 \u091a\u093e\u0930\u094d\u091f\u0930\u094d\u0921",
+          "operator": "Standard Chartered",
+          "operator:wikidata": "Q548278"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5530188322,
+        "lat": 18.5388706,
+        "lon": 73.8990838,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian;chinese",
+          "name:en": "Rajput"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5584430309,
+        "lat": 18.5387801,
+        "lon": 73.8857014,
+        "tags": {
+          "amenity": "bank",
+          "brand": "SBI",
+          "name": "SBI Intouch",
+          "name:mr": "\u090f\u0938\u092c\u0940\u0906\u092f \u0907\u0928\u091f\u091a",
+          "not:brand:wikidata": "Q1340361",
+          "operator": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6168664131,
+        "lat": 18.5390008,
+        "lon": 73.8856879,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Corporation Bank",
+          "brand:wikidata": "Q2003387",
+          "name": "Corporation Bank",
+          "name:mr": "\u0915\u0949\u0930\u094d\u092a\u094b\u0930\u0947\u0936\u0928 \u092c\u0901\u0915",
+          "not:brand:wikidata": "Q2004078",
+          "opening_hours": "24/7",
+          "operator": "Corporation Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6168664136,
+        "lat": 18.5371101,
+        "lon": 73.885826,
+        "tags": {
+          "amenity": "bank",
+          "branch": "NRI Branch",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "name:mr": "\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u094d\u091f\u0947\u091f \u092c\u0901\u0915, \u090f\u0928\u0906\u0930\u0906\u092f \u0936\u093e\u0916\u093e",
+          "operator": "State Bank of India",
+          "short_name": "SBI",
+          "wikidata": "Q65990999"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6184010097,
+        "lat": 18.539789,
+        "lon": 73.8922771,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "name:mr": "\u0972\u0915\u094d\u0938\u093f\u0938 \u092c\u0901\u0915",
+          "operator": "Axis Bank",
+          "operator:wikidata": "Q2003549"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6184010098,
+        "lat": 18.5397892,
+        "lon": 73.8923042,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "name:mr": "\u090f\u091a\u0921\u0940\u090f\u092b\u0938\u0940 \u092c\u0901\u0915",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6184010099,
+        "lat": 18.5392176,
+        "lon": 73.8974601,
+        "tags": {
+          "amenity": "cafe",
+          "name": "TGF Cafe",
+          "name:mr": "\u091f\u0940\u091c\u0940\u090f\u092b \u0915\u0945\u092b\u0947"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6184010100,
+        "lat": 18.539135,
+        "lon": 73.8985947,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "brand:wikipedia": "en:Pizza Hut",
+          "cuisine": "pizza",
+          "name": "Pizza Hut",
+          "name:mr": "\u092a\u093f\u091d\u094d\u091d\u093e \u0939\u091f"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6184010101,
+        "lat": 18.5391312,
+        "lon": 73.8990439,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "donut",
+          "name": "Mad Over Donuts",
+          "name:mr": "\u092e\u0945\u0921 \u0913\u0935\u094d\u0939\u0930 \u0921\u094b\u0928\u091f\u094d\u0938"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6184010102,
+        "lat": 18.5393689,
+        "lon": 73.8993953,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:mr": "\u0972\u0915\u094d\u0938\u093f\u0938 \u092c\u0901\u0915",
+          "operator": "Axis Bank",
+          "wikidata": "Q73762503"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6849362802,
+        "lat": 18.540993,
+        "lon": 73.8874645,
+        "tags": {
+          "amenity": "cafe",
+          "name:en": "Hug my mug"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6854808385,
+        "lat": 18.5397981,
+        "lon": 73.8922847,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Jiffy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7021203830,
+        "lat": 18.5469331,
+        "lon": 73.8864811,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7021204605,
+        "lat": 18.5410696,
+        "lon": 73.8856901,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "name": "Union Bank of India",
+          "operator": "Union Bank of India",
+          "operator:wikidata": "Q2004078"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7021208812,
+        "lat": 18.5397277,
+        "lon": 73.8939226,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "check_date": "2022-09-11",
+          "name": "Kotak Mahindra Bank",
+          "operator": "Kotak Mahindra Bank",
+          "operator:wikidata": "Q2040404"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7021209002,
+        "lat": 18.5393623,
+        "lon": 73.8934773,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "short_name": "SBI",
+          "wikidata": "Q65991527"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048504194,
+        "lat": 18.5463494,
+        "lon": 73.8880362,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "1289, Seiko Apartment, Next To Gunjan Theater, Yerawada",
+          "addr:postcode": "411006",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Amit Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7055817022,
+        "lat": 18.5470843,
+        "lon": 73.8885243,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "7/1-2, Jail Road",
+          "addr:postcode": "411006",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Om Prasuti Graha",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7070722452,
+        "lat": 18.5486475,
+        "lon": 73.8893055,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Netha Park, Yerwada, Opp Gunjan Theatre, Near Airport",
+          "addr:postcode": "411006",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Shah Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073944656,
+        "lat": 18.545411,
+        "lon": 73.8855249,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Nagar Road Yerawada",
+          "addr:postcode": "411006",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kataria Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7194929645,
+        "lat": 18.5333049,
+        "lon": 73.88742,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sante Spa Cuisine"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7603463230,
+        "lat": 18.5436432,
+        "lon": 73.8990145,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian;chinese;chicken;tandoori;fish",
+          "name": "Reddys Restaurant Kalyani Nagar",
+          "opening_hours": "Mo-Su 12:00-22:00",
+          "website": "https://www.reddysrestaurant.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7649461711,
+        "lat": 18.5490315,
+        "lon": 73.8887874,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Opp. Neeta park, Janta Nagar, Yerwada Village, Yerawada, Pune",
+          "addr:postcode": "411006",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Vaibhav Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7649461745,
+        "lat": 18.5492968,
+        "lon": 73.8888427,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Ganga Complex, Near Gunjan Talkies,Yerawada, Pune",
+          "addr:postcode": "411006",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Petals Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9430041266,
+        "lat": 18.5493077,
+        "lon": 73.8889117,
+        "tags": {
+          "addr:city": "pune",
+          "addr:postcode": "411006",
+          "addr:street": "Ganga Complex, Janta Nagar, Yerwada Ganga Complex, first floor, above bafna hardware, Yerawada,",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "specialist_in_weight_loss_and_diabetes",
+          "name": "Dr. Bilal's Crystal Medicare Clinic",
+          "opening_hours": "Mo-Su 11:30-15:00,18:00-21:00",
+          "operator": "Novosalus",
+          "operator:type": "private",
+          "website": "https://www.drbilalcrystalmedicareclinic.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10054088273,
+        "lat": 18.5391027,
+        "lon": 73.9000346,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Third wave coffee"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10117678237,
+        "lat": 18.536616,
+        "lon": 73.8988097,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Murphies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10117684095,
+        "lat": 18.5365931,
+        "lon": 73.8990404,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "name": "Brew Culture",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10158935918,
+        "lat": 18.5374881,
+        "lon": 73.8988397,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Grey Soul"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172977893,
+        "lat": 18.5347719,
+        "lon": 73.8874441,
+        "tags": {
+          "amenity": "hospital",
+          "check_date": "2025-06-28",
+          "healthcare": "hospital",
+          "name": "Sadhu Vaswani Missions Medical Complex"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10550777909,
+        "lat": 18.5388575,
+        "lon": 73.8866732,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Savya Rasa"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11274029562,
+        "lat": 18.5397672,
+        "lon": 73.893772,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "italian;chinese;asian",
+          "name": "Prem's",
+          "ramp": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11274030992,
+        "lat": 18.5396127,
+        "lon": 73.8871907,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "american",
+          "diet:chicken": "yes",
+          "name": "The Chickster"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11681074026,
+        "lat": 18.5376129,
+        "lon": 73.8979395,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "name": "The French Window Patisserie",
+          "name:mr": "\u0926 \u092b\u094d\u0930\u0947\u0902\u091a \u0935\u093f\u0902\u0921\u094b \u092a\u0945\u091f\u093f\u0938\u0947\u0930\u0940"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11733825627,
+        "lat": 18.5364612,
+        "lon": 73.8965308,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "QORA-Cocktail Bar &  Kitchen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11733830067,
+        "lat": 18.5363572,
+        "lon": 73.8973584,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name": "Squisito - The Italian Ristorante"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11733843877,
+        "lat": 18.53762,
+        "lon": 73.8988147,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "burger",
+          "name": "The Burger Barn Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11733856611,
+        "lat": 18.5373891,
+        "lon": 73.8988743,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Donatella"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11733859729,
+        "lat": 18.5377435,
+        "lon": 73.8988241,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "barbecue",
+          "name": "THE IMMORTALE BARBECUE"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12434967458,
+        "lat": 18.5401533,
+        "lon": 73.8912233,
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "restaurant",
+          "bar": "no",
+          "check_date": "2024-12-20",
+          "check_date:opening_hours": "2024-12-20",
+          "cuisine": "indian;chinese;coffee_shop",
+          "description": "Small cafe and restaurant",
+          "diet:chicken": "yes",
+          "diet:vegetarian": "yes",
+          "highchair": "no",
+          "name": "Buddha Paradise",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12434971449,
+        "lat": 18.54133,
+        "lon": 73.8901033,
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "restaurant",
+          "bar": "no",
+          "check_date": "2024-12-20",
+          "cuisine": "indian",
+          "description": "KP Veg by Natraj Food, Small Neighborhood restaurant and eatery serving vegetarian meals",
+          "name": "KP Veg",
+          "outdoor_seating": "yes",
+          "payment:cash": "yes",
+          "payment:upi": "yes",
+          "smoking": "no",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13038815917,
+        "lat": 18.5350532,
+        "lon": 73.8873705,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411001",
+          "addr:street": "Inlaks Budhrani 7-8, Koregaon Park",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Mahesh Kumar",
+          "operator": "Novosalus Technology",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13090591701,
+        "lat": 18.5360287,
+        "lon": 73.8985553,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "indian"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:19:19Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 283204710,
+        "lat": 18.539254,
+        "lon": 73.885693,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:state": "MH",
+          "amenity": "fuel",
+          "brand": "BPCL",
+          "compressed_air": "yes",
+          "fuel:diesel": "yes",
+          "fuel:octane_91": "yes",
+          "fuel:octane_95": "yes",
+          "name": "Roshini Petrol Pump",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 343304315,
+        "lat": 18.5288773,
+        "lon": 73.8744146,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "Near Jahangir Hospital",
+          "addr:street": "Sassoon Marg",
+          "internet_access": "wlan",
+          "name": "Pune Junction",
+          "name:ta": "\u092a\u0941\u0923\u0947 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PUNE",
+          "train": "yes",
+          "wikidata": "Q3632576",
+          "wikipedia": "en:Pune Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 518664242,
+        "lat": 18.53956,
+        "lon": 73.885683,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:province": "Koregaon Park",
+          "addr:state": "MH",
+          "addr:street": "North Main Road",
+          "amenity": "fuel",
+          "brand": "HPCL",
+          "fuel:diesel": "yes",
+          "fuel:octane_91": "yes",
+          "fuel:octane_95": "yes",
+          "name": "Mukul Petrol Pump",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 672225961,
+        "lat": 18.5268449,
+        "lon": 73.8778583,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Inox",
+          "name:mr": "\u0906\u092f\u0928\u0949\u0915\u094d\u0938"
+        }
+      },
+      {
+        "type": "node",
+        "id": 811249554,
+        "lat": 18.5265124,
+        "lon": 73.877173,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Pune Railway Station Bus Depot",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1223950732,
+        "lat": 18.5257119,
+        "lon": 73.8769058,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797308,
+        "lat": 18.528148,
+        "lon": 73.8939317,
+        "tags": {
+          "internet_access": "no",
+          "name": "Ghorpuri",
+          "name:mr": "\u0918\u094b\u0930\u092a\u0921\u0940",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GPR",
+          "train": "yes",
+          "wikidata": "Q18125106"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797322,
+        "lat": 18.5281002,
+        "lon": 73.8938934,
+        "tags": {
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797333,
+        "lat": 18.5282168,
+        "lon": 73.8939378,
+        "tags": {
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797395,
+        "lat": 18.5290793,
+        "lon": 73.8740372,
+        "tags": {
+          "name": "Pune Junction",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "public_transport": "stop_position",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797414,
+        "lat": 18.5291657,
+        "lon": 73.8733305,
+        "tags": {
+          "name": "Pune Junction",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "public_transport": "stop_position",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797442,
+        "lat": 18.5293602,
+        "lon": 73.8733199,
+        "tags": {
+          "name": "Pune Junction",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "public_transport": "stop_position",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797444,
+        "lat": 18.52937,
+        "lon": 73.8726619,
+        "tags": {
+          "name": "Pune Junction",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "public_transport": "stop_position",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797462,
+        "lat": 18.5294921,
+        "lon": 73.8726591,
+        "tags": {
+          "name": "Pune Junction",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "public_transport": "stop_position",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797466,
+        "lat": 18.5295338,
+        "lon": 73.8726575,
+        "tags": {
+          "name": "Pune Junction",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "public_transport": "stop_position",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314871,
+        "lat": 18.5276102,
+        "lon": 73.872967,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Pune Station Bus Stand",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u0938\u094d\u091f\u0947\u0936\u0928 \u092c\u0938 \u0938\u094d\u0925\u093e\u0928\u0915",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2864314875,
+        "lat": 18.5255769,
+        "lon": 73.8765892,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Sadhu Vaswani Chowk",
+          "name:mr": "\u0938\u093e\u0927\u0941 \u0935\u093e\u0938\u094d\u0935\u093e\u0923\u0940 \u091a\u094c\u0915",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944584984,
+        "lat": 18.5327176,
+        "lon": 73.8777486,
+        "tags": {
+          "name": "Ruby Hall Clinic",
+          "name:mr": "\u0930\u0941\u092c\u0940 \u0939\u0949\u0932 \u0915\u094d\u0932\u093f\u0928\u093f\u0915",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q121161769"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944597689,
+        "lat": 18.529751,
+        "lon": 73.872596,
+        "tags": {
+          "name": "Pune Railway Station",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u0930\u0947\u0932\u094d\u0935\u0947 \u0938\u094d\u091f\u0947\u0936\u0928",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q121161986"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10246254344,
+        "lat": 18.5247685,
+        "lon": 73.8748013,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Hotel Woodland",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10246254373,
+        "lat": 18.524777,
+        "lon": 73.8779455,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Council Hall",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10725622460,
+        "lat": 18.5281331,
+        "lon": 73.8722527,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "MSRTC ST Pune Sation Bus Stand.",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527711,
+        "lat": 18.5327068,
+        "lon": 73.8777633,
+        "tags": {
+          "layer": "2",
+          "name": "Ruby Hall Clinic",
+          "name:mr": "\u0930\u0941\u092c\u0940 \u0939\u0949\u0932 \u0915\u094d\u0932\u093f\u0928\u093f\u0915",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527712,
+        "lat": 18.5327359,
+        "lon": 73.8777309,
+        "tags": {
+          "layer": "2",
+          "name": "Ruby Hall Clinic",
+          "name:mr": "\u0930\u0941\u092c\u0940 \u0939\u0949\u0932 \u0915\u094d\u0932\u093f\u0928\u093f\u0915",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527713,
+        "lat": 18.5297234,
+        "lon": 73.872597,
+        "tags": {
+          "name": "Pune Railway Station",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u0930\u0947\u0932\u094d\u0935\u0947 \u0938\u094d\u091f\u0947\u0936\u0928",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097527714,
+        "lat": 18.5297781,
+        "lon": 73.8725976,
+        "tags": {
+          "name": "Pune Railway Station",
+          "name:mr": "\u092a\u0941\u0923\u0947 \u0930\u0947\u0932\u094d\u0935\u0947 \u0938\u094d\u091f\u0947\u0936\u0928",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340647,
+        "lat": 18.540599,
+        "lon": 73.8834176,
+        "tags": {
+          "layer": "2",
+          "name": "Bund Garden",
+          "name:mr": "\u092c\u0902\u0921 \u0917\u093e\u0930\u094d\u0921\u0928",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340648,
+        "lat": 18.5405802,
+        "lon": 73.8834544,
+        "tags": {
+          "layer": "2",
+          "name": "Bund Garden",
+          "name:mr": "\u092c\u0902\u0921 \u0917\u093e\u0930\u094d\u0921\u0928",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340649,
+        "lat": 18.5405933,
+        "lon": 73.8834394,
+        "tags": {
+          "name": "Bund Garden",
+          "name:mr": "\u092c\u0902\u0921 \u0917\u093e\u0930\u094d\u0921\u0928",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q124762850",
+          "wikipedia": "en:Bund Garden metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340650,
+        "lat": 18.5453203,
+        "lon": 73.8866176,
+        "tags": {
+          "layer": "2",
+          "name": "Yerwada",
+          "name:hi": "\u092f\u0947\u0930\u0935\u0921\u093e",
+          "name:mr": "\u092f\u0947\u0930\u0935\u0921\u093e",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340651,
+        "lat": 18.5452822,
+        "lon": 73.8866239,
+        "tags": {
+          "layer": "2",
+          "name": "Yerwada",
+          "name:hi": "\u092f\u0947\u0930\u0935\u0921\u093e",
+          "name:mr": "\u092f\u0947\u0930\u0935\u0921\u093e",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340652,
+        "lat": 18.5453173,
+        "lon": 73.8866882,
+        "tags": {
+          "name": "Yerwada",
+          "name:hi": "\u092f\u0947\u0930\u0935\u0921\u093e",
+          "name:mr": "\u092f\u0947\u0930\u0935\u0921\u093e",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikipedia": "en:Yerwada metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340653,
+        "lat": 18.5444651,
+        "lon": 73.9056677,
+        "tags": {
+          "layer": "2",
+          "name": "Kalyani Nagar",
+          "name:mr": "\u0915\u0932\u094d\u092f\u093e\u0923\u0940 \u0928\u0917\u0930",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340654,
+        "lat": 18.5444493,
+        "lon": 73.9057122,
+        "tags": {
+          "layer": "2",
+          "name": "Kalyani Nagar",
+          "name:mr": "\u0915\u0932\u094d\u092f\u093e\u0923\u0940 \u0928\u0917\u0930",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340655,
+        "lat": 18.5444806,
+        "lon": 73.9056979,
+        "tags": {
+          "name": "Kalyani Nagar",
+          "name:mr": "\u0915\u0932\u094d\u092f\u093e\u0923\u0940 \u0928\u0917\u0930",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikipedia": "en:Kalyani Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12863629710,
+        "lat": 18.5795095,
+        "lon": 73.9099537,
+        "tags": {
+          "aeroway": "terminal"
+        }
+      }
+    ]
+  }
+}

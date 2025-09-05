@@ -1,0 +1,680 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:00:12Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7138493207,
+        "lat": 28.595138,
+        "lon": 77.1773,
+        "tags": {
+          "addr:district": "New Delhi",
+          "addr:full": "Near Baratghar, Bapudham",
+          "addr:postcode": "110021",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "contact:phone": "011-24101218",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "Bapudham Allopathic Dispensary",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7205216485,
+        "lat": 28.596518,
+        "lon": 77.1769969,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:ur": "\u0627\u0633\u0679\u06cc\u0679 \u0628\u06cc\u0646\u06a9 \u0622\u0641 \u0627\u0646\u0688\u06cc\u0627",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "name:ur": "\u0627\u0633\u0679\u06cc\u0679 \u0628\u06cc\u0646\u06a9 \u0622\u0641 \u0627\u0646\u0688\u06cc\u0627",
+          "short_name": "SBI",
+          "short_name:ur": "\u0627\u06cc\u0633 \u0628\u06cc \u0622\u0626\u06cc"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837347888,
+        "lat": 28.5931893,
+        "lon": 77.1645815,
+        "tags": {
+          "amenity": "cafe",
+          "level": "0",
+          "name": "Sabharwal Tea Stall",
+          "takeaway": "yes",
+          "toilets": "no",
+          "toilets:access": "private",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837347889,
+        "lat": 28.5931062,
+        "lon": 77.1646281,
+        "tags": {
+          "amenity": "fast_food",
+          "level": "0",
+          "name": "Mahadev Food Corner",
+          "takeaway": "yes",
+          "toilets": "no",
+          "toilets:access": "private",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12159147304,
+        "lat": 28.5895332,
+        "lon": 77.1690955,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Jumbo King",
+          "cuisine": "burger",
+          "indoor_seating": "no",
+          "level": "1",
+          "name": "Jumbo King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12816033335,
+        "lat": 28.5905185,
+        "lon": 77.1669203,
+        "tags": {
+          "amenity": "cafe",
+          "bar": "no",
+          "brand": "Nescaf\u00e9",
+          "indoor_seating": "no",
+          "level": "0",
+          "name": "Nescaf\u00e9",
+          "operator": "Nescaf\u00e9",
+          "outdoor_seating": "yes",
+          "takeaway": "yes"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:00:12Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 910356438,
+        "lat": 28.5822036,
+        "lon": 77.1862115,
+        "tags": {
+          "alt_name:ur": "\u062f\u0644\u06cc \u0635\u0641\u062f\u0631 \u062c\u0646\u06af;\u0635\u0641\u062f\u0631 \u062c\u0646\u06af;\u062f\u0650\u0644\u0651\u06cc \u0635\u0641\u062f\u0631 \u062c\u0646\u06af",
+          "internet_access": "no",
+          "name": "Delhi Safdarjang",
+          "name:ur": "\u062f\u06c1\u0644\u06cc \u0635\u0641\u062f\u0631 \u062c\u0646\u06af",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSJ",
+          "train": "yes",
+          "wikidata": "Q15648788"
+        }
+      },
+      {
+        "type": "node",
+        "id": 927873513,
+        "lat": 28.5918719,
+        "lon": 77.1617158,
+        "tags": {
+          "name": "Dhaula Kuan",
+          "name:hi": "\u0927\u094c\u0932\u093e \u0915\u0941\u0906\u0901",
+          "name:ur": "\u062f\u06be\u0648\u0644\u06c1 \u06a9\u0646\u0648\u0627\u06ba",
+          "network": "Delhi Metro",
+          "network:wikidata": "Q271195",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:wikidata": "Q1029339",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DKV",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q5269438"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833526642,
+        "lat": 28.5785245,
+        "lon": 77.1757091,
+        "tags": {
+          "name": "Sir M. Vishweshwaraiah Moti Bagh",
+          "name:hi": "\u0938\u0930 \u090f\u092e. \u0935\u093f\u0936\u094d\u0935\u0947\u0936\u094d\u0935\u0930\u092f\u094d\u092f\u093e \u092e\u094b\u0924\u0940 \u092c\u093e\u0917",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SVMB",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2833526656,
+        "lat": 28.5892816,
+        "lon": 77.1694377,
+        "tags": {
+          "name": "Durgabai Deshmukh South Campus",
+          "name:hi": "\u0926\u0941\u0930\u094d\u0917\u093e\u092c\u093e\u0908 \u0926\u0947\u0936\u092e\u0941\u0916 \u0938\u093e\u0909\u0925 \u0915\u0948\u0902\u092a\u0938",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4211259635,
+        "lat": 28.5831328,
+        "lon": 77.1896241,
+        "tags": {
+          "amenity": "theatre",
+          "name": "DT"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961056,
+        "lat": 28.57741,
+        "lon": 77.1736528,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961057,
+        "lat": 28.5778493,
+        "lon": 77.1741945,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961058,
+        "lat": 28.579953,
+        "lon": 77.1787923,
+        "tags": {
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961060,
+        "lat": 28.5804633,
+        "lon": 77.1793308,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961061,
+        "lat": 28.5804349,
+        "lon": 77.1802192,
+        "tags": {
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961064,
+        "lat": 28.5812486,
+        "lon": 77.181653,
+        "tags": {
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961067,
+        "lat": 28.5869111,
+        "lon": 77.1852901,
+        "tags": {
+          "bus": "yes",
+          "name": "\u0631\u06cc\u0644 \u0639\u062c\u0627\u0626\u0628 \u06af\u06be\u0631",
+          "name:ur": "\u0631\u06cc\u0644 \u0639\u062c\u0627\u0626\u0628 \u06af\u06be\u0631",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961068,
+        "lat": 28.5872226,
+        "lon": 77.1855039,
+        "tags": {
+          "bus": "yes",
+          "name": "\u0631\u06cc\u0644 \u0639\u062c\u0627\u0626\u0628 \u06af\u06be\u0631",
+          "name:ur": "\u0631\u06cc\u0644 \u0639\u062c\u0627\u0626\u0628 \u06af\u06be\u0631",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961073,
+        "lat": 28.5894689,
+        "lon": 77.1866591,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961074,
+        "lat": 28.5897968,
+        "lon": 77.1867433,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961078,
+        "lat": 28.5924902,
+        "lon": 77.1882204,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961079,
+        "lat": 28.5925177,
+        "lon": 77.1881493,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961081,
+        "lat": 28.5983604,
+        "lon": 77.1912443,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961083,
+        "lat": 28.5984268,
+        "lon": 77.1911759,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961085,
+        "lat": 28.6008681,
+        "lon": 77.1925354,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961087,
+        "lat": 28.6008163,
+        "lon": 77.1924158,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5137961097,
+        "lat": 28.6039446,
+        "lon": 77.184592,
+        "tags": {
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5426405564,
+        "lat": 28.5843665,
+        "lon": 77.1721419,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil",
+          "toilets": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5426405945,
+        "lat": 28.587331,
+        "lon": 77.1714396,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5464573101,
+        "lat": 28.590359,
+        "lon": 77.1684845,
+        "tags": {
+          "alt_name": "ARSD College",
+          "bus": "yes",
+          "name": "Dhaula Kuan",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5561733970,
+        "lat": 28.5776067,
+        "lon": 77.1746902,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5600547622,
+        "lat": 28.5881935,
+        "lon": 77.1549788,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Air Force Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167172,
+        "lat": 28.5918789,
+        "lon": 77.161702,
+        "tags": {
+          "name": "Dhaula Kuan",
+          "network": "Delhi Metro",
+          "network:wikidata": "Q271195",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:wikidata": "Q1029339",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DKV",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777630288,
+        "lat": 28.5785426,
+        "lon": 77.175752,
+        "tags": {
+          "name": "Sir M. Vishweshwaraiah Moti Bagh",
+          "name:hi": "\u0938\u0930 \u090f\u092e. \u0935\u093f\u0936\u094d\u0935\u0947\u0936\u094d\u0935\u0930\u092f\u094d\u092f\u093e \u092e\u094b\u0924\u0940 \u092c\u093e\u0917",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SVMB",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777631037,
+        "lat": 28.5893006,
+        "lon": 77.1694772,
+        "tags": {
+          "name": "Durgabai Deshmukh South Campus",
+          "name:hi": "\u0926\u0941\u0930\u094d\u0917\u093e\u092c\u093e\u0908 \u0926\u0947\u0936\u092e\u0941\u0916 \u0938\u093e\u0909\u0925 \u0915\u0948\u0902\u092a\u0938",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6287897766,
+        "lat": 28.5961909,
+        "lon": 77.1676074,
+        "tags": {
+          "alt_name:ur": "\u0633\u0631\u062f\u0627\u0631 \u067e\u0679\u06cc\u0644 \u0645\u0627\u0631\u06af",
+          "name": "Sardar Patel Marg",
+          "name:ur": "\u0633\u0631\u062f\u0627\u0631 \u067e\u0679\u06cc\u0644 \u0631\u0648\u0688",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6412437960,
+        "lat": 28.5908246,
+        "lon": 77.1683731,
+        "tags": {
+          "alt_name": "ARSD College",
+          "bus": "yes",
+          "name": "Dhaula Kuan",
+          "name:hi": "\u0927\u094c\u0932\u093e  \u0915\u0941\u0906\u0901",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6453544485,
+        "lat": 28.5785326,
+        "lon": 77.175741,
+        "tags": {
+          "name": "Sir M. Vishweshwaraiah Moti Bagh",
+          "name:hi": "\u0938\u0930 \u090f\u092e. \u0935\u093f\u0936\u094d\u0935\u0947\u0936\u094d\u0935\u0930\u092f\u094d\u092f\u093e \u092e\u094b\u0924\u0940 \u092c\u093e\u0917",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SVMB",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30591952",
+          "wikipedia": "en:Sir Vishweshwaraiah Moti Bagh metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6961442929,
+        "lat": 28.5865591,
+        "lon": 77.1934263,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6961442948,
+        "lat": 28.5908405,
+        "lon": 77.1960832,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "Angra HP Centre",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6961442954,
+        "lat": 28.5866112,
+        "lon": 77.1934058,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040474785,
+        "lat": 28.584378,
+        "lon": 77.1910554,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR ECX Chanakyapuri Cinema",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8124057196,
+        "lat": 28.5996071,
+        "lon": 77.1958058,
+        "tags": {
+          "addr:postcode": "110021",
+          "addr:street": "Niti Marg",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "HP COCO Fuel Station",
+          "official_name": "Hindustan Petroleum",
+          "operator": "HPCL",
+          "self_service": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9684753376,
+        "lat": 28.6040475,
+        "lon": 77.1977963,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9684753377,
+        "lat": 28.6040394,
+        "lon": 77.1977808,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9684753378,
+        "lat": 28.6040316,
+        "lon": 77.1977661,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9938725206,
+        "lat": 28.591914,
+        "lon": 77.1616835,
+        "tags": {
+          "name": "Dhaula Kuan",
+          "network": "Delhi Metro",
+          "network:wikidata": "Q271195",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:wikidata": "Q1029339",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "DKV",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12163204408,
+        "lat": 28.5961514,
+        "lon": 77.1675705,
+        "tags": {
+          "alt_name:ur": "\u0633\u0631\u062f\u0627\u0631 \u067e\u0679\u06cc\u0644 \u0645\u0627\u0631\u06af",
+          "name": "Sardar Patel Marg",
+          "name:ur": "\u0633\u0631\u062f\u0627\u0631 \u067e\u0679\u06cc\u0644 \u0631\u0648\u0688",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12278110520,
+        "lat": 28.5915129,
+        "lon": 77.17549,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12972970667,
+        "lat": 28.5793023,
+        "lon": 77.1883978,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      }
+    ]
+  }
+}

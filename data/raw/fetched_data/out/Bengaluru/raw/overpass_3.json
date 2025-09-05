@@ -1,0 +1,5945 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:58:58Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 314705276,
+        "lat": 12.9741824,
+        "lon": 77.5753745,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sukh Sagar",
+          "name:kn": "\u0cb8\u0cc1\u0c96\u0ccd \u0cb8\u0cbe\u0c97\u0cb0"
+        }
+      },
+      {
+        "type": "node",
+        "id": 428851697,
+        "lat": 12.9778503,
+        "lon": 77.5722059,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "South_Indian",
+          "level": "0",
+          "name": "Sri Raghavendra",
+          "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0 \u0cb0\u0cbe\u0c98\u0cb5\u0cc7\u0c82\u0ca6\u0ccd\u0cb0"
+        }
+      },
+      {
+        "type": "node",
+        "id": 428851702,
+        "lat": 12.977709,
+        "lon": 77.5722837,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "brand:wikipedia": "en:Canara Bank",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 429697569,
+        "lat": 12.9760075,
+        "lon": 77.5763577,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Anand Sagar Punjabi Dhaba",
+          "name:kn": "\u0c86\u0ca8\u0c82\u0ca6\u0ccd \u0cb8\u0cbe\u0c97\u0cb0\u0ccd \u0caa\u0c82\u0c9c\u0cbe\u0cac\u0cbf \u0ca1\u0cbe\u0cac\u0cbe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 456214138,
+        "lat": 12.9730205,
+        "lon": 77.5804826,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "name:kn": "\u0c8e\u0cb8\u0ccd \u0cac\u0cbf \u0c90",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 456214157,
+        "lat": 12.9738444,
+        "lon": 77.578582,
+        "tags": {
+          "addr:street": "Kempe Gowda Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "brand:wikipedia": "en:Bank of India",
+          "name": "Bank of India",
+          "name:en": "Bank of India",
+          "short_name": "BoI",
+          "website": "http://www.bankofindia.co.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 456214158,
+        "lat": 12.973729,
+        "lon": 77.578957,
+        "tags": {
+          "addr:street": "Kempe Gowda Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "brand:wikipedia": "en:Indian Bank",
+          "name": "Indian Bank",
+          "name:en": "Indian Bank",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "website": "https://www.indianbank.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663599410,
+        "lat": 12.9723026,
+        "lon": 77.5863596,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Corporation Bank",
+          "brand:wikidata": "Q2003387",
+          "brand:wikipedia": "en:Corporation Bank",
+          "name": "Corporation Bank",
+          "name:en": "Corporation Bank",
+          "name:kn": "\u0c95\u0cbe\u0cb0\u0ccd\u0caa\u0cb0\u0cc7\u0cb7\u0ca8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "website": "https://corpbank.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 665871269,
+        "lat": 12.9697027,
+        "lon": 77.5796625,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Cane Crush"
+        }
+      },
+      {
+        "type": "node",
+        "id": 665871272,
+        "lat": 12.9742892,
+        "lon": 77.5778952,
+        "tags": {
+          "addr:street": "Kempe Gowda Road",
+          "amenity": "cafe",
+          "name": "Sri Vinayaka Juice & Chats Center"
+        }
+      },
+      {
+        "type": "node",
+        "id": 665871273,
+        "lat": 12.9703805,
+        "lon": 77.5800395,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Hotel Madhuvan",
+          "name:kn": "\u0cae\u0ca7\u0cc1\u0cb5\u0ca8"
+        }
+      },
+      {
+        "type": "node",
+        "id": 665871277,
+        "lat": 12.9733292,
+        "lon": 77.5824593,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 677286826,
+        "lat": 12.9736525,
+        "lon": 77.5801953,
+        "tags": {
+          "addr:street": "Kempe Gowda Road",
+          "amenity": "cafe",
+          "name": "Coffee Day",
+          "name:kn": "\u0c95\u0cab\u0cc6 \u0c95\u0cbe\u0cab\u0cbf \u0ca1\u0cc7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 677286827,
+        "lat": 12.9756686,
+        "lon": 77.5749645,
+        "tags": {
+          "addr:street": "Dhanvanthari Road",
+          "amenity": "fast_food",
+          "name": "Chicken County",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 680020366,
+        "lat": 12.9772698,
+        "lon": 77.570304,
+        "tags": {
+          "addr:street": "Gubbi Thotadappa Road",
+          "amenity": "restaurant",
+          "name": "Hare Krishna Pure Veg Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 680020369,
+        "lat": 12.9772479,
+        "lon": 77.5704213,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Balaji Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 680020373,
+        "lat": 12.9784725,
+        "lon": 77.5696765,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "brand:wikipedia": "en:Canara Bank",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 683352694,
+        "lat": 12.9734503,
+        "lon": 77.5751186,
+        "tags": {
+          "addr:street": "Balepet Road",
+          "amenity": "cafe",
+          "name": "Fresh Cane"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1101598769,
+        "lat": 12.9809052,
+        "lon": 77.5754392,
+        "tags": {
+          "addr:street": "Sheshadri Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "name:kn": "\u0c86\u0c95\u0ccd\u0cb8\u0cbf\u0cb8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "website": "https://www.axisbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1457669462,
+        "lat": 12.9766211,
+        "lon": 77.5725503,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Swathi Deluxe",
+          "name:kn": "\u0cb8\u0ccd\u0cb5\u0cbe\u0ca4\u0cbf \u0ca1\u0cbf\u0cb2\u0c95\u0ccd\u0cb8\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1636730975,
+        "lat": 12.9781823,
+        "lon": 77.5797234,
+        "tags": {
+          "addr:city": "Be\u1e45ga\u1e37\u016bru",
+          "addr:neighborhood": "G\u0101ndhinagara",
+          "addr:postcode": "560009",
+          "alt_name:en": "Shri Udupi",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "\u015ar\u012b U\u1e0dupi",
+          "name:en": "U\u1e0dupi Grand",
+          "name:es": "Gran U\u1e0dupi",
+          "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0 \u0c89\u0ca1\u0cc1\u0caa\u0cbf",
+          "phone": "+919591875013",
+          "website": "https://www.kanishkagrand.in/restaurant/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1806959176,
+        "lat": 12.9732886,
+        "lon": 77.5702017,
+        "tags": {
+          "amenity": "atm",
+          "fee": "no",
+          "operator": "State Bank of Mysore"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1806960813,
+        "lat": 12.9725777,
+        "lon": 77.5702074,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "fee": "no",
+          "name": "HDFC Bank",
+          "name:kn": "\u0c8e\u0c9a\u0ccd \u0ca1\u0cbf \u0c8e\u0cab\u0ccd \u0cb8\u0cbf",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1806961438,
+        "lat": 12.9723215,
+        "lon": 77.5703735,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "name": "Union Bank of India",
+          "name:kn": "\u0caf\u0cc2\u0ca8\u0cbf\u0caf\u0ca8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Union Bank of India",
+          "operator:wikidata": "Q2004078"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1809770675,
+        "lat": 12.9800497,
+        "lon": 77.5771102,
+        "tags": {
+          "addr:city": "Be\u1e45ga\u1e37\u016bru",
+          "addr:neighborhood": "G\u0101ndhinagara",
+          "addr:state": "KA",
+          "alt_name:kn": "\u0cae\u0cc1\u0ca6\u0ccd\u0ca6\u0cc6 \u0cae\u0cbe\u0ca6\u0caa\u0ccd\u0caa \u0cae\u0cc6\u0cb8\u0ccd",
+          "alt_name:kn-Latn": "Mudde M\u0101dappa Mes",
+          "amenity": "restaurant",
+          "cuisine": "indian;buffet",
+          "diet:vegetarian": "yes",
+          "facebook": "MuddeMadappa",
+          "name": "M\u0101dappa Mes",
+          "name:en": "M\u0101dappa Mess",
+          "name:kn": "\u0cae\u0cbe\u0ca6\u0caa\u0ccd\u0caa \u0cae\u0cc6\u0cb8\u0ccd",
+          "name:kn-Latn": "M\u0101dappa Mes",
+          "opening_hours": "07:30-22:30",
+          "phone": "+919880883801;+919844008380"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2014227810,
+        "lat": 12.9699846,
+        "lon": 77.5797207,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Banaras Sweets"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2014232345,
+        "lat": 12.9700251,
+        "lon": 77.5799594,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Vysya Bank",
+          "brand": "ING",
+          "brand:wikidata": "Q645708",
+          "name": "ING",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2014238900,
+        "lat": 12.9732008,
+        "lon": 77.5789268,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "name:kn": "\u0c90\u0cb8\u0cbf\u0c90\u0cb8\u0cbf\u0c90 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0cc1",
+          "short_name": "ICICI",
+          "website": "https://www.icicibank.com",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2097550322,
+        "lat": 12.9788091,
+        "lon": 77.5750078,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-02-29",
+          "name": "Rajadhani restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2261284950,
+        "lat": 12.9758817,
+        "lon": 77.5786471,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Kamat Yatrinivas",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2513569165,
+        "lat": 12.9787017,
+        "lon": 77.5742352,
+        "tags": {
+          "addr:city": "Be\u1e45ga\u1e37\u016bru",
+          "addr:neighborhood": "G\u0101ndhinagara",
+          "addr:street": "4th Cross",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Gandharva Upah\u0101ra",
+          "name:en": "Gandharva Upahar",
+          "name:hi": "\u0917\u0928\u094d\u0927\u0930\u094d\u0935 \u0909\u092a\u0939\u093e\u0930",
+          "name:hi-Latn": "Gandharv Upah\u0101r",
+          "name:kn": "\u0c97\u0c82\u0ca7\u0cb0\u0ccd\u0cb5 \u0c89\u0caa\u0cb9\u0cbe\u0cb0",
+          "name:kn-Latn": "Gandharva Upah\u0101ra",
+          "name:ur": "\u06af\u0646\u062f\u06be\u0631\u0648 \u0627\u067e\u06c1\u0627\u0631",
+          "name:ur-Latn": "Gandharv Upah\u0101r",
+          "opening_hours": "08:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2513569169,
+        "lat": 12.9785893,
+        "lon": 77.5736371,
+        "tags": {
+          "addr:city": "Gandhi Nagar, Bangalore",
+          "addr:street": "4th Cross",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Vaidya Ratnam Ayurvedic Center"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3198616661,
+        "lat": 12.98415,
+        "lon": 77.5781517,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Hotel Sanman"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3283293168,
+        "lat": 12.9765959,
+        "lon": 77.5706263,
+        "tags": {
+          "addr:street": "Gubbi Thotadappa Road",
+          "amenity": "restaurant",
+          "name": "D'Lish"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3283293497,
+        "lat": 12.9749583,
+        "lon": 77.5703152,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Federal Bank",
+          "brand:wikidata": "Q2044983",
+          "name": "Federal Bank",
+          "name:kn": "\u0cab\u0cc6\u0ca1\u0cc6\u0cb0\u0cb2\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Federal Bank",
+          "operator:wikidata": "Q2044983"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3286297186,
+        "lat": 12.9729868,
+        "lon": 77.5700133,
+        "tags": {
+          "addr:street": "Old Taluk Cutchery Road",
+          "amenity": "restaurant",
+          "name": "Adhishakthi",
+          "name:kn": "\u0c86\u0ca6\u0cbf\u0cb6\u0c95\u0ccd\u0ca4\u0cbf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3800281856,
+        "lat": 12.9735894,
+        "lon": 77.5783998,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Shanti Sagar",
+          "name:en": "New Shanthi Sagar",
+          "name:kn": "\u0cb6\u0cbe\u0c82\u0ca4\u0cbf \u0cb8\u0cbe\u0c97\u0cb0\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3872737461,
+        "lat": 12.9759239,
+        "lon": 77.5749981,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "R. P. Kamat's"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3872737462,
+        "lat": 12.9766765,
+        "lon": 77.5777178,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Sukh Sagar",
+          "name:kn": "\u0cb8\u0cc1\u0c96\u0ccd \u0cb8\u0cbe\u0c97\u0cb0"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4177732308,
+        "lat": 12.9772383,
+        "lon": 77.5752995,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Karnataka Bank",
+          "brand:wikidata": "Q2042632",
+          "name": "Karnataka Bank",
+          "name:kn": "\u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Karnataka Bank",
+          "operator:wikidata": "Q2042632"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4177732309,
+        "lat": 12.9773643,
+        "lon": 77.5747535,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank",
+          "name:kn": "\u0c95\u0ccb\u0c9f\u0c95\u0ccd \u0cae\u0cb9\u0cbf\u0c82\u0ca6\u0ccd\u0cb0 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Kotak Mahindra Bank",
+          "operator:wikidata": "Q2040404"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4209484254,
+        "lat": 12.9680202,
+        "lon": 77.5787717,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "name:kn": "\u0cad\u0cbe\u0cb0\u0ca4\u0cc0\u0caf \u0cb8\u0ccd\u0c9f\u0cc7\u0c9f\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4308219751,
+        "lat": 12.9740049,
+        "lon": 77.5794628,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "CSB Bank",
+          "brand:wikidata": "Q5053244",
+          "check_date": "2023-02-11",
+          "name": "CSB Bank",
+          "official_name": "Catholic Syrian Bank",
+          "operator": "CSB"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4308220071,
+        "lat": 12.9740685,
+        "lon": 77.5792924,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "name": "Bank of Baroda",
+          "name:kn": "\u0cb5\u0cbf\u0c9c\u0caf \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0cc1"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4368918389,
+        "lat": 12.9729745,
+        "lon": 77.5808399,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Corporation Bank",
+          "brand:wikidata": "Q2003387",
+          "name": "Corporation Bank",
+          "name:kn": "\u0c95\u0cbe\u0cb0\u0ccd\u0caa\u0cb0\u0cc7\u0cb7\u0ca8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4413510290,
+        "lat": 12.969833,
+        "lon": 77.5775083,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "45/6",
+          "addr:postcode": "500006",
+          "addr:street": "6th Cross Road",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "internet_access": "yes",
+          "name": "CCD",
+          "opening_hours": "09:00-06:00",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4443512312,
+        "lat": 12.9739174,
+        "lon": 77.5702629,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "430",
+          "addr:postcode": "560043",
+          "addr:street": "Kalyan Nagar",
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Mainland China",
+          "opening_hours": "12:00-15:30,19:00-23:30",
+          "phone": "080 2545 1358",
+          "smoking": "no",
+          "website": "https://www.speciality.co.in/mainland_china/index.html"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4446346449,
+        "lat": 12.9705436,
+        "lon": 77.5834769,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "5",
+          "addr:postcode": "560001",
+          "addr:street": "Nrupathunga Rd, RBI Colony, Sampangi Rama Nagar",
+          "amenity": "hospital",
+          "name": "St. Martha's Heart Centre",
+          "phone": "+9195380 43453",
+          "website": "locations.narayanahealth.org"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4446378097,
+        "lat": 12.9781121,
+        "lon": 77.5739587,
+        "tags": {
+          "addr:city": "Gandhi Nagar, Bangalore",
+          "addr:housenumber": "15",
+          "addr:postcode": "560009",
+          "addr:street": "Tank Bund Rd, RK Puram, Gandhi Nagar",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Gururaja Pharmacy",
+          "phone": "080 2235 0038"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4474511491,
+        "lat": 12.971335,
+        "lon": 77.5845467,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "name:kn": "\u0c8e\u0cb8\u0ccd \u0cac\u0cbf \u0c90",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4590905889,
+        "lat": 12.9754483,
+        "lon": 77.5699255,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "STC Canteen",
+          "name:en": "STC Canteen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4591093490,
+        "lat": 12.9771479,
+        "lon": 77.5700436,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "cash_in": "no",
+          "name": "Punjab National Bank",
+          "opening_hours": "24/7",
+          "operator": "Punjab National Bank",
+          "operator:wikidata": "Q2743499"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4591185689,
+        "lat": 12.9773797,
+        "lon": 77.5698067,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "cash_in": "no",
+          "name": "State Bank of India",
+          "name:kn": "\u0c8e\u0cb8\u0ccd \u0cac\u0cbf \u0c90",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4591203889,
+        "lat": 12.9772143,
+        "lon": 77.5700433,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "cash_in": "no",
+          "name": "Indian Bank",
+          "opening_hours": "24/7",
+          "operator": "Indian Bank",
+          "operator:wikidata": "Q2003789"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4655054151,
+        "lat": 12.9733363,
+        "lon": 77.5799372,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "2",
+          "addr:postcode": "560009",
+          "addr:street": "Kempegowda Road",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Allahabad Bank",
+          "brand:wikidata": "Q2018840",
+          "brand:wikipedia": "en:Allahabad Bank",
+          "fax": "080-22253402",
+          "name": "Allahabad Bank",
+          "name:en": "Allahabad Bank",
+          "name:kn": "\u0c85\u0cb2\u0ccd\u0cb2\u0cb9\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "phone": "080-22262064",
+          "phone_1": "080-22261599",
+          "website": "https://www.allahabadbank.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4763211058,
+        "lat": 12.9767392,
+        "lon": 77.5707435,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Karnataka Bank",
+          "brand:wikidata": "Q2042632",
+          "name": "Karnataka Bank",
+          "name:kn": "\u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Karnataka Bank",
+          "operator:wikidata": "Q2042632"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4799176111,
+        "lat": 12.9761326,
+        "lon": 77.577703,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:postcode": "560009",
+          "addr:street": "Fifth Main Road",
+          "alt_name": "A2B",
+          "amenity": "restaurant",
+          "brand": "Adyar Ananda Bhavan",
+          "brand:wikidata": "Q15178238",
+          "cuisine": "regional",
+          "diet:vegetarian": "only",
+          "email": "info@aabsweets.com",
+          "name": "Adyar Ananda Bhavan",
+          "name:kn": "\u0c86\u0ca6\u0ccd\u0caf\u0cbe\u0cb0\u0ccd \u0c86\u0ca8\u0c82\u0ca6 \u0cad\u0cb5\u0ca8",
+          "operator": "Adyar Ananda Bhavan",
+          "phone": "+91 80 4151 8999",
+          "shop": "confectionery",
+          "smoking": "no",
+          "website": "https://aabsweets.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4799194308,
+        "lat": 12.9742651,
+        "lon": 77.5753347,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:postcode": "560009",
+          "addr:street": "Kempe Gowda Road",
+          "alt_name": "A2B",
+          "amenity": "restaurant",
+          "brand": "Adyar Ananda Bhavan",
+          "brand:wikidata": "Q15178238",
+          "cuisine": "regional",
+          "diet:vegetarian": "only",
+          "email": "info@aabsweets.com",
+          "name": "Adyar Ananda Bhavan",
+          "name:kn": "\u0c86\u0ca6\u0ccd\u0caf\u0cbe\u0cb0\u0ccd \u0c86\u0ca8\u0c82\u0ca6 \u0cad\u0cb5\u0ca8",
+          "operator": "Adyar Ananda Bhavan",
+          "phone": "+91 80 4124 2999",
+          "shop": "confectionery",
+          "smoking": "no",
+          "website": "https://aabsweets.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4920192051,
+        "lat": 12.97771,
+        "lon": 77.5722474,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Karnataka Bank",
+          "brand:wikidata": "Q2042632",
+          "check_date": "2024-08-27",
+          "name": "Karnataka Bank",
+          "name:kn": "\u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Karnataka Bank",
+          "operator:wikidata": "Q2042632"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5261452102,
+        "lat": 12.9744205,
+        "lon": 77.5708775,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hotel Shreesagar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5261484918,
+        "lat": 12.9743591,
+        "lon": 77.5711607,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "cash_in": "no",
+          "name": "State Bank of India",
+          "name:kn": "\u0cad\u0cbe\u0cb0\u0ca4\u0cc0\u0caf \u0cb8\u0ccd\u0c9f\u0cc7\u0c9f\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5402224032,
+        "lat": 12.9802917,
+        "lon": 77.5779251,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "cuisine": "coffee_shop",
+          "name": "Cafe Coffee Day",
+          "name:kn": "\u0c95\u0cab\u0cc6 \u0c95\u0cbe\u0cab\u0cbf \u0ca1\u0cc7",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5462868116,
+        "lat": 12.9722318,
+        "lon": 77.5787988,
+        "tags": {
+          "addr:housenumber": "34/35",
+          "addr:street": "Kilari Road",
+          "amenity": "cafe",
+          "name": "South Canara Coffeehouse"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5922608008,
+        "lat": 12.974151,
+        "lon": 77.5749138,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Majestic Bar & Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5922608012,
+        "lat": 12.9740325,
+        "lon": 77.5755128,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank",
+          "name:kn": "\u0c95\u0ccb\u0c9f\u0c95\u0ccd \u0cae\u0cb9\u0cbf\u0c82\u0ca6\u0ccd\u0cb0 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5922608024,
+        "lat": 12.9750489,
+        "lon": 77.5761449,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Central Bank of India",
+          "brand:wikidata": "Q2007090",
+          "name": "Central Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5964545002,
+        "lat": 12.9755945,
+        "lon": 77.5752997,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "check_date": "2024-12-14",
+          "name": "State Bank of India",
+          "name:kn": "\u0cad\u0cbe\u0cb0\u0ca4\u0cc0\u0caf \u0cb8\u0ccd\u0c9f\u0cc7\u0c9f\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6210725029,
+        "lat": 12.9772008,
+        "lon": 77.5733371,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:kn": "\u0c90\u0cb8\u0cbf\u0c90\u0cb8\u0cbf\u0c90 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0cc1",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6418985026,
+        "lat": 12.9705176,
+        "lon": 77.5760191,
+        "tags": {
+          "addr:housenumber": "29",
+          "addr:street": "B.V.K. Iyengar Road",
+          "name": "Mutha department stores",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6418987489,
+        "lat": 12.9715705,
+        "lon": 77.5772659,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Jodhpur Sweets"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419008685,
+        "lat": 12.9703241,
+        "lon": 77.5760364,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Kachori house"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419008687,
+        "lat": 12.9690365,
+        "lon": 77.5768479,
+        "tags": {
+          "name": "Rukmini building",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419024189,
+        "lat": 12.9717448,
+        "lon": 77.5770331,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Karnataka Chat"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419027087,
+        "lat": 12.9696813,
+        "lon": 77.577009,
+        "tags": {
+          "addr:street": "A M line-A",
+          "amenity": "fast_food",
+          "name": "\u0939\u0928\u0941\u092e\u093e\u0928 \u091a\u093e\u091f\u094d\u0938",
+          "name:en": "Hanuman chats"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419044988,
+        "lat": 12.9692985,
+        "lon": 77.5793482,
+        "tags": {
+          "addr:street": "Avenue Road",
+          "amenity": "bank",
+          "brand": "Karur Vysya Bank",
+          "brand:wikidata": "Q6373724",
+          "name": "Karur Vysya Bank",
+          "name:kn": "\u0c95\u0cb0\u0cc2\u0cb0\u0cc1 \u0cb5\u0cc8\u0cb6\u0ccd\u0caf \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419044990,
+        "lat": 12.9688815,
+        "lon": 77.5791931,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI",
+          "survey:date": "2022-07-17"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419049986,
+        "lat": 12.9709487,
+        "lon": 77.578094,
+        "tags": {
+          "alt_name": "Haldiram",
+          "amenity": "fast_food",
+          "brand": "Haldiram's",
+          "brand:wikidata": "Q17054442",
+          "cuisine": "indian",
+          "name": "Haldiram's",
+          "shop": "confectionery",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419052586,
+        "lat": 12.9692487,
+        "lon": 77.5794495,
+        "tags": {
+          "amenity": "atm",
+          "brand": "IDFC First Bank",
+          "brand:wikidata": "Q22031467",
+          "check_date": "2022-07-17",
+          "name": "IDFC First Bank",
+          "operator": "IDFC First Bank",
+          "operator:wikidata": "Q22031467",
+          "survey:date": "2022-07-17"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419052685,
+        "lat": 12.9692728,
+        "lon": 77.579469,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419052686,
+        "lat": 12.9692389,
+        "lon": 77.5795139,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "brand:wikipedia": "en:Canara Bank",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419055686,
+        "lat": 12.9697564,
+        "lon": 77.5797471,
+        "tags": {
+          "addr:street": "Avenue Road",
+          "amenity": "bank",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "name": "Indian Bank",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419055687,
+        "lat": 12.9692492,
+        "lon": 77.5793602,
+        "tags": {
+          "addr:housenumber": "544",
+          "addr:postcode": "560053",
+          "addr:street": "Avenue Road",
+          "amenity": "fast_food",
+          "name": "Aradhana Gowri Condiments & Chats"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6419145385,
+        "lat": 12.9716342,
+        "lon": 77.5741018,
+        "tags": {
+          "addr:housenumber": "123/4",
+          "addr:postcode": "560053",
+          "addr:street": "Balepet Road",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Udupi Sri Krishna Bhavan",
+          "opening_hours": "We-Mo 07:45-19:45"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6487165548,
+        "lat": 12.977562,
+        "lon": 77.5744205,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Hotel Sanman"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6681215510,
+        "lat": 12.9774153,
+        "lon": 77.5744736,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Majestic Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6681215515,
+        "lat": 12.9742181,
+        "lon": 77.5793459,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Syndicate Bank",
+          "brand:wikidata": "Q2004088",
+          "layer": "2",
+          "name": "Syndicate Bank",
+          "name:kn": "\u0cb8\u0cbf\u0c82\u0ca1\u0cbf\u0c95\u0cc7\u0c9f\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6681215516,
+        "lat": 12.9734339,
+        "lon": 77.5806454,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "United Bank of India",
+          "brand:wikidata": "Q2003237",
+          "name": "United Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6698273388,
+        "lat": 12.9773998,
+        "lon": 77.5762252,
+        "tags": {
+          "addr:housenumber": "12",
+          "addr:street": "Gandhi Nagar 2nd Cross",
+          "name": "Grand Majestic Mall",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6938775840,
+        "lat": 12.9711822,
+        "lon": 77.5781228,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "7Th Cross, Rangaswamy Temple Street",
+          "addr:postcode": "560053",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "Amar Hospital",
+          "name:kn": "\u0c85\u0cae\u0cb0\u0ccd \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6944096791,
+        "lat": 12.9717138,
+        "lon": 77.5770294,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "202/3 Mahesh Towers R T Street",
+          "addr:postcode": "560053",
+          "addr:state": "Karnataka",
+          "amenity": "clinic",
+          "name": "Mahesh Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6945768862,
+        "lat": 12.9732706,
+        "lon": 77.5725357,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "No. 12, Park Road, Bale Peth",
+          "addr:postcode": "560053",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "Sreeniwasa Hospital",
+          "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0\u0ca8\u0cbf\u0cb5\u0cbe\u0cb8 \u0ca6\u0cc7\u0cb5\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7276500360,
+        "lat": 12.9824081,
+        "lon": 77.5747713,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7292436129,
+        "lat": 12.9720421,
+        "lon": 77.5832324,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "name:kn": "\u0c86\u0c95\u0ccd\u0cb8\u0cbf\u0cb8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7292436130,
+        "lat": 12.9721584,
+        "lon": 77.5830647,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "brand:wikipedia": "en:Canara Bank",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7292436131,
+        "lat": 12.9722943,
+        "lon": 77.5829172,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7292436135,
+        "lat": 12.9732666,
+        "lon": 77.5800808,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank",
+          "name:kn": "\u0c95\u0ccb\u0c9f\u0c95\u0ccd \u0cae\u0cb9\u0cbf\u0c82\u0ca6\u0ccd\u0cb0 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7292436138,
+        "lat": 12.9740926,
+        "lon": 77.5782381,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "South Indian Bank",
+          "brand:wikidata": "Q2044973",
+          "name": "South Indian Bank",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7576958029,
+        "lat": 12.970483,
+        "lon": 77.5789065,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Anchepet, Chickpet, Bengaluru",
+          "addr:postcode": "560053",
+          "addr:state": "Karnataka",
+          "amenity": "clinic",
+          "name": "Priya Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7576958054,
+        "lat": 12.9712575,
+        "lon": 77.5777304,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Rangaswamy Temple Road, Mamulpet, Bengaluru",
+          "addr:postcode": "560053",
+          "addr:state": "Karnataka",
+          "amenity": "clinic",
+          "name": "Sham Singh Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7576958086,
+        "lat": 12.9702549,
+        "lon": 77.5734571,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Santhusapet, Bengaluru",
+          "addr:postcode": "560053",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "Manavarthapet Pregnancy Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7576958095,
+        "lat": 12.972126,
+        "lon": 77.573351,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "JM Road, Upparpete, Bengaluru",
+          "addr:postcode": "560053",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "ESI Hospital",
+          "operator": "Employees' State Insurance",
+          "operator:short": "ESI",
+          "operator:wikidata": "Q3595726",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7576958114,
+        "lat": 12.9690341,
+        "lon": 77.57708,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Cubbon Pet Main Road, Cubbonpet, Bengaluru",
+          "addr:postcode": "560002",
+          "addr:state": "Karnataka",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Shyam Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7658290107,
+        "lat": 12.9802518,
+        "lon": 77.5861466,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "LORE"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7658290108,
+        "lat": 12.9800179,
+        "lon": 77.5859709,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Tijuori"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8187963426,
+        "lat": 12.98,
+        "lon": 77.576,
+        "tags": {
+          "addr:full": "Plot No 41, Seshadri Rd, Anand Rao Circle, Bengaluru, Karnataka",
+          "addr:state": "Karnataka",
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "name:kn": "\u0c86\u0c95\u0ccd\u0cb8\u0cbf\u0cb8\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8187963461,
+        "lat": 12.9769785,
+        "lon": 77.5788979,
+        "tags": {
+          "addr:full": "No 24, 2nd Cross Rd, Gandhi Nagar, Bengaluru, Karnataka",
+          "addr:state": "Karnataka",
+          "amenity": "bank",
+          "brand": "Federal Bank",
+          "brand:wikidata": "Q2044983",
+          "name": "Federal Bank",
+          "name:kn": "\u0cab\u0cc6\u0ca1\u0cc6\u0cb0\u0cb2\u0ccd \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9063471393,
+        "lat": 12.9840625,
+        "lon": 77.580813,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9063471395,
+        "lat": 12.984414,
+        "lon": 77.578281,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9777549169,
+        "lat": 12.9719232,
+        "lon": 77.5866602,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Snacks Stall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9892036239,
+        "lat": 12.972753,
+        "lon": 77.570233,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Sri Govinda Rao Military Hotel",
+          "start_date": "1908"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9893686519,
+        "lat": 12.9686449,
+        "lon": 77.5749197,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "cash_in": "no",
+          "check_date": "2025-08-23",
+          "name": "HDFC Bank",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC",
+          "survey:date": "2022-07-17"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10628437914,
+        "lat": 12.975895,
+        "lon": 77.5774641,
+        "tags": {
+          "addr:city": "Bangalore",
+          "addr:housenumber": "1st floor, near Thribhuvan Theatre, Gandhi Nagar",
+          "addr:postcode": "560009",
+          "addr:street": "5th Main Rd",
+          "brand": "DMart",
+          "brand:wikidata": "Q5203271",
+          "check_date": "2023-02-09",
+          "name": "DMart",
+          "operator": "D Mart",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11292257027,
+        "lat": 12.9776273,
+        "lon": 77.5695903,
+        "tags": {
+          "amenity": "pharmacy",
+          "contact:mobile": "+91-8433-808080",
+          "contact:whatsapp": "+91-8433-808080",
+          "healthcare": "pharmacy",
+          "level": "0",
+          "name": "Davadost",
+          "operator": "Davadost Pharma Private Limited",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11304774640,
+        "lat": 12.9697214,
+        "lon": 77.5757325,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "juice",
+          "level": "0",
+          "name": "Bhavani Juice Center"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11304774643,
+        "lat": 12.9690078,
+        "lon": 77.5750942,
+        "tags": {
+          "amenity": "restaurant",
+          "level": "0;1",
+          "name": "Hotel Raghavendra Prasanna",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11304864993,
+        "lat": 12.9764244,
+        "lon": 77.5717454,
+        "tags": {
+          "amenity": "restaurant",
+          "level": "0",
+          "name": "Kadamba Veg"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11535240176,
+        "lat": 12.97995,
+        "lon": 77.5771154,
+        "tags": {
+          "addr:city": "Be\u1e45ga\u1e37\u016bru",
+          "addr:neighborhood": "G\u0101ndhinagara",
+          "addr:state": "KA",
+          "alt_name:ur": "\u062f\u06cc\u0633\u06cc \u0645\u0633\u0627\u0644\u06c1\u0627",
+          "amenity": "restaurant",
+          "contact:instagram": "desimasala_veg",
+          "cuisine": "indian;buffet",
+          "diet:vegetarian": "yes",
+          "email": "enquiry@thedesimasala.net",
+          "facebook": "desimasalaveg",
+          "name": "Des\u012b Mas\u0101l\u0101",
+          "name:hi": "\u0926\u0947\u0938\u0940 \u092e\u0938\u093e\u0932\u093e",
+          "name:hi-Latn": "Des\u012b Mas\u0101l\u0101",
+          "name:ur": "\u062f\u06cc\u0633\u06cc \u0645\u0635\u0627\u0644\u062d\u06c1",
+          "name:ur-Latn": "Des\u012b Mas\u0101lh\u0101",
+          "opening_hours": "07:00-23:00",
+          "phone": "+91-7406324999",
+          "website": "http://www.thedesimasala.net/GANDHI%20NAGAR.html"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11539135182,
+        "lat": 12.9776114,
+        "lon": 77.5778024,
+        "tags": {
+          "addr:city": "Be\u1e45ga\u1e37\u016bru",
+          "addr:neighborhood": "G\u0101ndhinagara",
+          "addr:postcode": "560009",
+          "alt_name:en": "Idli-Dosa-Coffee Kitchen",
+          "alt_name:en1": "Idli, Dosa, Coffee Kitchen",
+          "alt_name:kn-Latn": "I\u1e0dli, D\u014dse, K\u0101phi",
+          "alt_name:tl": "Kusinang IDC",
+          "amenity": "restaurant",
+          "cuisine": "indian;coffee",
+          "diet:vegetarian": "yes",
+          "email": "hello@idckitchen.com",
+          "name": "IDC Kitchen",
+          "name:cbk-zam": "Cocina IDC",
+          "name:ceb": "Kosinang IDC",
+          "name:es": "Cocina IDC",
+          "name:hil": "Kosina IDC",
+          "name:krj": "Kosina IDC",
+          "name:pag": "Kosinan IDC",
+          "name:pam": "Kos\u00ednang IDC",
+          "name:tl": "Kosinang IDC",
+          "website": "https://www.idckitchen.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11539135183,
+        "lat": 12.9790306,
+        "lon": 77.5762924,
+        "tags": {
+          "addr:city": "Be\u1e45ga\u1e37\u016bru",
+          "addr:neighborhood": "G\u0101ndhinagara",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Sai Grand",
+          "name:es": "Gran S\u0101yi",
+          "name:kn": "\u0cb8\u0cbe\u0caf\u0cbf \u0c97\u0ccd\u0cb0\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd",
+          "name:kn-Latn": "S\u0101yi Gry\u0101\u1e47\u1e0d",
+          "phone": "+919901899080"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11540382457,
+        "lat": 12.9788456,
+        "lon": 77.5794256,
+        "tags": {
+          "addr:city": "Be\u1e45ga\u1e37\u016bru",
+          "addr:neighborhood": "G\u0101ndhinagara",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Bhara\u1e47i Kafe",
+          "name:en": "Bhara\u1e47i Caf\u00e9",
+          "name:es": "Caf\u00e9 Bhara\u1e47i",
+          "name:kn": "\u0cad\u0cb0\u0ca3\u0cbf \u0c95\u0cab\u0cbc\u0cc6",
+          "name:kn-Latn": "Bhara\u1e47i Kafe",
+          "phone": "+919243103062"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11540382458,
+        "lat": 12.9775335,
+        "lon": 77.57581,
+        "tags": {
+          "addr:city": "Be\u1e45ga\u1e37\u016bru",
+          "addr:neighborhood": "G\u0101ndhinagara",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "Priyadar\u015bini",
+          "name:en": "Priyadarshini Restaurant",
+          "name:es": "Restaurante Priyadar\u015bini",
+          "name:it": "Ristorante Priyadar\u015bini",
+          "name:kn": "\u0caa\u0ccd\u0cb0\u0cbf\u0caf\u0ca6\u0cb0\u0ccd\u0cb6\u0cbf\u0ca8\u0cbf",
+          "opening_hours": "07:00-22:00",
+          "phone": "+918022263793"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11592710084,
+        "lat": 12.9762005,
+        "lon": 77.5755635,
+        "tags": {
+          "addr:city": "Be\u1e45ga\u1e37\u016bru",
+          "addr:neighborhood": "G\u0101ndhinagara",
+          "addr:state": "KA",
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "drive_through": "no",
+          "healthcare": "pharmacy",
+          "name:en": "Gurur\u0101ja Medicals",
+          "name:hi-Latn": "Gurur\u0101j",
+          "name:ur-Latn": "Gurur\u0101j",
+          "opening_hours": "08:00-22:00",
+          "phone": "+9180 2225 6783;+918022911966;+917259440612",
+          "website": "https://business.google.com/website/gururaja-medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11677179251,
+        "lat": 12.9795114,
+        "lon": 77.5748405,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-02-29",
+          "name": "Kanteen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11677179255,
+        "lat": 12.9779603,
+        "lon": 77.5752566,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-02-29",
+          "name": "Chicken County"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11677179256,
+        "lat": 12.9781021,
+        "lon": 77.5752146,
+        "tags": {
+          "amenity": "pharmacy",
+          "check_date": "2024-02-29",
+          "healthcare": "pharmacy",
+          "name": "Sri Krishna Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11677179259,
+        "lat": 12.9783689,
+        "lon": 77.5760446,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-02-29",
+          "name": "Sri Kenchamba"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11677179261,
+        "lat": 12.9777076,
+        "lon": 77.5753452,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-02-29",
+          "name": "Hotel Sagar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11677179263,
+        "lat": 12.9783411,
+        "lon": 77.575127,
+        "tags": {
+          "amenity": "pharmacy",
+          "check_date": "2024-02-29",
+          "healthcare": "pharmacy",
+          "name": "Amogh Medical"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11681984870,
+        "lat": 12.9765077,
+        "lon": 77.57598,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "check_date": "2024-03-01",
+          "name": "State Bank of India",
+          "name:kn": "\u0c8e\u0cb8\u0ccd \u0cac\u0cbf \u0c90",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11681984873,
+        "lat": 12.9766767,
+        "lon": 77.5761455,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-03-01",
+          "name": "Amulya Veg Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11681984877,
+        "lat": 12.9759237,
+        "lon": 77.5760702,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "check_date": "2024-03-01",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11681984878,
+        "lat": 12.9758159,
+        "lon": 77.5757621,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-03-01",
+          "name": "Ashok Ahaar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11681984882,
+        "lat": 12.9771207,
+        "lon": 77.5761475,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-03-01",
+          "name": "Sri Maruthi Gowdas Military Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11683098373,
+        "lat": 12.9764266,
+        "lon": 77.5794711,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Indian Overseas Bank",
+          "brand:wikidata": "Q2003611",
+          "check_date": "2024-03-02",
+          "name": "Indian Overseas Bank",
+          "name:kn": "\u0c90 \u0c93 \u0cac\u0cbf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11683098374,
+        "lat": 12.9782362,
+        "lon": 77.5808398,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "check_date": "2024-03-02",
+          "name": "Union Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11687235827,
+        "lat": 12.9807471,
+        "lon": 77.5766813,
+        "tags": {
+          "amenity": "fast_food",
+          "check_date": "2024-03-03",
+          "name": "The Kingdom"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944683,
+        "lat": 12.9778851,
+        "lon": 77.571259,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944684,
+        "lat": 12.9784,
+        "lon": 77.5718417,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944685,
+        "lat": 12.9785535,
+        "lon": 77.5724063,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944686,
+        "lat": 12.9781027,
+        "lon": 77.5732076,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944689,
+        "lat": 12.9782504,
+        "lon": 77.5726819,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944691,
+        "lat": 12.978217,
+        "lon": 77.5720167,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944696,
+        "lat": 12.9778877,
+        "lon": 77.5725304,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13086275908,
+        "lat": 12.979026,
+        "lon": 77.5776266,
+        "tags": {
+          "amenity": "restaurant",
+          "contact:instagram": "extrachutney.blr",
+          "cuisine": "south_indian",
+          "name": "Extra Chutney"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13086275912,
+        "lat": 12.985053,
+        "lon": 77.5791058,
+        "tags": {
+          "amenity": "cafe",
+          "contact:instagram": "blancthecoffeeplace_",
+          "cuisine": "coffee_shop",
+          "name": "Blanc The Coffee Place"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:58:58Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 246396993,
+        "lat": 12.9783064,
+        "lon": 77.5692678,
+        "tags": {
+          "name": "Bangalore City Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SBC:1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 320647365,
+        "lat": 12.9642064,
+        "lon": 77.5768931,
+        "tags": {
+          "bus": "yes",
+          "crossing": "uncontrolled",
+          "highway": "traffic_signals",
+          "name": "KR Market",
+          "name:en": "Krishnarajendra Market",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cae\u0cbe\u0cb0\u0cc1\u0c95\u0c9f\u0ccd\u0c9f\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347295628,
+        "lat": 12.9781831,
+        "lon": 77.5717624,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 28A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 347295648,
+        "lat": 12.9783665,
+        "lon": 77.5730556,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 23",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 429698093,
+        "lat": 12.9766767,
+        "lon": 77.5766838,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Gubbi Veerana Nataka",
+          "name:kn": "\u0c97\u0cc1\u0cac\u0ccd\u0cac\u0cbf \u0cb5\u0cc0\u0cb0\u0ca3\u0ccd\u0ca3 \u0ca8\u0cbe\u0c9f\u0c95"
+        }
+      },
+      {
+        "type": "node",
+        "id": 456039716,
+        "lat": 12.9931208,
+        "lon": 77.5710734,
+        "tags": {
+          "addr:street": "Sampige Road",
+          "amenity": "cinema",
+          "name": "Sampige Theatre",
+          "name:kn": "\u0cb8\u0c82\u0caa\u0cbf\u0c97\u0cc6"
+        }
+      },
+      {
+        "type": "node",
+        "id": 459815970,
+        "lat": 12.9692233,
+        "lon": 77.5984978,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "theatre",
+          "name": "Bishop George Edward Lynch Cotton Auditorium",
+          "source": "local knowledge;survey",
+          "website": "https://bishopcottonboysschool.edu.in/infrastructure",
+          "wikimedia_commons": "File:Cottons_Auditorium.jpg"
+        }
+      },
+      {
+        "type": "node",
+        "id": 568344479,
+        "lat": 12.9779727,
+        "lon": 77.5911088,
+        "tags": {
+          "code": "VDSA",
+          "local_ref": "2",
+          "name": "Dr. B. R. Ambedkar Station, Vidhana Soudha",
+          "name:etymology:wikidata": "Q231690",
+          "name:kn": "\u0cb5\u0cbf\u0ca7\u0cbe\u0ca8 \u0cb8\u0ccc\u0ca7",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "to": "Challaghatta",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 577030466,
+        "lat": 12.9867764,
+        "lon": 77.5671966,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Aruna Theatre",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 594206377,
+        "lat": 12.9571863,
+        "lon": 77.5862334,
+        "tags": {
+          "addr:street": "Lalbagh Road",
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0c86\u0caf\u0cbf\u0cb2\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663195620,
+        "lat": 12.9758832,
+        "lon": 77.5968704,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Bal Bhavan Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663313913,
+        "lat": 12.9758396,
+        "lon": 77.5985677,
+        "tags": {
+          "addr:street": "Kasturba Road",
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "compressed_air": "yes",
+          "name": "Bharat Petroleum",
+          "name:kn": "\u0cad\u0cbe\u0cb0\u0ca4\u0ccd \u0caa\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb\u0cb2\u0cbf\u0caf\u0c82"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663596610,
+        "lat": 12.9839163,
+        "lon": 77.5973764,
+        "tags": {
+          "alt_name": "Balekundri Circle",
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Indian Express",
+          "name:en": "Indian Express",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0c8e\u0c95\u0ccd\u0cb8\u0caa\u0ccd\u0cb0\u0cc6\u0cb8\u0ccd",
+          "network": "BMTC",
+          "network:wikidata": "Q3345039",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 663599423,
+        "lat": 12.9725456,
+        "lon": 77.5862547,
+        "tags": {
+          "addr:street": "Nrupathunga Road",
+          "amenity": "theatre",
+          "name": "Daly Memorial Hall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 665811373,
+        "lat": 12.9737987,
+        "lon": 77.5866865,
+        "tags": {
+          "bus": "yes",
+          "name": "KR Circle",
+          "name:en": "KR Circle",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588782,
+        "lat": 12.9783651,
+        "lon": 77.5681771,
+        "tags": {
+          "name": "Bangalore City Junction",
+          "name:kn": "\u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SBC:7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588784,
+        "lat": 12.9782669,
+        "lon": 77.5689394,
+        "tags": {
+          "name": "Bangalore City Junction",
+          "name:kn": "\u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SBC:4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588786,
+        "lat": 12.9783166,
+        "lon": 77.5692242,
+        "tags": {
+          "name": "Bangalore City Junction",
+          "name:kn": "\u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SBC:2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588787,
+        "lat": 12.9783553,
+        "lon": 77.5682244,
+        "tags": {
+          "name": "Bangalore City Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SBC:6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588788,
+        "lat": 12.9784008,
+        "lon": 77.5678774,
+        "tags": {
+          "name": "Bangalore City Junction",
+          "name:kn": "\u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SBC:10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588789,
+        "lat": 12.9784045,
+        "lon": 77.568007,
+        "tags": {
+          "name": "Bangalore City Junction",
+          "name:kn": "\u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SBC:9",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588796,
+        "lat": 12.9783992,
+        "lon": 77.568046,
+        "tags": {
+          "name": "Bangalore City Junction",
+          "name:kn": "\u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0 \u0cb0\u0cc8\u0cb2\u0cc1 \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SBC:8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 806588798,
+        "lat": 12.9782835,
+        "lon": 77.5685839,
+        "tags": {
+          "name": "Bangalore City Junction",
+          "name:kn": "\u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb0\u0cc1 \u0ca8\u0c97\u0cb0",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "SBC:5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1060580206,
+        "lat": 12.9677686,
+        "lon": 77.569887,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Super talkies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1087823607,
+        "lat": 12.9745014,
+        "lon": 77.5842326,
+        "tags": {
+          "alt_name": "Central College",
+          "code": "VSWA",
+          "name": "Sir M. Visvesvaraya Stn., Central College",
+          "name:kn": "\u0cb5\u0cbf\u0cb6\u0ccd\u0cb5\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0caf\u0ccd\u0caf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1363295014,
+        "lat": 12.9895632,
+        "lon": 77.5877862,
+        "tags": {
+          "amenity": "theatre",
+          "name": "NGMA Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1524381523,
+        "lat": 12.9608898,
+        "lon": 77.5746822,
+        "tags": {
+          "code": "KRMT",
+          "name": "Krishna Rajendra Market",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cae\u0cbe\u0cb0\u0cc1\u0c95\u0c9f\u0ccd\u0c9f\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "short_name": "K R Market",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q24912918",
+          "wikipedia": "en:Krishna Rajendra Market metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1548300484,
+        "lat": 12.966924,
+        "lon": 77.5745737,
+        "tags": {
+          "code": "CKPE",
+          "name": "Chickpete",
+          "name:hi": "\u091a\u093f\u0915\u092a\u0947\u091f\u0947",
+          "name:kn": "\u0c9a\u0cbf\u0c95\u0ccd\u0c95\u0caa\u0cc7\u0c9f\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1548828179,
+        "lat": 12.9904754,
+        "lon": 77.5707615,
+        "tags": {
+          "alt_name": "Swastik",
+          "code": "SPGD",
+          "name": "Mantri Square Sampige Road",
+          "name:kn": "\u0cae\u0c82\u0ca4\u0ccd\u0cb0\u0cbf \u0cb8\u0ccd\u0c95\u0ccd\u0cb5\u0cc7\u0cb0\u0ccd \u0cb8\u0c82\u0caa\u0cbf\u0c97\u0cc6 \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17088462",
+          "wikipedia": "en:Sampige Road metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1560067666,
+        "lat": 12.9758581,
+        "lon": 77.5653792,
+        "tags": {
+          "code": "BRCS",
+          "name": "Krantivira Sangolli Rayanna Railway Station",
+          "name:kn": "\u0ca8\u0c97\u0cb0 \u0cb0\u0cc8\u0cb2\u0cc1 \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q39070950",
+          "wikipedia": "en:City Railway Station metro station (Bangalore)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1614366547,
+        "lat": 12.9883033,
+        "lon": 77.5774436,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum",
+          "name:kn": "\u0cad\u0cbe\u0cb0\u0ca4\u0ccd \u0caa\u0cc6\u0c9f\u0ccd\u0cb0\u0ccb\u0cb2\u0cbf\u0caf\u0c82",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1617398481,
+        "lat": 12.9596642,
+        "lon": 77.5829322,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "BP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1791587673,
+        "lat": 12.9554779,
+        "lon": 77.5733626,
+        "tags": {
+          "addr:street": "Krishna Rajendra Road",
+          "amenity": "theatre",
+          "name": "Gayana Samaja",
+          "name:kn": "\u0c97\u0cbe\u0caf\u0ca8 \u0cb8\u0cae\u0cbe\u0c9c",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1806966554,
+        "lat": 12.9672844,
+        "lon": 77.57,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "AEGIS AUTO GAS",
+          "fuel:1_25": "no",
+          "fuel:1_50": "no",
+          "fuel:GTL_diesel": "no",
+          "fuel:HGV_diesel": "no",
+          "fuel:biodiesel": "no",
+          "fuel:biogas": "no",
+          "fuel:cng": "no",
+          "fuel:diesel": "no",
+          "fuel:e10": "no",
+          "fuel:e85": "no",
+          "fuel:electricity": "no",
+          "fuel:lpg": "yes",
+          "fuel:octane_100": "no",
+          "fuel:octane_91": "no",
+          "fuel:octane_95": "no",
+          "fuel:octane_98": "no",
+          "name": "Shree Krishna Auto Gas",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2016215963,
+        "lat": 12.9841172,
+        "lon": 77.5600221,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2249053699,
+        "lat": 12.9810568,
+        "lon": 77.5583911,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0c86\u0caf\u0cbf\u0cb2\u0ccd",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2394045745,
+        "lat": 12.9878348,
+        "lon": 77.5743169,
+        "tags": {
+          "bus": "yes",
+          "name": "Swastik Sheshadripuram College",
+          "name:en": "Swastik Sheshadripuram College",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2397089966,
+        "lat": 12.9834359,
+        "lon": 77.5971078,
+        "tags": {
+          "bus": "yes",
+          "local_ref": "BALEKUNDRI CIRCLE",
+          "name": "Indian Express",
+          "name:en": "Indian Express",
+          "name:kn": "\u0cb5\u0cb8\u0c82\u0ca4 \u0ca8\u0c97\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2466476118,
+        "lat": 12.9765112,
+        "lon": 77.5799146,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2024-03-02",
+          "compressed_air": "yes",
+          "name": "Bharat Petroleum",
+          "operator": "Chanders"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2467854906,
+        "lat": 12.9873459,
+        "lon": 77.5723926,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Vijees Auto Gas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2476128053,
+        "lat": 12.9782608,
+        "lon": 77.5729,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 12",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2669084978,
+        "lat": 12.9781739,
+        "lon": 77.5695603,
+        "tags": {
+          "internet_access": "wlan",
+          "name": "Krantivira Sangolli Rayanna (Bengaluru)",
+          "name:kn": "\u0c95\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0cbf\u0cb5\u0cc0\u0cb0 \u0cb8\u0c82\u0c97\u0cca\u0cb3\u0ccd\u0cb3\u0cbf \u0cb0\u0cbe\u0caf\u0ca3\u0ccd\u0ca3 \u0cb0\u0cc8\u0cb2\u0ccd\u0cb5\u0cc6 \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+          "name:ml": "\u0d15\u0d4d\u0d30\u0d3e\u0d28\u0d4d\u0d24\u0d3f\u0d35\u0d40\u0d30 \u0d38\u0d19\u0d4d\u0d15\u0d4a\u0d32\u0d4d\u0d32\u0d3f \u0d30\u0d3e\u0d2f\u0d23\u0d4d\u0d23 \u0d31\u0d46\u0d2f\u0d3f\u0d7d\u0d35\u0d47 \u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d47\u0d37\u0d7b",
+          "name:te": "\u0c15\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c3f\u0c35\u0c40\u0c30 \u0c38\u0c02\u0c17\u0c4a\u0c32\u0c4d\u0c32\u0c3f \u0c30\u0c3e\u0c2f\u0c28\u0c4d\u0c28 \u0c30\u0c48\u0c32\u0c4d\u0c35\u0c47 \u0c38\u0c4d\u0c1f\u0c47\u0c37\u0c28\u0c4d",
+          "network": "IR",
+          "old_name": "Bangalore City Junction",
+          "operator": "SWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SBC",
+          "short_name": "KSR Bengaluru",
+          "wheelchair": "yes",
+          "wikidata": "Q3633970"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3198633191,
+        "lat": 12.9869097,
+        "lon": 77.5789251,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "loc_name": "VASANTHA NAGARA",
+          "name": "Shivananda Stores",
+          "name:en": "Shivananda Stores",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3320950152,
+        "lat": 12.9900294,
+        "lon": 77.5721105,
+        "tags": {
+          "bus": "yes",
+          "name": "Central",
+          "name:en": "Central",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3343297219,
+        "lat": 12.9808954,
+        "lon": 77.597562,
+        "tags": {
+          "code": "CBPK",
+          "name": "Cubbon Park",
+          "name:etymology:wikidata": "Q6767214",
+          "name:hi": "\u0915\u092c\u0928 \u092a\u093e\u0930\u094d\u0915",
+          "name:kn": "\u0c95\u0cac\u0ccd\u0cac\u0ca8\u0ccd \u0caa\u0cbe\u0cb0\u0ccd\u0c95\u0ccd",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q5192189",
+          "wikipedia": "en:Cubbon Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3664774925,
+        "lat": 12.9920489,
+        "lon": 77.5706285,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:postcode": "560003",
+          "addr:street": "Sampige Road",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "INOX Malleshwaram - Mantri Square",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3755608905,
+        "lat": 12.9786086,
+        "lon": 77.5725521,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 21",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3756218734,
+        "lat": 12.9824156,
+        "lon": 77.5620528,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "loc_name": "RAMACHANDRAPURAM",
+          "name": "Sujatha Talkies",
+          "name:en": "Sujatha Talkies",
+          "name:kn": "\u0cb8\u0cc1\u0c9c\u0cbe\u0ca4 \u0c9a\u0cbf\u0ca4\u0ccd\u0cb0\u0cae\u0c82\u0ca6\u0cbf\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875744057,
+        "lat": 12.9777644,
+        "lon": 77.5728494,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 1",
+          "name:kn": "\u0c85\u0c82\u0c95\u0ca3 \u0ce7",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875744058,
+        "lat": 12.9779442,
+        "lon": 77.5727259,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 2",
+          "name:kn": "\u0c85\u0c82\u0c95\u0ca3 \u0ce8",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875768038,
+        "lat": 12.9780562,
+        "lon": 77.5725348,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 3",
+          "name:kn": "\u0c85\u0c82\u0c95\u0ca3 \u0ce9",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875768039,
+        "lat": 12.9780653,
+        "lon": 77.5722489,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 3A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875768040,
+        "lat": 12.9779148,
+        "lon": 77.571813,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 5",
+          "name:kn": "\u0c85\u0c82\u0c95\u0ca3 \u0ceb",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875790066,
+        "lat": 12.9780458,
+        "lon": 77.5719149,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 6",
+          "name:kn": "\u0cb5\u0cc7\u0ca6\u0cbf\u0c95\u0cc6 \u0cec",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875790067,
+        "lat": 12.9781429,
+        "lon": 77.5720401,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 6A",
+          "name:kn": "\u0cb5\u0cc7\u0ca6\u0cbf\u0c95\u0cc6 \u0cec\u0c8e",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875790068,
+        "lat": 12.9781992,
+        "lon": 77.5721632,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 7",
+          "name:kn": "\u0cb5\u0cc7\u0ca6\u0cbf\u0c95\u0cc6 \u0ced",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875790069,
+        "lat": 12.9782295,
+        "lon": 77.5722952,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 8",
+          "name:kn": "\u0cb5\u0cc7\u0ca6\u0cbf\u0c95\u0cc6 \u0cee",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3875790070,
+        "lat": 12.9782221,
+        "lon": 77.5725112,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 8A",
+          "name:kn": "\u0cb5\u0cc7\u0ca6\u0cbf\u0c95\u0cc6 \u0cee\u0c8e",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4128058314,
+        "lat": 12.9554504,
+        "lon": 77.574569,
+        "tags": {
+          "amenity": "theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4130960190,
+        "lat": 12.965813,
+        "lon": 77.5622167,
+        "tags": {
+          "addr:street": "Tank Bund Road",
+          "amenity": "cinema",
+          "brand": "Cinepolis",
+          "brand:wikidata": "Q5686673",
+          "name": "Cinepolis ETA Mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5305932617,
+        "lat": 12.9756704,
+        "lon": 77.5728057,
+        "tags": {
+          "alt_name": "Majestic Metro Station",
+          "code": "KGWA",
+          "layer": "-1",
+          "level": "-1",
+          "name": "Nadaprabhu Kempegowda Station, Majestic (Purple Line)",
+          "name:etymology:wikidata": "Q6387049",
+          "name:kn": "\u0c95\u0cc6\u0c82\u0caa\u0cc7\u0c97\u0ccc\u0ca1",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5335240455,
+        "lat": 12.9771006,
+        "lon": 77.5857758,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Maharani College, KR Circle",
+          "network": "BMTC",
+          "network:wikidata": "Q3345039",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5464787094,
+        "lat": 12.9750646,
+        "lon": 77.5730388,
+        "tags": {
+          "alt_name": "Majestic Metro Station",
+          "code": "KGWA",
+          "layer": "-2",
+          "level": "-2",
+          "name": "Nadaprabhu Kempegowda Station, Majestic (Green Line)",
+          "name:etymology:wikidata": "Q6387049",
+          "name:kn": "\u0c95\u0cc6\u0c82\u0caa\u0cc7\u0c97\u0ccc\u0ca1",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5558684094,
+        "lat": 12.9612109,
+        "lon": 77.5750888,
+        "tags": {
+          "alt_name": "Veterinary Hospital",
+          "bus": "yes",
+          "name": "KR Market",
+          "name:en": "KR Market",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cae\u0cbe\u0cb0\u0cc1\u0c95\u0c9f\u0ccd\u0c9f\u0cc6",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5560544561,
+        "lat": 12.9678731,
+        "lon": 77.5906692,
+        "tags": {
+          "bus": "yes",
+          "name": "Hudson Circle",
+          "name:en": "Hudson Circle",
+          "name:kn": "\u0cb9\u0ca1\u0ccd\u0cb8\u0ca8\u0ccd \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197788,
+        "lat": 12.9759026,
+        "lon": 77.5653744,
+        "tags": {
+          "code": "BRCS",
+          "name": "Krantivira Sangolli Rayanna Railway Station",
+          "name:kn": "\u0ca8\u0c97\u0cb0 \u0cb0\u0cc8\u0cb2\u0cc1 \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q39070950",
+          "wikipedia": "en:City Railway Station metro station (Bangalore)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197798,
+        "lat": 12.9809794,
+        "lon": 77.5975758,
+        "tags": {
+          "code": "CBPK",
+          "name": "Cubbon Park",
+          "name:etymology:wikidata": "Q6767214",
+          "name:hi": "\u0915\u092c\u0928 \u092a\u093e\u0930\u094d\u0915",
+          "name:kn": "\u0c95\u0cac\u0ccd\u0cac\u0ca8\u0ccd \u0caa\u0cbe\u0cb0\u0ccd\u0c95\u0ccd",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q5192189",
+          "wikipedia": "en:Cubbon Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197799,
+        "lat": 12.978996,
+        "lon": 77.591831,
+        "tags": {
+          "code": "VDSA",
+          "local_ref": "1",
+          "name": "Dr. B. R. Ambedkar Station, Vidhana Soudha",
+          "name:etymology:wikidata": "Q231690",
+          "name:kn": "\u0cb5\u0cbf\u0ca7\u0cbe\u0ca8 \u0cb8\u0ccc\u0ca7",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "to": "Whitefield (Kadugodi)",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197800,
+        "lat": 12.9757512,
+        "lon": 77.5730887,
+        "tags": {
+          "alt_name": "Majestic Metro Station",
+          "code": "KGWA",
+          "layer": "-1",
+          "level": "-1",
+          "name": "Nadaprabhu Kempegowda Station, Majestic (Purple Line)",
+          "name:etymology:wikidata": "Q6387049",
+          "name:kn": "\u0c95\u0cc6\u0c82\u0caa\u0cc7\u0c97\u0ccc\u0ca1",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760197802,
+        "lat": 12.9745398,
+        "lon": 77.584209,
+        "tags": {
+          "alt_name": "Central College",
+          "code": "VSWA",
+          "name": "Sir M. Visvesvaraya Stn., Central College",
+          "name:kn": "\u0cb5\u0cbf\u0cb6\u0ccd\u0cb5\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0caf\u0ccd\u0caf",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198468,
+        "lat": 12.9759557,
+        "lon": 77.5728675,
+        "tags": {
+          "alt_name": "Majestic Metro Station",
+          "code": "KGWA",
+          "layer": "-2",
+          "level": "-2",
+          "name": "Nadaprabhu Kempegowda Station, Majestic (Green Line)",
+          "name:etymology:wikidata": "Q6387049",
+          "name:kn": "\u0c95\u0cc6\u0c82\u0caa\u0cc7\u0c97\u0ccc\u0ca1",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198469,
+        "lat": 12.9669249,
+        "lon": 77.5745314,
+        "tags": {
+          "code": "CKPE",
+          "name": "Chickpete",
+          "name:hi": "\u091a\u093f\u0915\u092a\u0947\u091f\u0947",
+          "name:kn": "\u0c9a\u0cbf\u0c95\u0ccd\u0c95\u0caa\u0cc7\u0c9f\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198473,
+        "lat": 12.960896,
+        "lon": 77.5746404,
+        "tags": {
+          "code": "KRMT",
+          "name": "Krishna Rajendra Market",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cae\u0cbe\u0cb0\u0cc1\u0c95\u0c9f\u0ccd\u0c9f\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "platforms": "2",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "short_name": "K R Market",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q24912918",
+          "wikipedia": "en:Krishna Rajendra Market metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5760198623,
+        "lat": 12.9904282,
+        "lon": 77.5706929,
+        "tags": {
+          "alt_name": "Swastik",
+          "code": "SPGD",
+          "name": "Mantri Square Sampige Road",
+          "name:kn": "\u0cae\u0c82\u0ca4\u0ccd\u0cb0\u0cbf \u0cb8\u0ccd\u0c95\u0ccd\u0cb5\u0cc7\u0cb0\u0ccd \u0cb8\u0c82\u0caa\u0cbf\u0c97\u0cc6 \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "source": "http://www.bmrc.co.in/English/Network.htm",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17088462",
+          "wikipedia": "en:Sampige Road metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5983455179,
+        "lat": 12.9588104,
+        "lon": 77.5868782,
+        "tags": {
+          "amenity": "fuel",
+          "check_date": "2023-04-05",
+          "name": "Gogas",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6095308677,
+        "lat": 12.9784514,
+        "lon": 77.5717616,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 19D",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6400857555,
+        "lat": 12.9809575,
+        "lon": 77.5975756,
+        "tags": {
+          "code": "CBPK",
+          "name": "Cubbon Park",
+          "name:etymology:wikidata": "Q6767214",
+          "name:hi": "\u0915\u092c\u0928 \u092a\u093e\u0930\u094d\u0915",
+          "name:kn": "\u0c95\u0cac\u0ccd\u0cac\u0ca8\u0ccd \u0caa\u0cbe\u0cb0\u0ccd\u0c95\u0ccd",
+          "name:ml": "\u0d15\u0d2c\u0d4d\u0d2c\u0d7a \u0d2a\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d4d",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "tunnel": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6400857556,
+        "lat": 12.9787419,
+        "lon": 77.5916385,
+        "tags": {
+          "code": "VDSA",
+          "name": "Dr. B. R. Ambedkar Station, Vidhana Soudha",
+          "name:kn": "\u0ca1\u0cbe.\u0cac\u0cbf.\u0c86\u0cb0\u0ccd. \u0c85\u0c82\u0cac\u0cc7\u0ca1\u0ccd\u0c95\u0cb0\u0ccd \u0ca0\u0cbe\u0ca3\u0cc6, \u0cb5\u0cbf\u0ca7\u0cbe\u0ca8\u0cb8\u0ccc\u0ca7",
+          "name:ml": "\u0d21\u0d4b.\u0d2c\u0d3f.\u0d06\u0d7c. \u0d05\u0d02\u0d2c\u0d47\u0d26\u0d4d\u0d15\u0d7c \u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d47\u0d37\u0d7b, \u0d35\u0d3f\u0d27\u0d3e\u0d28 \u0d38\u0d57\u0d27",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "tunnel": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6400857557,
+        "lat": 12.9745197,
+        "lon": 77.58422,
+        "tags": {
+          "alt_name": "Central College",
+          "code": "VSWA",
+          "name": "Sir M. Visvesvaraya Stn., Central College",
+          "name:kn": "\u0cb8\u0cb0\u0ccd \u0c8e\u0c82 \u0cb5\u0cbf\u0cb6\u0ccd\u0cb5\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0caf\u0ccd\u0caf - \u0cb8\u0cc6\u0c82\u0c9f\u0ccd\u0cb0\u0cb2\u0ccd \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "name:ml": "\u0d38\u0d7c \u0d0e\u0d02 \u0d35\u0d3f\u0d36\u0d4d\u0d35\u0d47\u0d36\u0d4d\u0d35\u0d30\u0d2f\u0d4d\u0d2f - \u0d38\u0d46\u0d7b\u0d1f\u0d4d\u0d30\u0d7d \u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "tunnel": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6400857558,
+        "lat": 12.9757079,
+        "lon": 77.5728757,
+        "tags": {
+          "alt_name": "Majestic Metro Station",
+          "code": "KGWA",
+          "level": "-2;-1;0",
+          "name": "Nadaprabhu Kempegowda Station, Majestic",
+          "name:etymology:wikidata": "Q6387049",
+          "name:kn": "\u0ca8\u0cbe\u0ca1\u0caa\u0ccd\u0cb0\u0cad\u0cc1 \u0c95\u0cc6\u0c82\u0caa\u0cc7\u0c97\u0ccc\u0ca1 \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3, \u0cae\u0cc6\u0c9c\u0cc6\u0cb8\u0ccd\u0c9f\u0cbf\u0c95\u0ccd",
+          "name:ml": "\u0d28\u0d3e\u0d1f\u0d2a\u0d4d\u0d30\u0d2d\u0d41 \u0d15\u0d46\u0d2e\u0d4d\u0d2a\u0d17\u0d57\u0d21 \u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d47\u0d37\u0d7b, \u0d2e\u0d1c\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d3f\u0d15\u0d4d",
+          "name:ta": "\u0ba8\u0bbe\u0b9f\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0baa\u0bc1 \u0b95\u0bc6\u0bae\u0bcd\u0baa\u0bc7\u0b95\u0bb5\u0bc1\u0b9f\u0bbe \u0bae\u0bc6\u0b9c\u0bb8\u0bcd\u0b9f\u0bbf\u0b95\u0bcd",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes",
+          "wikidata": "Q6737727",
+          "wikipedia": "en:Majestic metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6400857559,
+        "lat": 12.9758768,
+        "lon": 77.5653767,
+        "tags": {
+          "code": "BRCS",
+          "name": "Krantivira Sangolli Rayanna Railway Station",
+          "name:kn": "\u0c95\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0cbf\u0cb5\u0cc0\u0cb0 \u0cb8\u0c82\u0c97\u0cca\u0cb3\u0ccd\u0cb3\u0cbf \u0cb0\u0cbe\u0caf\u0ca3\u0ccd\u0ca3",
+          "name:ml": "\u0d15\u0d4d\u0d30\u0d3e\u0d28\u0d4d\u0d24\u0d3f\u0d35\u0d40\u0d30 \u0d38\u0d19\u0d4d\u0d15\u0d4a\u0d32\u0d4d\u0d32\u0d3f \u0d30\u0d3e\u0d2f\u0d23\u0d4d\u0d23",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6410706688,
+        "lat": 12.9904629,
+        "lon": 77.5707293,
+        "tags": {
+          "code": "SPGD",
+          "name": "Mantri Square Sampige Road",
+          "name:kn": "\u0cae\u0c82\u0ca4\u0ccd\u0cb0\u0cbf \u0cb8\u0ccd\u0c95\u0ccd\u0cb5\u0cc7\u0cb0\u0ccd \u0cb8\u0c82\u0caa\u0cbf\u0c97\u0cc6 \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "name:ml": "\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f \u0d38\u0d4d\u0d15\u0d4d\u0d35\u0d2f\u0d7c \u0d38\u0d2e\u0d4d\u0d2a\u0d3f\u0d17\u0d46 \u0d31\u0d4b\u0d21\u0d4d",
+          "network": "Namma Metro",
+          "network:wikidata": "Q279343",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6432710300,
+        "lat": 12.9608788,
+        "lon": 77.5746578,
+        "tags": {
+          "code": "KRMT",
+          "lit": "yes",
+          "name": "Krishna Rajendra Market",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cae\u0cbe\u0cb0\u0cc1\u0c95\u0c9f\u0ccd\u0c9f\u0cc6",
+          "name:ml": "\u0d15\u0d43\u0d37\u0d4d\u0d23 \u0d30\u0d3e\u0d1c\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30 \u0d2e\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d31\u0d4d\u0d31\u0d4d",
+          "name:ta": "\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3 \u0bb0\u0bbe\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u200c \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bc6\u0b9f\u0bcd",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "tunnel": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6432710301,
+        "lat": 12.9668974,
+        "lon": 77.5745566,
+        "tags": {
+          "code": "CKPE",
+          "lit": "yes",
+          "name": "Chickpete",
+          "name:hi": "\u091a\u093f\u0915\u092a\u0947\u091f\u0947",
+          "name:kn": "\u0c9a\u0cbf\u0c95\u0ccd\u0c95\u0caa\u0cc7\u0c9f\u0cc6",
+          "name:ml": "\u0d1a\u0d3f\u0d15\u0d4d\u0d15\u0d2a\u0d4d\u0d2a\u0d47\u0d1f\u0d4d\u0d1f",
+          "name:ta": "\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bc7",
+          "network": "Namma Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Bangalore Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "public_transport:version": "2",
+          "railway": "station",
+          "shelter": "yes",
+          "station": "subway",
+          "subway": "yes",
+          "tunnel": "yes",
+          "website": "https://english.brmc.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6645712420,
+        "lat": 12.9703358,
+        "lon": 77.5942959,
+        "tags": {
+          "alt_name": "St Joseph Boys High School",
+          "bus": "yes",
+          "name": "Mallya Hospital",
+          "name:en": "Mallya Hospital",
+          "name:kn": "\u0cae\u0cb2\u0ccd\u0cb2\u0ccd\u0caf \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6681215517,
+        "lat": 12.9723378,
+        "lon": 77.5822789,
+        "tags": {
+          "bus": "yes",
+          "name": "Mysore Bank",
+          "name:en": "Mysore Bank",
+          "name:kn": "\u0cae\u0cc8\u0cb8\u0cc2\u0cb0\u0cc1 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6834406250,
+        "lat": 12.9737361,
+        "lon": 77.5954588,
+        "tags": {
+          "alt_name": "Museum",
+          "bus": "yes",
+          "name": "Kasturba Road",
+          "name:en": "Kasturba Road",
+          "name:etymology:wikidata": "Q264908",
+          "name:kn": "\u0c95\u0cb8\u0ccd\u0ca4\u0cc2\u0cb0\u0ccd\u0cac\u0cbe \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6834406251,
+        "lat": 12.964493,
+        "lon": 77.5968024,
+        "tags": {
+          "bus": "yes",
+          "name": "Richmond Circle",
+          "name:en": "Richmond Circle",
+          "name:kn": "\u0cb0\u0cbf\u0c9a\u0ccd\u0cae\u0c82\u0ca1\u0ccd \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6834406267,
+        "lat": 12.977413,
+        "lon": 77.5988849,
+        "tags": {
+          "bus": "yes",
+          "name": "Chinnaswamy Stadium",
+          "name:en": "Chinnaswamy Stadium",
+          "name:etymology:wikidata": "Q6712480",
+          "name:kn": "\u0c9a\u0cbf\u0ca8\u0ccd\u0ca8\u0cb8\u0ccd\u0cb5\u0cbe\u0cae\u0cbf \u0c95\u0ccd\u0cb0\u0cc0\u0ca1\u0cbe\u0c82\u0c97\u0ca3",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6834406268,
+        "lat": 12.9772301,
+        "lon": 77.5990996,
+        "tags": {
+          "bus": "yes",
+          "name": "Chinnaswamy Stadium",
+          "name:en": "Chinnaswamy Stadium",
+          "name:etymology:wikidata": "Q6712480",
+          "name:kn": "\u0c9a\u0cbf\u0ca8\u0ccd\u0ca8\u0cb8\u0ccd\u0cb5\u0cbe\u0cae\u0cbf \u0c95\u0ccd\u0cb0\u0cc0\u0ca1\u0cbe\u0c82\u0c97\u0ca3",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7093027179,
+        "lat": 12.975596,
+        "lon": 77.5564839,
+        "tags": {
+          "bus": "yes",
+          "name": "10th Cross Magadi Road",
+          "name:en": "10th Cross Magadi Road",
+          "name:kn": "\u0cae\u0cbe\u0c97\u0ca1\u0cbf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6 \u0ce7\u0ce6\u0ca8\u0cc7 \u0c85\u0ca1\u0ccd\u0ca1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7093027180,
+        "lat": 12.975699,
+        "lon": 77.5603955,
+        "tags": {
+          "bus": "yes",
+          "name": "5th Cross Magadi Road",
+          "name:en": "5th Cross Magadi Road",
+          "name:kn": "\u0cae\u0cbe\u0c97\u0ca1\u0cbf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6 \u0ceb\u0ca8\u0cc7 \u0c85\u0ca1\u0ccd\u0ca1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7093027181,
+        "lat": 12.975765,
+        "lon": 77.5638338,
+        "tags": {
+          "bus": "yes",
+          "name": "1st Cross Magadi Road",
+          "name:en": "1st Cross Magadi Road",
+          "name:kn": "\u0cae\u0cbe\u0c97\u0ca1\u0cbf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6 \u0ce7\u0ca8\u0cc7 \u0c85\u0ca1\u0ccd\u0ca1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7093027182,
+        "lat": 12.9705248,
+        "lon": 77.5662977,
+        "tags": {
+          "bus": "yes",
+          "name": "Binny Mill",
+          "name:en": "Binny Mill",
+          "name:kn": "\u0cac\u0cbf\u0ca8\u0ccd\u0ca8\u0cbf \u0cae\u0cbf\u0cb2\u0ccd\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7093073085,
+        "lat": 12.9643384,
+        "lon": 77.5615155,
+        "tags": {
+          "bus": "yes",
+          "name": "Binnypet",
+          "name:en": "Binnypet",
+          "name:kn": "\u0cac\u0cbf\u0ca8\u0ccd\u0ca8\u0caa\u0cc7\u0c9f\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7093073087,
+        "lat": 12.9604853,
+        "lon": 77.5680425,
+        "tags": {
+          "bus": "yes",
+          "name": "Royan Circle",
+          "name:en": "Royan Circle",
+          "name:kn": "\u0cb0\u0cbe\u0caf\u0ca8\u0ccd \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7093073088,
+        "lat": 12.9575961,
+        "lon": 77.5737037,
+        "tags": {
+          "bus": "yes",
+          "name": "Makkala Koota",
+          "name:en": "Makkala Koota",
+          "name:kn": "\u0cae\u0c95\u0ccd\u0c95\u0cb3 \u0c95\u0cc2\u0c9f",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7093073089,
+        "lat": 12.9571735,
+        "lon": 77.5678546,
+        "tags": {
+          "bus": "yes",
+          "name": "Chamarajapet",
+          "name:en": "Chamarajapet",
+          "name:kn": "\u0c9a\u0cbe\u0cae\u0cb0\u0cbe\u0c9c\u0caa\u0cc7\u0c9f\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7104861389,
+        "lat": 12.9829933,
+        "lon": 77.5765385,
+        "tags": {
+          "bus": "yes",
+          "name": "KPCC Office",
+          "name:en": "KPCC Office",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7104861390,
+        "lat": 12.9685091,
+        "lon": 77.586563,
+        "tags": {
+          "bus": "yes",
+          "name": "Corporation",
+          "name:en": "Corporation",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7104861391,
+        "lat": 12.9638239,
+        "lon": 77.5842663,
+        "tags": {
+          "bus": "yes",
+          "name": "Town Hall",
+          "name:en": "Town Hall",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7104861392,
+        "lat": 12.9641556,
+        "lon": 77.5775287,
+        "tags": {
+          "bus": "yes",
+          "name": "KR Market",
+          "name:en": "KR Market",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cae\u0cbe\u0cb0\u0cc1\u0c95\u0c9f\u0ccd\u0c9f\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7104861405,
+        "lat": 12.9877439,
+        "lon": 77.5804978,
+        "tags": {
+          "bus": "yes",
+          "name": "Shivananda Stores",
+          "name:en": "Shivananda Stores",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069822,
+        "lat": 12.9571181,
+        "lon": 77.5670381,
+        "tags": {
+          "bus": "yes",
+          "name": "Chamarajapet",
+          "name:en": "Chamarajapet",
+          "name:kn": "\u0c9a\u0cbe\u0cae\u0cb0\u0cbe\u0c9c\u0caa\u0cc7\u0c9f\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069824,
+        "lat": 12.9573368,
+        "lon": 77.5730356,
+        "tags": {
+          "bus": "yes",
+          "name": "Makkala Koota",
+          "name:en": "Makkala Koota",
+          "name:kn": "\u0cae\u0c95\u0ccd\u0c95\u0cb3 \u0c95\u0cc2\u0c9f",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069826,
+        "lat": 12.9636047,
+        "lon": 77.5773314,
+        "tags": {
+          "bus": "yes",
+          "name": "KR Market",
+          "name:en": "KR Market",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069827,
+        "lat": 12.9636904,
+        "lon": 77.5844796,
+        "tags": {
+          "bus": "yes",
+          "name": "Town Hall",
+          "name:en": "Town Hall",
+          "name:kn": "\u0cae\u0cb9\u0cbe\u0ca8\u0c97\u0cb0 \u0caa\u0cbe\u0cb2\u0cbf\u0c95\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069829,
+        "lat": 12.9697701,
+        "lon": 77.5871314,
+        "tags": {
+          "bus": "yes",
+          "name": "St Marthas Hospital",
+          "name:en": "St Marthas Hospital",
+          "name:kn": "\u0cb8\u0cc6\u0c82\u0c9f\u0ccd \u0cae\u0cbe\u0cb0\u0ccd\u0ca5 \u0c86\u0cb8\u0ccd\u0caa\u0ca4\u0ccd\u0cb0\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069831,
+        "lat": 12.9802218,
+        "lon": 77.5716716,
+        "tags": {
+          "bus": "yes",
+          "name": "Khodays Circle",
+          "name:en": "Khodays Circle",
+          "name:kn": "\u0c96\u0ccb\u0ca1\u0cc6 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069833,
+        "lat": 12.9872306,
+        "lon": 77.5676565,
+        "tags": {
+          "bus": "yes",
+          "name": "Bashyam Nagara Okalipuram",
+          "name:en": "Bashyam Nagara Okalipuram",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069834,
+        "lat": 12.9884306,
+        "lon": 77.5665592,
+        "tags": {
+          "bus": "yes",
+          "name": "Aruna Talkies, Gandhi School",
+          "name:en": "Aruna Talkies, Gandhi School",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069835,
+        "lat": 12.9905312,
+        "lon": 77.5665122,
+        "tags": {
+          "bus": "yes",
+          "name": "7th Main Srirampura",
+          "name:en": "7th Main Srirampura",
+          "name:kn": "\u0cee\u0ca8\u0cc7 \u0cae\u0cc1\u0c96\u0ccd\u0caf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069837,
+        "lat": 12.9921958,
+        "lon": 77.5664676,
+        "tags": {
+          "bus": "yes",
+          "name": "5th Cross Sriramapura",
+          "name:en": "5th Cross Sriramapura",
+          "name:kn": "\u0ceb\u0ca8\u0cc7 \u0c85\u0ca1\u0ccd\u0ca1\u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7105069838,
+        "lat": 12.9949125,
+        "lon": 77.5663707,
+        "tags": {
+          "bus": "yes",
+          "name": "Chowdeshwari Temple",
+          "name:en": "Chowdeshwari Temple",
+          "name:kn": "\u0c9a\u0ccc\u0ca1\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0cbf \u0ca6\u0cc7\u0cb5\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106320854,
+        "lat": 12.9684272,
+        "lon": 77.5896134,
+        "tags": {
+          "bus": "yes",
+          "name": "Corporation Circle (Cubbon Park)",
+          "name:en": "Corporation Circle (Cubbon Park)",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106320855,
+        "lat": 12.9740699,
+        "lon": 77.5957691,
+        "tags": {
+          "alt_name": "Museum",
+          "bus": "yes",
+          "name": "Kasturba Road",
+          "name:en": "Kasturba Road",
+          "name:etymology:wikidata": "Q264908",
+          "name:kn": "\u0c95\u0cb8\u0ccd\u0ca4\u0cc2\u0cb0\u0ccd\u0cac\u0cbe \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106320856,
+        "lat": 12.9759482,
+        "lon": 77.5982272,
+        "tags": {
+          "bus": "yes",
+          "name": "MG Statue",
+          "name:en": "MG Statue",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106320858,
+        "lat": 12.9839227,
+        "lon": 77.5965833,
+        "tags": {
+          "alt_name": "Balekundri Circle",
+          "bus": "yes",
+          "name": "Indian Express",
+          "name:en": "Indian Express",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0c8e\u0c95\u0ccd\u0cb8\u0caa\u0ccd\u0cb0\u0cc6\u0cb8\u0ccd",
+          "network": "BMTC",
+          "network:wikidata": "Q3345039",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7106320860,
+        "lat": 12.9876208,
+        "lon": 77.594528,
+        "tags": {
+          "bus": "yes",
+          "name": "Cunningham Road",
+          "name:en": "Cunningham Road",
+          "name:etymology:wikidata": "Q5480658",
+          "name:kn": "\u0c95\u0ca8\u0ccd\u0ca8\u0cbf\u0c82\u0c97\u0ccd\u0ca8\u0cae\u0ccd \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108477360,
+        "lat": 12.9840731,
+        "lon": 77.5975329,
+        "tags": {
+          "alt_name": "Balekundri Circle",
+          "bus": "yes",
+          "name": "Indian Express",
+          "name:en": "Indian Express",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0c8e\u0c95\u0ccd\u0cb8\u0caa\u0ccd\u0cb0\u0cc6\u0cb8\u0ccd",
+          "network": "BMTC",
+          "network:wikidata": "Q3345039",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108562590,
+        "lat": 12.985767,
+        "lon": 77.5885816,
+        "tags": {
+          "alt_name": "Sophia School",
+          "bus": "yes",
+          "loc_name": "Vasantha Nagara",
+          "name": "Basava Bhavan",
+          "name:en": "Basava Bhavan",
+          "name:kn": "\u0cac\u0cb8\u0cb5 \u0cad\u0cb5\u0ca8",
+          "network": "BMTC",
+          "old_name": "High Grounds Police Station",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108562605,
+        "lat": 12.9841656,
+        "lon": 77.597574,
+        "tags": {
+          "alt_name": "Balekundri Circle",
+          "bus": "yes",
+          "name": "Indian Express",
+          "name:en": "Indian Express",
+          "name:kn": "\u0c87\u0c82\u0ca1\u0cbf\u0caf\u0ca8\u0ccd \u0c8e\u0c95\u0ccd\u0cb8\u0caa\u0ccd\u0cb0\u0cc6\u0cb8\u0ccd",
+          "network": "BMTC",
+          "network:wikidata": "Q3345039",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108562607,
+        "lat": 12.99034,
+        "lon": 77.5891596,
+        "tags": {
+          "bus": "yes",
+          "name": "Avinash Petrol Bunk",
+          "name:en": "Avinash Petrol Bunk",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108562609,
+        "lat": 12.9841703,
+        "lon": 77.5869736,
+        "tags": {
+          "bus": "yes",
+          "name": "RC College",
+          "name:en": "RC College",
+          "name:kn": "\u0c86\u0cb0\u0ccd \u0cb8\u0cbf \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108562610,
+        "lat": 12.9872126,
+        "lon": 77.5788305,
+        "tags": {
+          "bus": "yes",
+          "name": "Shivananda Stores",
+          "name:en": "Shivananda Stores",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108562611,
+        "lat": 12.9889359,
+        "lon": 77.574743,
+        "tags": {
+          "bus": "yes",
+          "name": "Swastik Sheshadripuram College",
+          "name:en": "Swastik Sheshadripuram College",
+          "name:kn": "\u0cb8\u0ccd\u0cb5\u0cb8\u0ccd\u0ca4\u0cbf\u0c95",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7108562612,
+        "lat": 12.9941083,
+        "lon": 77.5738961,
+        "tags": {
+          "bus": "yes",
+          "name": "Link Road",
+          "name:en": "Link Road",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7131511276,
+        "lat": 12.9639618,
+        "lon": 77.5789324,
+        "tags": {
+          "bus": "yes",
+          "name": "KR Market",
+          "name:en": "KR Market",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cae\u0cbe\u0cb0\u0cc1\u0c95\u0c9f\u0ccd\u0c9f\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7131511278,
+        "lat": 12.961084,
+        "lon": 77.5877158,
+        "tags": {
+          "bus": "yes",
+          "name": "Poornima Talkies",
+          "name:en": "Poornima Talkies",
+          "name:kn": "\u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbf\u0cae\u0cbe \u0c9f\u0cbe\u0c95\u0cbf\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7131511279,
+        "lat": 12.9621976,
+        "lon": 77.5964997,
+        "tags": {
+          "bus": "yes",
+          "name": "Akkithimmanahalli",
+          "name:en": "Akkithimmanahalli",
+          "name:kn": "\u0c85\u0c95\u0ccd\u0c95\u0cbf\u0ca4\u0cbf\u0cae\u0ccd\u0cae\u0ca8\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132418218,
+        "lat": 12.9626539,
+        "lon": 77.5907878,
+        "tags": {
+          "bus": "yes",
+          "name": "Subbaiah Circle",
+          "name:en": "Subbaiah Circle",
+          "name:kn": "\u0cb8\u0cc1\u0cac\u0ccd\u0cac\u0caf\u0ccd\u0caf \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132418219,
+        "lat": 12.9647441,
+        "lon": 77.587909,
+        "tags": {
+          "bus": "yes",
+          "name": "Corporation, Mission Road (Towards Subbiah Circle)",
+          "name:en": "Corporation, Mission Road (Towards Subbiah Circle)",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132418222,
+        "lat": 12.9638348,
+        "lon": 77.5685892,
+        "tags": {
+          "bus": "yes",
+          "name": "Vinayaka Talkies",
+          "name:en": "Vinayaka Talkies",
+          "name:kn": "\u0cb5\u0cbf\u0ca8\u0cbe\u0caf\u0c95 \u0c9f\u0cbe\u0c95\u0cc0\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7136947081,
+        "lat": 12.96737,
+        "lon": 77.5993941,
+        "tags": {
+          "bus": "yes",
+          "name": "Richmond Circle",
+          "name:en": "Richmond Circle",
+          "name:kn": "\u0cb0\u0cbf\u0c9a\u0ccd\u0cae\u0c82\u0ca1\u0ccd \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140563288,
+        "lat": 12.9929279,
+        "lon": 77.5887916,
+        "tags": {
+          "bus": "yes",
+          "name": "Mount Carmel College",
+          "name:en": "Mount Carmel College",
+          "name:kn": "\u0cae\u0ccc\u0c82\u0c9f\u0ccd \u0c95\u0cbe\u0cb0\u0ccd\u0cae\u0cc6\u0cb2\u0ccd \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140563289,
+        "lat": 12.9890619,
+        "lon": 77.5887371,
+        "tags": {
+          "bus": "yes",
+          "name": "High Grounds Police Station",
+          "name:en": "High Ground Police Station",
+          "name:kn": "\u0cb9\u0cc8\u0c97\u0ccd\u0cb0\u0ccc\u0c82\u0ca1\u0ccd\u0cb8\u0ccd \u0caa\u0cca\u0cb2\u0cc0\u0cb8\u0ccd \u0ca0\u0cbe\u0ca3\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140563293,
+        "lat": 12.9790169,
+        "lon": 77.5849485,
+        "tags": {
+          "bus": "yes",
+          "name": "Maharani's College",
+          "name:en": "Maharanis College",
+          "name:kn": "\u0cae\u0cb9\u0cbe\u0cb0\u0cbe\u0ca3\u0cbf \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140563295,
+        "lat": 12.9827236,
+        "lon": 77.5871529,
+        "tags": {
+          "bus": "yes",
+          "name": "Telephone Exchange AGO, Vasantha Nagara",
+          "name:en": "Telephone Exchange AGO, Vasantha Nagara",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140581378,
+        "lat": 12.9756728,
+        "lon": 77.5866293,
+        "tags": {
+          "bus": "yes",
+          "name": "KR Circle",
+          "name:en": "Krishnarajendra Circle",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140581382,
+        "lat": 12.9802235,
+        "lon": 77.5930116,
+        "tags": {
+          "alt_name": "Karnataka High Court",
+          "bus": "yes",
+          "name": "Vidhana Soudha",
+          "name:en": "Vidhana Soudha",
+          "name:kn": "\u0cb5\u0cbf\u0ca7\u0cbe\u0ca8 \u0cb8\u0ccc\u0ca7",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097522,
+        "lat": 12.9734934,
+        "lon": 77.5814153,
+        "tags": {
+          "bus": "yes",
+          "name": "Cauvery Bhavana",
+          "name:en": "Cauvery Bhavana",
+          "name:kn": "\u0cae\u0cc8\u0cb8\u0cc2\u0cb0\u0cc1 \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097524,
+        "lat": 12.9768247,
+        "lon": 77.5858877,
+        "tags": {
+          "bus": "yes",
+          "name": "Maharani College, KR Circle",
+          "name:en": "Maharani College, KR Circle",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097526,
+        "lat": 12.977223,
+        "lon": 77.5899909,
+        "tags": {
+          "bus": "yes",
+          "name": "Vidhana Soudha",
+          "name:en": "Vidhana Soudha",
+          "name:kn": "\u0cb5\u0cbf\u0ca7\u0cbe\u0ca8 \u0cb8\u0ccc\u0ca7",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7142097527,
+        "lat": 12.9835542,
+        "lon": 77.5963121,
+        "tags": {
+          "bus": "yes",
+          "local_ref": "BALEKUNDRI CIRCLE",
+          "name": "Indian Express",
+          "name:en": "Indian Express",
+          "name:kn": "\u0cb5\u0cb8\u0c82\u0ca4 \u0ca8\u0c97\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156865437,
+        "lat": 12.9914325,
+        "lon": 77.5639827,
+        "tags": {
+          "bus": "yes",
+          "name": "Bandi Reddy Circle",
+          "name:en": "Bandi Reddy Circle",
+          "name:kn": "\u0cac\u0c82\u0ca1\u0cbf\u0cb0\u0cc6\u0ca1\u0ccd\u0ca1\u0cbf \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156865438,
+        "lat": 12.9947434,
+        "lon": 77.5663773,
+        "tags": {
+          "bus": "yes",
+          "name": "Chowdeshwari Temple",
+          "name:en": "Chowdeshwari Temple",
+          "name:kn": "\u0c9a\u0ccc\u0ca1\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0cbf \u0ca6\u0cc7\u0cb5\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156865440,
+        "lat": 12.9935055,
+        "lon": 77.5682527,
+        "tags": {
+          "bus": "yes",
+          "name": "Ramamandira",
+          "name:en": "Ramamandira",
+          "name:kn": "\u0cb0\u0cbe\u0cae\u0cae\u0c82\u0ca6\u0cbf\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156865441,
+        "lat": 12.9932748,
+        "lon": 77.569703,
+        "tags": {
+          "bus": "yes",
+          "name": "MD Block",
+          "name:en": "MD Block",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156865442,
+        "lat": 12.9840467,
+        "lon": 77.5868815,
+        "tags": {
+          "bus": "yes",
+          "name": "RC College",
+          "name:en": "RC College",
+          "name:kn": "\u0cb0\u0cbe\u0cae\u0ca8\u0cbe\u0cb0\u0caf\u0ca3 \u0c9a\u0cc6\u0cb2\u0ccd\u0cb2\u0cb0\u0cbe\u0cae\u0ccd \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156865444,
+        "lat": 12.9817965,
+        "lon": 77.5949609,
+        "tags": {
+          "bus": "yes",
+          "name": "GPO",
+          "name:en": "GPO",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156865446,
+        "lat": 12.9830369,
+        "lon": 77.5922081,
+        "tags": {
+          "bus": "yes",
+          "name": "Raj Bhavan",
+          "name:en": "Raj Bhavan",
+          "name:kn": "\u0cb0\u0cbe\u0c9c \u0cad\u0cb5\u0ca8",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156971594,
+        "lat": 12.994438,
+        "lon": 77.5780216,
+        "tags": {
+          "bus": "yes",
+          "name": "RMS Sheshadripuram",
+          "name:en": "RMS Sheshadripuram",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7157856781,
+        "lat": 12.9538368,
+        "lon": 77.5799874,
+        "tags": {
+          "bus": "yes",
+          "name": "Minarva Circle, Rashtriya Vidyalaya Road",
+          "name:en": "Minarva Circle, Rashtriya Vidyalaya Road",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7157889189,
+        "lat": 12.9746794,
+        "lon": 77.6014488,
+        "tags": {
+          "alt_name": "Bowring Institute",
+          "bus": "yes",
+          "name": "State Bank India Garage",
+          "name:en": "State Bank India Garage",
+          "network": "BMTC",
+          "official_name": "Bowring Institute",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7164445936,
+        "lat": 12.9687913,
+        "lon": 77.5593047,
+        "tags": {
+          "bus": "yes",
+          "name": "Railway Gate Kempapura",
+          "name:en": "Railway Gate Kempapura",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7164445940,
+        "lat": 12.9634944,
+        "lon": 77.5677992,
+        "tags": {
+          "bus": "yes",
+          "name": "Vinayaka Talkies KR Market",
+          "name:en": "Vinayaka Talkies KR Market",
+          "name:kn": "\u0cb5\u0cbf\u0ca8\u0cbe\u0caf\u0c95 \u0c9f\u0cbe\u0c95\u0cc0\u0cb8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7236205634,
+        "lat": 12.9826229,
+        "lon": 77.5624563,
+        "tags": {
+          "bus": "yes",
+          "name": "Sujatha Talkies",
+          "name:en": "Sujatha Talkies",
+          "name:kn": "\u0cb8\u0cc1\u0c9c\u0cbe\u0ca4 \u0c9a\u0cbf\u0ca4\u0ccd\u0cb0\u0cae\u0c82\u0ca6\u0cbf\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7276500272,
+        "lat": 12.9862919,
+        "lon": 77.5724177,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Aegis Auto Gas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7292218766,
+        "lat": 12.9824553,
+        "lon": 77.5678893,
+        "tags": {
+          "bus": "yes",
+          "name": "Okalipura",
+          "name:en": "Okalipura",
+          "name:kn": "\u0c93\u0c95\u0cb3\u0cbf\u0caa\u0cc1\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7292436123,
+        "lat": 12.9681954,
+        "lon": 77.5873387,
+        "tags": {
+          "bus": "yes",
+          "name": "Corporation",
+          "name:en": "Corporation",
+          "name:kn": "\u0c95\u0cbe\u0cb0\u0ccd\u0caa\u0ccb\u0cb0\u0cc7\u0cb6\u0ca8\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9140200257,
+        "lat": 12.9756053,
+        "lon": 77.5866527,
+        "tags": {
+          "bus": "yes",
+          "name": "KR Circle",
+          "name:en": "Krishnarajendra Circle",
+          "name:kn": "\u0c95\u0cc3\u0cb7\u0ccd\u0ca3\u0cb0\u0cbe\u0c9c\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9779677437,
+        "lat": 12.9928258,
+        "lon": 77.5878243,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Amphitheatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9779677464,
+        "lat": 12.9932192,
+        "lon": 77.5882796,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Diamond Jubilee Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9910012978,
+        "lat": 12.9933017,
+        "lon": 77.570107,
+        "tags": {
+          "bus": "yes",
+          "name": "MD Block",
+          "name:en": "MD Block",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10006930129,
+        "lat": 12.977526,
+        "lon": 77.5708147,
+        "tags": {
+          "bus": "yes",
+          "name": "Railway Station, Majestic",
+          "name:en": "Railway Station, Majestic",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10036152486,
+        "lat": 12.9743529,
+        "lon": 77.5818701,
+        "tags": {
+          "alt_name": "Mysore Bank",
+          "bus": "yes",
+          "name": "Cauvery Bhavana",
+          "name:en": "Cauvery Bhavana",
+          "name:kn": "\u0c95\u0cbe\u0cb5\u0cc7\u0cb0\u0cbf \u0cad\u0cb5\u0ca8",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10295411732,
+        "lat": 12.9766871,
+        "lon": 77.6000287,
+        "tags": {
+          "bus": "yes",
+          "name": "MG Statue",
+          "name:en": "MG Statue",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10570929389,
+        "lat": 12.9816867,
+        "lon": 77.5632835,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cin\u00e9polis",
+          "brand:wikidata": "Q5686673",
+          "name": "Cinepolis",
+          "screen": "11"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10753340368,
+        "lat": 12.974437,
+        "lon": 77.596864,
+        "tags": {
+          "amenity": "theatre",
+          "level": "1",
+          "name": "Mazumdar Shaw Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10761493346,
+        "lat": 12.9841726,
+        "lon": 77.5988975,
+        "tags": {
+          "bus": "yes",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10833947202,
+        "lat": 12.9896124,
+        "lon": 77.5718868,
+        "tags": {
+          "bus": "yes",
+          "name": "Central",
+          "name:en": "Central",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10833947203,
+        "lat": 12.9898645,
+        "lon": 77.5718467,
+        "tags": {
+          "bus": "yes",
+          "name": "Central",
+          "name:en": "Central",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11019492827,
+        "lat": 12.9609431,
+        "lon": 77.588207,
+        "tags": {
+          "bus": "yes",
+          "name": "Poornima Talkies",
+          "name:en": "Poornima Talkies",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097276362,
+        "lat": 12.9844362,
+        "lon": 77.5927702,
+        "tags": {
+          "bus": "yes",
+          "name": "Ali Asker Road",
+          "name:en": "Ali Asker Road",
+          "name:kn": "\u0c85\u0cb2\u0cbf \u0c85\u0cb8\u0ccd\u0c95\u0cb0\u0ccd \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097276364,
+        "lat": 12.9868849,
+        "lon": 77.5906987,
+        "tags": {
+          "bus": "yes",
+          "name": "St. Anne's College",
+          "name:en": "St. Anne's College",
+          "name:kn": "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c86\u0ca8\u0ccd\u0cb8\u0ccd \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097276366,
+        "lat": 12.9894313,
+        "lon": 77.5926836,
+        "tags": {
+          "alt_name": "High Grounds Police Station",
+          "bus": "yes",
+          "name": "Kalpana Circle",
+          "name:en": "Kalpana Circle",
+          "name:kn": "\u0c95\u0cb2\u0ccd\u0caa\u0ca8\u0cbe \u0cb5\u0cc3\u0ca4\u0ccd\u0ca4",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097276368,
+        "lat": 12.9928206,
+        "lon": 77.5887587,
+        "tags": {
+          "bus": "yes",
+          "name": "Mount Carmel College",
+          "name:en": "Mount Carmel College",
+          "name:kn": "\u0cae\u0ccc\u0c82\u0c9f\u0ccd \u0c95\u0cbe\u0cb0\u0ccd\u0cae\u0cc6\u0cb2\u0ccd \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097276370,
+        "lat": 12.9895425,
+        "lon": 77.5929386,
+        "tags": {
+          "bus": "yes",
+          "name": "Chandrika Hotel",
+          "name:en": "Chandrika Hotel",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11097276372,
+        "lat": 12.9807351,
+        "lon": 77.598434,
+        "tags": {
+          "bus": "yes",
+          "name": "Cubbon Park Metro Station",
+          "name:en": "Cubbon Park",
+          "name:kn": "\u0c95\u0cac\u0ccd\u0cac\u0ca8\u0ccd \u0caa\u0cbe\u0cb0\u0ccd\u0c95\u0ccd",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11178123519,
+        "lat": 12.9576825,
+        "lon": 77.5684466,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Ather",
+          "operator": "Ather"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11214889013,
+        "lat": 12.9805484,
+        "lon": 77.5978893,
+        "tags": {
+          "amenity": "charging_station",
+          "charging_station:battery_swapping": "yes",
+          "name": "Pulse"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11297781805,
+        "lat": 12.9710109,
+        "lon": 77.597788,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Hero Vida"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11341218806,
+        "lat": 12.9745975,
+        "lon": 77.5660497,
+        "tags": {
+          "bus": "yes",
+          "name": "Angalaparameshwari Temple",
+          "name:en": "Angalaparameshwari Temple",
+          "name:kn": "\u0c85\u0c82\u0c97\u0cbe\u0cb2\u0caa\u0cb0\u0cae\u0cc7\u0cb6\u0ccd\u0cb5\u0cb0\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11341218849,
+        "lat": 12.9752846,
+        "lon": 77.5651817,
+        "tags": {
+          "bus": "yes",
+          "name": "Hunasemara",
+          "name:en": "Hunasemara",
+          "name:kn": "\u0cb9\u0cc1\u0ca3\u0cb8\u0cc6\u0cae\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11408768738,
+        "lat": 12.9736666,
+        "lon": 77.5830855,
+        "tags": {
+          "amenity": "charging_station",
+          "charging_station:battery_swapping": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11696866840,
+        "lat": 12.9791186,
+        "lon": 77.5851012,
+        "tags": {
+          "bus": "yes",
+          "name": "Maharani's College",
+          "name:en": "Maharani's College",
+          "name:kn": "\u0cae\u0cb9\u0cbe\u0cb0\u0cbe\u0ca3\u0cbf \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11890400011,
+        "lat": 12.9775345,
+        "lon": 77.5848731,
+        "tags": {
+          "bus": "yes",
+          "name": "Maharani College",
+          "name:en": "Maharani College",
+          "name:kn": "\u0cae\u0cb9\u0cbe\u0cb0\u0cbe\u0ca3\u0cbf \u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cc1",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11898958081,
+        "lat": 12.9969658,
+        "lon": 77.5715223,
+        "tags": {
+          "bus": "yes",
+          "name": "Malleswaram Circle",
+          "name:en": "Malleswaram Circle",
+          "network": "BMTC",
+          "note": "Stop used only for Metro Feeder bus route MF-8A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12002046035,
+        "lat": 12.977855,
+        "lon": 77.5812757,
+        "tags": {
+          "amenity": "charging_station",
+          "fee": "yes",
+          "motorcar": "yes",
+          "motorcycle": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12009455446,
+        "lat": 12.9897084,
+        "lon": 77.5727323,
+        "tags": {
+          "bus": "yes",
+          "name": "Central",
+          "name:en": "Central",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12078138004,
+        "lat": 12.9810756,
+        "lon": 77.5966804,
+        "tags": {
+          "amenity": "charging_station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12135983669,
+        "lat": 12.9622079,
+        "lon": 77.5842821,
+        "tags": {
+          "amenity": "theatre",
+          "name": "ADA Ranga Mandira"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12135993230,
+        "lat": 12.9617443,
+        "lon": 77.5848647,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Nayana Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801113,
+        "lat": 12.9786,
+        "lon": 77.5721999,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 20B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801114,
+        "lat": 12.9785778,
+        "lon": 77.5720175,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 20A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801115,
+        "lat": 12.9785118,
+        "lon": 77.5718715,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 20",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801117,
+        "lat": 12.9783014,
+        "lon": 77.5715901,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 19B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801118,
+        "lat": 12.978148,
+        "lon": 77.5714678,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 19A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801119,
+        "lat": 12.978004,
+        "lon": 77.5713937,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 19",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801171,
+        "lat": 12.9778982,
+        "lon": 77.5716,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 18A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801172,
+        "lat": 12.9780256,
+        "lon": 77.5716466,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 18",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801173,
+        "lat": 12.978163,
+        "lon": 77.5717468,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 17A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801174,
+        "lat": 12.9782831,
+        "lon": 77.5718746,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 17",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801175,
+        "lat": 12.9783511,
+        "lon": 77.5719972,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 16",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801176,
+        "lat": 12.9784076,
+        "lon": 77.5721601,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 15A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801177,
+        "lat": 12.9784244,
+        "lon": 77.5722951,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 15",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801190,
+        "lat": 12.9784189,
+        "lon": 77.5724888,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 14",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801191,
+        "lat": 12.9783995,
+        "lon": 77.5725967,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 13",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801192,
+        "lat": 12.9783424,
+        "lon": 77.5727364,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 12A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801194,
+        "lat": 12.9779899,
+        "lon": 77.5731353,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 11A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479801195,
+        "lat": 12.9778782,
+        "lon": 77.5731873,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 11",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479806808,
+        "lat": 12.9780777,
+        "lon": 77.572811,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 9",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479806809,
+        "lat": 12.9781644,
+        "lon": 77.5726809,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 8B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479806822,
+        "lat": 12.9777735,
+        "lon": 77.5719062,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 4B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479806823,
+        "lat": 12.9779433,
+        "lon": 77.572024,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 4A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479806835,
+        "lat": 12.9779386,
+        "lon": 77.5729337,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 10",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12479806836,
+        "lat": 12.9780131,
+        "lon": 77.5721195,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 4",
+          "name:kn": "\u0cb5\u0cc7\u0ca6\u0cbf\u0c95\u0cc6 \u0cea",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944637,
+        "lat": 12.9784072,
+        "lon": 77.5725538,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 25C",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944638,
+        "lat": 12.9783342,
+        "lon": 77.5727541,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 25B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944639,
+        "lat": 12.9782715,
+        "lon": 77.5728788,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 25A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944640,
+        "lat": 12.9781179,
+        "lon": 77.5730294,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 25",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944641,
+        "lat": 12.9779091,
+        "lon": 77.5731729,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 24",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944656,
+        "lat": 12.9778642,
+        "lon": 77.5715876,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 29C",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944657,
+        "lat": 12.9779458,
+        "lon": 77.5716174,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 29B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944658,
+        "lat": 12.9780107,
+        "lon": 77.5716411,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 29A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944659,
+        "lat": 12.9780846,
+        "lon": 77.5716859,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 29",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944660,
+        "lat": 12.9782721,
+        "lon": 77.5718623,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 28",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944661,
+        "lat": 12.9783183,
+        "lon": 77.571935,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 27A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944662,
+        "lat": 12.9783675,
+        "lon": 77.5720375,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 27",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944663,
+        "lat": 12.978402,
+        "lon": 77.5721355,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 26A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944664,
+        "lat": 12.9784197,
+        "lon": 77.5722573,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 26",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944679,
+        "lat": 12.9783916,
+        "lon": 77.5716921,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 19C",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944680,
+        "lat": 12.9781569,
+        "lon": 77.5729941,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 11C",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944681,
+        "lat": 12.9780954,
+        "lon": 77.5730497,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 11B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944693,
+        "lat": 12.9775139,
+        "lon": 77.5726718,
+        "tags": {
+          "bus": "yes",
+          "name": "KIA Bus Stop",
+          "official_name": "Platform 30",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944698,
+        "lat": 12.9778904,
+        "lon": 77.5733875,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 23D",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944699,
+        "lat": 12.9780198,
+        "lon": 77.5733244,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 23C",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506944700,
+        "lat": 12.9782161,
+        "lon": 77.5731911,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 23A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506953101,
+        "lat": 12.9784828,
+        "lon": 77.5729077,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 22B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12506953102,
+        "lat": 12.9785603,
+        "lon": 77.5727305,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 22",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290067,
+        "lat": 12.9610244,
+        "lon": 77.5774231,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 6C",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290068,
+        "lat": 12.9609478,
+        "lon": 77.5773141,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 6B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290069,
+        "lat": 12.9608754,
+        "lon": 77.5772111,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 6A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290070,
+        "lat": 12.960807,
+        "lon": 77.5771138,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 6",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290071,
+        "lat": 12.9608221,
+        "lon": 77.5773906,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 5B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290072,
+        "lat": 12.9607074,
+        "lon": 77.5772338,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 5A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290073,
+        "lat": 12.9605989,
+        "lon": 77.5770855,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 5",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290074,
+        "lat": 12.9606322,
+        "lon": 77.5773696,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 4",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290075,
+        "lat": 12.9605549,
+        "lon": 77.5772587,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 3B",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290076,
+        "lat": 12.9604827,
+        "lon": 77.5771554,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 3A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507290077,
+        "lat": 12.960401,
+        "lon": 77.5770383,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 3",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12511443668,
+        "lat": 12.9564797,
+        "lon": 77.5772696,
+        "tags": {
+          "bus": "yes",
+          "name": "Basappa Circle",
+          "name:en": "Basappa Circle",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12511443669,
+        "lat": 12.9576978,
+        "lon": 77.5738382,
+        "tags": {
+          "bus": "yes",
+          "name": "Makkala Koota",
+          "name:en": "Makkala Koota",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12511727435,
+        "lat": 12.9944198,
+        "lon": 77.5779993,
+        "tags": {
+          "bus": "yes",
+          "name": "RMS Sheshadripuram",
+          "name:en": "RMS Sheshadripuram",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12512417632,
+        "lat": 12.9977498,
+        "lon": 77.5840988,
+        "tags": {
+          "bus": "yes",
+          "name": "Guttahalli Underpass",
+          "name:en": "Guttahalli Underpass",
+          "network": "BMTC",
+          "note": "Stop used only for Metro Feeder bus route MF-8A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12512417634,
+        "lat": 12.9977878,
+        "lon": 77.584791,
+        "tags": {
+          "bus": "yes",
+          "name": "Guttahalli Underpass",
+          "name:en": "Guttahalli Underpass",
+          "network": "BMTC",
+          "note": "Stop used only for Metro Feeder bus route MF-8A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12512417638,
+        "lat": 12.9905573,
+        "lon": 77.571683,
+        "tags": {
+          "bus": "yes",
+          "name": "Mantri Square Metro Station",
+          "name:en": "Mantri Square Metro Station",
+          "network": "BMTC",
+          "note": "Stop used only for Metro Feeder bus route MF-8A",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12526337224,
+        "lat": 12.9816889,
+        "lon": 77.574589,
+        "tags": {
+          "bus": "yes",
+          "name": "Ananda Rao Circle",
+          "name:en": "Ananda Rao Circle",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12989273950,
+        "lat": 12.9806538,
+        "lon": 77.5580989,
+        "tags": {
+          "bus": "yes",
+          "name": "Gopalapura",
+          "name:en": "Gopalapura",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13074467490,
+        "lat": 12.9824045,
+        "lon": 77.5886066,
+        "tags": {
+          "bus": "yes",
+          "name": "Telephone Exchange AGO/VSD",
+          "name:en": "Telephone Exchange AGO/VSD",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

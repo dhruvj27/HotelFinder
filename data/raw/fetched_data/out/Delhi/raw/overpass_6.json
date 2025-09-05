@@ -1,0 +1,524 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T06:59:11Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7543715665,
+        "lat": 28.6616551,
+        "lon": 77.0853346,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "B 33, Block B, LIC Colony, Nilothi-Meera Bagh Road, Paschim Vihar",
+          "addr:postcode": "110087",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Goyal Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715672,
+        "lat": 28.6590574,
+        "lon": 77.0907424,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "Outer Ring Road, Block A, Meera Bagh, Paschim Vihar",
+          "addr:postcode": "110087",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Medstar Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715693,
+        "lat": 28.660249,
+        "lon": 77.090997,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "A - 50, Outer Ring Road, Block A, State Bank Nagar, Paschim Vihar",
+          "addr:postcode": "110063",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Bagga Nursing Home",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715700,
+        "lat": 28.6702118,
+        "lon": 77.087877,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "455, Bhera Enclave, Paschim Vihar",
+          "addr:postcode": "110087",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Sodhi Nursing Home and ENT Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715717,
+        "lat": 28.6655435,
+        "lon": 77.08244,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "307-308 Opposite Central School, Ambica Vihar, Paschim Vihar",
+          "addr:postcode": "110087",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Bhatia Global Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715734,
+        "lat": 28.660601,
+        "lon": 77.0907507,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "Shop No. A328, Outer Ring Road, Block A, Meera Bagh, Paschim Vihar",
+          "addr:postcode": "110087",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Jainar Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715747,
+        "lat": 28.6700151,
+        "lon": 77.0885037,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "436, Bhera Enclave, Paschim Vihar",
+          "addr:postcode": "110087",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Sanchet Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715758,
+        "lat": 28.6699638,
+        "lon": 77.0886996,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "Saiyyad Nangloi Marg, Bhera Enclave, Paschim Vihar",
+          "addr:postcode": "110087",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Kamlesh Nursing Home",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7543715760,
+        "lat": 28.6587906,
+        "lon": 77.0903999,
+        "tags": {
+          "addr:district": "West Delhi",
+          "addr:full": "A-311, Block A, Nihal Vihar Road, Meera Bagh, Paschim Vihar",
+          "addr:postcode": "110087",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "name": "Sushruta Maternity And Surgical Centre",
+          "source": "Local Knowledge"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T06:59:11Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 600645512,
+        "lat": 28.6773285,
+        "lon": 77.1122776,
+        "tags": {
+          "name": "Paschim Vihar East",
+          "name:hi": "\u092a\u0936\u094d\u091a\u093f\u092e \u0935\u093f\u0939\u093e\u0930 \u092a\u0942\u0930\u094d\u0935",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 602468621,
+        "lat": 28.6562179,
+        "lon": 77.0895469,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 610889203,
+        "lat": 28.6785848,
+        "lon": 77.1022105,
+        "tags": {
+          "name": "Paschim Vihar West",
+          "name:hi": "\u092a\u0936\u094d\u091a\u093f\u092e \u0935\u093f\u0939\u093e\u0930 \u092a\u0936\u094d\u091a\u093f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 915473442,
+        "lat": 28.681828,
+        "lon": 77.074004,
+        "tags": {
+          "name": "Surajmal Stadium",
+          "name:hi": "\u0938\u0942\u0930\u091c\u092e\u0932 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 941120352,
+        "lat": 28.6797123,
+        "lon": 77.0926576,
+        "tags": {
+          "name": "Peeragarhi",
+          "name:hi": "\u092a\u0940\u0930\u093e\u0917\u0922\u093c\u0940",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1730936326,
+        "lat": 28.6675822,
+        "lon": 77.0875128,
+        "tags": {
+          "amenity": "fuel",
+          "name": "IGL CNG Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1730936746,
+        "lat": 28.6678882,
+        "lon": 77.0875826,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Fuel Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1787431976,
+        "lat": 28.6810385,
+        "lon": 77.0808421,
+        "tags": {
+          "name": "Udyog Nagar",
+          "name:hi": "\u0909\u0926\u094d\u092f\u094b\u0917 \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1826377964,
+        "lat": 28.6882729,
+        "lon": 77.0897215,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777600345,
+        "lat": 28.6773871,
+        "lon": 77.1122873,
+        "tags": {
+          "name": "Paschim Vihar East",
+          "name:hi": "\u092a\u0936\u094d\u091a\u093f\u092e \u0935\u093f\u0939\u093e\u0930 \u092a\u0942\u0930\u094d\u0935",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777600347,
+        "lat": 28.6786274,
+        "lon": 77.1022176,
+        "tags": {
+          "name": "Paschim Vihar West",
+          "name:hi": "\u092a\u0936\u094d\u091a\u093f\u092e \u0935\u093f\u0939\u093e\u0930 \u092a\u0936\u094d\u091a\u093f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777600349,
+        "lat": 28.6797476,
+        "lon": 77.0926593,
+        "tags": {
+          "name": "Peeragarhi",
+          "name:hi": "\u092a\u0940\u0930\u093e\u0917\u0922\u093c\u0940",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777600351,
+        "lat": 28.6810972,
+        "lon": 77.0808507,
+        "tags": {
+          "name": "Udyog Nagar",
+          "name:hi": "\u0909\u0926\u094d\u092f\u094b\u0917 \u0928\u0917\u0930",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777600352,
+        "lat": 28.6818691,
+        "lon": 77.0739991,
+        "tags": {
+          "name": "Surajmal Stadium",
+          "name:hi": "\u0938\u0942\u0930\u091c\u092e\u0932 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5818161006,
+        "lat": 28.6753107,
+        "lon": 77.0935355,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6386259531,
+        "lat": 28.652077,
+        "lon": 77.0958277,
+        "tags": {
+          "bus": "yes",
+          "name": "Khyala JJ Colony",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6386259698,
+        "lat": 28.6521496,
+        "lon": 77.0958326,
+        "tags": {
+          "bus": "yes",
+          "name": "Khyala JJ Colony",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6465991439,
+        "lat": 28.6773563,
+        "lon": 77.1122823,
+        "tags": {
+          "name": "Paschim Vihar East",
+          "name:hi": "\u092a\u0936\u094d\u091a\u093f\u092e \u0935\u093f\u0939\u093e\u0930 \u092a\u0942\u0930\u094d\u0935",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q20718098",
+          "wikipedia": "en:Paschim Vihar East metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6465991441,
+        "lat": 28.6798074,
+        "lon": 77.0926793,
+        "tags": {
+          "name": "Peera Garhi",
+          "name:hi": "\u092a\u0940\u0930\u093e\u0917\u0922\u093c\u0940",
+          "name:ur": "\u067e\u06cc\u0631\u0627 \u06af\u0691\u06be\u06cc",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7160416",
+          "wikipedia": "en:Peera Garhi metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6465991442,
+        "lat": 28.681103,
+        "lon": 77.0808492,
+        "tags": {
+          "name": "Udyog Nagar",
+          "name:hi": "\u0909\u0926\u094d\u092f\u094b\u0917 \u0928\u0917\u0930",
+          "name:ur": "\u0627\u064f\u062f\u06cc\u0648\u06af \u0646\u06af\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7877393",
+          "wikipedia": "en:Udyog Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6465991443,
+        "lat": 28.6818775,
+        "lon": 77.074,
+        "tags": {
+          "name": "Surajmal Stadium",
+          "name:hi": "\u0938\u0942\u0930\u091c\u092e\u0932 \u0938\u094d\u091f\u0947\u0921\u093f\u092f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7645348",
+          "wikipedia": "en:Surajmal Stadium metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9066465094,
+        "lat": 28.678613,
+        "lon": 77.1022154,
+        "tags": {
+          "name": "Paschim Vihar West",
+          "name:hi": "\u092a\u0936\u094d\u091a\u093f\u092e \u0935\u093f\u0939\u093e\u0930 \u092a\u0936\u094d\u091a\u093f\u092e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7141809"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12149316873,
+        "lat": 28.6477823,
+        "lon": 77.0844169,
+        "tags": {
+          "name": "Krishna Park Extension",
+          "name:hi": "\u0915\u0943\u0937\u094d\u0923\u093e \u092a\u093e\u0930\u094d\u0915 \u090f\u0915\u094d\u0938\u091f\u0947\u0902\u0936\u0928",
+          "network": "Delhi Metro",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q131309538",
+          "wikipedia": "en:Krishna Park Extension metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12478112132,
+        "lat": 28.6478016,
+        "lon": 77.0843102,
+        "tags": {
+          "name": "Krishna Park Extension",
+          "name:hi": "\u0915\u0943\u0937\u094d\u0923\u093e \u092a\u093e\u0930\u094d\u0915 \u090f\u0915\u094d\u0938\u091f\u0947\u0902\u0936\u0928",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12478112133,
+        "lat": 28.6477914,
+        "lon": 77.0843549,
+        "tags": {
+          "name": "Krishna Park Extension",
+          "name:hi": "\u0915\u0943\u0937\u094d\u0923\u093e \u092a\u093e\u0930\u094d\u0915 \u090f\u0915\u094d\u0938\u091f\u0947\u0902\u0936\u0928",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:22:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": []
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:22:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1710208462,
+        "lat": 13.1436435,
+        "lon": 77.4122677,
+        "tags": {
+          "bus": "yes",
+          "name": "Gollahalli",
+          "name:en": "Gollahalli",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6087642665,
+        "lat": 13.1458556,
+        "lon": 77.4173425,
+        "tags": {
+          "internet_access": "no",
+          "name": "Gollahalli",
+          "name:kn": "\u0c97\u0cca\u0cb2\u0ccd\u0cb2\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "IR",
+          "operator": "SWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GHL",
+          "train": "yes",
+          "wikidata": "Q63357905"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11993205091,
+        "lat": 13.1506188,
+        "lon": 77.4118844,
+        "tags": {
+          "bus": "yes",
+          "name": "Railway Gate Gollahalli",
+          "name:en": "Railway Gate Gollahalli",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020239920,
+        "lat": 13.1672889,
+        "lon": 77.411561,
+        "tags": {
+          "bus": "yes",
+          "name": "Guttepalya",
+          "name:en": "Guttepalya",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020239921,
+        "lat": 13.1485909,
+        "lon": 77.4118841,
+        "tags": {
+          "bus": "yes",
+          "name": "Arch Railway Gollahalli",
+          "name:en": "Arch Railway Gollahalli",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020239922,
+        "lat": 13.1402179,
+        "lon": 77.4103653,
+        "tags": {
+          "bus": "yes",
+          "name": "Hyadalu",
+          "name:en": "Hyadalu",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:10:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4481532989,
+        "lat": 23.111054,
+        "lon": 72.6050699,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "AFC Garden Restaurant",
+          "name:en": "AFC Garden Restaurant",
+          "name:hi": "\u0910.\u092b.\u0938\u0940 \u0930\u0947\u0938\u094d\u091f\u094b\u0930\u0947\u0902\u091f"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975854571,
+        "lat": 23.1067781,
+        "lon": 72.5980747,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "303 Vitthal Mall, Second Floor, Nanakram Super Market,Opposite H H High School , Ram Nagar, Chandkheda",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Pushpa Children Hospital and Neonatal Care",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058646,
+        "lat": 23.1044464,
+        "lon": 72.6025578,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:postcode": "380005",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Lotus Multispeciality Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7864058661,
+        "lat": 23.1047391,
+        "lon": 72.5976157,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "Motera",
+          "addr:postcode": "382424",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Param Multispeciality Hospital",
+          "source": "Local Knowledge"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:10:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 611572690,
+        "lat": 23.0923921,
+        "lon": 72.5938017,
+        "tags": {
+          "amenity": "cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5622776445,
+        "lat": 23.0967876,
+        "lon": 72.5966689,
+        "tags": {
+          "name": "Motera Stadium",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10076836152,
+        "lat": 23.0967601,
+        "lon": 72.5967207,
+        "tags": {
+          "name": "Motera Stadium",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10959757852,
+        "lat": 23.1030557,
+        "lon": 72.5958911,
+        "tags": {
+          "amenity": "cinema",
+          "name": "PVR Motera"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121913,
+        "lat": 23.1142071,
+        "lon": 72.608378,
+        "tags": {
+          "name": "Vishwakarma College",
+          "name:gu": "\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0a95\u0ab0\u0acd\u0aae\u0abe \u0a95\u0acb\u0ab2\u0ac7\u0a9c",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "start_date": "2024-09-17",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121962,
+        "lat": 23.114189,
+        "lon": 72.6083924,
+        "tags": {
+          "name": "Vishwakarma College",
+          "name:gu": "\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0a95\u0ab0\u0acd\u0aae\u0abe \u0a95\u0acb\u0ab2\u0ac7\u0a9c",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "start_date": "2024-09-17",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121966,
+        "lat": 23.1251343,
+        "lon": 72.6221083,
+        "tags": {
+          "name": "Narmada Canal",
+          "name:gu": "\u0aa8\u0ab0\u0acd\u0aae\u0aa6\u0abe \u0a95\u0ac7\u0aa8\u0abe\u0ab2",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "start_date": "2024-09-17",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121967,
+        "lat": 23.1251547,
+        "lon": 72.6220892,
+        "tags": {
+          "name": "Narmada Canal",
+          "name:gu": "\u0aa8\u0ab0\u0acd\u0aae\u0aa6\u0abe \u0a95\u0ac7\u0aa8\u0abe\u0ab2",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "start_date": "2024-09-17",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121968,
+        "lat": 23.1201105,
+        "lon": 72.6158135,
+        "tags": {
+          "name": "Tapovan Circle",
+          "name:gu": "\u0aa4\u0aaa\u0acb\u0ab5\u0aa8 \u0ab8\u0ab0\u0acd\u0a95\u0ab2",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "start_date": "2024-09-17",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121969,
+        "lat": 23.1201413,
+        "lon": 72.615784,
+        "tags": {
+          "name": "Tapovan Circle",
+          "name:gu": "\u0aa4\u0aaa\u0acb\u0ab5\u0aa8 \u0ab8\u0ab0\u0acd\u0a95\u0ab2",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "start_date": "2024-09-17",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121970,
+        "lat": 23.1031046,
+        "lon": 72.602153,
+        "tags": {
+          "name": "Koteshwar Road",
+          "name:gu": "\u0a95\u0acb\u0a9f\u0ac7\u0ab6\u0acd\u0ab5\u0ab0 \u0ab0\u0acb\u0aa1",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "start_date": "2024-09-17",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121971,
+        "lat": 23.1031194,
+        "lon": 72.6021114,
+        "tags": {
+          "name": "Koteshwar Road",
+          "name:gu": "\u0a95\u0acb\u0a9f\u0ac7\u0ab6\u0acd\u0ab5\u0ab0 \u0ab0\u0acb\u0aa1",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "start_date": "2024-09-17",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11991899052,
+        "lat": 23.0710381,
+        "lon": 72.6208273,
+        "tags": {
+          "aeroway": "terminal",
+          "name": "Terminal 4 Building"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12196641346,
+        "lat": 23.1251457,
+        "lon": 72.6220979,
+        "tags": {
+          "name": "Narmada Canal",
+          "name:gu": "\u0aa8\u0ab0\u0acd\u0aae\u0aa6\u0abe \u0a95\u0ac7\u0aa8\u0abe\u0ab2",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-09-17",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12196641347,
+        "lat": 23.1201271,
+        "lon": 72.6157987,
+        "tags": {
+          "name": "Tapovan Circle",
+          "name:gu": "\u0aa4\u0aaa\u0acb\u0ab5\u0aa8 \u0ab8\u0ab0\u0acd\u0a95\u0ab2",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-09-17",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12196641348,
+        "lat": 23.1141999,
+        "lon": 72.6083864,
+        "tags": {
+          "name": "Vishwakarma College",
+          "name:gu": "\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0a95\u0ab0\u0acd\u0aae\u0abe \u0a95\u0acb\u0ab2\u0ac7\u0a9c",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-09-17",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12196641349,
+        "lat": 23.1031114,
+        "lon": 72.6021329,
+        "tags": {
+          "name": "Koteshwar Road",
+          "name:gu": "\u0a95\u0acb\u0a9f\u0ac7\u0ab6\u0acd\u0ab5\u0ab0 \u0ab0\u0acb\u0aa1",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-09-17",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12196641366,
+        "lat": 23.0967726,
+        "lon": 72.596692,
+        "tags": {
+          "name": "Motera Stadium",
+          "name:gu": "\u0aae\u0acb\u0a9f\u0ac7\u0ab0\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0aa1\u0abf\u0aaf\u0aae",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q114427229"
+        }
+      }
+    ]
+  }
+}

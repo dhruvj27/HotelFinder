@@ -1,0 +1,1700 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:56:24Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1516138173,
+        "lat": 17.3869279,
+        "lon": 78.4581378,
+        "tags": {
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2052610437,
+        "lat": 17.3996015,
+        "lon": 78.4627111,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Nilofer Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2217968803,
+        "lat": 17.3886782,
+        "lon": 78.4737943,
+        "tags": {
+          "amenity": "atm",
+          "name": "YES Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4187308292,
+        "lat": 17.3835174,
+        "lon": 78.4659296,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6187870385,
+        "lat": 17.3961227,
+        "lon": 78.4625614,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500004",
+          "addr:street": "Mehdi Nawaj Jung Road",
+          "amenity": "cafe",
+          "internet_access": "no",
+          "level": "0",
+          "name": "Himalaya Cafe",
+          "payment:cash": "yes",
+          "smoking": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6187870785,
+        "lat": 17.3996049,
+        "lon": 78.4629214,
+        "tags": {
+          "amenity": "cafe",
+          "name": "New Nilofer"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6195716886,
+        "lat": 17.3944441,
+        "lon": 78.463068,
+        "tags": {
+          "amenity": "clinic",
+          "name": "Children Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6208287189,
+        "lat": 17.3866112,
+        "lon": 78.4724462,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Andhra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6208309185,
+        "lat": 17.3868358,
+        "lon": 78.4720854,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hotel Shezan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6208309285,
+        "lat": 17.389026,
+        "lon": 78.4705949,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hotel Aadab"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6209990986,
+        "lat": 17.3964405,
+        "lon": 78.4655285,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "S K MEDICALS"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6211085686,
+        "lat": 17.3933858,
+        "lon": 78.4651641,
+        "tags": {
+          "amenity": "atm",
+          "operator": "BOI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6211085986,
+        "lat": 17.393693,
+        "lon": 78.4652819,
+        "tags": {
+          "amenity": "atm",
+          "operator": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6211086085,
+        "lat": 17.3944846,
+        "lon": 78.4657651,
+        "tags": {
+          "amenity": "atm",
+          "operator": "State Bank Of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6211086385,
+        "lat": 17.393626,
+        "lon": 78.4652583,
+        "tags": {
+          "amenity": "atm",
+          "operator": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6211087085,
+        "lat": 17.3934378,
+        "lon": 78.4651784,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Andhra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6216842785,
+        "lat": 17.3958608,
+        "lon": 78.465996,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Raghavendra Chips Shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6216842786,
+        "lat": 17.3947279,
+        "lon": 78.4655695,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Tiffins"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6216842985,
+        "lat": 17.3924442,
+        "lon": 78.4648531,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6219027188,
+        "lat": 17.3960512,
+        "lon": 78.4656063,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500004",
+          "addr:street": "Red Hills Road",
+          "amenity": "clinic",
+          "name": "Red Hills Poly Clinic",
+          "payment:cash": "yes",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6222399985,
+        "lat": 17.3994456,
+        "lon": 78.4628961,
+        "tags": {
+          "amenity": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6222400185,
+        "lat": 17.3995138,
+        "lon": 78.4629116,
+        "tags": {
+          "amenity": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6222424885,
+        "lat": 17.3978974,
+        "lon": 78.4596842,
+        "tags": {
+          "amenity": "atm",
+          "operator": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6222432292,
+        "lat": 17.3965546,
+        "lon": 78.4625941,
+        "tags": {
+          "amenity": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6222432293,
+        "lat": 17.3968278,
+        "lon": 78.4625994,
+        "tags": {
+          "amenity": "bank",
+          "currency:INR": "yes",
+          "level": "0",
+          "name": "Central Bank Of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6222432294,
+        "lat": 17.3974984,
+        "lon": 78.462505,
+        "tags": {
+          "addr:street": "Red Hills Road",
+          "amenity": "bank",
+          "name": "Dena Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6222434585,
+        "lat": 17.3978254,
+        "lon": 78.4597193,
+        "tags": {
+          "amenity": "bank",
+          "name": "State Bank Of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6222437288,
+        "lat": 17.3972626,
+        "lon": 78.462798,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Pradhan Manthri Bharatiya Jan Aushadhi Kendra",
+          "phone": "8096745599"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6254339285,
+        "lat": 17.3916834,
+        "lon": 78.4654813,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Yousufuan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6255606659,
+        "lat": 17.3992308,
+        "lon": 78.4661365,
+        "tags": {
+          "amenity": "atm",
+          "cash_in": "yes",
+          "currency:INR": "yes",
+          "operator": "SBH"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6266191385,
+        "lat": 17.3905783,
+        "lon": 78.4636141,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Feel In Saudi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6399883667,
+        "lat": 17.3912759,
+        "lon": 78.4641656,
+        "tags": {
+          "addr:city": "hyderabad",
+          "addr:postcode": "500001",
+          "addr:street": "Jamia Masjid Road",
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "payment:cash": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6399883668,
+        "lat": 17.3911816,
+        "lon": 78.464094,
+        "tags": {
+          "addr:city": "hyderabad",
+          "addr:postcode": "500001",
+          "addr:street": "Jamia Masjid Road",
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "drive_through": "no",
+          "healthcare": "pharmacy",
+          "opening_hours": "Mo-Su 10:00-23:00",
+          "payment:cash": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6399883669,
+        "lat": 17.3913197,
+        "lon": 78.4638661,
+        "tags": {
+          "addr:city": "hyderabad",
+          "addr:postcode": "500001",
+          "addr:street": "Jamia Masjid Road",
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "payment:cash": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6399884540,
+        "lat": 17.3924917,
+        "lon": 78.4696426,
+        "tags": {
+          "amenity": "cafe",
+          "payment:cash": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6407554284,
+        "lat": 17.3974388,
+        "lon": 78.4688357,
+        "tags": {
+          "addr:city": "Red Hills, Lakdikapul, Hyderabad",
+          "addr:postcode": "500004",
+          "addr:street": "Public Garden",
+          "leisure": "park",
+          "name": "T R Ujna Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6479934028,
+        "lat": 17.3969132,
+        "lon": 78.4722613,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "5 - 9 - 94, Chapel Road",
+          "addr:postcode": "500001",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "orthopaedics",
+          "name": "Udai Omni Hospital",
+          "operator:type": "private",
+          "phone": "+91 40 23232226;+9140 23233195",
+          "source": "OpenGovernmentData",
+          "website": "https://udaiomni.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6485441362,
+        "lat": 17.3944196,
+        "lon": 78.4626817,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "11-5-80, Bazar Ghat ' X' Roads",
+          "addr:postcode": "500004",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Nisha Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6503438537,
+        "lat": 17.393511,
+        "lon": 78.4568185,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "10-2-317/1/A/9/B, Beside Hotel Riyan, Vijayanagar Colony",
+          "addr:postcode": "500057",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Mansoor Maternity And Childrens Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6505352702,
+        "lat": 17.3967872,
+        "lon": 78.4728447,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "H.No. 5-9-83/B, Ramchander House, Chapel Road, Lane Opposite LB Stadium & Public Gardens, Nampally",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:email": "info@neoretina.com",
+          "contact:mobile": "9177410004; 7207040566",
+          "contact:phone": "040 23236666",
+          "medical_system": "Allopathic",
+          "name": "Neo Retina Eye Care",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "https://neoretina.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6511251151,
+        "lat": 17.3995348,
+        "lon": 78.4630345,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "Red Hills",
+          "addr:postcode": "500004",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Lazarus Hospitals",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6542441846,
+        "lat": 17.3922555,
+        "lon": 78.4631672,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Near Bazarghat 'X' Roads",
+          "addr:state": "Telangana",
+          "addr:street": "Habeebnagar",
+          "addr:subdistrict": "Nampally",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Area Hospital, Nampally",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataT"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6548879008,
+        "lat": 17.3949495,
+        "lon": 78.4573924,
+        "tags": {
+          "addr:full": "H.No: 10-2-300/A/2, Nukkula Arcade, Vijayanagar Colony Main Road, Above Canara Bank",
+          "addr:postcode": "500057",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:phone": "4023342434",
+          "name": "SRISHTI EYE CENTRE",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6549186461,
+        "lat": 17.3910435,
+        "lon": 78.4712635,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:full": "H.No: 5-8-/105/A, Behind Kamath Hotel, Station Road, Nampally",
+          "addr:postcode": "500001",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:phone": "4066734111",
+          "name": "RAMA EYE HOSPITAL",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6567311932,
+        "lat": 17.3893491,
+        "lon": 78.4734696,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "5-4-446, Nampally Station Road, Abids",
+          "addr:postcode": "500001",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "fixme": "Please verify the accurate position of the hospital as I have mapped the facility based on the address provided in Open Government data",
+          "name": "Jayanti Maternity and Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6652963985,
+        "lat": 17.3889925,
+        "lon": 78.4715569,
+        "tags": {
+          "amenity": "bank",
+          "name": "State Bank of India (SBI)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6822126483,
+        "lat": 17.3915423,
+        "lon": 78.4652788,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Angaara5 Restaurant",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10253790309,
+        "lat": 17.3928515,
+        "lon": 78.4569744,
+        "tags": {
+          "addr:street": "Darus Salm Road",
+          "name": "Ratnadeep",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10970003770,
+        "lat": 17.3923182,
+        "lon": 78.4624848,
+        "tags": {
+          "amenity": "hospital",
+          "fixme": "add proper tags: Government Homoeo Dispensary, Vijayanagar Colony operational_status = operational operator:type=government source=OpenDataTelangana",
+          "healthcare": "hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11027230830,
+        "lat": 17.3984329,
+        "lon": 78.4614037,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Masab Tank",
+          "addr:state": "Telangana",
+          "addr:street": "PS NAGAR",
+          "addr:subdistrict": "Khairatabad",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Urban Primary Health Centre, Niloufer",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11037406356,
+        "lat": 17.3881947,
+        "lon": 78.4644909,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Nampally",
+          "addr:state": "Telangana",
+          "addr:street": "HINDI NAGAR",
+          "addr:subdistrict": "Asif Nagar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Urban Primary Health Centre, Aghapura",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11774365340,
+        "lat": 17.3941792,
+        "lon": 78.4699201,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "check_date": "2024-03-31",
+          "name": "Union Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11931079727,
+        "lat": 17.386034,
+        "lon": 78.4596586,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Asif Nagar",
+          "addr:state": "Telangana",
+          "addr:street": "INDIRA NAGAR",
+          "addr:subdistrict": "Asif Nagar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Urban Primary Health Centre, Afzal Sagar",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11936158149,
+        "lat": 17.3986812,
+        "lon": 78.4610376,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Red Hills, Baazar Ghat, Lakdi Ka Pul, Hyderabad",
+          "addr:state": "Telangana",
+          "addr:street": "Baazar Ghat, Lakdi Ka Pul,",
+          "addr:subdistrict": "Nampally",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Niloufer Hospital",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11936184186,
+        "lat": 17.392011,
+        "lon": 78.4631951,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Nampally",
+          "addr:state": "Telangana",
+          "addr:street": "Habib nager",
+          "addr:subdistrict": "Nampally",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Government Unani Dispesary, Nampally",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11938622049,
+        "lat": 17.392244,
+        "lon": 78.4601927,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Red Hills, Lakadikapul, Hyderabad",
+          "addr:state": "Telangana",
+          "addr:street": "Red Hills, Lakadikapul,",
+          "addr:subdistrict": "Nampally",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "MNJ Institute of Oncology and Regional Cancer Center",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:56:24Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 289582025,
+        "lat": 17.4129744,
+        "lon": 78.4610582,
+        "tags": {
+          "internet_access": "no",
+          "name": "Khairatabad",
+          "name:te": "\u0c16\u0c48\u0c30\u0c24\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "name:ur": "\u062e\u06cc\u0631\u062a \u0622\u0628\u0627\u062f",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KQD",
+          "train": "yes",
+          "wikidata": "Q6399082",
+          "wikipedia": "en:Khairatabad railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 289656763,
+        "lat": 17.3924223,
+        "lon": 78.4675956,
+        "tags": {
+          "internet_access": "no",
+          "name": "Hyderabad Deccan Nampally",
+          "name:te": "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c26\u0c15\u0c4d\u0c15\u0c28\u0c4d \u0c28\u0c3e\u0c02\u0c2a\u0c32\u0c4d\u0c32\u0c3f",
+          "name:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f \u062f\u06a9\u0646",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "6",
+          "railway": "station",
+          "ref": "HYB",
+          "train": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q3633967",
+          "wikipedia": "en:Hyderabad Deccan railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 308792901,
+        "lat": 17.4080669,
+        "lon": 78.4697587,
+        "tags": {
+          "amenity": "fuel",
+          "name": "HP",
+          "name:te": "\u0c39\u0c46\u0c1a\u0c4d \u0c2a\u0c3f",
+          "operator": "Telangana Civil Supplies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 626897410,
+        "lat": 17.3730067,
+        "lon": 78.4766562,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Afzalgunj",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 728853927,
+        "lat": 17.3953109,
+        "lon": 78.4690741,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Lalita Kala Thoranam",
+          "name:te": "\u0c32\u0c32\u0c3f\u0c24 \u0c15\u0c33\u0c3e \u0c24\u0c4b\u0c30\u0c23\u0c02"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1038351374,
+        "lat": 17.3861153,
+        "lon": 78.4763073,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Ramakrishna Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1152688354,
+        "lat": 17.4073584,
+        "lon": 78.4555516,
+        "tags": {
+          "amenity": "theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1259088726,
+        "lat": 17.4115781,
+        "lon": 78.4610668,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1779029058,
+        "lat": 17.4040544,
+        "lon": 78.4638899,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2052621892,
+        "lat": 17.4031013,
+        "lon": 78.4624993,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2174747681,
+        "lat": 17.4047659,
+        "lon": 78.4627335,
+        "tags": {
+          "name": "Lakdi-ka-pul",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2233018548,
+        "lat": 17.3814163,
+        "lon": 78.4828118,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422989049,
+        "lat": 17.3821199,
+        "lon": 78.4816145,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "alt_name": "OMC",
+          "name": "Osmania Medical College",
+          "name:ml": "\u0d09\u0d38\u0d4d\u0d2e\u0d3e\u0d28\u0d3f\u0d2f \u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d7d \u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d",
+          "name:te": "\u0c09\u0c38\u0c4d\u0c2e\u0c3e\u0c28\u0c3f\u0c2f\u0c3e \u0c35\u0c48\u0c26\u0c4d\u0c2f \u0c15\u0c33\u0c3e\u0c36\u0c3e\u0c32",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422989068,
+        "lat": 17.3979907,
+        "lon": 78.4708797,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Assembly",
+          "name:ml": "\u0d05\u0d38\u0d02\u0d2c\u0d4d\u0d32\u0d3f",
+          "name:te": "\u0c05\u0c38\u0c46\u0c02\u0c2c\u0c4d\u0c32\u0c40",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422989110,
+        "lat": 17.3858253,
+        "lon": 78.4733347,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Gandhi Bhavan",
+          "name:ml": "\u0d17\u0d3e\u0d28\u0d4d\u0d27\u0d3f \u0d2d\u0d35\u0d7b",
+          "name:te": "\u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c2d\u0c35\u0c28\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422989207,
+        "lat": 17.392222,
+        "lon": 78.4701612,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Nampally",
+          "name:ml": "\u0d28\u0d3e\u0d2e\u0d4d\u0d2a\u0d33\u0d4d\u0d33\u0d3f",
+          "name:te": "\u0c28\u0c3e\u0c02\u0c2a\u0c32\u0c4d\u0c32\u0c3f",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2445898820,
+        "lat": 17.3905862,
+        "lon": 78.4702853,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Public Gardens Petrol Pump",
+          "name:en": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2712437769,
+        "lat": 17.4038328,
+        "lon": 78.4635019,
+        "tags": {
+          "internet_access": "no",
+          "name": "Lakdi-ka-pul",
+          "name:te": "\u0c32\u0c15\u0c4d\u0c21\u0c3f\u0c15\u0c2a\u0c42\u0c32\u0c4d",
+          "name:ur": "\u0644\u06a9\u0691\u06cc \u06a9\u0627 \u067e\u0644",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "LKPL",
+          "train": "yes",
+          "wikidata": "Q6474590",
+          "wikipedia": "en:Lakdi-ka-pul railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3157201754,
+        "lat": 17.3844647,
+        "lon": 78.484,
+        "tags": {
+          "name": "Sultan Bazar",
+          "name:te": "\u0c38\u0c41\u0c32\u0c4d\u0c24\u0c3e\u0c28\u0c4d \u0c2c\u0c1c\u0c3e\u0c30\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3249112572,
+        "lat": 17.4069137,
+        "lon": 78.4635188,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Sensation Insomnia"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3249112573,
+        "lat": 17.40713,
+        "lon": 78.4635409,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Sensation Sunshine"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3249112574,
+        "lat": 17.4074371,
+        "lon": 78.4630567,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Shaam Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3612573966,
+        "lat": 17.4110069,
+        "lon": 78.4733865,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Boats to Budha Statue",
+          "name:te": "\u0c2c\u0c41\u0c26\u0c4d\u0c27 \u0c35\u0c3f\u0c17\u0c4d\u0c30\u0c39\u0c02 \u0c15\u0c4a\u0c30\u0c15\u0c41 \u0c2c\u0c4b\u0c1f\u0c4d\u0c38\u0c4d",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3784388166,
+        "lat": 17.4047517,
+        "lon": 78.4626985,
+        "tags": {
+          "name": "Lakdi-ka-pul",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3842496350,
+        "lat": 17.3906881,
+        "lon": 78.4883506,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Maheshwari Parmeshwari INOX Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4187284391,
+        "lat": 17.3987617,
+        "lon": 78.4709627,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4187308293,
+        "lat": 17.3909412,
+        "lon": 78.467487,
+        "tags": {
+          "amenity": "fuel",
+          "name": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5536020505,
+        "lat": 17.410965,
+        "lon": 78.4729424,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Boats to Budha Statue",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5961188254,
+        "lat": 17.4111614,
+        "lon": 78.4609532,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Khairatabad",
+          "name:ml": "\u0d16\u0d48\u0d30\u0d24\u0d3e\u0d2c\u0d3e\u0d26\u0d4d",
+          "name:te": "\u0c16\u0c48\u0c30\u0c24\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5968369025,
+        "lat": 17.4036398,
+        "lon": 78.4653197,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Lakdi-ka-pul",
+          "name:ml": "\u0d32\u0d15\u0d4d\u0d21\u0d3f-\u0d15\u0d3e-\u0d2a\u0d41\u0d7d",
+          "name:te": "\u0c32\u0c15\u0c4d\u0c21\u0c3f-\u0c15\u0c3e-\u0c2a\u0c41\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6162823090,
+        "lat": 17.4139112,
+        "lon": 78.4646316,
+        "tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name": "Boating",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6209973385,
+        "lat": 17.4040258,
+        "lon": 78.4618329,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Auto Gas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6254336890,
+        "lat": 17.3887027,
+        "lon": 78.4753829,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6255550788,
+        "lat": 17.3887874,
+        "lon": 78.4743368,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Hp petrol bunk"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6652962785,
+        "lat": 17.3808647,
+        "lon": 78.4857081,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6652962786,
+        "lat": 17.3873482,
+        "lon": 78.4772332,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663498,
+        "lat": 17.3844258,
+        "lon": 78.4840519,
+        "tags": {
+          "name": "Sultan Bazar",
+          "name:te": "\u0c38\u0c41\u0c32\u0c4d\u0c24\u0c3e\u0c28\u0c4d \u0c2c\u0c1c\u0c3e\u0c30\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663499,
+        "lat": 17.3844473,
+        "lon": 78.4840241,
+        "tags": {
+          "name": "Sultan Bazar",
+          "name:ml": "\u0d38\u0d41\u0d7d\u0d24\u0d4d\u0d24\u0d3e\u0d7b \u0d2c\u0d38\u0d3e\u0d7c",
+          "name:te": "\u0c38\u0c41\u0c32\u0c4d\u0c24\u0c3e\u0c28\u0c4d \u0c2c\u0c1c\u0c3e\u0c30\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7635652752,
+        "lat": 17.3932537,
+        "lon": 78.4673086,
+        "tags": {
+          "name": "Hyderabad Deccan Nampally",
+          "name:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f \u062f\u06a9\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7635652753,
+        "lat": 17.393247,
+        "lon": 78.467451,
+        "tags": {
+          "name": "Hyderabad Deccan Nampally",
+          "name:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f \u062f\u06a9\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7635652754,
+        "lat": 17.3932459,
+        "lon": 78.4674948,
+        "tags": {
+          "name": "Hyderabad Deccan Nampally",
+          "name:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f \u062f\u06a9\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7635652755,
+        "lat": 17.3932426,
+        "lon": 78.4675952,
+        "tags": {
+          "name": "Hyderabad Deccan Nampally",
+          "name:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f \u062f\u06a9\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7635652756,
+        "lat": 17.3932435,
+        "lon": 78.4676319,
+        "tags": {
+          "name": "Hyderabad Deccan Nampally",
+          "name:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f \u062f\u06a9\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7635652757,
+        "lat": 17.3932391,
+        "lon": 78.46779,
+        "tags": {
+          "name": "Hyderabad Deccan Nampally",
+          "name:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f \u062f\u06a9\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9732099995,
+        "lat": 17.390678,
+        "lon": 78.4502828,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil Petrol Pump",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9732100001,
+        "lat": 17.3887447,
+        "lon": 78.4552104,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10789496134,
+        "lat": 17.4127019,
+        "lon": 78.4657508,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:neighbourhood": "Khairtabad",
+          "addr:state": "Telangana",
+          "air_conditioning": "yes",
+          "amenity": "cinema",
+          "name": "Prasads Imax",
+          "wheelchair": "yes",
+          "wikidata": "Q7238450",
+          "wikipedia": "en:Prasads Multiplex"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500530,
+        "lat": 17.3921581,
+        "lon": 78.4418493,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Mehdipatnam  Bus Stop",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179187,
+        "lat": 17.3823471,
+        "lon": 78.4811327,
+        "tags": {
+          "alt_name": "OMC",
+          "internet_access": "no",
+          "name": "Osmania Medical College",
+          "name:ml": "\u0d09\u0d38\u0d4d\u0d2e\u0d3e\u0d28\u0d3f\u0d2f \u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d7d \u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d",
+          "name:te": "\u0c09\u0c38\u0c4d\u0c2e\u0c3e\u0c28\u0c3f\u0c2f\u0c3e \u0c35\u0c48\u0c26\u0c4d\u0c2f \u0c15\u0c33\u0c3e\u0c36\u0c3e\u0c32",
+          "name:ur": "\u0639\u062b\u0645\u0627\u0646\u06cc\u06c1 \u0645\u06cc\u0688\u06cc\u06a9\u0644 \u06a9\u0627\u0644\u062c",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://hmrl.co.in",
+          "wheelchair": "yes",
+          "wikidata": "Q83859784"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179188,
+        "lat": 17.3923995,
+        "lon": 78.4701477,
+        "tags": {
+          "internet_access": "no",
+          "name": "Nampally",
+          "name:ml": "\u0d28\u0d3e\u0d2e\u0d4d\u0d2a\u0d33\u0d4d\u0d33\u0d3f",
+          "name:te": "\u0c28\u0c3e\u0c02\u0c2a\u0c32\u0c4d\u0c32\u0c3f",
+          "name:ur": "\u0646\u0627\u0645\u067e\u0644\u0651\u06cc",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://hmrl.co.in",
+          "wheelchair": "yes",
+          "wikidata": "Q63346685"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179190,
+        "lat": 17.4039063,
+        "lon": 78.4650247,
+        "tags": {
+          "internet_access": "no",
+          "name": "Lakdi-ka-pul",
+          "name:ml": "\u0d32\u0d15\u0d4d\u0d21\u0d3f-\u0d15\u0d3e-\u0d2a\u0d41\u0d7d",
+          "name:te": "\u0c32\u0c15\u0c4d\u0c21\u0c3f-\u0c15\u0c3e-\u0c2a\u0c41\u0c32\u0c4d",
+          "name:ur": "\u0644\u06a9\u0691\u06cc \u06a9\u0627 \u067e\u0644",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://hmrl.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179191,
+        "lat": 17.4115319,
+        "lon": 78.4608458,
+        "tags": {
+          "internet_access": "no",
+          "name": "Khairatabad",
+          "name:ml": "\u0d16\u0d48\u0d30\u0d24\u0d3e\u0d2c\u0d3e\u0d26\u0d4d",
+          "name:te": "\u0c16\u0c48\u0c30\u0c24\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "name:ur": "\u062e\u06cc\u0631\u062a \u0622\u0628\u0627\u062f",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://hmrl.co.in",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179194,
+        "lat": 17.3861073,
+        "lon": 78.4730995,
+        "tags": {
+          "internet_access": "no",
+          "name": "Gandhi Bhavan",
+          "name:ml": "\u0d17\u0d3e\u0d28\u0d4d\u0d27\u0d3f \u0d2d\u0d35\u0d7b",
+          "name:te": "\u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c2d\u0c35\u0c28\u0c4d",
+          "name:ur": "\u06af\u0627\u0646\u062f\u06be\u06cc \u0628\u06be\u0648\u0646",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://hmrl.co.in",
+          "wheelchair": "yes",
+          "wikidata": "Q62860405"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179200,
+        "lat": 17.3981092,
+        "lon": 78.4708176,
+        "tags": {
+          "internet_access": "no",
+          "name": "Assembly",
+          "name:ml": "\u0d05\u0d38\u0d02\u0d2c\u0d4d\u0d32\u0d3f",
+          "name:te": "\u0c05\u0c38\u0c46\u0c02\u0c2c\u0c4d\u0c32\u0c40",
+          "name:ur": "\u0627\u0633\u0645\u0628\u0644\u06cc",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://hmrl.co.in",
+          "wheelchair": "yes",
+          "wikidata": "Q83718950"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179217,
+        "lat": 17.4119664,
+        "lon": 78.4607387,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Khairatabad",
+          "name:ml": "\u0d16\u0d48\u0d30\u0d24\u0d3e\u0d2c\u0d3e\u0d26\u0d4d",
+          "name:te": "\u0c16\u0c48\u0c30\u0c24\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179218,
+        "lat": 17.4042288,
+        "lon": 78.4646895,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Lakdi-ka-pul",
+          "name:ml": "\u0d32\u0d15\u0d4d\u0d21\u0d3f-\u0d15\u0d3e-\u0d2a\u0d41\u0d7d",
+          "name:te": "\u0c32\u0c15\u0c4d\u0c21\u0c3f-\u0c15\u0c3e-\u0c2a\u0c41\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179219,
+        "lat": 17.3982698,
+        "lon": 78.4707738,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Assembly",
+          "name:ml": "\u0d05\u0d38\u0d02\u0d2c\u0d4d\u0d32\u0d3f",
+          "name:te": "\u0c05\u0c38\u0c46\u0c02\u0c2c\u0c4d\u0c32\u0c40",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179220,
+        "lat": 17.3927365,
+        "lon": 78.4701615,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Nampally",
+          "name:ml": "\u0d28\u0d3e\u0d2e\u0d4d\u0d2a\u0d33\u0d4d\u0d33\u0d3f",
+          "name:te": "\u0c28\u0c3e\u0c02\u0c2a\u0c32\u0c4d\u0c32\u0c3f",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179221,
+        "lat": 17.3863645,
+        "lon": 78.4728752,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "name": "Gandhi Bhavan",
+          "name:ml": "\u0d17\u0d3e\u0d28\u0d4d\u0d27\u0d3f \u0d2d\u0d35\u0d7b",
+          "name:te": "\u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c2d\u0c35\u0c28\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11738179222,
+        "lat": 17.3824963,
+        "lon": 78.4807152,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:city:ar": "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "addr:city:ur": "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f",
+          "alt_name": "OMC",
+          "name": "Osmania Medical College",
+          "name:ml": "\u0d09\u0d38\u0d4d\u0d2e\u0d3e\u0d28\u0d3f\u0d2f \u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d7d \u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d",
+          "name:te": "\u0c09\u0c38\u0c4d\u0c2e\u0c3e\u0c28\u0c3f\u0c2f\u0c3e \u0c35\u0c48\u0c26\u0c4d\u0c2f \u0c15\u0c33\u0c3e\u0c36\u0c3e\u0c32",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11774365337,
+        "lat": 17.3733667,
+        "lon": 78.4785666,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2024-03-31",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11774365338,
+        "lat": 17.3847326,
+        "lon": 78.4743828,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2025-01-07",
+          "check_date:compressed_air": "2025-01-07",
+          "compressed_air": "yes",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11774365339,
+        "lat": 17.3943492,
+        "lon": 78.4700623,
+        "tags": {
+          "amenity": "fuel",
+          "check_date": "2024-03-31",
+          "fuel:cng": "yes",
+          "name": "Extra Gas"
+        }
+      }
+    ]
+  }
+}

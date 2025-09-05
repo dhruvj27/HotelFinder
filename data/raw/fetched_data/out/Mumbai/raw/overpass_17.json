@@ -1,0 +1,1273 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:32:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3289573073,
+        "lat": 19.0747496,
+        "lon": 72.8709793,
+        "tags": {
+          "amenity": "restaurant",
+          "capacity": "50",
+          "cuisine": "South_Indian",
+          "name": "Hotel Ravi Pure Veg",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3524664707,
+        "lat": 19.0678286,
+        "lon": 72.8689535,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "C 57",
+          "addr:postcode": "400051",
+          "addr:street": "Bandra Kurla Complex Road",
+          "amenity": "cafe",
+          "cuisine": "regional",
+          "internet_access": "yes",
+          "name": "Pondichery Cafe, Sofitel Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3532124717,
+        "lat": 19.0627584,
+        "lon": 72.8731765,
+        "tags": {
+          "amenity": "hospital",
+          "name": "fauziya hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3534566632,
+        "lat": 19.0604661,
+        "lon": 72.8727812,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Metro"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4185780129,
+        "lat": 19.063466,
+        "lon": 72.862225,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Soda Bottle Opener Wala"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4412722495,
+        "lat": 19.0621137,
+        "lon": 72.8641566,
+        "tags": {
+          "addr:housenumber": "27",
+          "addr:postcode": "400051",
+          "amenity": "bank",
+          "name:en": "Kotak Mahindra 27 BKC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506317373,
+        "lat": 19.0652996,
+        "lon": 72.8615569,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Wok Express",
+          "phone": "9833380808"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506320531,
+        "lat": 19.0646784,
+        "lon": 72.8608743,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Cafe Coffee Day",
+          "brand:wikidata": "Q5017235",
+          "brand:wikipedia": "en:Caf\u00e9 Coffee Day",
+          "cuisine": "coffee_shop",
+          "name": "Cafe Coffee Day",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506320549,
+        "lat": 19.0655213,
+        "lon": 72.8616144,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "Pure vegetarian premium thali. First floor.",
+          "diet:vegetarian": "only",
+          "name": "Rajwada Thal\u2122",
+          "opening_hours": "Mo-Su 11:00-15:30,18:30-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506320550,
+        "lat": 19.068488,
+        "lon": 72.8687061,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506320779,
+        "lat": 19.0654768,
+        "lon": 72.8616466,
+        "tags": {
+          "amenity": "restaurant",
+          "contact:mobile": "+91 73032 57257",
+          "contact:phone": "+91 22 6999 8000",
+          "delivery": "Free home delivery",
+          "description": "Pure vegetarian restaurant",
+          "diet:vegetarian": "only",
+          "name": "Kailash Sarovar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506320961,
+        "lat": 19.064626,
+        "lon": 72.8607826,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506320963,
+        "lat": 19.0653617,
+        "lon": 72.8616414,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "brand:wikidata": "Q38076",
+          "brand:wikipedia": "en:McDonald's",
+          "brand:wikipedia:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:wikipedia:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "name:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "name:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506320971,
+        "lat": 19.068694,
+        "lon": 72.8682768,
+        "tags": {
+          "amenity": "bank",
+          "name": "FAB (First Abu Dhabi Bank)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506321249,
+        "lat": 19.0687576,
+        "lon": 72.8683636,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bandhan Bank",
+          "brand:wikidata": "Q19882235",
+          "name": "Bandhan Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506321254,
+        "lat": 19.0653042,
+        "lon": 72.859304,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Allahabad Bank",
+          "brand:wikidata": "Q2018840",
+          "name": "Allahabad Bank",
+          "opening_hours": "Mo-Sa 10:00-16:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5674545821,
+        "lat": 19.0688867,
+        "lon": 72.8690268,
+        "tags": {
+          "amenity": "bank",
+          "name:en": "FirstRand Bank, India branch"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6580341105,
+        "lat": 19.0722688,
+        "lon": 72.8703023,
+        "tags": {
+          "addr:city": "Mumabi",
+          "addr:housenumber": "Pinnacle Corporate Park",
+          "addr:postcode": "400051",
+          "addr:street": "Kanzul Iman Road",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "mexican;italian;chinese;indian",
+          "name": "Burn Bar and Kitchen",
+          "opening_hours": "Mo-Su 11:30-02:30",
+          "outdoor_seating": "no",
+          "phone": "+919152042515 +918454880008"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7067373861,
+        "lat": 19.0704407,
+        "lon": 72.8751061,
+        "tags": {
+          "addr:full": "Town Hall",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Despande Nursing Home",
+          "source": "OpenGovernmentData",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961416,
+        "lat": 19.0615419,
+        "lon": 72.8725536,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "LBS Road, Kurla West, Kurla, Mumbai",
+          "addr:postcode": "400070",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Lions Club Medical Centre General Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961454,
+        "lat": 19.072612,
+        "lon": 72.871065,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Office No. 701, Trade Center, Bandra Kurla Complex, Opp. MTNL, Bandra (East), Mumbai",
+          "addr:postcode": "400051",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Alphine Life Solutions General Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914421,
+        "lat": 19.0627787,
+        "lon": 72.8731767,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Fauziya hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914425,
+        "lat": 19.072649,
+        "lon": 72.8710522,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Alphine life solutions general hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234835,
+        "lat": 19.0643615,
+        "lon": 72.8662339,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "Indian Accent"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234836,
+        "lat": 19.0614334,
+        "lon": 72.8640157,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of Baroda",
+          "brand:wikidata": "Q2003797",
+          "name": "Bank of Baroda",
+          "operator": "Bank of Baroda"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234841,
+        "lat": 19.0614588,
+        "lon": 72.8614247,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "name": "Bank of India",
+          "operator": "Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234842,
+        "lat": 19.0612585,
+        "lon": 72.8620791,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank",
+          "operator": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234845,
+        "lat": 19.0599985,
+        "lon": 72.8622253,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank",
+          "operator": "Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234846,
+        "lat": 19.0608947,
+        "lon": 72.863034,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "indoor_seating": "yes",
+          "name": "CinCin",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234847,
+        "lat": 19.0609644,
+        "lon": 72.8628825,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "indoor_seating": "yes",
+          "name": "Yauatcha",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234848,
+        "lat": 19.0609555,
+        "lon": 72.8627457,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "thai",
+          "indoor_seating": "yes",
+          "name": "Nara Thai",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234885,
+        "lat": 19.0695355,
+        "lon": 72.869828,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hitchki"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234895,
+        "lat": 19.0603737,
+        "lon": 72.8653675,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Kyma"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234896,
+        "lat": 19.0603661,
+        "lon": 72.8651664,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sequel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234897,
+        "lat": 19.060721,
+        "lon": 72.8646836,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Chaayos",
+          "brand:wikidata": "Q117235235",
+          "cuisine": "tea",
+          "name": "Chaayos",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234898,
+        "lat": 19.0609137,
+        "lon": 72.8646702,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234899,
+        "lat": 19.0593672,
+        "lon": 72.8650108,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Amazonia"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234901,
+        "lat": 19.0592821,
+        "lon": 72.8650856,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Butterfly High"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234902,
+        "lat": 19.059327,
+        "lon": 72.8650376,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "name": "O Pedro"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234903,
+        "lat": 19.0611165,
+        "lon": 72.868149,
+        "tags": {
+          "amenity": "restaurant",
+          "contact:instagram": "origamifinedine",
+          "cuisine": "asian",
+          "name": "Origami Japanese & Korean Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11449431524,
+        "lat": 19.0653031,
+        "lon": 72.8744544,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11451942458,
+        "lat": 19.0617232,
+        "lon": 72.8597596,
+        "tags": {
+          "amenity": "bank",
+          "branch": "BKC Branch",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11452002809,
+        "lat": 19.0692375,
+        "lon": 72.8694557,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "PizzaExpress",
+          "brand:wikidata": "Q662845",
+          "cuisine": "pizza",
+          "name": "PizzaExpress",
+          "shop": "bakery"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11452002810,
+        "lat": 19.0671989,
+        "lon": 72.8661991,
+        "tags": {
+          "amenity": "food_court",
+          "name": "China Bistro"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12558331702,
+        "lat": 19.0607059,
+        "lon": 72.8723615,
+        "tags": {
+          "addr:city": "mumbai",
+          "addr:district": "maharashtra",
+          "addr:housenumber": "345",
+          "addr:postcode": "400008",
+          "addr:street": "Swadeshi Mill Road",
+          "dog": "yes",
+          "leisure": "park",
+          "name": "sasuri aden park",
+          "note": "do not liter the place , use dust bin",
+          "official_name": "sasuri",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "operator": "play ground",
+          "operator:type": "public",
+          "smoking": "no"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:32:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 339078717,
+        "lat": 19.0650734,
+        "lon": 72.8790797,
+        "tags": {
+          "name": "Kurla Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 620015554,
+        "lat": 19.0653324,
+        "lon": 72.8788976,
+        "tags": {
+          "name": "Kurla Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1241793068,
+        "lat": 19.09544,
+        "lon": 72.8660044,
+        "tags": {
+          "aeroway": "terminal",
+          "ele": "15.747192",
+          "name": "Cargo Terminal",
+          "source": "GPS",
+          "sym": "Civil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1366008911,
+        "lat": 19.0645019,
+        "lon": 72.8803229,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Kurla East",
+          "operator": "BEST",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1367093210,
+        "lat": 19.0648111,
+        "lon": 72.8793034,
+        "tags": {
+          "name": "Kurla Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1367093212,
+        "lat": 19.0649266,
+        "lon": 72.8792339,
+        "tags": {
+          "name": "Kurla Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1367093215,
+        "lat": 19.0649607,
+        "lon": 72.8791914,
+        "tags": {
+          "name": "Kurla Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1367093217,
+        "lat": 19.065041,
+        "lon": 72.8791094,
+        "tags": {
+          "name": "Kurla Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1367093225,
+        "lat": 19.0652016,
+        "lon": 72.8790144,
+        "tags": {
+          "name": "Kurla Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1367093228,
+        "lat": 19.0652271,
+        "lon": 72.878982,
+        "tags": {
+          "name": "Kurla Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2663219988,
+        "lat": 19.0517703,
+        "lon": 72.8690974,
+        "tags": {
+          "internet_access": "no",
+          "name": "Chuna Bhatti",
+          "name:hi": "\u091a\u0941\u0928\u093e \u092d\u091f\u094d\u091f\u0940",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CHF",
+          "train": "yes",
+          "wikidata": "Q5116212"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2663263713,
+        "lat": 19.0465213,
+        "lon": 72.8632834,
+        "tags": {
+          "internet_access": "no",
+          "name": "Sion",
+          "name:hi": "\u0938\u093e\u092f\u0928",
+          "name:ml": "\u0d38\u0d3f\u0d2f\u0d4b\u0d7a",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SIN",
+          "wikidata": "Q7525368",
+          "wikipedia": "en:Sion railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2663447640,
+        "lat": 19.0652797,
+        "lon": 72.8793805,
+        "tags": {
+          "internet_access": "wlan",
+          "name": "Kurla Junction",
+          "name:hi": "\u0915\u0941\u0930\u094d\u0932\u093e",
+          "name:ml": "\u0d15\u0d41\u0d7c\u0d33",
+          "network": "IR",
+          "office": "coworking",
+          "operator": "CR",
+          "public_transport": "station",
+          "ref": "CLA",
+          "wikidata": "Q6446148",
+          "wikipedia": "en:Kurla railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3289545012,
+        "lat": 19.0763832,
+        "lon": 72.8773575,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Petrol Pump",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3289545561,
+        "lat": 19.0780431,
+        "lon": 72.8793721,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3289551913,
+        "lat": 19.0757177,
+        "lon": 72.8792856,
+        "tags": {
+          "amenity": "cinema",
+          "name": "King",
+          "name:ur": "\u06a9\u0646\u06af\u0633\u0679\u0646"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3289553161,
+        "lat": 19.0765873,
+        "lon": 72.8772337,
+        "tags": {
+          "amenity": "fuel",
+          "name": "CNG",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3530903066,
+        "lat": 19.0657855,
+        "lon": 72.8904702,
+        "tags": {
+          "IR:zone": "CR",
+          "internet_access": "no",
+          "is_in": "Mumbai",
+          "name": "Tilak Nagar",
+          "name:hi": "\u0924\u093f\u0932\u0915 \u0928\u0917\u0930",
+          "name:mr": "\u091f\u093f\u0933\u0915 \u0928\u0917\u0930",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TKNG",
+          "wikidata": "Q7802036",
+          "wikipedia": "en:Tilak Nagar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3878597746,
+        "lat": 19.0745661,
+        "lon": 72.876058,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Kurla Depot",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4271113412,
+        "lat": 19.0601769,
+        "lon": 72.8644094,
+        "tags": {
+          "bus": "yes",
+          "name": "ONE BKC Bus stop",
+          "network": "3",
+          "operator": "BEST",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221297179,
+        "lat": 19.0606629,
+        "lon": 72.8546797,
+        "tags": {
+          "name": "Bandra Kurla Complex (BKC)",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947 \u0915\u0941\u0930\u094d\u0932\u093e \u0915\u0949\u092e\u094d\u092a\u094d\u0932\u0947\u0915\u094d\u0938 (\u092c\u0940\u0915\u0947\u0938\u0940)",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-10-05",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q130461527"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899453,
+        "lat": 19.0538593,
+        "lon": 72.8836221,
+        "tags": {
+          "construction": "stop",
+          "name": "Suman Nagar Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5506320960,
+        "lat": 19.0646847,
+        "lon": 72.8607694,
+        "tags": {
+          "amenity": "fuel",
+          "atm": "ICICI",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP Petrol & Diesel Pump",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6171366460,
+        "lat": 19.0657601,
+        "lon": 72.8901084,
+        "tags": {
+          "name": "Tilak Nagar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6966002859,
+        "lat": 19.0601942,
+        "lon": 72.8643018,
+        "tags": {
+          "bus": "yes",
+          "name": "One BKC Bus Stop",
+          "network": "3",
+          "operator": "BEST",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7622320900,
+        "lat": 19.0683695,
+        "lon": 72.8895448,
+        "tags": {
+          "name": "Lokmanya Tilak Terminus",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "LTT:5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7622320901,
+        "lat": 19.0682525,
+        "lon": 72.889651,
+        "tags": {
+          "name": "Lokmanya Tilak Terminus",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "LTT:4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7622320902,
+        "lat": 19.0682043,
+        "lon": 72.889693,
+        "tags": {
+          "name": "Lokmanya Tilak Terminus",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "LTT:3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7622320903,
+        "lat": 19.0686058,
+        "lon": 72.8904064,
+        "tags": {
+          "name": "Lokmanya Tilak Terminus",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "LTT:2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7622320904,
+        "lat": 19.0685754,
+        "lon": 72.8904287,
+        "tags": {
+          "name": "Lokmanya Tilak Terminus",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "LTT:1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817519127,
+        "lat": 19.0474971,
+        "lon": 72.8638738,
+        "tags": {
+          "name": "Sion",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817519128,
+        "lat": 19.0475103,
+        "lon": 72.8638299,
+        "tags": {
+          "name": "Sion",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7818024713,
+        "lat": 19.0657151,
+        "lon": 72.8904873,
+        "tags": {
+          "name": "Tilak Nagar",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7818099445,
+        "lat": 19.0518338,
+        "lon": 72.8690233,
+        "tags": {
+          "name": "Chuna Bhatti",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7818099446,
+        "lat": 19.0518312,
+        "lon": 72.868988,
+        "tags": {
+          "name": "Chunabhatti",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132436366,
+        "lat": 19.056617,
+        "lon": 72.8875185,
+        "tags": {
+          "construction": "stop",
+          "name": "Siddhartha Colony EEH Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10102658120,
+        "lat": 19.1063277,
+        "lon": 72.8631392,
+        "tags": {
+          "addr:street": "Om Nagar Road",
+          "aeroway": "terminal",
+          "name": "transline air cargo servics pvt ltd unit no 17",
+          "name:en": "transline air cargo services pvt ltd unit no 17"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234831,
+        "lat": 19.0653552,
+        "lon": 72.8667542,
+        "tags": {
+          "amenity": "theatre",
+          "capacity": "125",
+          "name": "The Cube"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234832,
+        "lat": 19.0655479,
+        "lon": 72.8667757,
+        "tags": {
+          "amenity": "theatre",
+          "capacity": "250",
+          "name": "The Studio Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234833,
+        "lat": 19.0651156,
+        "lon": 72.8672773,
+        "tags": {
+          "amenity": "theatre",
+          "capacity": "2000",
+          "name": "The Grand Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10779234834,
+        "lat": 19.0536503,
+        "lon": 72.8511089,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "Maison PVR",
+          "name:en": "Maison PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11069678663,
+        "lat": 19.0740032,
+        "lon": 72.8469774,
+        "tags": {
+          "bus": "yes",
+          "name": "Maratha Colony",
+          "name:en": "Maratha Colony",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11069702437,
+        "lat": 19.0682353,
+        "lon": 72.8467465,
+        "tags": {
+          "bus": "yes",
+          "name": "Cardinal Gracias School",
+          "name:en": "Cardinal Gracias School",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903221,
+        "lat": 19.0610779,
+        "lon": 72.8543132,
+        "tags": {
+          "name": "Bandra Kurla Complex (BKC)",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947 \u0915\u0941\u0930\u094d\u0932\u093e \u0915\u0949\u092e\u094d\u092a\u094d\u0932\u0947\u0915\u094d\u0938 (\u092c\u0940\u0915\u0947\u0938\u0940)",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903222,
+        "lat": 19.0602338,
+        "lon": 72.8549629,
+        "tags": {
+          "name": "Bandra Kurla Complex (BKC)",
+          "name:mr": "\u0935\u093e\u0902\u0926\u094d\u0930\u0947 \u0915\u0941\u0930\u094d\u0932\u093e \u0915\u0949\u092e\u094d\u092a\u094d\u0932\u0947\u0915\u094d\u0938 (\u092c\u0940\u0915\u0947\u0938\u0940)",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903223,
+        "lat": 19.0703093,
+        "lon": 72.8490294,
+        "tags": {
+          "name": "Bandra Colony",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903224,
+        "lat": 19.0693126,
+        "lon": 72.8498401,
+        "tags": {
+          "name": "Bandra Colony",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074909129,
+        "lat": 19.0699627,
+        "lon": 72.8493601,
+        "tags": {
+          "name": "Bandra Colony",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-10-05",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603369,
+        "lat": 19.053899,
+        "lon": 72.8835972,
+        "tags": {
+          "construction": "stop",
+          "name": "Suman Nagar Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      }
+    ]
+  }
+}

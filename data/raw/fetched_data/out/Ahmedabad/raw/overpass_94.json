@@ -1,0 +1,174 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:14:20Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 5177688241,
+        "lat": 22.9945198,
+        "lon": 72.665834,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Hotel Purohit Por"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6975629568,
+        "lat": 22.999875,
+        "lon": 72.6575299,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "A/1,Tejrndrapark Society,Nirant Char Rasta,Vastral Road",
+          "addr:postcode": "382418",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Hariom Multispeciality Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976523987,
+        "lat": 23.000075,
+        "lon": 72.6591285,
+        "tags": {
+          "addr:district": "Ahmedabad",
+          "addr:full": "4Th Floor, Siddhi Vinayak Plaza, Opp Kankubag Party Plot, Nirant Char Rasta, Vastral Road, Ratanpura-Vastral",
+          "addr:postcode": "382415",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "name": "Shreedhar Hospital, Ahmedabad",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12871031670,
+        "lat": 22.9941963,
+        "lon": 72.6715286,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "homeopathy",
+          "name": "charvi Hospital",
+          "operator": "kingofshrinivash",
+          "operator:type": "private",
+          "start_date": "2026-07-23"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:14:20Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6432742907,
+        "lat": 23.0034916,
+        "lon": 72.6476943,
+        "tags": {
+          "name": "Vastral",
+          "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6432742908,
+        "lat": 22.9998991,
+        "lon": 72.6585088,
+        "tags": {
+          "name": "Nirant Cross Roads",
+          "name:gu": "\u0aa8\u0abf\u0ab0\u0a82\u0aa4 \u0a95\u0acd\u0ab0\u0acb\u0ab8 \u0ab0\u0acb\u0aa1",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6432742909,
+        "lat": 22.9971313,
+        "lon": 72.6674512,
+        "tags": {
+          "name": "Vastral Gam",
+          "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2 \u0a97\u0abe\u0aae",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655564690,
+        "lat": 23.0035358,
+        "lon": 72.6477227,
+        "tags": {
+          "name": "Vastral",
+          "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655564707,
+        "lat": 22.9999759,
+        "lon": 72.6585492,
+        "tags": {
+          "name": "Nirant Cross Roads",
+          "name:gu": "\u0aa8\u0abf\u0ab0\u0a82\u0aa4 \u0a95\u0acd\u0ab0\u0acb\u0ab8 \u0ab0\u0acb\u0aa1",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9655564728,
+        "lat": 22.9972131,
+        "lon": 72.6674915,
+        "tags": {
+          "name": "Vastral Gam",
+          "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2 \u0a97\u0abe\u0aae",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:35:46Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 831251526,
+        "lat": 18.5540074,
+        "lon": 73.9051438,
+        "tags": {
+          "addr:city": "Kalyani Nagar",
+          "addr:postcode": "411006",
+          "addr:street": "East Avenue",
+          "amenity": "restaurant",
+          "email": "toitpune@toit.in",
+          "name": "Toit brewery and Resturant",
+          "phone": "+91 7796694400",
+          "source": "survey",
+          "website": "https://toit.in/toit-on-tap/pune/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1651542424,
+        "lat": 18.5651701,
+        "lon": 73.9113565,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Punjabi Dhaba"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1800027123,
+        "lat": 18.5685148,
+        "lon": 73.9074459,
+        "tags": {
+          "addr:city": "pune",
+          "addr:housenumber": "No. 3, Town Square",
+          "addr:postcode": "411047",
+          "addr:street": "Shopping Center Sr.No. 230A, Hissa, 1, New Airport Rd, Viman Nagar, Pune, Maharashtra 411047, India",
+          "name": "Dorabjee's - Viman Nagar",
+          "organic": "yes",
+          "shop": "supermarket",
+          "website": "https://dorabjeesonline.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2183552812,
+        "lat": 18.5614294,
+        "lon": 73.9172036,
+        "tags": {
+          "addr:street": "Nagar Road",
+          "brand": "Star Bazaar",
+          "brand:wikidata": "Q124175958",
+          "name": "Star Bazaar",
+          "organic": "yes",
+          "shop": "supermarket",
+          "website": "https://starbazaarindia.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2183569903,
+        "lat": 18.5650297,
+        "lon": 73.9161442,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "brand:wikipedia": "en:Bank of India",
+          "name": "Bank of India",
+          "name:en": "Bank of India",
+          "short_name": "BoI",
+          "website": "https://www.bankofindia.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2183569910,
+        "lat": 18.5650348,
+        "lon": 73.916348,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Citibank",
+          "brand:wikidata": "Q857063",
+          "operator": "Citibank",
+          "operator:wikidata": "Q857063",
+          "short_name": "Citi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5213712131,
+        "lat": 18.5639031,
+        "lon": 73.9138515,
+        "tags": {
+          "addr:housenumber": "209",
+          "addr:postcode": "41104",
+          "addr:street": "Viman Nagar Road",
+          "amenity": "bank",
+          "brand": "IndusInd Bank",
+          "brand:wikidata": "Q2040323",
+          "name": "IndusInd Bank",
+          "name:en": "Indusind Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5213712825,
+        "lat": 18.5640691,
+        "lon": 73.9138943,
+        "tags": {
+          "addr:housenumber": "209",
+          "addr:postcode": "411014",
+          "addr:street": "Viman Nagar Road",
+          "amenity": "bank",
+          "name:en": "Saraswat Bank viman nagar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7063909902,
+        "lat": 18.5569451,
+        "lon": 73.9074788,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "A - 1/II Floor, Hi Line Park Road, Ramwadi Naka, Nagar Road",
+          "addr:postcode": "411014",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Jeewan Jyot Multispeciality Medical Care Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7073438342,
+        "lat": 18.5577324,
+        "lon": 73.9089614,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "1st Floor, Satyam Arcade, Ramwadi, Nagar Road",
+          "addr:postcode": "411014",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Dr. Bumb Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8266542196,
+        "lat": 18.5689702,
+        "lon": 73.9071595,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Poona Superspeciality Clinic, Viman Nagar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "Surgical_Oncologist",
+          "name": "Dr Sanket Bankar - oncosurgeon",
+          "website": "https://www.oncosurgeonpune.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8266703354,
+        "lat": 18.5639901,
+        "lon": 73.9146281,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "105",
+          "addr:postcode": "411045",
+          "addr:street": "1st Floor, Turning Point 2, Landmark: Above Amantra Spa, Lane And Opposite Saraswat Bank,Viman Nagar,",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "Dentist;Dental_Surgeon;Cosmetic/Aesthetic_Dentist;Associate_Dental_Surgeon",
+          "name": "SWEET SMILES DENTAL CLINIC & IMPLANT CENTER",
+          "website": "https://www.sweetsmiles.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8811347772,
+        "lat": 18.5569898,
+        "lon": 73.9077765,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Sakore Nagar, Viman Nagar, Pune",
+          "addr:postcode": "411014",
+          "addr:state": "Maharashtra",
+          "amenity": "doctors",
+          "name": "Dr. Bartakke Hi Line",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8903544037,
+        "lat": 18.5644673,
+        "lon": 73.9139134,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "Apollo Clinic",
+          "addr:street": "Sakore Nagar, Viman Nagar,",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "Orthopaedic_Surgeon",
+          "name": "Apollo Clinic",
+          "website": "https://drmayankpathak.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9410145905,
+        "lat": 18.5539234,
+        "lon": 73.9039502,
+        "tags": {
+          "access": "employees",
+          "amenity": "cafe",
+          "brand": "Barista",
+          "brand:wikidata": "Q644735",
+          "brand:wikipedia": "en:Barista (company)",
+          "check_date": "2023-12-18",
+          "cuisine": "coffee_shop",
+          "name": "Barista",
+          "opening_hours": "Mo-Fr 09:00-18:00",
+          "outdoor_seating": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9866082391,
+        "lat": 18.568648,
+        "lon": 73.9084491,
+        "tags": {
+          "addr:floor": "9",
+          "amenity": "restaurant",
+          "name": "The Mafia Sky Lounge",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9889701510,
+        "lat": 18.5686242,
+        "lon": 73.9074649,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "102, First Floor, Town Square, Above Dorabjee\u2019s,, B/H Symbiosis Law School VIP Viman Nagar, New Airport Rd, Mhada Colony,, Viman Nagar,Maharashtra, India",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "urology",
+          "name": "Urozoone Kidney care clinic",
+          "opening_hours": "available on call",
+          "operator": "Novosalus",
+          "operator:type": "private",
+          "website": "https://www.urozoone.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914044,
+        "lat": 18.5644671,
+        "lon": 73.9139265,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "apollo clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10284239781,
+        "lat": 18.5685732,
+        "lon": 73.9070999,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "306A",
+          "addr:postcode": "411014",
+          "addr:street": "3rd Floor, Healing Touch Multispeciality Clinic, Town Square Bldg, Off, New Airport Rd, Mhada Colony, Viman Nagar",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "athritis_treatment",
+          "name": "Healing Touch Multispeciality Clinic",
+          "opening_hours": "Mo-Sa 10:00-22:00",
+          "operator": "Novosalus",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10567167410,
+        "lat": 18.5697167,
+        "lon": 73.9108986,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Planet Chemist"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11065644757,
+        "lat": 18.5678173,
+        "lon": 73.9099372,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Dei Gratia, Viman nagar",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop;pizza;burger;italian;sandwich;chicken;french;pasta;indian;ice_cream;dessert;chocolate",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Backseat Brews",
+          "opening_hours": "Mo-Su 09:00-23:00",
+          "phone": "+918888437374"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11861983581,
+        "lat": 18.5594382,
+        "lon": 73.9114359,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:street": "Viman Nagar Road",
+          "amenity": "bank",
+          "brand": "Yes Bank",
+          "brand:wikidata": "Q2040394",
+          "name": "Yes Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11862030072,
+        "lat": 18.5596765,
+        "lon": 73.9114367,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:street": "Viman Nagar Road",
+          "amenity": "bank",
+          "brand": "UCO Bank",
+          "brand:wikidata": "Q2005310",
+          "name": "UCO Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11949641361,
+        "lat": 18.5619936,
+        "lon": 73.9142216,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:housenumber": "C 10",
+          "addr:postcode": "411014",
+          "addr:street": "Sakore Nagar Road",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "contact:facebook": "https://www.instagram.com/airbar.kitchen/",
+          "cuisine": "indian;italian;chinese;sandwich",
+          "delivery": "yes",
+          "description": "Elevate Your Evenings!\n Bar & Restaurant",
+          "diet:non-vegetarian": "yes",
+          "diet:seafood": "yes",
+          "diet:vegetarian": "yes",
+          "highchair": "yes",
+          "name": "AirBar || Lounge & Kitchen",
+          "opening_hours": "Mo-Su 10:00-01:00",
+          "phone": "+91743407777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12383884204,
+        "lat": 18.5668819,
+        "lon": 73.9106949,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Viman Nagar Road",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "internet_access": "no",
+          "name": "Brew Culture",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12383891002,
+        "lat": 18.5697053,
+        "lon": 73.910701,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Pratapkumar Path",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "name": "alag aasmaan",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12794484463,
+        "lat": 18.5682355,
+        "lon": 73.9060958,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "name": "Cafe A26"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:35:46Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 763513035,
+        "lat": 18.5751841,
+        "lon": 73.8995588,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "509",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 763515722,
+        "lat": 18.5751028,
+        "lon": 73.8970804,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Kekan Petrol Pump (HP)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9152005063,
+        "lat": 18.5778259,
+        "lon": 73.903067,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Kendriya Vidyalaya Lohgaon",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9152005064,
+        "lat": 18.5778484,
+        "lon": 73.9029879,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Kendriya Vidyalaya Lohgaon",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10844985580,
+        "lat": 18.5778315,
+        "lon": 73.9073489,
+        "tags": {
+          "access": "yes",
+          "addr:floor": "1",
+          "amenity": "charging_station",
+          "capacity": "2",
+          "description": "60kW charger. Space for 2 cars.",
+          "fee": "yes",
+          "level": "1",
+          "source": "local knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340494,
+        "lat": 18.5571164,
+        "lon": 73.9085719,
+        "tags": {
+          "layer": "2",
+          "name": "Ramwadi",
+          "name:mr": "\u0930\u093e\u092e\u0935\u093e\u0921\u0940",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340653,
+        "lat": 18.5444651,
+        "lon": 73.9056677,
+        "tags": {
+          "layer": "2",
+          "name": "Kalyani Nagar",
+          "name:mr": "\u0915\u0932\u094d\u092f\u093e\u0923\u0940 \u0928\u0917\u0930",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340654,
+        "lat": 18.5444493,
+        "lon": 73.9057122,
+        "tags": {
+          "layer": "2",
+          "name": "Kalyani Nagar",
+          "name:mr": "\u0915\u0932\u094d\u092f\u093e\u0923\u0940 \u0928\u0917\u0930",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340655,
+        "lat": 18.5444806,
+        "lon": 73.9056979,
+        "tags": {
+          "name": "Kalyani Nagar",
+          "name:mr": "\u0915\u0932\u094d\u092f\u093e\u0923\u0940 \u0928\u0917\u0930",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikipedia": "en:Kalyani Nagar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340656,
+        "lat": 18.5570831,
+        "lon": 73.9085916,
+        "tags": {
+          "layer": "2",
+          "name": "Ramwadi",
+          "name:mr": "\u0930\u093e\u092e\u0935\u093e\u0921\u0940",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340657,
+        "lat": 18.5571183,
+        "lon": 73.9086071,
+        "tags": {
+          "name": "Ramwadi",
+          "name:mr": "\u0930\u093e\u092e\u0935\u093e\u0921\u0940",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikipedia": "en:Ramwadi metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12863629710,
+        "lat": 18.5795095,
+        "lon": 73.9099537,
+        "tags": {
+          "aeroway": "terminal"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1003 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:46:06Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2817350830,
+        "lat": 17.3863828,
+        "lon": 78.4400604,
+        "tags": {
+          "addr:postcode": "500028",
+          "addr:street": "Opp to Sai baba temple, Gudimalkapur crossroads, Mehedipatmam",
+          "amenity": "cafe",
+          "cuisine": "Sweets_and_Bakery, Fast food",
+          "internet_access": "no",
+          "name": "Santhi Bakers",
+          "opening_hours": "08:00-23:00 open"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2817353390,
+        "lat": 17.3857899,
+        "lon": 78.4402804,
+        "tags": {
+          "addr:postcode": "500028",
+          "addr:street": "Groundfloor, Priya Colony, Gudimalkapur, Mehdipatnam",
+          "amenity": "bank",
+          "atm": "no",
+          "brand:wikidata": "Q2003611",
+          "brand:wikipedia": "en:Indian Overseas Bank",
+          "name": "Indian Overseas Bank",
+          "name:en": "Indian Overseas Bank",
+          "note": "IFSC Code : IOBA0001713 Branch Code : 1713 SWIFT Code : 23421515 email :mehdipatnambr@hydsco.iobnet.co.in",
+          "opening_hours": "10:00-16:00",
+          "short_name": "IOB",
+          "website": "https://www.iob.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3166130282,
+        "lat": 17.3940604,
+        "lon": 78.4423952,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Cafe Ice Magic",
+          "source": "Local Knowledge;Local Resident"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5105256723,
+        "lat": 17.3932869,
+        "lon": 78.4452529,
+        "tags": {
+          "amenity": "bank",
+          "name": "\u0643\u0627\u0638\u0645 \u0643\u0627\u062a\u0628 \u0639\u062f\u0644"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5318387221,
+        "lat": 17.3947454,
+        "lon": 78.4312688,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5565535258,
+        "lat": 17.3943466,
+        "lon": 78.4378558,
+        "tags": {
+          "name": "Ratnadeep super market",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6479961202,
+        "lat": 17.3913878,
+        "lon": 78.4369875,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "#12-2-823/A/46, Near Santosh Nagar Park, Lane Opposite Pillar 19, Santosh Nagar Colony, Mehdipatnam",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:email": "arjun.e@apoorvahospital.com",
+          "health_facility:type": "Lounge; Reception; PICU; State of Art Equipments; 24 hours Pediatric Emergencies; Surgical Facilities",
+          "medical_system": "Allopathic",
+          "name": "Apoorva Hospital",
+          "operator:type": "private",
+          "phone": "040 65503232; 040 23521139",
+          "source": "OpenGovernmentData",
+          "website": "http://www.apoorvahospital.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6481978987,
+        "lat": 17.3918945,
+        "lon": 78.4378043,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "12-2-824, P.V. Narasimha Rao Express Way, Near St.Anns Women's College, Mehdipatnam",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Arvind Eye Hospital",
+          "phone": "040 2351 2233",
+          "source": "OpenGovernmentData",
+          "website": "www.aravindeyecarehospitals.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6484721973,
+        "lat": 17.3942929,
+        "lon": 78.4419228,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "10-3-5/E/106, Sakina Complex, Mehdipatnam",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "fax": "040-23513839;040-55578888",
+          "name": "Sai Preethi Life Line Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6487137845,
+        "lat": 17.394618,
+        "lon": 78.4386519,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "#12-2-823/A/10, Opposite Jaya Bhushan Bus Stop & ICICI Bank, Santosh Nagar Colony, Mehdipatnam",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:email": "anishkolly@theendocrinologist.com",
+          "contact:phone": "040-66563334",
+          "healthcare": "hospital",
+          "name": "Jaya Bhushan Hospitals Pvt. Ltd",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6487200705,
+        "lat": 17.3913379,
+        "lon": 78.4348029,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "12-2-790/74, Ayodhya Nagar Colony Mehdipatnam",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Ayodhya Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6489894585,
+        "lat": 17.3879656,
+        "lon": 78.4397234,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "Gudimalkapur, Opp LIC Office, Mehdipatnam",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Anusha Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6493336766,
+        "lat": 17.3926842,
+        "lon": 78.4455183,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "10-2-524 & 531, Near Canara Bank, Upstair Mirza Street, M.C.H Colony, Asif Nagar",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "name": "Aries Maternity Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6503203211,
+        "lat": 17.3935545,
+        "lon": 78.4435281,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "12-2-831/87, Sai Suchi Towers, Opposite Syndicate Bank, Mehdipatnam",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "email": "info@drakbareyehospitals.com",
+          "health_facility:type": "Ocular Photography;Ultrasound and Intraocular Lens Calculation;Specialized Ophthalmic Testing;Non Contact Tonometry",
+          "healthcare:speciality": "Primary Eye Care;LASIK Services;Cataract Services;Cornea and Refractive Surgery Services;Glaucoma Services;Retina and Diabetic Retinopathy;Retina and Hypertensive Retinopathy;Contact Lens Services;Pediatric Service",
+          "medical_system": "Allopathic",
+          "name": "Dr. Akbar Eye Hospital",
+          "operator:type": "private",
+          "phone": "040 66362660",
+          "source": "OpenGovernmentData",
+          "website": "https://www.drakbareyehospitals.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6549189965,
+        "lat": 17.3893119,
+        "lon": 78.4422313,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:district": "Rangareddy",
+          "addr:full": "Hill Colony Road, Alapathi Nagar",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:phone": "4023533234",
+          "name": "Sri Vijaya Hospitals",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6549290634,
+        "lat": 17.3942641,
+        "lon": 78.4307253,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:full": "12-2-727/1/A, INNER RING ROAD, Opp: PILLAR NO. 46, RETHI BOWLI, MEHDIPATNAM",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:phone": "040-23512970; 040-23521946 ; 08106891947",
+          "name": "ORIENT EYE HOSPITAL",
+          "operator:type": "private",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6559309139,
+        "lat": 17.3918869,
+        "lon": 78.4406219,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "Near Bus Depot, Mehdipatnam",
+          "addr:postcode": "500028",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "fixme": "Please verify the accurate position of the hospital as I have mapped the facility based on the address provided in Open Government data",
+          "name": "Amrutha Hospital For Health and Fitness",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6693360854,
+        "lat": 17.3942159,
+        "lon": 78.4406958,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "hyderabadi",
+          "name": "Hotel New City Diamond"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6693360857,
+        "lat": 17.3945727,
+        "lon": 78.4422032,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "hyderabadi",
+          "name": "Prince Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6693360858,
+        "lat": 17.3939854,
+        "lon": 78.4426792,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Naseeb Kalyani Biryani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6693360862,
+        "lat": 17.394338,
+        "lon": 78.4402917,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "hyderabadi",
+          "name": "Amfah Biryani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6693360867,
+        "lat": 17.3944202,
+        "lon": 78.4398023,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "indian",
+          "name": "Sarvi Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7114016585,
+        "lat": 17.3934672,
+        "lon": 78.438927,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "The Exotic Shawarma"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480642,
+        "lat": 17.3926284,
+        "lon": 78.4379201,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Reddy's tiffin center"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480643,
+        "lat": 17.3918581,
+        "lon": 78.437284,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "brand:wikipedia": "en:Bank of India",
+          "name": "Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480649,
+        "lat": 17.3944178,
+        "lon": 78.4352303,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Reddy's tiffin center"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480650,
+        "lat": 17.394532,
+        "lon": 78.4352772,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr. Moinuddin clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480656,
+        "lat": 17.3949058,
+        "lon": 78.4353607,
+        "tags": {
+          "amenity": "atm",
+          "operator": "ICICI Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480657,
+        "lat": 17.3949061,
+        "lon": 78.4353655,
+        "tags": {
+          "amenity": "atm",
+          "operator": "DCB bank Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480659,
+        "lat": 17.3948182,
+        "lon": 78.4360746,
+        "tags": {
+          "name": "Chennai shopping mall",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480660,
+        "lat": 17.3948551,
+        "lon": 78.4359891,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Karur vysya bank Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480661,
+        "lat": 17.3947847,
+        "lon": 78.4359864,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Karur Vysya Bank",
+          "brand:wikidata": "Q6373724",
+          "brand:wikipedia": "en:Karur Vysya Bank",
+          "name": "Karur Vysya Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480662,
+        "lat": 17.3946903,
+        "lon": 78.436453,
+        "tags": {
+          "name": "RS brothers",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480682,
+        "lat": 17.3946369,
+        "lon": 78.4384775,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Vijaya Diagnostic Centre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480683,
+        "lat": 17.3946502,
+        "lon": 78.4383764,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Anupama Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244480684,
+        "lat": 17.3946652,
+        "lon": 78.4383451,
+        "tags": {
+          "amenity": "atm",
+          "operator": "ICICI Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487785,
+        "lat": 17.3941477,
+        "lon": 78.4408754,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hotel Paradise"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487786,
+        "lat": 17.3944155,
+        "lon": 78.4415537,
+        "tags": {
+          "name": "Max showroom",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487788,
+        "lat": 17.3943693,
+        "lon": 78.442131,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Andhra bank Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487789,
+        "lat": 17.3935929,
+        "lon": 78.4421734,
+        "tags": {
+          "amenity": "bank",
+          "name": "sbi bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487790,
+        "lat": 17.3934138,
+        "lon": 78.4424661,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Sbi atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487791,
+        "lat": 17.3936122,
+        "lon": 78.4427387,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "King\u2019s Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487792,
+        "lat": 17.3911018,
+        "lon": 78.4364912,
+        "tags": {
+          "leisure": "park",
+          "name": "santhosh nagar colony park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487797,
+        "lat": 17.3942882,
+        "lon": 78.439778,
+        "tags": {
+          "name": "SGM mall",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487798,
+        "lat": 17.3944323,
+        "lon": 78.4397394,
+        "tags": {
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487800,
+        "lat": 17.3931802,
+        "lon": 78.4421032,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Sbi atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487802,
+        "lat": 17.3931136,
+        "lon": 78.4421321,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Axis bank Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487804,
+        "lat": 17.3943627,
+        "lon": 78.4402648,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Sbi Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487805,
+        "lat": 17.3943751,
+        "lon": 78.4402258,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "Apollo Pharmacy",
+          "brand:wikidata": "Q62562612",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Apollo Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487806,
+        "lat": 17.3944463,
+        "lon": 78.4393173,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "Apollo Pharmacy",
+          "brand:wikidata": "Q62562612",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Apollo Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487812,
+        "lat": 17.3947226,
+        "lon": 78.4374978,
+        "tags": {
+          "amenity": "atm",
+          "operator": "citi bank Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487828,
+        "lat": 17.3952103,
+        "lon": 78.4314805,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Food on fire"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487829,
+        "lat": 17.3936419,
+        "lon": 78.4425573,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "brand:ur": "\u0633\u0628 \u0648\u06d2",
+          "brand:wikidata": "Q244457",
+          "brand:wikipedia": "en:Subway (restaurant)",
+          "cuisine": "sandwich",
+          "name": "Subway",
+          "name:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+          "name:ur": "\u0633\u0628 \u0648\u06d2",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487830,
+        "lat": 17.3966016,
+        "lon": 78.4431024,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "brand:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "brand:wikidata": "Q839466",
+          "brand:wikipedia": "en:Domino's Pizza",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "name:ks": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "name:pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a4b\u0a1c\u0a3c",
+          "name:ur": "\u0688\u0648\u0645\u06cc\u0646\u0648\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487831,
+        "lat": 17.3965169,
+        "lon": 78.4430783,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "brand:wikidata": "Q524757",
+          "brand:wikipedia": "en:KFC",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:wikipedia:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487832,
+        "lat": 17.3964293,
+        "lon": 78.4430467,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "McDonald's",
+          "brand:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "brand:wikidata": "Q38076",
+          "brand:wikipedia": "en:McDonald's",
+          "brand:wikipedia:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "brand:wikipedia:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "cuisine": "burger",
+          "name": "McDonald's",
+          "name:pa": "\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a32\u0a21\u2019\u0a1c\u0a3c",
+          "name:ur": "\u0645\u06a9\u0688\u0648\u0646\u0644\u0688\u0632",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487837,
+        "lat": 17.3944852,
+        "lon": 78.4394652,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Axis bank Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7244487838,
+        "lat": 17.394429,
+        "lon": 78.4397524,
+        "tags": {
+          "amenity": "atm",
+          "operator": "Hdfc bank Atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7246803474,
+        "lat": 17.3944076,
+        "lon": 78.4349784,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Coffee day"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7246812285,
+        "lat": 17.3950027,
+        "lon": 78.4337251,
+        "tags": {
+          "name": "Ramraj cotton",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7246812288,
+        "lat": 17.3947815,
+        "lon": 78.4357837,
+        "tags": {
+          "name": "Chimanlal suresh kumar textiles",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7357915007,
+        "lat": 17.397386,
+        "lon": 78.4294337,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Govt Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8315262842,
+        "lat": 17.384879,
+        "lon": 78.4343629,
+        "tags": {
+          "name": "FLOWER MARKET",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9913821026,
+        "lat": 17.3931373,
+        "lon": 78.4425089,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Italian Pizzeria"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10019985221,
+        "lat": 17.3945972,
+        "lon": 78.4383104,
+        "tags": {
+          "amenity": "bank",
+          "name": "ICICI Bank Mehdipatnam"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11936638169,
+        "lat": 17.3975018,
+        "lon": 78.4293977,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Fort Road Golconda",
+          "addr:state": "Telangana",
+          "addr:street": "Golconda",
+          "addr:subdistrict": "Golconda",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Area Hospital, Golconda",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:46:06Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2217968817,
+        "lat": 17.3955353,
+        "lon": 78.4308307,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "check_date": "2024-03-29"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2710628568,
+        "lat": 17.3968121,
+        "lon": 78.423568,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "HP",
+          "check_date": "2024-03-29"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2817379324,
+        "lat": 17.3812426,
+        "lon": 78.4391939,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500028",
+          "addr:street": "Karwan Rd, Gudimalkapur, Mehedipatnam",
+          "amenity": "fuel",
+          "name": "HP Gas Station (Petrol pump)",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2817388352,
+        "lat": 17.3916438,
+        "lon": 78.4414025,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:postcode": "500028",
+          "addr:street": "Gudimalkapur Rd, Mehedipatnam",
+          "amenity": "theatre",
+          "name": "Amba Theater"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3390802020,
+        "lat": 17.3932909,
+        "lon": 78.4321143,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5425191914,
+        "lat": 17.3959857,
+        "lon": 78.4307454,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6253709585,
+        "lat": 17.3886364,
+        "lon": 78.4229205,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Essar Petrol"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9732099995,
+        "lat": 17.390678,
+        "lon": 78.4502828,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil Petrol Pump",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9732100001,
+        "lat": 17.3887447,
+        "lon": 78.4552104,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10577814637,
+        "lat": 17.371653,
+        "lon": 78.4297834,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Asian M Cube",
+          "operator": "Asian Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500529,
+        "lat": 17.3922572,
+        "lon": 78.4405896,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "TSRTC BUS DEPOT , MEHADIPATANM",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500530,
+        "lat": 17.3921581,
+        "lon": 78.4418493,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Mehdipatnam  Bus Stop",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12028767314,
+        "lat": 17.4087339,
+        "lon": 78.4388344,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

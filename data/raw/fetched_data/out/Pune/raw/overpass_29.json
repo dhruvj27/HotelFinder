@@ -1,0 +1,258 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:12:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 511975995,
+        "lat": 18.5387955,
+        "lon": 73.912781,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Hard Rock Cafe",
+          "brand:wikidata": "Q918151",
+          "cuisine": "american",
+          "name": "Hard Rock Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 511975996,
+        "lat": 18.5383533,
+        "lon": 73.9126684,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Stone Water Grill"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1841000023,
+        "lat": 18.5306779,
+        "lon": 73.9183814,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "international",
+          "name": "Basho's",
+          "website": "https://www.zomato.com/pune/restaurants/kp-kalyani-sassoon/koregaon-park/bashos-11211/info"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2955707706,
+        "lat": 18.5346916,
+        "lon": 73.9120424,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Chillies"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5918828049,
+        "lat": 18.5240726,
+        "lon": 73.9061489,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411001",
+          "addr:street": "Bhagwan Tatyasaheb Kawade Marg",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10032910251,
+        "lat": 18.5317721,
+        "lon": 73.9102836,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sorriso - Italian restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11527158738,
+        "lat": 18.5312393,
+        "lon": 73.9162682,
+        "tags": {
+          "access": "yes",
+          "addr:city": "pune",
+          "addr:district": "pune",
+          "addr:street": "Mundhwa Road",
+          "leisure": "park",
+          "name": "lonkar",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "operator": "lonkae",
+          "operator:type": "public"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:12:14Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2257797308,
+        "lat": 18.528148,
+        "lon": 73.8939317,
+        "tags": {
+          "internet_access": "no",
+          "name": "Ghorpuri",
+          "name:mr": "\u0918\u094b\u0930\u092a\u0921\u0940",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GPR",
+          "train": "yes",
+          "wikidata": "Q18125106"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797322,
+        "lat": 18.5281002,
+        "lon": 73.8938934,
+        "tags": {
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2257797333,
+        "lat": 18.5282168,
+        "lon": 73.8939378,
+        "tags": {
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2539975310,
+        "lat": 18.526967,
+        "lon": 73.9278252,
+        "tags": {
+          "internet_access": "no",
+          "name": "Hadapsar Railway Station",
+          "name:mr": "\u0939\u0921\u092a\u0938\u0930",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "HDP",
+          "train": "yes",
+          "wikidata": "Q18125398",
+          "wikipedia": "en:Hadapsar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2539975630,
+        "lat": 18.5267791,
+        "lon": 73.9277417,
+        "tags": {
+          "public_transport": "stop_position",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2539975640,
+        "lat": 18.5269951,
+        "lon": 73.9271246,
+        "tags": {
+          "public_transport": "stop_position",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3522891765,
+        "lat": 18.5320031,
+        "lon": 73.9328051,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "name": "Shell",
+          "source": "GPS"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11688010839,
+        "lat": 18.5323221,
+        "lon": 73.9318645,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "MNGL",
+          "fuel:cng": "yes",
+          "name": "Gaikwad CNG station",
+          "self_service": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340653,
+        "lat": 18.5444651,
+        "lon": 73.9056677,
+        "tags": {
+          "layer": "2",
+          "name": "Kalyani Nagar",
+          "name:mr": "\u0915\u0932\u094d\u092f\u093e\u0923\u0940 \u0928\u0917\u0930",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340654,
+        "lat": 18.5444493,
+        "lon": 73.9057122,
+        "tags": {
+          "layer": "2",
+          "name": "Kalyani Nagar",
+          "name:mr": "\u0915\u0932\u094d\u092f\u093e\u0923\u0940 \u0928\u0917\u0930",
+          "operator": "MahaMetro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11699340655,
+        "lat": 18.5444806,
+        "lon": 73.9056979,
+        "tags": {
+          "name": "Kalyani Nagar",
+          "name:mr": "\u0915\u0932\u094d\u092f\u093e\u0923\u0940 \u0928\u0917\u0930",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikipedia": "en:Kalyani Nagar metro station"
+        }
+      }
+    ]
+  }
+}

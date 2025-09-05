@@ -1,0 +1,382 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:16:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3829218333,
+        "lat": 12.8999989,
+        "lon": 80.2287926,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Moti Mahal"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4405513859,
+        "lat": 12.904328,
+        "lon": 80.228305,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "juice",
+          "name": "Juiceteria"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4405513876,
+        "lat": 12.9067533,
+        "lon": 80.2292693,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4405513877,
+        "lat": 12.9067585,
+        "lon": 80.2298996,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "juice",
+          "name": "Metro Juice"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4405513878,
+        "lat": 12.9067611,
+        "lon": 80.2290655,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5093949168,
+        "lat": 12.9000451,
+        "lon": 80.2281259,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Sholinganallur",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "name": "Indian Bank",
+          "opening_hours": "Mo-Fr 10:00-05:00, Sa 09:30-01:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5093955945,
+        "lat": 12.8993075,
+        "lon": 80.2281164,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "free home delivery, contact phone number",
+          "diet:vegetarian": "only",
+          "name": "Aruna Bhavan vegetarian restaurant",
+          "phone": "+91 80125 87755;+91 80125 87757"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5093965008,
+        "lat": 12.8989609,
+        "lon": 80.228151,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Hotel Valli Murugan Veg"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5093965223,
+        "lat": 12.8988584,
+        "lon": 80.2280206,
+        "tags": {
+          "amenity": "cafe",
+          "name": "My bakers juice shop"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5229774271,
+        "lat": 12.9009495,
+        "lon": 80.2308112,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:postcode": "600119",
+          "addr:street": "Kalaingar Karunanidhi Salai",
+          "amenity": "restaurant",
+          "capacity": "25",
+          "cuisine": "biriyani",
+          "name": "Kooraikadai Biriyani Center",
+          "opening_hours": "Mo-Su 10:00-20:00",
+          "outdoor_seating": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5229778052,
+        "lat": 12.9009425,
+        "lon": 80.2322854,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:postcode": "600119",
+          "addr:street": "Kalaingar Karunanidhi Salai",
+          "amenity": "restaurant",
+          "capacity": "15",
+          "cuisine": "Biriyani;Kebab;Tandoori;etc",
+          "delivery": "no",
+          "name": "al-bake",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6928779096,
+        "lat": 12.9109406,
+        "lon": 80.228211,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "Rajiv Gandhi Salai, Old Mahabalipuram Road",
+          "addr:postcode": "603103",
+          "addr:state": "Tamil Nadu",
+          "addr:subdistrict": "Kelambakkam",
+          "amenity": "hospital",
+          "email": "cssh@chettinadhealthcity.com",
+          "name": "Chettinad Super Speciality Hospital",
+          "operator:type": "private",
+          "source": "OpenGovernmentData",
+          "website": "http://www.chettinadhealthcity.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7159775652,
+        "lat": 12.9068889,
+        "lon": 80.2242154,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Peppercorn"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822259995,
+        "lat": 12.912214,
+        "lon": 80.229384,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Karappakam",
+          "addr:postcode": "600097",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "name": "Shri Sai Children's Hospital and Dental Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822260006,
+        "lat": 12.9020392,
+        "lon": 80.2326608,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Sholinganallur",
+          "addr:postcode": "600119",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "name": "Tharamai Child Care Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822260012,
+        "lat": 12.8994432,
+        "lon": 80.228171,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Ezhil Nagar, Sholinganallur",
+          "addr:postcode": "600119",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "name": "Dr. Nithiya Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822260044,
+        "lat": 12.9011793,
+        "lon": 80.2286,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Sholinganallur",
+          "addr:postcode": "600097",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "name": "Swaram Hospital and Speciality Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7822260054,
+        "lat": 12.9006729,
+        "lon": 80.2283278,
+        "tags": {
+          "addr:district": "Chengalpattu",
+          "addr:full": "Ezhil Nagar, Sholinganallur",
+          "addr:postcode": "600119",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "name": "KL Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9538919556,
+        "lat": 12.901192,
+        "lon": 80.2277184,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:16:02Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 273459875,
+        "lat": 12.907558,
+        "lon": 80.2283136,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 325787817,
+        "lat": 12.9097046,
+        "lon": 80.2503011,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3725563305,
+        "lat": 12.9083732,
+        "lon": 80.2287564,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3829225725,
+        "lat": 12.9247788,
+        "lon": 80.2303371,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4402620434,
+        "lat": 12.9032855,
+        "lon": 80.2280166,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4406456567,
+        "lat": 12.9132888,
+        "lon": 80.2292825,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6869568689,
+        "lat": 12.9082255,
+        "lon": 80.2239691,
+        "tags": {
+          "amenity": "theatre",
+          "theatre:type": "amphi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6869568690,
+        "lat": 12.9069313,
+        "lon": 80.224924,
+        "tags": {
+          "amenity": "theatre",
+          "theatre:type": "amphi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9538929341,
+        "lat": 12.9006734,
+        "lon": 80.2277083,
+        "tags": {
+          "amenity": "fuel",
+          "fuel:autogas": "yes",
+          "name": "Supergas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11668983770,
+        "lat": 12.9085119,
+        "lon": 80.2501864,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "name": "Shell"
+        }
+      }
+    ]
+  }
+}

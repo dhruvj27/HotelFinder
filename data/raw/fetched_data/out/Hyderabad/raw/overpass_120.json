@@ -1,0 +1,1240 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:52:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 986848593,
+        "lat": 17.4347862,
+        "lon": 78.4883576,
+        "tags": {
+          "amenity": "restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1038396449,
+        "lat": 17.4287605,
+        "lon": 78.4882351,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand:wikidata": "Q2003549",
+          "brand:wikipedia": "en:Axis Bank",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank",
+          "website": "https://www.axisbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1038396679,
+        "lat": 17.4357767,
+        "lon": 78.4883632,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "brand:wikidata": "Q524757",
+          "brand:wikipedia": "en:KFC",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:wikipedia:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3200948744,
+        "lat": 17.4237297,
+        "lon": 78.492945,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3200986817,
+        "lat": 17.4251997,
+        "lon": 78.4870378,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3619511151,
+        "lat": 17.4246408,
+        "lon": 78.4911339,
+        "tags": {
+          "addr:city": "Secunderabad",
+          "addr:unit": "Kavadiguda",
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "State Bank of India",
+          "operator": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6549022044,
+        "lat": 17.4344248,
+        "lon": 78.4897238,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "4-5-172-B, Ranigunj, Near Ranigunj",
+          "addr:postcode": "500026",
+          "addr:state": "Telangana",
+          "addr:street": "Ranigunj",
+          "addr:subdistrict": "Secunderabad",
+          "amenity": "clinic",
+          "name": "Urban Primary Health Centre, Pan Bazar",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6549100481,
+        "lat": 17.4333724,
+        "lon": 78.4874345,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:full": "2-3-28-30 Ranigunj, Secunderabad, Near Minister Road",
+          "addr:postcode": "500003",
+          "addr:state": "Telangana",
+          "addr:street": "James Street Railway Station",
+          "addr:subdistrict": "Secunderabad",
+          "amenity": "clinic",
+          "name": "Dr.Paul Doss Maternity and Family Welfare Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8236601249,
+        "lat": 17.4287806,
+        "lon": 78.488244,
+        "tags": {
+          "amenity": "bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8909212369,
+        "lat": 17.4343506,
+        "lon": 78.4882962,
+        "tags": {
+          "amenity": "clinic",
+          "name": "Fit Life Physiotherapy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10979651240,
+        "lat": 17.4362942,
+        "lon": 78.4883948,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Chuttalbasthi",
+          "addr:state": "Telangana",
+          "addr:street": "Chuttalbasthi",
+          "addr:subdistrict": "Secunderabad",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Urban Primary Health Centre, Chuttalbasthi",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11001535091,
+        "lat": 17.4328626,
+        "lon": 78.4871744,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Secunderabad",
+          "addr:state": "Telangana",
+          "addr:street": "James Street Railway Station",
+          "addr:subdistrict": "Secunderabad",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Urban Primary Health Centre, Dr.Paul Das",
+          "operational_status": "operational",
+          "operator:type": "private",
+          "source": "OpenDataTelangana"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11001543630,
+        "lat": 17.4348048,
+        "lon": 78.4901328,
+        "tags": {
+          "addr:district": "Hyderabad",
+          "addr:place": "Ranigunj",
+          "addr:state": "Telangana",
+          "addr:street": "Ranigunj",
+          "addr:subdistrict": "Secunderabad",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Urban Primary Health Centre, Pan Bazar",
+          "operational_status": "operational",
+          "operator:type": "government",
+          "source": "OpenDataTelangana"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:52:16Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 582824405,
+        "lat": 17.4395738,
+        "lon": 78.4985352,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Prashanth theatre",
+          "name:en": "Prashanth theatre",
+          "name:te": "\u0c2a\u0c4d\u0c30\u0c36\u0c3e\u0c02\u0c24\u0c4d \u0c25\u0c3f\u0c2f\u0c47\u0c1f\u0c30\u0c4d"
+        }
+      },
+      {
+        "type": "node",
+        "id": 582824598,
+        "lat": 17.4404726,
+        "lon": 78.4935719,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Manju Cinema",
+          "name:te": "\u0c2e\u0c02\u0c1c\u0c41 \u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e"
+        }
+      },
+      {
+        "type": "node",
+        "id": 771240789,
+        "lat": 17.4146824,
+        "lon": 78.4981191,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Sri Sai Raja theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 813571228,
+        "lat": 17.4435568,
+        "lon": 78.4877615,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 813571286,
+        "lat": 17.4430364,
+        "lon": 78.4905722,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 813571521,
+        "lat": 17.4409489,
+        "lon": 78.5052645,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 886358982,
+        "lat": 17.4407086,
+        "lon": 78.5045814,
+        "tags": {
+          "amenity": "cinema",
+          "building": "yes",
+          "name": "Sangeet (Permanently Closed)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 893170355,
+        "lat": 17.4329515,
+        "lon": 78.4873218,
+        "tags": {
+          "internet_access": "no",
+          "name": "James Street",
+          "name:te": "\u0c1c\u0c47\u0c2e\u0c4d\u0c38\u0c4d \u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c40\u0c1f\u0c4d",
+          "name:ur": "\u062c\u06cc\u0645\u0632 \u0627\u0633\u0679\u0631\u06cc\u0679",
+          "network": "IR",
+          "operator": "SCR",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JET",
+          "train": "yes",
+          "wikidata": "Q6143758",
+          "wikipedia": "en:James Street railway station, Hyderabad"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1038397148,
+        "lat": 17.439912,
+        "lon": 78.4880414,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1118773825,
+        "lat": 17.4488218,
+        "lon": 78.4964407,
+        "tags": {
+          "alt_name": "Jubilee Bus Station",
+          "name": "JBS",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573644,
+        "lat": 17.4332387,
+        "lon": 78.5028861,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573646,
+        "lat": 17.433424,
+        "lon": 78.5028185,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573685,
+        "lat": 17.4333878,
+        "lon": 78.5028476,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573687,
+        "lat": 17.4330215,
+        "lon": 78.502945,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "9",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573719,
+        "lat": 17.4329748,
+        "lon": 78.5029553,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573735,
+        "lat": 17.4335638,
+        "lon": 78.5027974,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573760,
+        "lat": 17.4335955,
+        "lon": 78.5027936,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573769,
+        "lat": 17.4337432,
+        "lon": 78.5027517,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573771,
+        "lat": 17.4331516,
+        "lon": 78.5029134,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212573775,
+        "lat": 17.4337186,
+        "lon": 78.5027557,
+        "tags": {
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2214136534,
+        "lat": 17.4359536,
+        "lon": 78.5000501,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Secunderabad",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926",
+          "name:pa": "\u0a38\u0a3f\u0a15\u0a70\u0a26\u0a30\u0a3e\u0a2c\u0a3e\u0a26",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631 \u0622\u0628\u0627\u062f",
+          "network": "Secunderabad-Medchal-Lingampalli",
+          "operator": "TSRTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2390894252,
+        "lat": 17.4338339,
+        "lon": 78.499501,
+        "tags": {
+          "name": "Secunderabad West",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173010,
+        "lat": 17.4435921,
+        "lon": 78.4764056,
+        "tags": {
+          "name": "Rasoolpura",
+          "name:te": "\u0c30\u0c38\u0c42\u0c32\u0c4d\u200c\u0c2a\u0c41\u0c30",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173034,
+        "lat": 17.4431713,
+        "lon": 78.4974685,
+        "tags": {
+          "name": "Parade Grounds (Blue Line)",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173052,
+        "lat": 17.4357106,
+        "lon": 78.5054333,
+        "tags": {
+          "name": "Secunderabad East",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2422173063,
+        "lat": 17.4434398,
+        "lon": 78.4862445,
+        "tags": {
+          "name": "Paradise",
+          "name:te": "\u0c2a\u0c4d\u0c2f\u0c3e\u0c30\u0c21\u0c48\u0c1c\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2446524797,
+        "lat": 17.4432701,
+        "lon": 78.4905593,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Paradise Cross Roads"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2528192948,
+        "lat": 17.4328721,
+        "lon": 78.4868199,
+        "tags": {
+          "name": "James Street",
+          "public_transport": "stop_position",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2528192961,
+        "lat": 17.4356742,
+        "lon": 78.4763981,
+        "tags": {
+          "name": "Sanjeevaiah Park",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2779381745,
+        "lat": 17.4125624,
+        "lon": 78.4796126,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Hindustan Pertoleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3200943741,
+        "lat": 17.4244702,
+        "lon": 78.4917485,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3200948743,
+        "lat": 17.4273857,
+        "lon": 78.5018327,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4416333791,
+        "lat": 17.432773,
+        "lon": 78.4929081,
+        "tags": {
+          "amenity": "fuel",
+          "name": "petrol bunk",
+          "name:en": "petrol bunk"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4436525398,
+        "lat": 17.4092721,
+        "lon": 78.4979738,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5289026745,
+        "lat": 17.4415788,
+        "lon": 78.5005956,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787787701,
+        "lat": 17.4337798,
+        "lon": 78.4995347,
+        "tags": {
+          "name": "Secunderabad West",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788978,
+        "lat": 17.4357255,
+        "lon": 78.5054889,
+        "tags": {
+          "name": "Secunderabad East",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788979,
+        "lat": 17.4432188,
+        "lon": 78.497471,
+        "tags": {
+          "name": "Parade Grounds (Blue Line)",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787788980,
+        "lat": 17.4434911,
+        "lon": 78.4862461,
+        "tags": {
+          "name": "Paradise",
+          "name:te": "\u0c2a\u0c4d\u0c2f\u0c3e\u0c30\u0c21\u0c48\u0c1c\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5919924190,
+        "lat": 17.4106646,
+        "lon": 78.4821106,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Vivekananda Auditorium",
+          "name:etymology:wikidata": "Q47478"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6308287071,
+        "lat": 17.4122959,
+        "lon": 78.4792256,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Hindustan Pertoleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6594733962,
+        "lat": 17.4329035,
+        "lon": 78.4868305,
+        "tags": {
+          "name": "James Street",
+          "public_transport": "stop_position",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6685486347,
+        "lat": 17.4346769,
+        "lon": 78.5047567,
+        "tags": {
+          "addr:city": "Secunderabad",
+          "addr:postcode": "509001",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "TSRTC BUS STAND , RATHIFILE ( SECUNDRABAD )",
+          "network": "Secunderabad Railway Station",
+          "operator": "TSRTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069757,
+        "lat": 17.4357184,
+        "lon": 78.5054623,
+        "tags": {
+          "name": "Secunderabad East",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c08\u0c38\u0c4d\u0c1f\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631 \u0622\u0628\u0627\u062f \u0627\u06cc\u0633\u0679",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q58814860"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069758,
+        "lat": 17.4431943,
+        "lon": 78.4974687,
+        "tags": {
+          "name": "Parade Grounds (Blue Line)",
+          "name:ml": "\u0d2a\u0d30\u0d47\u0d21\u0d4d \u0d17\u0d4d\u0d30\u0d57\u0d23\u0d4d\u0d1f\u0d4d\u0d38\u0d4d",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069759,
+        "lat": 17.4434668,
+        "lon": 78.4862436,
+        "tags": {
+          "name": "Paradise",
+          "name:ml": "\u0d2a\u0d3e\u0d30\u0d21\u0d48\u0d38\u0d4d",
+          "name:te": "\u0c2a\u0c4d\u0c2f\u0c3e\u0c30\u0c21\u0c48\u0c1c\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069760,
+        "lat": 17.443612,
+        "lon": 78.4764053,
+        "tags": {
+          "name": "Rasoolpura",
+          "name:ml": "\u0d31\u0d38\u0d42\u0d7d\u0d2a\u0d41\u0d30",
+          "name:te": "\u0c30\u0c38\u0c42\u0c32\u0c4d\u200c\u0c2a\u0c41\u0c30",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q84358120"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7052069761,
+        "lat": 17.443638,
+        "lon": 78.4764095,
+        "tags": {
+          "name": "Rasoolpura",
+          "name:te": "\u0c30\u0c38\u0c42\u0c32\u0c4d\u200c\u0c2a\u0c41\u0c30",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061307,
+        "lat": 17.4488147,
+        "lon": 78.4965237,
+        "tags": {
+          "alt_name": "Jubilee Bus Station",
+          "name": "JBS",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061308,
+        "lat": 17.4445164,
+        "lon": 78.4976151,
+        "tags": {
+          "name": "Parade Grounds (Green Line)",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061309,
+        "lat": 17.4444527,
+        "lon": 78.497553,
+        "tags": {
+          "name": "Parade Grounds (Green Line)",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061310,
+        "lat": 17.4444775,
+        "lon": 78.497584,
+        "tags": {
+          "name": "Parade Grounds (Green Line)",
+          "name:ml": "\u0d2a\u0d30\u0d47\u0d21\u0d4d \u0d17\u0d4d\u0d30\u0d57\u0d23\u0d4d\u0d1f\u0d4d\u0d38\u0d4d",
+          "name:te": "\u0c2a\u0c46\u0c30\u0c47\u0c21\u0c4d \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061311,
+        "lat": 17.4255216,
+        "lon": 78.5018818,
+        "tags": {
+          "name": "Gandhi Hospital",
+          "name:te": "\u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c39\u0c3e\u0c38\u0c4d\u0c2a\u0c3f\u0c1f\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7195061312,
+        "lat": 17.4178876,
+        "lon": 78.4994715,
+        "tags": {
+          "name": "Musheerabad",
+          "name:te": "\u0c2e\u0c41\u0c37\u0c40\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7201054971,
+        "lat": 17.4488181,
+        "lon": 78.4964843,
+        "tags": {
+          "alt_name": "Jubilee Bus Station",
+          "name": "JBS",
+          "name:ml": "\u0d1c\u0d46\u0d2c\u0d3f\u0d0e\u0d38\u0d4d",
+          "name:te": "\u0c1c\u0c46 \u0c2c\u0c3f \u0c0e\u0c38\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663503,
+        "lat": 17.4178744,
+        "lon": 78.4995051,
+        "tags": {
+          "name": "Musheerabad",
+          "name:ml": "\u0d2e\u0d41\u0d37\u0d40\u0d31\u0d3e\u0d2c\u0d3e\u0d26\u0d4d",
+          "name:te": "\u0c2e\u0c41\u0c37\u0c40\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q84890478"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663504,
+        "lat": 17.4178644,
+        "lon": 78.4995327,
+        "tags": {
+          "name": "Musheerabad",
+          "name:te": "\u0c2e\u0c41\u0c37\u0c40\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663505,
+        "lat": 17.4255191,
+        "lon": 78.5019187,
+        "tags": {
+          "name": "Gandhi Hospital",
+          "name:te": "\u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c39\u0c3e\u0c38\u0c4d\u0c2a\u0c3f\u0c1f\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "stop_position",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663506,
+        "lat": 17.4255155,
+        "lon": 78.501956,
+        "tags": {
+          "name": "Gandhi Hospital",
+          "name:ml": "\u0d17\u0d3e\u0d28\u0d4d\u0d27\u0d3f \u0d39\u0d4b\u0d38\u0d4d\u0d2a\u0d3f\u0d31\u0d4d\u0d31\u0d7d",
+          "name:te": "\u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c39\u0c3e\u0c38\u0c4d\u0c2a\u0c3f\u0c1f\u0c32\u0c4d",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q84766563"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7358663518,
+        "lat": 17.4338034,
+        "lon": 78.4995181,
+        "tags": {
+          "name": "Secunderabad West",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631 \u0622\u0628\u0627\u062f \u0648\u06cc\u0633\u0679",
+          "network": "Hyderabad Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Hyderabad Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q108874730"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10252989488,
+        "lat": 17.4338591,
+        "lon": 78.502051,
+        "tags": {
+          "addr:city": "Secunderabad",
+          "addr:postcode": "500003",
+          "addr:street": "Station Road",
+          "internet_access": "wlan",
+          "internet_access:fee": "yes",
+          "internet_access:ssid": "Rail Wire Free Wi-Fi",
+          "name": "Secunderabad Junction",
+          "name:hi": "\u0938\u093f\u0915\u0902\u0926\u0930\u093e\u092c\u093e\u0926 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:kn": "\u0cb8\u0cbf\u0c95\u0c82\u0ca6\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd \u0c9c\u0c82\u0c95\u0ccd\u0cb7\u0ca8\u0ccd",
+          "name:ml": "\u0d38\u0d46\u0d15\u0d4d\u0d15\u0d28\u0d4d\u0d24\u0d30\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d02\u0d17\u0d4d\u0d37\u0d7b",
+          "name:ta": "\u0b9a\u0bc6\u0b95\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+          "name:te": "\u0c38\u0c3f\u0c15\u0c3f\u0c02\u0c26\u0c4d\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d \u0c1c\u0c02\u0c15\u0c4d\u0c37\u0c28\u0c4d",
+          "name:ur": "\u0633\u06a9\u0646\u062f\u0631 \u0622\u0628\u0627\u062f \u062c\u0646\u06a9\u0634\u0646",
+          "network": "Indian Railways",
+          "operator": "South Central Railway",
+          "platforms": "10",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SC",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q7444810",
+          "wikipedia": "en:Secunderabad Junction railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500545,
+        "lat": 17.4324529,
+        "lon": 78.4865033,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "TSRTC BUS DEPOT, RANIGUNJ",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10992500546,
+        "lat": 17.4340378,
+        "lon": 78.506033,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11770988854,
+        "lat": 17.434867,
+        "lon": 78.500774,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "check_date": "2024-03-29",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873446435,
+        "lat": 17.4411728,
+        "lon": 78.5042445,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12114475129,
+        "lat": 17.435725,
+        "lon": 78.4764076,
+        "tags": {
+          "name": "Sanjeevaiah Park",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12231561141,
+        "lat": 17.4356998,
+        "lon": 78.4764022,
+        "tags": {
+          "internet_access": "no",
+          "name": "Sanjeevaiah Park",
+          "name:te": "\u0c38\u0c02\u0c1c\u0c40\u0c35\u0c2f\u0c4d\u0c2f \u0c2a\u0c3e\u0c30\u0c4d\u0c15\u0c4d",
+          "name:ur": "\u0633\u0646\u062c\u06cc\u0648\u06cc\u0627 \u067e\u0627\u0631\u06a9",
+          "network": "Indian Railways",
+          "operator": "South Central Railway",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SJVP",
+          "train": "yes",
+          "wikidata": "Q7418525",
+          "wikipedia": "en:Sanjeevaiah Park railway station"
+        }
+      }
+    ]
+  }
+}

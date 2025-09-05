@@ -1,0 +1,1747 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:09:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 747616893,
+        "lat": 12.9823833,
+        "lon": 80.2225074,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:housenumber": "6",
+          "addr:postcode": "600042",
+          "addr:street": "Dandeeswaram Main Road",
+          "name": "Latta Supermarket",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1751208048,
+        "lat": 12.9841726,
+        "lon": 80.2182307,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Flamingo"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1751210935,
+        "lat": 12.9847606,
+        "lon": 80.2177291,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Mast Kalandar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1764279960,
+        "lat": 12.9820021,
+        "lon": 80.2217431,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "brand:wikipedia": "en:Indian Bank",
+          "name": "Indian Bank",
+          "name:en": "Indian Bank",
+          "website": "https://www.indianbank.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2146414135,
+        "lat": 12.988058,
+        "lon": 80.2230137,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Nandini Bakery and Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2623045662,
+        "lat": 12.9841137,
+        "lon": 80.221979,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:housenumber": "1",
+          "addr:postcode": "600042",
+          "addr:street": "Jagannathapuram 1st Main road",
+          "name": "Pazhamudhir Cholai",
+          "phone": "+91 44 2255 3555",
+          "ref:vatin": "33AALFP4650J1Z2",
+          "shop": "supermarket",
+          "website": "http://www.pazhamudhircholai.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2623046184,
+        "lat": 12.9837296,
+        "lon": 80.2226282,
+        "tags": {
+          "brand": "Nilgiri's",
+          "brand:wikidata": "Q17079567",
+          "name": "Nilgiri's",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2623046185,
+        "lat": 12.989057,
+        "lon": 80.2183478,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Kailash Parbat"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2623046197,
+        "lat": 12.9905101,
+        "lon": 80.2188199,
+        "tags": {
+          "name": "Buy Bazaar",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2623046199,
+        "lat": 12.9905467,
+        "lon": 80.2187073,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Veg Haven"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3428272585,
+        "lat": 12.9826996,
+        "lon": 80.2194639,
+        "tags": {
+          "addr:street": "Velachery Bypass Road",
+          "amenity": "cafe",
+          "internet_access": "yes",
+          "name": "thilak cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3493034087,
+        "lat": 12.9867053,
+        "lon": 80.2243017,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "shop": "medical_supply"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3508280901,
+        "lat": 12.9857194,
+        "lon": 80.2291961,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Gandhi Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3508280902,
+        "lat": 12.9857819,
+        "lon": 80.2292384,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3919826308,
+        "lat": 12.985733,
+        "lon": 80.2182467,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Specialist Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3971391760,
+        "lat": 12.9859425,
+        "lon": 80.2282833,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3971391761,
+        "lat": 12.9861154,
+        "lon": 80.2274512,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Appolo Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4142948010,
+        "lat": 12.9824641,
+        "lon": 80.2246365,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:housenumber": "20",
+          "addr:postcode": "600042",
+          "addr:street": "Dandeeswaram Main Road",
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Anthikkadai",
+          "phone": "+91 81223 11234;+91 44 6461 1234"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4278233216,
+        "lat": 12.983151,
+        "lon": 80.223536,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "UCO Bank",
+          "brand:wikidata": "Q2005310",
+          "brand:wikipedia": "en:UCO Bank",
+          "name": "UCO Bank",
+          "name:en": "UCO Bank",
+          "old_name": "United Commercial Bank",
+          "website": "https://www.ucobank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4358666332,
+        "lat": 12.9859913,
+        "lon": 80.2182482,
+        "tags": {
+          "amenity": "restaurant",
+          "comment": "Buffett Food",
+          "cuisine": "indian;kebab;seafood",
+          "diet:vegetarian": "yes",
+          "layer": "2",
+          "name": "Coal BarbeQ",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4411798691,
+        "lat": 12.9839879,
+        "lon": 80.2181179,
+        "tags": {
+          "name:en": "pazhamuthir sollai",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4944476650,
+        "lat": 12.9862638,
+        "lon": 80.2249871,
+        "tags": {
+          "name": "Sri Periyandavar Super Market",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6915201226,
+        "lat": 12.9855882,
+        "lon": 80.2189144,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "No.39, Rajalakhsmi Nagar",
+          "addr:postcode": "600042",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Helios Hospital Pvt Ltd",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6926045316,
+        "lat": 12.9815305,
+        "lon": 80.2207484,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "320-A(47-A), Velachery Main Road, Velachery",
+          "addr:postcode": "600004",
+          "addr:state": "Tamil Nadu",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Ramana Clinic And Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6928936148,
+        "lat": 12.9832366,
+        "lon": 80.217509,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "27, 100 Feet Road, Taramani Link Road, Velacherry",
+          "addr:postcode": "600042",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Dr.Agarwals Eye Hospital - Velacherry",
+          "operator": "Dr. Agarwal's Eye Hospital",
+          "operator:type": "private",
+          "operator:wikidata": "Q17052044",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6936695177,
+        "lat": 12.9833895,
+        "lon": 80.2181782,
+        "tags": {
+          "addr:district": "Chennai",
+          "addr:full": "7/14, 7Th Cross Street, Rajalakshmi Nagar, Velachery",
+          "addr:postcode": "600042",
+          "addr:state": "Tamil Nadu",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Xcellent Care Superspeciality Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7572041376,
+        "lat": 12.9863795,
+        "lon": 80.2249414,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Central Bank of India",
+          "brand:wikidata": "Q2007090",
+          "brand:wikipedia": "en:Central Bank of India",
+          "name": "Central Bank of India"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7652723881,
+        "lat": 12.9887853,
+        "lon": 80.2183072,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Salem RR biryani Unavagam AC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8631827331,
+        "lat": 12.9826346,
+        "lon": 80.2237735,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "brand:wikipedia": "en:Punjab National Bank",
+          "name": "Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8631827333,
+        "lat": 12.982487,
+        "lon": 80.2253583,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Nellai New Ruchi Hotel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8631827334,
+        "lat": 12.9825441,
+        "lon": 80.2253523,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "name": "Royal Coffee"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8637836693,
+        "lat": 12.9827611,
+        "lon": 80.2235869,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:housenumber": "10-11A",
+          "addr:street": "Dhandeeshwaram 3rd Main Road",
+          "amenity": "bank",
+          "brand": "TNSC Bank",
+          "brand:wikidata": "Q23074195",
+          "brand:wikipedia": "en:TNSC Bank",
+          "name": "Chennai Central Co-operative Bank",
+          "opening_hours:covid19": "Mo-Sa 08:30-10:30,13:30-14:30; Sa[2,4] off;",
+          "operator": "Tamil Nadu State Apex Co-operative Bank",
+          "phone": "+91 44 2243 0623"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8637836694,
+        "lat": 12.9824657,
+        "lon": 80.2237405,
+        "tags": {
+          "amenity": "pharmacy",
+          "dispensing": "yes",
+          "healthcare": "pharmacy",
+          "name": "Rajesh Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8637836695,
+        "lat": 12.9822495,
+        "lon": 80.2237585,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:en": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "ICICI Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:en": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8638026590,
+        "lat": 12.9825077,
+        "lon": 80.2217396,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "brand:wikipedia": "en:Kotak Mahindra Bank",
+          "level": "0",
+          "name": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8638026591,
+        "lat": 12.982491,
+        "lon": 80.2217445,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "level": "0",
+          "name": "Union Bank of India",
+          "operator": "Union Bank of India",
+          "operator:wikidata": "Q2004078"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8639896901,
+        "lat": 12.9823172,
+        "lon": 80.2216938,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:housenumber": "51A",
+          "addr:postcode": "600042",
+          "addr:street": "Velachery Main Road",
+          "amenity": "bank",
+          "brand": "TNSC Bank",
+          "brand:wikidata": "Q23074195",
+          "brand:wikipedia": "en:TNSC Bank",
+          "level": "1",
+          "name": "Tamil Nadu State Apex Co-operative Bank",
+          "opening_hours:covid19": "Mo-Sa 09:30-13:30,14:00-16:00; Sa[2,4] off;",
+          "operator": "Tamil Nadu State Apex Co-operative Bank",
+          "phone": "+91 44 2244 0803"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8645780210,
+        "lat": 12.9806353,
+        "lon": 80.2208757,
+        "tags": {
+          "addr:city": "Chennai",
+          "addr:housenumber": "46/1",
+          "addr:postcode": "600042",
+          "addr:street": "Velachery Main Road",
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank",
+          "opening_hours": "Mo-Sa 09:30-15:30; Su off; Sa[2,4] off",
+          "phone": "+91 75739 19585",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8645780211,
+        "lat": 12.9806162,
+        "lon": 80.2208708,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "cash_in": "yes",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "HDFC Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9554147385,
+        "lat": 12.9875298,
+        "lon": 80.2182192,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sree Gupta Bhavan",
+          "phone": "+91 44 2255 0175"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9997936353,
+        "lat": 12.9818118,
+        "lon": 80.2214223,
+        "tags": {
+          "amenity": "pharmacy",
+          "brand": "Apollo Pharmacy",
+          "brand:wikidata": "Q62562612",
+          "healthcare": "pharmacy",
+          "name": "Apollo Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10269012160,
+        "lat": 12.9922698,
+        "lon": 80.2170766,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Chi Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10269012161,
+        "lat": 12.9920432,
+        "lon": 80.2169286,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Krispy Kreme",
+          "brand:wikidata": "Q1192805",
+          "cuisine": "donut",
+          "name": "Krispy Kreme",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10269012180,
+        "lat": 12.9919466,
+        "lon": 80.2166021,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "japanese",
+          "name": "Jonah's goes to Japan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10269012181,
+        "lat": 12.9919024,
+        "lon": 80.2165543,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Cha Republic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10269012184,
+        "lat": 12.9911157,
+        "lon": 80.216663,
+        "tags": {
+          "brand": "Big Bazaar",
+          "brand:wikidata": "Q3631008",
+          "name": "Big Bazaar",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10558960210,
+        "lat": 12.9911925,
+        "lon": 80.2166268,
+        "tags": {
+          "brand": "Marks & Spencer",
+          "brand:short": "M&S",
+          "brand:wikidata": "Q714491",
+          "name": "M&S Outlet",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10558960213,
+        "lat": 12.9913342,
+        "lon": 80.2169537,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Punjab Grill",
+          "brand:wikidata": "Q124374761",
+          "cuisine": "north_indian",
+          "delivery": "yes",
+          "name": "Punjab Grill",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10558960223,
+        "lat": 12.9917017,
+        "lon": 80.2170139,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10558960229,
+        "lat": 12.9918725,
+        "lon": 80.2170556,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Pappa Roti"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10558996763,
+        "lat": 12.9925288,
+        "lon": 80.2171551,
+        "tags": {
+          "indoor": "yes",
+          "leisure": "playground",
+          "name": "Funky Monkeys"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10558996779,
+        "lat": 12.9911631,
+        "lon": 80.2170363,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Mainland China"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10558996780,
+        "lat": 12.9912251,
+        "lon": 80.2170117,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "The Coffee Bean & Tea Leaf",
+          "brand:wikidata": "Q1141384",
+          "cuisine": "coffee_shop",
+          "name": "The Coffee Bean & Tea Leaf",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10558996783,
+        "lat": 12.9914076,
+        "lon": 80.216939,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Kobe Sizzlers"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10558996793,
+        "lat": 12.9911032,
+        "lon": 80.2170766,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Khandani Rajdhani"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10559049577,
+        "lat": 12.9912272,
+        "lon": 80.217063,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Vasanta Bhavan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10559049579,
+        "lat": 12.991546,
+        "lon": 80.2170141,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:wikidata": "Q177054",
+          "cuisine": "burger",
+          "name": "Burger King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10559072541,
+        "lat": 12.9910516,
+        "lon": 80.2165728,
+        "tags": {
+          "indoor": "yes",
+          "leisure": "playground",
+          "name": "FunCity"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10559072542,
+        "lat": 12.9911318,
+        "lon": 80.2171192,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Wow! Momo",
+          "brand:wikidata": "Q8037446",
+          "cuisine": "momo",
+          "name": "Wow! Momo",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10559072543,
+        "lat": 12.9913743,
+        "lon": 80.2170186,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Arabian Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10559072544,
+        "lat": 12.9914529,
+        "lon": 80.2170008,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10559072545,
+        "lat": 12.991497,
+        "lon": 80.2169976,
+        "tags": {
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12557371743,
+        "lat": 12.9876495,
+        "lon": 80.2180839,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Sree Gupta Bhavan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12557371744,
+        "lat": 12.9884101,
+        "lon": 80.2182575,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Geetham"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12557371745,
+        "lat": 12.9899176,
+        "lon": 80.2186763,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Rasavid",
+          "name:ta": "\u0bb0\u0b9a\u0bb5\u0bbf\u0ba4\u0bcd \u0b89\u0ba3\u0bb5\u0b95\u0bae\u0bcd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12557371754,
+        "lat": 12.990245,
+        "lon": 80.2187592,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "yes",
+          "name": "Haven Sampoorna"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:09:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 243041721,
+        "lat": 12.9786135,
+        "lon": 80.2410567,
+        "tags": {
+          "name": "Taramani",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 243041731,
+        "lat": 12.9758476,
+        "lon": 80.2320097,
+        "tags": {
+          "name": "Perungudi",
+          "name:ta": "\u0baa\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 243041746,
+        "lat": 12.9672994,
+        "lon": 80.2195714,
+        "tags": {
+          "name": "Velachery",
+          "name:en": "Velachery",
+          "name:hi": "\u0935\u0947\u0932\u093e\u091a\u0947\u0930\u0940",
+          "name:ta": "\u0bb5\u0bc7\u0bb3\u0b9a\u0bcd\u0b9a\u0bc7\u0bb0\u0bbf",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 252171269,
+        "lat": 12.9949254,
+        "lon": 80.1993669,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "STM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 256039818,
+        "lat": 13.0080754,
+        "lon": 80.2093905,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Guindy",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 299882966,
+        "lat": 12.9810098,
+        "lon": 80.2066688,
+        "tags": {
+          "bus": "yes",
+          "name": "Andal Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 300134382,
+        "lat": 12.988501,
+        "lon": 80.197819,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 305933220,
+        "lat": 12.9796614,
+        "lon": 80.218483,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 306113099,
+        "lat": 12.9854773,
+        "lon": 80.2405635,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Taramani",
+          "operator": "MTC",
+          "public_transport": "station",
+          "route_ref": "5C"
+        }
+      },
+      {
+        "type": "node",
+        "id": 309812160,
+        "lat": 13.0076778,
+        "lon": 80.2099257,
+        "tags": {
+          "bus": "yes",
+          "name": "Guindy",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 365544723,
+        "lat": 13.0116259,
+        "lon": 80.2185178,
+        "tags": {
+          "amenity": "fuel",
+          "compressed_air": "yes",
+          "created_by": "Potlatch 0.10f",
+          "name": "BP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 366083028,
+        "lat": 13.0088683,
+        "lon": 80.2112087,
+        "tags": {
+          "bus": "yes",
+          "name": "Guindy",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 368158965,
+        "lat": 13.0112743,
+        "lon": 80.2229232,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "BP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1008034321,
+        "lat": 12.9951306,
+        "lon": 80.1992885,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "STM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1008034345,
+        "lat": 12.9947038,
+        "lon": 80.1994765,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "STM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1141163691,
+        "lat": 12.9671675,
+        "lon": 80.2195576,
+        "tags": {
+          "light_rail": "yes",
+          "name": "Velachery",
+          "name:en": "Velachery",
+          "name:hi": "\u0935\u0947\u0932\u093e\u091a\u0947\u0930\u0940",
+          "name:ta": "\u0bb5\u0bc7\u0bb3\u0b9a\u0bcd\u0b9a\u0bc7\u0bb0\u0bbf",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "VLCY:3"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1197445418,
+        "lat": 12.9948463,
+        "lon": 80.1994107,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "STM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2157590801,
+        "lat": 12.997438,
+        "lon": 80.2162638,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Five Furlong Road",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2158620128,
+        "lat": 12.9974054,
+        "lon": 80.2165418,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Velachery Check Post",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2158620129,
+        "lat": 12.9974127,
+        "lon": 80.2164502,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Velachery Check Post",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2438975982,
+        "lat": 12.9949578,
+        "lon": 80.1993542,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "STM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2440045303,
+        "lat": 12.9673597,
+        "lon": 80.2195756,
+        "tags": {
+          "name": "Velachery",
+          "name:en": "Velachery",
+          "name:hi": "\u0935\u0947\u0932\u093e\u091a\u0947\u0930\u0940",
+          "name:ta": "\u0bb5\u0bc7\u0bb3\u0b9a\u0bcd\u0b9a\u0bc7\u0bb0\u0bbf",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3264712327,
+        "lat": 13.0086685,
+        "lon": 80.2126063,
+        "tags": {
+          "internet_access": "no",
+          "name": "Guindy",
+          "name:en": "Guindy",
+          "name:hi": "\u0917\u093f\u0902\u0921\u0940",
+          "name:ml": "\u0d17\u0d3f\u0d23\u0d4d\u0d1f\u0d3f",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GDY",
+          "wikidata": "Q5616431",
+          "wikipedia": "en:Guindy railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4056703681,
+        "lat": 12.9823866,
+        "lon": 80.2180571,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "brand:wikipedia": "en:Bharat Petroleum",
+          "fuel:1_25": "yes",
+          "fuel:diesel": "yes",
+          "fuel:e10": "no",
+          "fuel:octane_80": "yes",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4172727623,
+        "lat": 12.9785526,
+        "lon": 80.2253586,
+        "tags": {
+          "bus": "yes",
+          "name": "Tansi Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4221752111,
+        "lat": 12.9947654,
+        "lon": 80.1993715,
+        "tags": {
+          "internet_access": "no",
+          "name": "St. Thomas Mount",
+          "name:ml": "\u0d38\u0d46\u0d28\u0d4d\u0d31\u0d4d \u0d24\u0d4b\u0d2e\u0d38\u0d4d \u0d2e\u0d57\u0d23\u0d4d\u0d1f\u0d4d",
+          "name:ta": "\u0baa\u0bb0\u0b99\u0bcd\u0b95\u0bbf\u0bae\u0bb2\u0bc8",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "STM",
+          "wikidata": "Q7591984",
+          "wikipedia": "en:St. Thomas Mount railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4358666333,
+        "lat": 12.981636,
+        "lon": 80.2334748,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Bharathi Nagar",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4358676514,
+        "lat": 12.9877973,
+        "lon": 80.2230746,
+        "tags": {
+          "bus": "yes",
+          "name": "-IITM Velachery Gate",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5310193401,
+        "lat": 12.9758902,
+        "lon": 80.231976,
+        "tags": {
+          "name": "Perungudi",
+          "name:ta": "\u0baa\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5310193409,
+        "lat": 12.9786784,
+        "lon": 80.2410508,
+        "tags": {
+          "name": "Taramani",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5311755241,
+        "lat": 12.9760584,
+        "lon": 80.2321916,
+        "tags": {
+          "name": "Perungudi",
+          "name:ta": "\u0baa\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PRGD",
+          "train": "yes",
+          "wikidata": "Q7171100",
+          "wikipedia": "en:Perungudi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5311755242,
+        "lat": 12.9676192,
+        "lon": 80.2195082,
+        "tags": {
+          "internet_access": "no",
+          "name": "Velachery",
+          "name:en": "Velachery",
+          "name:hi": "\u0935\u0947\u0932\u093e\u091a\u0947\u0930\u0940",
+          "name:ml": "\u0d35\u0d47\u0d33\u0d1a\u0d4d\u0d1a\u0d47\u0d30\u0d3f",
+          "name:ta": "\u0bb5\u0bc7\u0bb3\u0b9a\u0bcd\u0b9a\u0bc7\u0bb0\u0bbf",
+          "network": "IR",
+          "operator": "SR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "VLCY",
+          "train": "yes",
+          "wikidata": "Q7918772",
+          "wikipedia": "en:Velachery railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5311755243,
+        "lat": 12.9774891,
+        "lon": 80.2050018,
+        "tags": {
+          "construction:railway": "station",
+          "internet_access": "no",
+          "name": "Puzhudivakkam",
+          "network": "MRTS",
+          "operator": "MRTS",
+          "public_transport": "station",
+          "railway": "station",
+          "train": "yes",
+          "wikidata": "Q7262676",
+          "wikipedia": "en:Puzhuthivakkam railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5319202812,
+        "lat": 12.995,
+        "lon": 80.198582,
+        "tags": {
+          "name": "\u0baa\u0bb0\u0b99\u0bcd\u0b95\u0bbf\u0bae\u0bb2\u0bc8",
+          "name:en": "St. Thomas Mount",
+          "name:ml": "\u0d38\u0d46\u0d28\u0d4d\u0d31\u0d4d \u0d24\u0d4b\u0d2e\u0d38\u0d4d \u0d2e\u0d57\u0d23\u0d4d\u0d1f\u0d4d",
+          "name:ta": "\u0baa\u0bb0\u0b99\u0bcd\u0b95\u0bbf\u0bae\u0bb2\u0bc8",
+          "network": "Chennai Metro",
+          "network:wikidata": "Q1639576",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SMM",
+          "ref": "SMM",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7591984",
+          "wikipedia": "en:St. Thomas Mount railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5321248425,
+        "lat": 13.0092314,
+        "lon": 80.2130951,
+        "tags": {
+          "name": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "name:en": "Guindy",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857247,
+        "lat": 13.0092951,
+        "lon": 80.2130723,
+        "tags": {
+          "name": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "name:en": "Guindy",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6285857248,
+        "lat": 13.0092746,
+        "lon": 80.2130846,
+        "tags": {
+          "name": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "name:en": "Guindy",
+          "name:ml": "\u0d17\u0d3f\u0d23\u0d4d\u0d1f\u0d3f",
+          "name:ta": "\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf",
+          "network": "Chennai Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/11/08)",
+          "operator": "Chennai Metro Rail Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "railway:ref": "SGU",
+          "ref": "SGU",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q18357501",
+          "wikipedia": "en:Guindy metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7424295245,
+        "lat": 12.9854059,
+        "lon": 80.2406319,
+        "tags": {
+          "bus": "yes",
+          "name": "Taramani",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8601096136,
+        "lat": 12.9719083,
+        "lon": 80.2207302,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "brand:wikipedia": "en:PVR Cinemas",
+          "name": "PVR Cinemas",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8601096138,
+        "lat": 12.9712759,
+        "lon": 80.219131,
+        "tags": {
+          "bus": "yes",
+          "name": "Velachery Railway Station",
+          "network": "MTC",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9368672356,
+        "lat": 12.9909955,
+        "lon": 80.2200242,
+        "tags": {
+          "bus": "yes",
+          "name": "Guru Nanak College",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9399662897,
+        "lat": 12.9806111,
+        "lon": 80.228782,
+        "tags": {
+          "bus": "yes",
+          "name": "Baby Nagar",
+          "network": "MTC",
+          "operator": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9399662898,
+        "lat": 12.99071,
+        "lon": 80.2201775,
+        "tags": {
+          "bus": "yes",
+          "name": "Guru Nanak College",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9400398385,
+        "lat": 12.9713022,
+        "lon": 80.2190042,
+        "tags": {
+          "bus": "yes",
+          "name": "Velachery Railway Station",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9412787731,
+        "lat": 12.9864666,
+        "lon": 80.2229705,
+        "tags": {
+          "bus": "yes",
+          "name": "Gandhi Road",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9412787732,
+        "lat": 13.0048514,
+        "lon": 80.2202225,
+        "tags": {
+          "bus": "yes",
+          "name": "Kannigapuram",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9417619433,
+        "lat": 12.9946272,
+        "lon": 80.200283,
+        "tags": {
+          "bus": "yes",
+          "name": "\u0baa\u0bb0\u0b99\u0bcd\u0b95\u0bbf\u0bae\u0bb2\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+          "name:en": "St. Thomas Mount Railway Station",
+          "name:ta": "\u0baa\u0bb0\u0b99\u0bcd\u0b95\u0bbf\u0bae\u0bb2\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9417619444,
+        "lat": 12.994701,
+        "lon": 80.206559,
+        "tags": {
+          "bus": "yes",
+          "name": "NGO Colony",
+          "network": "Metropolitan Transport Corporation (Chennai) Ltd.",
+          "operator": "Government of Tamil Nadu",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9417619445,
+        "lat": 12.9947979,
+        "lon": 80.2067982,
+        "tags": {
+          "bus": "yes",
+          "name": "NGO Colony Bus Terminus",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9500680214,
+        "lat": 12.9784111,
+        "lon": 80.2253294,
+        "tags": {
+          "bus": "yes",
+          "name": "Tansi Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9500680215,
+        "lat": 12.9804402,
+        "lon": 80.2286896,
+        "tags": {
+          "bus": "yes",
+          "name": "Baby Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9500730217,
+        "lat": 12.9815365,
+        "lon": 80.2334379,
+        "tags": {
+          "bus": "yes",
+          "name": "Bharathi Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9500730227,
+        "lat": 12.9762478,
+        "lon": 80.2215821,
+        "tags": {
+          "bus": "yes",
+          "name": "Velachery Vijaya Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10120161717,
+        "lat": 12.975928,
+        "lon": 80.2211155,
+        "tags": {
+          "bus": "yes",
+          "name": "Velachery Vijaya Nagar Bus Terminus",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10120161757,
+        "lat": 12.9752026,
+        "lon": 80.2207427,
+        "tags": {
+          "bus": "yes",
+          "name": "Velachery Vijaya Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10559049569,
+        "lat": 12.9911536,
+        "lon": 80.2164418,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Jazz Cinemas LUXE"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10593328485,
+        "lat": 12.9971505,
+        "lon": 80.2163258,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Kousalya Fuels Velachery"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11949359786,
+        "lat": 12.9919179,
+        "lon": 80.2058126,
+        "tags": {
+          "bus": "yes",
+          "name": "Church",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11949365488,
+        "lat": 12.9844281,
+        "lon": 80.2049489,
+        "tags": {
+          "bus": "yes",
+          "name": "Brindavanam Koil",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11949365490,
+        "lat": 12.9871331,
+        "lon": 80.2053644,
+        "tags": {
+          "bus": "yes",
+          "name": "Brindavan Nagar",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11949365493,
+        "lat": 12.9891277,
+        "lon": 80.2048999,
+        "tags": {
+          "bus": "yes",
+          "name": "Kakkan Bridge stop",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11949388470,
+        "lat": 12.9832652,
+        "lon": 80.2070307,
+        "tags": {
+          "bus": "yes",
+          "name": "Annai Store",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11959583813,
+        "lat": 12.9829338,
+        "lon": 80.2219894,
+        "tags": {
+          "bus": "yes",
+          "name": "Dhandeeswaram",
+          "network": "MTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11959599076,
+        "lat": 12.9977277,
+        "lon": 80.2160004,
+        "tags": {
+          "bus": "yes",
+          "name": "Five Furlong Road",
+          "public_transport": "stop_position"
+        }
+      }
+    ]
+  }
+}

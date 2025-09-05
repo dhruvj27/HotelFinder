@@ -1,0 +1,64 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:37:59Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 10310287131,
+        "lat": 23.0206424,
+        "lon": 72.6725641,
+        "tags": {
+          "addr:city": "Ahmedabad",
+          "addr:housenumber": "37 Mahdav Industrial Eastae",
+          "addr:postcode": "382415",
+          "addr:street": "Sardar Patel Ring Road",
+          "name": "Micro Machine Tools",
+          "opening_hours": "24/7",
+          "operator": "MMT",
+          "payment:cash": "yes",
+          "payment:debit_cards": "yes",
+          "payment:google_pay": "yes",
+          "phone": "9824350521",
+          "shop": "supermarket"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:37:59Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4412725295,
+        "lat": 23.0219685,
+        "lon": 72.6508243,
+        "tags": {
+          "addr:street": "Odhav Road",
+          "amenity": "fuel",
+          "name": "Petrol CNG pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5387295121,
+        "lat": 23.0289447,
+        "lon": 72.6734332,
+        "tags": {
+          "addr:street": "Sardar Patel Ring Road",
+          "amenity": "fuel",
+          "name": "Cng and petrol pump"
+        }
+      }
+    ]
+  }
+}

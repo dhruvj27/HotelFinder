@@ -1,0 +1,1171 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:37:29Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1474873166,
+        "lat": 22.5873397,
+        "lon": 88.4077676,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Standard Chartered",
+          "brand:wikidata": "Q548278",
+          "name": "Standard Chartered"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2148922355,
+        "lat": 22.5882088,
+        "lon": 88.4084341,
+        "tags": {
+          "name": "City Centre 1, Salt Lake",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2323721239,
+        "lat": 22.5836617,
+        "lon": 88.4129634,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2337482140,
+        "lat": 22.589153,
+        "lon": 88.4087743,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Deutsche Bank",
+          "brand:wikidata": "Q66048",
+          "ele": "11",
+          "name": "Deutsche Bank ATM",
+          "operator": "Deutsche Bank",
+          "operator:wikidata": "Q66048"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2337486079,
+        "lat": 22.5882154,
+        "lon": 88.4094008,
+        "tags": {
+          "amenity": "restaurant",
+          "ele": "10",
+          "name": "Bhikaaram"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2337720889,
+        "lat": 22.5877964,
+        "lon": 88.4087305,
+        "tags": {
+          "ele": "4",
+          "name": "C3",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460793572,
+        "lat": 22.5909895,
+        "lon": 88.4122473,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Suraksha Diagnostic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460827333,
+        "lat": 22.5912273,
+        "lon": 88.4110886,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Bidhannagar State General Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460827352,
+        "lat": 22.5908731,
+        "lon": 88.4105441,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Seba Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460827384,
+        "lat": 22.5896424,
+        "lon": 88.4089267,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Andromeda, Dd-30, Sector-1, Saltlake City, Salt Lake",
+          "addr:housename": "DD-30, Sector-1, Salt Lake City, Kolkata, West Bengal2nd Cross Road, DD Block, Salt Lake City, Bidhan Nagar, West Bengal 700064",
+          "addr:postcode": "700064",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "339890000",
+          "healthcare": "hospital",
+          "name": "Vasan Eye Care Hospital, Kolkata",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460843430,
+        "lat": 22.5853085,
+        "lon": 88.4044743,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3555394596,
+        "lat": 22.5971099,
+        "lon": 88.4089825,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3627465892,
+        "lat": 22.5920558,
+        "lon": 88.4188215,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "SBI ATM",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3677394126,
+        "lat": 22.5880118,
+        "lon": 88.4082873,
+        "tags": {
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "brand:wikipedia": "en:KFC",
+          "brand:wikipedia:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:wikipedia:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3677394127,
+        "lat": 22.5879437,
+        "lon": 88.4081651,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "name": "Pizza Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3810110642,
+        "lat": 22.5831782,
+        "lon": 88.4093957,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:housenumber": "14",
+          "addr:place": "FD Block",
+          "amenity": "restaurant",
+          "cuisine": "north_indian;indian",
+          "name": "Baati Chokha"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4563514490,
+        "lat": 22.5894675,
+        "lon": 88.4089049,
+        "tags": {
+          "addr:street": "2nd Cross Road",
+          "amenity": "fast_food",
+          "cuisine": "sandwich;sausage;local;chinese;noodles;pancake;chicken;thai",
+          "name": "The Fat Monk",
+          "name:en": "The Fat Monk",
+          "name:hi": "\u0926\u093f \u092b\u0947\u091f \u092e\u0902\u0915",
+          "opening_hours": "Mo-Su 14:00-22:30",
+          "operator": "Gautam Sherpa & Sachiko Seth",
+          "phone": "+91 82857 19879"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4641488598,
+        "lat": 22.5919082,
+        "lon": 88.4031339,
+        "tags": {
+          "leisure": "park",
+          "name": "Kids Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4679601931,
+        "lat": 22.5902422,
+        "lon": 88.4092378,
+        "tags": {
+          "amenity": "restaurant",
+          "check_date": "2025-02-05",
+          "cuisine": "regional",
+          "name": "6 Ballygunge Place",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4679622353,
+        "lat": 22.5872971,
+        "lon": 88.4078096,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Afraa"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4679622354,
+        "lat": 22.5881233,
+        "lon": 88.4087142,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Wow! Momo",
+          "brand:wikidata": "Q8037446",
+          "cuisine": "momo",
+          "name": "Wow! Momo",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5473635802,
+        "lat": 22.5907911,
+        "lon": 88.410894,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Bidhannagar Sub-Divisional Hospital",
+          "name:bn": "\u09ac\u09bf\u09a7\u09be\u09a8\u09a8\u0997\u09b0 \u09ae\u09b9\u0995\u09c1\u09ae\u09be \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6700782253,
+        "lat": 22.5904744,
+        "lon": 88.4082609,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:housenumber": "CD18",
+          "addr:postcode": "700064",
+          "addr:street": "2nd Cross Road",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "cuisine": "asian;chinese",
+          "name": "Momo I Am",
+          "name:en": "Momo i am",
+          "opening_hours": "Mo-Su 12:00-23:00",
+          "phone": "+91 7044519815",
+          "website": "https://momoiam.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6700824101,
+        "lat": 22.5921214,
+        "lon": 88.4118194,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:housenumber": "86",
+          "addr:postcode": "700064",
+          "addr:street": "2nd Avenue",
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "check_date": "2025-02-05",
+          "cuisine": "awadhi;mughlai",
+          "name": "Oudh 1590",
+          "opening_hours": "Mo-Su 12:00-15:30,18:30-22:30",
+          "phone": "033 30859078"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7053734498,
+        "lat": 22.5911184,
+        "lon": 88.4111023,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "DD-35, Salt Lake View City, Bidhan Nagar",
+          "addr:postcode": "700064",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "3323373486",
+          "healthcare": "hospital",
+          "name": "Seba Hospital",
+          "source": "OpenGovernmentData",
+          "website": "https://www.sebahospital.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7068848849,
+        "lat": 22.5877134,
+        "lon": 88.4080387,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Block Dc, 1st Floor, City Centre, Salt Lake City",
+          "addr:postcode": "700064",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "The Apollo Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074312631,
+        "lat": 22.5902195,
+        "lon": 88.4125239,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Dd-10, Sector I, Salt Lake",
+          "addr:postcode": "700064",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "333372141",
+          "healthcare": "hospital",
+          "name": "Salt Lake City Medical Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7199853198,
+        "lat": 22.5899183,
+        "lon": 88.410437,
+        "tags": {
+          "addr:district": "North 24 Parganas",
+          "addr:full": "DD Block, Sector-1, Near Poura Prashashan Bhavan, Bidhannagar",
+          "addr:postcode": "700064",
+          "addr:state": "West Bengal",
+          "addr:subdistrict": "Rajarhat",
+          "amenity": "hospital",
+          "description": "Sub-District Hospital",
+          "healthcare": "hospital",
+          "name": "Salt Lake Sub-divisional Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9253635392,
+        "lat": 22.5917451,
+        "lon": 88.402647,
+        "tags": {
+          "addr:city": "KOLKATA",
+          "addr:housenumber": "198",
+          "addr:postcode": "700064",
+          "addr:street": "1st Avenue",
+          "leisure": "park",
+          "name": "X MOTTORS",
+          "name:en": "X MOTTORS",
+          "opening_hours": "24/7",
+          "operator": "X MOTTORS"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9462517017,
+        "lat": 22.5958522,
+        "lon": 88.413124,
+        "tags": {
+          "addr:city": "Kolkata",
+          "addr:country": "IN",
+          "addr:housenumber": "59 sector 1",
+          "addr:postcode": "700064",
+          "addr:state": "West Bengal",
+          "addr:street": "CE Block",
+          "addr:suburb": "Bidhan Nagar",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Sri Ram Pharmacy",
+          "phone": "06297780985"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9497006698,
+        "lat": 22.5872789,
+        "lon": 88.4078443,
+        "tags": {
+          "addr:postcode": "700064",
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9537536817,
+        "lat": 22.58956,
+        "lon": 88.4084577,
+        "tags": {
+          "addr:housenumber": "DC 27/26",
+          "addr:postcode": "700064",
+          "addr:street": "2nd Cross Road",
+          "amenity": "restaurant",
+          "name": "033 4044 2294",
+          "name:en": "Balle Balle Dhaba",
+          "opening_hours": "Mo-Su 12:00-02:00",
+          "phone": "033 4044 2294"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10091524217,
+        "lat": 22.5990056,
+        "lon": 88.413356,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Wow! Momo",
+          "brand:wikidata": "Q8037446",
+          "cuisine": "momo",
+          "name": "Wow! Momo",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10651584806,
+        "lat": 22.5934596,
+        "lon": 88.4059146,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Calcutta 64"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11245170516,
+        "lat": 22.584952,
+        "lon": 88.4083661,
+        "tags": {
+          "leisure": "playground",
+          "name": "EC Block Playground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11245170518,
+        "lat": 22.5831406,
+        "lon": 88.406782,
+        "tags": {
+          "leisure": "playground",
+          "name": "Labony Housing Playground"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11264617761,
+        "lat": 22.5858469,
+        "lon": 88.4053261,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2023-10-14",
+          "cuisine": "coffee_shop",
+          "name": "Melbourne Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11511919022,
+        "lat": 22.5958575,
+        "lon": 88.4067038,
+        "tags": {
+          "addr:city": "SaltLake City",
+          "addr:district": "Kolkata",
+          "addr:housenumber": "AD-67",
+          "addr:postcode": "700064",
+          "addr:street": "Block AD, 1st Avenue Road, Sector 1",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "bar": "no",
+          "contact:facebook": "https://www.facebook.com/profile.php?id=61555278081491&mibextid=ZbWKwL",
+          "cuisine": "coffee_shop;chinese;italian;pizza;sandwich;indian;dessert;salad;pasta",
+          "description": "Que Pasa, An All Day Cafe, is a vibrant new addition to the culinary landscape of Salt Lake City, invites you to embark on a gastronomic journey through the flavours of the world. Nestled amidst the bustling streets of Block AD, Sector 1, Saltlake.",
+          "drive_through": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "level": "1",
+          "name": "Que Pasa",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "outdoor_seating": "yes",
+          "payment:app": "yes",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:coins": "yes",
+          "payment:contactless": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:diners_club": "yes",
+          "payment:google_pay": "yes",
+          "payment:maestro": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "payment:visa_debit": "yes",
+          "phone": "+91-8100-606767",
+          "reservation": "yes",
+          "start_date": "2023-12-24",
+          "takeaway": "yes",
+          "toilets": "yes",
+          "toilets:wheelchair": "no",
+          "website:menu": "https://airmenus.in/quepasa/order/Dine-In",
+          "wheelchair": "no"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:37:29Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 664440061,
+        "lat": 22.5917712,
+        "lon": 88.3908206,
+        "tags": {
+          "name": "Bidhannagar Road",
+          "name:bn": "\u09ac\u09bf\u09a7\u09be\u09a8\u09a8\u0997\u09b0 \u09b0\u09cb\u09a1",
+          "operator": "Eastern Railways",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q4904158",
+          "wikipedia": "en:Bidhannagar Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1307939452,
+        "lat": 22.5926544,
+        "lon": 88.3887464,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "description": "Route Number S-30, S-30A, ST7",
+          "name": "15 No Bus Stand (S30)",
+          "operator": "WBTC",
+          "public_transport": "station",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1726094711,
+        "lat": 22.5865031,
+        "lon": 88.4245172,
+        "tags": {
+          "amenity": "fuel",
+          "fuel:diesel": "no",
+          "name": "Daga Service Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1742495415,
+        "lat": 22.5796113,
+        "lon": 88.4257949,
+        "tags": {
+          "addr:housename": "EE Block, Salt Lake City Kolkata, West Bengal 700091\u200e",
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1850221742,
+        "lat": 22.5732985,
+        "lon": 88.4135971,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Broadway"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2017123229,
+        "lat": 22.5777563,
+        "lon": 88.4005168,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2141425962,
+        "lat": 22.5917787,
+        "lon": 88.3907817,
+        "tags": {
+          "name": "Bidhannagar Road",
+          "name:bn": "\u09ac\u09bf\u09a7\u09be\u09a8\u09a8\u0997\u09b0 \u09b0\u09cb\u09a1",
+          "operator": "Eastern Railways",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q4904158",
+          "wikipedia": "en:Bidhannagar Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2141425973,
+        "lat": 22.5917378,
+        "lon": 88.3909399,
+        "tags": {
+          "name": "Bidhannagar Road",
+          "name:bn": "\u09ac\u09bf\u09a7\u09be\u09a8\u09a8\u0997\u09b0 \u09b0\u09cb\u09a1",
+          "operator": "Eastern Railways",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q4904158",
+          "wikipedia": "en:Bidhannagar Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2207611901,
+        "lat": 22.591149,
+        "lon": 88.3912585,
+        "tags": {
+          "name": "Bidhan Nagar",
+          "network": "WBTC",
+          "network:wikidata": "Q7984450",
+          "operator": "Calcutta Tramways Company",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2323761292,
+        "lat": 22.5912601,
+        "lon": 88.3909641,
+        "tags": {
+          "name": "Bidhannagar Road",
+          "name:bn": "\u09ac\u09bf\u09a7\u09be\u09a8\u09a8\u0997\u09b0 \u09b0\u09cb\u09a1",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BNXR",
+          "website": "https://er.indianrailways.gov.in/",
+          "wheelchair": "no",
+          "wikidata": "Q4904158",
+          "wikipedia": "en:Bidhannagar Road railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2460827382,
+        "lat": 22.5891916,
+        "lon": 88.4092137,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil Petrol Pump",
+          "operator": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2461308629,
+        "lat": 22.5765416,
+        "lon": 88.430382,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP Petrol Pump",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4933663221,
+        "lat": 22.5717932,
+        "lon": 88.4090241,
+        "tags": {
+          "amenity": "fuel",
+          "name": "BP Petrol Pump",
+          "name:en": "BP Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5080788785,
+        "lat": 22.6098041,
+        "lon": 88.4017146,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil Petrol Pump",
+          "brand:wikidata": "Q1289348",
+          "fuel": "diesel",
+          "name": "Indian Oil Petrol Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5189265479,
+        "lat": 22.5862751,
+        "lon": 88.4215241,
+        "tags": {
+          "name": "Karunamoyee",
+          "name:bn": "\u0995\u09b0\u09c1\u09a3\u09be\u09ae\u09af\u09bc\u09c0",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5241930862,
+        "lat": 22.5710125,
+        "lon": 88.4011324,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:short": "INOX",
+          "brand:wikidata": "Q5972349",
+          "name": "Inox Swabhumi",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572361,
+        "lat": 22.5862923,
+        "lon": 88.421568,
+        "tags": {
+          "name": "Karunamoyee",
+          "name:bn": "\u0995\u09b0\u09c1\u09a3\u09be\u09ae\u09af\u09bc\u09c0",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572424,
+        "lat": 22.5809412,
+        "lon": 88.4290204,
+        "tags": {
+          "name": "Salt Lake Sector V",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f\u09b2\u09c7\u0995 \u09b8\u09c7\u0995\u09cd\u099f\u09b0 V",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7628479190,
+        "lat": 22.580895,
+        "lon": 88.4290467,
+        "tags": {
+          "name": "Salt Lake Sector V",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f\u09b2\u09c7\u0995 \u09b8\u09c7\u0995\u09cd\u099f\u09b0 V",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140059,
+        "lat": 22.58638,
+        "lon": 88.4215312,
+        "tags": {
+          "name": "Karunamoyee",
+          "name:bn": "\u0995\u09b0\u09c1\u09a3\u09be\u09ae\u09af\u09bc\u09c0",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Kolkata Metro Rail Corporation Limited (KMRCL)",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KESA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q62019524",
+          "wikipedia": "en:Karunamoyee metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140060,
+        "lat": 22.5904737,
+        "lon": 88.4156247,
+        "tags": {
+          "name": "Central Park",
+          "name:bn": "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Kolkata Metro Rail Corporation Limited (KMRCL)",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CPSA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632539",
+          "wikipedia": "en:Central Park metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140061,
+        "lat": 22.5903984,
+        "lon": 88.4156434,
+        "tags": {
+          "name": "Central Park",
+          "name:bn": "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140062,
+        "lat": 22.5903593,
+        "lon": 88.4156358,
+        "tags": {
+          "name": "Central Park",
+          "name:bn": "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09aa\u09be\u09b0\u09cd\u0995",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140063,
+        "lat": 22.5870993,
+        "lon": 88.4078908,
+        "tags": {
+          "name": "City Centre",
+          "name:bn": "\u09b8\u09bf\u099f\u09bf \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Kolkata Metro Rail Corporation Limited (KMRCL)",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CCSC",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q63256235",
+          "wikipedia": "en:City Center metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140064,
+        "lat": 22.5869882,
+        "lon": 88.4079174,
+        "tags": {
+          "name": "City Centre",
+          "name:bn": "\u09b8\u09bf\u099f\u09bf \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140065,
+        "lat": 22.5869532,
+        "lon": 88.4079412,
+        "tags": {
+          "name": "City Centre",
+          "name:bn": "\u09b8\u09bf\u099f\u09bf \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140066,
+        "lat": 22.5800666,
+        "lon": 88.4012962,
+        "tags": {
+          "name": "Bengal Chemical",
+          "name:bn": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u0995\u09c7\u09ae\u09bf\u0995\u09cd\u09af\u09be\u09b2\u09b8",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BCSD",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q63256245",
+          "wikipedia": "en:Bengal Chemical metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140067,
+        "lat": 22.5799802,
+        "lon": 88.4013845,
+        "tags": {
+          "name": "Bengal Chemical",
+          "name:bn": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u0995\u09c7\u09ae\u09bf\u0995\u09cd\u09af\u09be\u09b2\u09b8",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140068,
+        "lat": 22.5799701,
+        "lon": 88.401335,
+        "tags": {
+          "name": "Bengal Chemical",
+          "name:bn": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u0995\u09c7\u09ae\u09bf\u0995\u09cd\u09af\u09be\u09b2\u09b8",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140069,
+        "lat": 22.5731115,
+        "lon": 88.4030891,
+        "tags": {
+          "name": "Salt Lake Stadium",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f \u09b2\u09c7\u0995 \u09b8\u09cd\u099f\u09c7\u09a1\u09bf\u09af\u09bc\u09be\u09ae",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SSSA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q65090392",
+          "wikipedia": "en:Salt Lake Stadium metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140070,
+        "lat": 22.572966,
+        "lon": 88.4030833,
+        "tags": {
+          "name": "Salt Lake Stadium",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f \u09b2\u09c7\u0995 \u09b8\u09cd\u099f\u09c7\u09a1\u09bf\u09af\u09bc\u09be\u09ae",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140071,
+        "lat": 22.5729746,
+        "lon": 88.4031237,
+        "tags": {
+          "name": "Salt Lake Stadium",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f \u09b2\u09c7\u0995 \u09b8\u09cd\u099f\u09c7\u09a1\u09bf\u09af\u09bc\u09be\u09ae",
+          "network": "Kolkata Metro",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7976140073,
+        "lat": 22.5809434,
+        "lon": 88.4290872,
+        "tags": {
+          "name": "Salt Lake Sector V",
+          "name:bn": "\u09b8\u09b2\u09cd\u099f\u09b2\u09c7\u0995 \u09b8\u09c7\u0995\u09cd\u099f\u09b0 V",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Kolkata Metro Rail Corporation Limited (KMRCL)",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SVSA",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q55632405",
+          "wikipedia": "en:Salt Lake Sector-V metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8999697038,
+        "lat": 22.6065505,
+        "lon": 88.3952451,
+        "tags": {
+          "name": "Patipukur",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "PTKR",
+          "wikidata": "Q56277048"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9566184417,
+        "lat": 22.580991,
+        "lon": 88.3911903,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "S-3B Bus Terminus",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10091511718,
+        "lat": 22.5777968,
+        "lon": 88.4010448,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:short": "PVR",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR Cinemas",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11608922669,
+        "lat": 22.5735617,
+        "lon": 88.4075987,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Gyan Mancha"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12725821244,
+        "lat": 22.5917545,
+        "lon": 88.3908911,
+        "tags": {
+          "name": "Bidhannagar Road",
+          "name:bn": "\u09ac\u09bf\u09a7\u09be\u09a8\u09a8\u0997\u09b0 \u09b0\u09cb\u09a1",
+          "operator": "Eastern Railways",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes",
+          "wikidata": "Q4904158",
+          "wikipedia": "en:Bidhannagar Road railway station"
+        }
+      }
+    ]
+  }
+}

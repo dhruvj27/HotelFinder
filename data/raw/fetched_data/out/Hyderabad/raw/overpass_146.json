@@ -1,0 +1,149 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:56:24Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4995284318,
+        "lat": 17.4292344,
+        "lon": 78.3252228,
+        "tags": {
+          "amenity": "bank",
+          "branch": "Nanakramguda",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI",
+          "website": "https://www.sbi.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5178297919,
+        "lat": 17.4294933,
+        "lon": 78.325435,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Apollo Pharmacy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5664317761,
+        "lat": 17.4303207,
+        "lon": 78.3254078,
+        "tags": {
+          "addr:street": "gowlidoddi",
+          "name": "Heritage fresh",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6811748994,
+        "lat": 17.4279239,
+        "lon": 78.3240814,
+        "tags": {
+          "addr:district": "Ranga Reddy",
+          "addr:full": "H. No. 5-1/99/A/B, Near Padmasree Gardens, Gowli Doddi, Hyderabad",
+          "addr:postcode": "500032",
+          "addr:state": "Telangana",
+          "amenity": "hospital",
+          "contact:mobile": "7337456268",
+          "email": "info@srijahospitals.com",
+          "name": "Srija Hospital",
+          "source": "OpenGovernmentData",
+          "website": "https://srijahospitals.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6822126521,
+        "lat": 17.427342,
+        "lon": 78.326194,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Q City Medical",
+          "source": "survey"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11117599908,
+        "lat": 17.4294695,
+        "lon": 78.3254817,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:district": "Ranga Reddy",
+          "addr:housenumber": "1st floor",
+          "addr:postcode": "500032",
+          "addr:street": "Gopanpally - Wipro Road",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop;pizza;burger;sandwich;salad;breakfast;smoothie;fried_food;fries;fried_chicken;soup",
+          "highchair": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "customers",
+          "name": "Coffee Maniac",
+          "opening_hours": "Mo-Su 12:00-23:59",
+          "payment:cash": "yes",
+          "payment:contactless": "yes",
+          "payment:sodexo": "yes",
+          "payment:visa": "yes",
+          "phone": "9010255050",
+          "takeaway": "yes",
+          "toilets": "yes",
+          "website": "https://menu.coffeemaniac.in",
+          "website:menu": "https://menu.coffeemaniac.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12951131218,
+        "lat": 17.4228398,
+        "lon": 78.3375475,
+        "tags": {
+          "addr:city": "Hyderabad",
+          "addr:district": "Telangana",
+          "addr:housenumber": "Plot No 12 Nanakramguda",
+          "addr:postcode": "500032",
+          "addr:street": "Gachibowli",
+          "amenity": "bank",
+          "branch": "Hyderabad Gachibowli Financial District",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:57:26Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1528724057,
+        "lat": 17.4218292,
+        "lon": 78.338227,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Essar",
+          "brand:wikidata": "Q5399372",
+          "compressed_air": "yes",
+          "name": "Essar Petrol Pump"
+        }
+      }
+    ]
+  }
+}

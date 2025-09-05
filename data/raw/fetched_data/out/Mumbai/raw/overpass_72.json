@@ -1,0 +1,1192 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:42:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1437244163,
+        "lat": 19.1036656,
+        "lon": 72.826663,
+        "tags": {
+          "addr:housename": "Kings Apt",
+          "addr:postcode": "400049",
+          "addr:street": "Juhu Tara Road",
+          "amenity": "restaurant",
+          "contact:instagram": "maheshlunchhome_mumbai",
+          "cuisine": "seafood",
+          "name": "Mahesh Lunch Home",
+          "name:en": "Mahesh Lunch Home"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1803648461,
+        "lat": 19.1057759,
+        "lon": 72.826406,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Poetry",
+          "name:en": "Poetry"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1803653587,
+        "lat": 19.1055629,
+        "lon": 72.8263957,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "sandwich",
+          "name": "Kitchen Garden",
+          "name:en": "Kitchen Garden"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1803681421,
+        "lat": 19.1069056,
+        "lon": 72.826255,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name": "Alfredo's",
+          "wifi": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2025969633,
+        "lat": 19.1035347,
+        "lon": 72.8316244,
+        "tags": {
+          "name": "Sahakari Bhandar",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2391804809,
+        "lat": 19.1062054,
+        "lon": 72.825633,
+        "tags": {
+          "addr:housename": "Prithvi Theatre",
+          "addr:housenumber": "20",
+          "addr:postcode": "400049",
+          "addr:street": "Janki Kutir Juhu Church Road, Mumbai",
+          "amenity": "cafe",
+          "name": "Prithvi Cafe",
+          "website": "www.prithvitheatre.org"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2718678717,
+        "lat": 19.1006024,
+        "lon": 72.8275259,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:street": "Juhu Tara road",
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "brand:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "brand:wikidata": "Q37158",
+          "brand:wikipedia": "en:Starbucks",
+          "cuisine": "coffee_shop",
+          "internet_access": "wlan",
+          "name": "Starbucks",
+          "name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38",
+          "name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633",
+          "official_name": "Starbucks Coffee",
+          "official_name:pa": "\u0a38\u0a1f\u0a3e\u0a30\u0a2c\u0a15\u0a38 \u0a15\u0a4c\u0a2b\u0a40",
+          "official_name:ur": "\u0627\u0633\u0679\u0627\u0631\u0628\u06a9\u0633 \u06a9\u0627\u0641\u06cc",
+          "opening_hours": "Mo-Su 07:00-01:00",
+          "smoking": "no",
+          "takeaway": "yes",
+          "website": "https://www.starbucks.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5282101321,
+        "lat": 19.0979538,
+        "lon": 72.8271261,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Bora Bora"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043071384,
+        "lat": 19.1065285,
+        "lon": 72.8297109,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "101,Hiralaya,N.S.Road No.10,Laxmikant Chowk,Jvpd Scheme,Vile Parle(W)",
+          "addr:postcode": "400049",
+          "addr:state": "Maharashtra",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "healthcare:speciality": "ophthalmology",
+          "name": "The Vission Eye Center",
+          "name:en": "The Vission Eye Center",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7045692380,
+        "lat": 19.1051056,
+        "lon": 72.8292194,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "2, Ashok Nagar Society, North South Road No-11, Juhu-Scheme",
+          "addr:postcode": "400049",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr.Daftarys Total Care Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7283106715,
+        "lat": 19.0987991,
+        "lon": 72.8278271,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "restaurant",
+          "level": "0",
+          "name": "Shiv Sagar",
+          "toilets": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7320270232,
+        "lat": 19.1008959,
+        "lon": 72.8278252,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400049",
+          "addr:street": "Khwaja Ahman Abbas Marg",
+          "brand": "Nature's Basket",
+          "brand:wikidata": "Q28174237",
+          "brand:wikipedia": "en:Nature's Basket",
+          "name": "Nature's Basket",
+          "opening_hours": "Mo-Su 08:00-22:00",
+          "organic": "yes",
+          "shop": "supermarket",
+          "website": "https://www.naturesbasket.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961465,
+        "lat": 19.103219,
+        "lon": 72.834862,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "V. L Vaikunthlal Mehta Road, JVPD Scheme, Vile Parle",
+          "addr:postcode": "400056",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Sunridges Speciality Hospital",
+          "operator": "Private",
+          "operator:type": "private",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139810656,
+        "lat": 19.097895,
+        "lon": 72.8263903,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Shree Siddhivinayak Fast Food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139810662,
+        "lat": 19.0979952,
+        "lon": 72.8262132,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Rajasthan Pav Bhaji"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139810667,
+        "lat": 19.0980503,
+        "lon": 72.8262042,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Arun Fast Food Centre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139810670,
+        "lat": 19.0980986,
+        "lon": 72.8261988,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Sai Kalyan Pav Bhaji & Chinese"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139810671,
+        "lat": 19.0980222,
+        "lon": 72.8262033,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Rangeela Rajasthan Fast Food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139821910,
+        "lat": 19.0978276,
+        "lon": 72.8263149,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Sagar Vada Pav & Tea"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139821911,
+        "lat": 19.0979138,
+        "lon": 72.8262311,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Shree Ram Pav Bhaji"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139821913,
+        "lat": 19.097925,
+        "lon": 72.8263443,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Shiv Shankar Bhel Puri & Chat Centre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139914822,
+        "lat": 19.0980528,
+        "lon": 72.8265768,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Radhe Krishna"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139914826,
+        "lat": 19.0981086,
+        "lon": 72.8265613,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "South Indian;pav bhaji",
+          "name": "Guru Saagar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9139914829,
+        "lat": 19.0980853,
+        "lon": 72.8265668,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "bhel puri;chaat",
+          "name": "Mahalakshmi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11054957005,
+        "lat": 19.0904176,
+        "lon": 72.8270788,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name": "Cecconi\u2019s",
+          "name:en": "Cecconi\u2019s"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185903,
+        "lat": 19.0896644,
+        "lon": 72.8276046,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Little Italy",
+          "name:en": "Little Italy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185915,
+        "lat": 19.0979816,
+        "lon": 72.8269836,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "China Gate",
+          "name:en": "China Gate"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185921,
+        "lat": 19.0990705,
+        "lon": 72.8274501,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "mexican",
+          "name": "New York Burrito Company",
+          "name:en": "New York Burrito Company"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185922,
+        "lat": 19.0989374,
+        "lon": 72.8274639,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Domino's",
+          "brand:wikidata": "Q839466",
+          "cuisine": "pizza",
+          "name": "Domino's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185924,
+        "lat": 19.0988699,
+        "lon": 72.827813,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Chaayos",
+          "brand:wikidata": "Q117235235",
+          "cuisine": "tea",
+          "name": "Chaayos",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185929,
+        "lat": 19.0991575,
+        "lon": 72.8277717,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:wikidata": "Q244457",
+          "cuisine": "sandwich",
+          "name": "Subway",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185930,
+        "lat": 19.0991938,
+        "lon": 72.8277678,
+        "tags": {
+          "amenity": "cafe",
+          "name": "The Belgian Waffle Co.",
+          "name:en": "The Belgian Waffle Co."
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185932,
+        "lat": 19.0992737,
+        "lon": 72.8277545,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Sbarro",
+          "brand:wikidata": "Q2589409",
+          "cuisine": "pizza",
+          "name": "Sbarro",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185940,
+        "lat": 19.1009916,
+        "lon": 72.8274055,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Copper Chimney",
+          "name:en": "Copper Chimney",
+          "website": "https://www.copperchimney.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185953,
+        "lat": 19.1009998,
+        "lon": 72.8271228,
+        "tags": {
+          "amenity": "bank",
+          "brand": "HSBC",
+          "brand:wikidata": "Q190464",
+          "name": "HSBC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372185966,
+        "lat": 19.1026933,
+        "lon": 72.8270756,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "yes",
+          "name": "The Class Thali"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372229080,
+        "lat": 19.1032478,
+        "lon": 72.8270016,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "lebanese",
+          "name": "Hit n Run",
+          "name:en": "Hit n Run"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11372229081,
+        "lat": 19.103975,
+        "lon": 72.8269819,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11426725043,
+        "lat": 19.0909225,
+        "lon": 72.8277526,
+        "tags": {
+          "amenity": "bank",
+          "branch": "back",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11426727397,
+        "lat": 19.0913756,
+        "lon": 72.8278114,
+        "tags": {
+          "addr:street": "Juhu Tara Road",
+          "amenity": "restaurant",
+          "description": "North Indian Restaurant",
+          "name": "Pritam Da Dhaba"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11426734642,
+        "lat": 19.0947508,
+        "lon": 72.8283485,
+        "tags": {
+          "amenity": "atm",
+          "name": "State Bank of India ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11426734643,
+        "lat": 19.0913972,
+        "lon": 72.8277925,
+        "tags": {
+          "addr:street": "Juhu Tara Road",
+          "amenity": "restaurant",
+          "name": "Grandmama's Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11426739557,
+        "lat": 19.094799,
+        "lon": 72.8283453,
+        "tags": {
+          "amenity": "bank",
+          "name": "State Bank of India, Juhu Tara"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11518380934,
+        "lat": 19.0917013,
+        "lon": 72.8280071,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "mumbai",
+          "addr:housenumber": "1005",
+          "addr:postcode": "400049",
+          "addr:street": "Juhu Tara Road",
+          "amenity": "restaurant",
+          "cuisine": "pan_asian;japanese",
+          "name": "Sesame - Hyatt Centric Juhu",
+          "name:en": "Sesame - Hyatt Centric Juhu",
+          "opening_hours": "Mo-Su 07:00-23:30",
+          "phone": "+91 86578 84964",
+          "website": "https://www.hyatt.com/hyatt-centric/mumct-hyatt-centric-juhu-mumbai/dining"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11609368066,
+        "lat": 19.1059439,
+        "lon": 72.8260163,
+        "tags": {
+          "addr:housenumber": "27",
+          "addr:street": "Juhu Church Rd",
+          "amenity": "cafe",
+          "name": "Third Wave Coffee",
+          "phone": "+91-9620951522",
+          "smoking": "no",
+          "website": "https://www.thirdwavecoffeeroasters.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11893277046,
+        "lat": 19.1050473,
+        "lon": 72.8272483,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11893277047,
+        "lat": 19.1050357,
+        "lon": 72.8273119,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11901164005,
+        "lat": 19.1044476,
+        "lon": 72.8275487,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Standard Chartered",
+          "brand:wikidata": "Q548278",
+          "name": "Standard Chartered"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12840112469,
+        "lat": 19.1048979,
+        "lon": 72.825748,
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-05-15",
+          "name": "Ananda Cafe",
+          "name:en": "Ananda Cafe",
+          "name:mr": "\u0906\u0928\u0902\u0926\u093e \u0915\u0945\u092b\u0947"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12842089420,
+        "lat": 19.1051583,
+        "lon": 72.8297145,
+        "tags": {
+          "amenity": "bank",
+          "brand": "IndusInd Bank",
+          "brand:wikidata": "Q2040323",
+          "name": "IndusInd Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12842089421,
+        "lat": 19.105206,
+        "lon": 72.8297155,
+        "tags": {
+          "amenity": "atm",
+          "brand": "IndusInd Bank",
+          "brand:wikidata": "Q2040323",
+          "name": "IndusInd Bank",
+          "opening_hours": "24/7",
+          "operator": "IndusInd Bank",
+          "operator:wikidata": "Q2040323"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12848913116,
+        "lat": 19.1056028,
+        "lon": 72.8264423,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "internet_access": "wlan",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "opening_hours": "Mo-Su 07:00-01:00",
+          "outdoor_seating": "no",
+          "smoking": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12848913147,
+        "lat": 19.1059803,
+        "lon": 72.8263775,
+        "tags": {
+          "level": "0",
+          "name": "Intop",
+          "name:en": "Intop",
+          "name:hi": "\u0907\u0928\u091f\u0949\u092a",
+          "name:mr": "\u0907\u0928\u091f\u0949\u092a",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12848913148,
+        "lat": 19.1062253,
+        "lon": 72.8263444,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Earth Cafe",
+          "name:en": "Earth Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12848913150,
+        "lat": 19.1063637,
+        "lon": 72.8262954,
+        "tags": {
+          "amenity": "cafe",
+          "email": "bayleafcafejuhu@gmail.com",
+          "name": "Bayleaf Cafe",
+          "name:en": "Bayleaf Cafe",
+          "name:mr": "\u092c\u0947\u0932\u0940\u092b \u0915\u0945\u092b\u0947",
+          "website": "https://bayleafcafe.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12848913176,
+        "lat": 19.1066701,
+        "lon": 72.8263295,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Noble Plus",
+          "name:en": "Noble Plus"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12848913181,
+        "lat": 19.1068421,
+        "lon": 72.826219,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Thyme & Whisk",
+          "name:en": "Thyme & Whisk"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12848913220,
+        "lat": 19.1070288,
+        "lon": 72.8268071,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Vidya Chemist",
+          "name:en": "Vidya Chemist",
+          "name:hi": "\u0935\u093f\u0926\u094d\u092f\u093e \u0915\u0947\u092e\u093f\u0938\u094d\u091f",
+          "name:mr": "\u0935\u093f\u0926\u094d\u092f\u093e \u0915\u0947\u092e\u093f\u0938\u094d\u091f"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12849292008,
+        "lat": 19.1021456,
+        "lon": 72.8263265,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "drive_through": "no",
+          "level": "0",
+          "name": "Kotak Mahindra Bank",
+          "operator": "Kotak Mahindra Bank",
+          "operator:wikidata": "Q2040404"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12849292009,
+        "lat": 19.1020902,
+        "lon": 72.8262901,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "level": "-1",
+          "name": "Saffron",
+          "name:en": "Saffron"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12849292011,
+        "lat": 19.1021465,
+        "lon": 72.8260475,
+        "tags": {
+          "amenity": "restaurant",
+          "level": "0",
+          "name": "Mezzo Mezzo",
+          "name:en": "Mezzo Mezzo",
+          "name:mr": "\u092e\u0947\u091d\u094d\u091d\u094b \u092e\u0947\u091d\u094d\u091d\u094b"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12849292012,
+        "lat": 19.1019078,
+        "lon": 72.8263912,
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "level": "-1",
+          "name": "Lotus Cafe",
+          "name:en": "Lotus Cafe",
+          "outdoor_seating": "no"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:42:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 213030714,
+        "lat": 19.0815223,
+        "lon": 72.8417565,
+        "tags": {
+          "internet_access": "no",
+          "name": "Santa Cruz",
+          "name:hi": "\u0938\u093e\u0902\u0924\u093e\u0915\u094d\u0930\u0941\u091c\u093c",
+          "name:mr": "\u0938\u093e\u0902\u0924\u093e\u0915\u094d\u0930\u0942\u091d",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "STC",
+          "train": "yes",
+          "wikidata": "Q7420001",
+          "wikipedia": "en:Santacruz railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 621276256,
+        "lat": 19.1000028,
+        "lon": 72.8439266,
+        "tags": {
+          "name": "Vile Parle",
+          "name:en": "Vile Parle",
+          "name:mr": "\u0935\u093f\u0932\u0947 \u092a\u093e\u0930\u094d\u0932\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1241793068,
+        "lat": 19.09544,
+        "lon": 72.8660044,
+        "tags": {
+          "aeroway": "terminal",
+          "ele": "15.747192",
+          "name": "Cargo Terminal",
+          "source": "GPS",
+          "sym": "Civil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1697438559,
+        "lat": 19.1148228,
+        "lon": 72.8275031,
+        "tags": {
+          "addr:street": "Parulekar Road",
+          "amenity": "cinema",
+          "brand": "PVR Cinemas",
+          "brand:wikidata": "Q3359908",
+          "name": "PVR Juhu",
+          "short_name": "PVR"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2630075010,
+        "lat": 19.0999098,
+        "lon": 72.8440038,
+        "tags": {
+          "ele": "10",
+          "internet_access": "no",
+          "name": "Vile Parle",
+          "name:hi": "\u0935\u093f\u0932\u0947 \u092a\u093e\u0930\u094d\u0932\u0947",
+          "name:mr": "\u0935\u093f\u0932\u0947 \u092a\u093e\u0930\u094d\u0932\u0947",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "VLP",
+          "train": "yes",
+          "wikidata": "Q7930143",
+          "wikipedia": "en:Vile Parle railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3347771408,
+        "lat": 19.1000071,
+        "lon": 72.8438937,
+        "tags": {
+          "name": "Vile Parle",
+          "name:en": "Vile Parle",
+          "name:mr": "\u0935\u093f\u0932\u0947 \u092a\u093e\u0930\u094d\u0932\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3951524190,
+        "lat": 19.1010253,
+        "lon": 72.8392429,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3951524927,
+        "lat": 19.0967848,
+        "lon": 72.8393963,
+        "tags": {
+          "addr:street": "Swami Vivekanand Road",
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "brand:wikipedia": "en:Indian Oil Corporation",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3951527111,
+        "lat": 19.0905676,
+        "lon": 72.8382833,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Santacruz Bus Depot",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3951538082,
+        "lat": 19.0860081,
+        "lon": 72.8383183,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "brand:wikipedia": "en:Hindustan Petroleum",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5942782562,
+        "lat": 19.0896096,
+        "lon": 72.8391558,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Gold Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6110571686,
+        "lat": 19.1053592,
+        "lon": 72.8465173,
+        "tags": {
+          "amenity": "theatre",
+          "name:en": "Suncity Theatre",
+          "opening_hours": "Mo-Su 10:00-22:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6110577585,
+        "lat": 19.1007306,
+        "lon": 72.8449115,
+        "tags": {
+          "amenity": "theatre",
+          "name:en": "Dinanath Mangeshkar Natyagruha",
+          "opening_hours": "Mo-Su 10:00-20:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862076,
+        "lat": 19.099961,
+        "lon": 72.8442291,
+        "tags": {
+          "name": "Vile Parle",
+          "name:en": "Vile Parle",
+          "name:mr": "\u0935\u093f\u0932\u0947 \u092a\u093e\u0930\u094d\u0932\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862077,
+        "lat": 19.0999755,
+        "lon": 72.8441316,
+        "tags": {
+          "name": "Vile Parle",
+          "name:en": "Vile Parle",
+          "name:mr": "\u0935\u093f\u0932\u0947 \u092a\u093e\u0930\u094d\u0932\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862078,
+        "lat": 19.0999796,
+        "lon": 72.8440865,
+        "tags": {
+          "name": "Vile Parle",
+          "name:en": "Vile Parle",
+          "name:mr": "\u0935\u093f\u0932\u0947 \u092a\u093e\u0930\u094d\u0932\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862079,
+        "lat": 19.1001265,
+        "lon": 72.8437717,
+        "tags": {
+          "name": "Vile Parle",
+          "name:en": "Vile Parle",
+          "name:mr": "\u0935\u093f\u0932\u0947 \u092a\u093e\u0930\u094d\u0932\u0947",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862080,
+        "lat": 19.0839117,
+        "lon": 72.8418774,
+        "tags": {
+          "name": "Santa Cruz (CR)",
+          "name:en": "Santa Cruz (CR)",
+          "name:mr": "\u0938\u093e\u0902\u0924\u093e\u0915\u094d\u0930\u0942\u091d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862081,
+        "lat": 19.0816085,
+        "lon": 72.8418625,
+        "tags": {
+          "name": "Santa Cruz (WR)",
+          "name:en": "Santa Cruz (WR)",
+          "name:mr": "\u0938\u093e\u0902\u0924\u093e\u0915\u094d\u0930\u0942\u091d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862082,
+        "lat": 19.0816252,
+        "lon": 72.8417226,
+        "tags": {
+          "name": "Santa Cruz (WR)",
+          "name:en": "Santa Cruz (WR)",
+          "name:mr": "\u0938\u093e\u0902\u0924\u093e\u0915\u094d\u0930\u0942\u091d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862083,
+        "lat": 19.0816295,
+        "lon": 72.8416835,
+        "tags": {
+          "name": "Santa Cruz (WR)",
+          "name:en": "Santa Cruz (WR)",
+          "name:mr": "\u0938\u093e\u0902\u0924\u093e\u0915\u094d\u0930\u0942\u091d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862084,
+        "lat": 19.0816184,
+        "lon": 72.8415282,
+        "tags": {
+          "name": "Santa Cruz (WR)",
+          "name:en": "Santa Cruz (WR)",
+          "name:mr": "\u0938\u093e\u0902\u0924\u093e\u0915\u094d\u0930\u0942\u091d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7510862785,
+        "lat": 19.0839026,
+        "lon": 72.8417442,
+        "tags": {
+          "name": "Santa Cruz (CR)",
+          "name:en": "Santa Cruz (CR)",
+          "name:mr": "\u0938\u093e\u0902\u0924\u093e\u0915\u094d\u0930\u0942\u091d",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10102658120,
+        "lat": 19.1063277,
+        "lon": 72.8631392,
+        "tags": {
+          "addr:street": "Om Nagar Road",
+          "aeroway": "terminal",
+          "name": "transline air cargo servics pvt ltd unit no 17",
+          "name:en": "transline air cargo services pvt ltd unit no 17"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10267208087,
+        "lat": 19.1007285,
+        "lon": 72.8445616,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Vile Parle Station (E)",
+          "public_transport": "station"
+        }
+      }
+    ]
+  }
+}

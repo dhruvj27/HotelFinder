@@ -1,0 +1,53 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:25:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6232524005,
+        "lat": 18.5282471,
+        "lon": 73.7454257,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411021",
+          "addr:street": "Off Mumbai - Bangalore Highway, Near Oxford Golf Resort, Near Nyati Equatorial Bawdhan",
+          "description": "Adventure Park with camping and many adventure activities like rappelling, mountain biking, zorbing, archery etc. . Includes a amazing Dog park, with a dog pool, a jungle gym and agility tracks.",
+          "dog": "yes",
+          "email": "360degreeadventure@gmail.com",
+          "leisure": "park",
+          "name": "360 Degree Adventure",
+          "opening_hours": "24/7",
+          "operator": "Dharamshi",
+          "phone": "+91 77963 60360",
+          "website": "https://www.360degreeadventure.com/"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:25:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 12222011047,
+        "lat": 18.5375021,
+        "lon": 73.7313467,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Amphitheatre",
+          "theatre:type": "amphi"
+        }
+      }
+    ]
+  }
+}

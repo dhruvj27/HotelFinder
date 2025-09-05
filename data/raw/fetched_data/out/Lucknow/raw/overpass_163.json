@@ -1,0 +1,82 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:35:41Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7510640803,
+        "lat": 26.7769975,
+        "lon": 80.9098691,
+        "tags": {
+          "addr:district": "Lucknow",
+          "addr:full": "Kanpur - Lucknow Road, Near Vishwanath Academy, Ashiyana Colony, Sector M1, Lda Colony, Lucknow",
+          "addr:postcode": "226012",
+          "addr:state": "Uttar Pradesh",
+          "amenity": "hospital",
+          "name": "Arogya Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12555847901,
+        "lat": 26.7700457,
+        "lon": 80.9178267,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "UCO Bank"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T14:35:41Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2194710817,
+        "lat": 26.7774158,
+        "lon": 80.9026554,
+        "tags": {
+          "name": "Lucknow Amausi Airport",
+          "operator": "NR",
+          "railway": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4727514579,
+        "lat": 26.7905004,
+        "lon": 80.9252067,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10899869144,
+        "lat": 26.7873466,
+        "lon": 80.9120308,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil Petrol Pump",
+          "brand:wikidata": "Q1289348",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "Indian Oil Petrol Pump"
+        }
+      }
+    ]
+  }
+}

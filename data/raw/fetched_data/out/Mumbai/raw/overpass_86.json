@@ -1,0 +1,2403 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:45:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1855761130,
+        "lat": 19.123761,
+        "lon": 72.9131305,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Mantra",
+          "toilets:wheelchair": "no",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855761135,
+        "lat": 19.1235847,
+        "lon": 72.912496,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "name": "Pizza Hut",
+          "toilets:wheelchair": "no",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855812193,
+        "lat": 19.1251505,
+        "lon": 72.9162941,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "brand:wikipedia": "en:State Bank of India",
+          "name": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855812194,
+        "lat": 19.124088,
+        "lon": 72.9164511,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "1-A, BSNL Colony, Powai, Mumbai",
+          "addr:postcode": "400076",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Powai Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855812196,
+        "lat": 19.1241767,
+        "lon": 72.9168507,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "South Indian Bank",
+          "brand:wikidata": "Q2044973",
+          "name": "South Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3518548898,
+        "lat": 19.1135753,
+        "lon": 72.9034373,
+        "tags": {
+          "addr:city": "Mumbai",
+          "amenity": "bank",
+          "name": "Apna Janta Sahakari Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3518549107,
+        "lat": 19.1134334,
+        "lon": 72.9030725,
+        "tags": {
+          "addr:city": "Mumbai",
+          "amenity": "fast_food",
+          "name": "Janta Bakery"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3602878176,
+        "lat": 19.1112209,
+        "lon": 72.9088668,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Mehman Nawazi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3602878832,
+        "lat": 19.1119266,
+        "lon": 72.9087755,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "BREEZE RESTAURANT"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4406061290,
+        "lat": 19.1211552,
+        "lon": 72.9172853,
+        "tags": {
+          "addr:postcode": "40076",
+          "addr:street": "Powai Road",
+          "amenity": "pharmacy",
+          "name:en": "Jhonson Medical",
+          "opening_hours": "Mo-Su 10:00-22:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4406066889,
+        "lat": 19.1230071,
+        "lon": 72.9086905,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Adi Sankaracharya Marg",
+          "amenity": "cafe",
+          "cuisine": "sandwich;breakfast;grill;french;coffee_shop;asian;chinese;pizza;diner;chicken;italian_pizza;indian",
+          "name:en": "Karma",
+          "opening_hours": "Mo-Su 10:30-01:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4577067890,
+        "lat": 19.1166725,
+        "lon": 72.9097223,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Powai",
+          "addr:housenumber": "7",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "pharmacy",
+          "brand": "Wellness Forever",
+          "brand:wikidata": "Q123114721",
+          "healthcare": "pharmacy",
+          "name": "Wellness Forever",
+          "name:en": "Wellness Forever",
+          "opening_hours": "24/7",
+          "phone": "022 6162 0659",
+          "website": "https://wellnessforever.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4577075790,
+        "lat": 19.1182503,
+        "lon": 72.9113594,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Main St, Hiranandani Gardens,",
+          "name:en": "HAIKO",
+          "opening_hours": "Mo-Su 07:30-22:00",
+          "phone": "096195 87525",
+          "shop": "supermarket",
+          "website": "https://www.haikosupermarket.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4577112789,
+        "lat": 19.1186004,
+        "lon": 72.9113543,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "alt_name": "Kentucky Fried Chicken",
+          "alt_name:en": "Kentucky Fried Chicken",
+          "alt_name:hi": "\u0915\u0947\u0902\u091f\u0941\u0915\u0940 \u092b\u094d\u0930\u093e\u0907\u0921 \u091a\u093f\u0915\u0928",
+          "alt_name:pa": "\u0a15\u0a48\u0a02\u0a1f\u0a41\u0a15\u0a40 \u0a2b\u0a4d\u0a30\u0a3e\u0a08\u0a21 \u0a1a\u0a3f\u0a15\u0a28",
+          "alt_name:pnb": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "alt_name:ur": "\u06a9\u06cc\u0646\u0679\u06a9\u06cc \u0641\u0631\u0627\u0626\u06cc\u0688 \u0686\u06a9\u0646",
+          "amenity": "fast_food",
+          "brand": "KFC",
+          "brand:en": "KFC",
+          "brand:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "brand:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "brand:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "brand:wikidata": "Q524757",
+          "cuisine": "chicken",
+          "name": "KFC",
+          "name:en": "KFC",
+          "name:hi": "\u0915\u0947\u090f\u092b\u0938\u0940",
+          "name:pa": "\u0a15\u0a47\u0a10\u0a2b\u0a38\u0a40",
+          "name:pnb": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "name:ur": "\u06a9\u06d2 \u0627\u06cc\u0641 \u0633\u06cc",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "phone": "022 3399 4444",
+          "takeaway": "yes",
+          "website": "http://kfc.co.in/store-locator.php"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4761353922,
+        "lat": 19.1198364,
+        "lon": 72.9073207,
+        "tags": {
+          "amenity": "restaurant",
+          "contact:email": "MANDM@SQUAREMEALFOODS.COM",
+          "name": "Mirchi & Mime",
+          "name:en": "mirchi & mime",
+          "phone": "91 5131 5161",
+          "website": "https://mirchiandmime.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4761370023,
+        "lat": 19.1196972,
+        "lon": 72.907868,
+        "tags": {
+          "brand": "Nature's Basket",
+          "brand:wikidata": "Q28174237",
+          "name": "Nature's Basket",
+          "name:en": "Natures Basket",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5880343479,
+        "lat": 19.125796,
+        "lon": 72.9140803,
+        "tags": {
+          "leisure": "playground",
+          "name": "Sarovar Udyan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6230994886,
+        "lat": 19.1156865,
+        "lon": 72.9090124,
+        "tags": {
+          "amenity": "bank",
+          "name:en": "Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6230994889,
+        "lat": 19.1158669,
+        "lon": 72.9093109,
+        "tags": {
+          "amenity": "bank",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "name:en": "ICICI Bank",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6230994985,
+        "lat": 19.1156293,
+        "lon": 72.9089205,
+        "tags": {
+          "amenity": "cafe",
+          "name:en": "Mad over donuts"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6230994986,
+        "lat": 19.1161546,
+        "lon": 72.9089981,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "name": "Axis Bank",
+          "name:en": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6233043685,
+        "lat": 19.1162542,
+        "lon": 72.9091364,
+        "tags": {
+          "amenity": "bank",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "name": "State Bank of India",
+          "name:en": "State Bank of India",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6233043686,
+        "lat": 19.1163411,
+        "lon": 72.9093398,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "restaurant",
+          "brand": "PizzaExpress",
+          "brand:wikidata": "Q662845",
+          "cuisine": "pizza",
+          "name": "PizzaExpress"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6233043687,
+        "lat": 19.1162145,
+        "lon": 72.9097617,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "name": "Starbucks",
+          "name:en": "Starbucks Coffee",
+          "official_name": "Starbucks Coffee",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6233043688,
+        "lat": 19.1161368,
+        "lon": 72.9096699,
+        "tags": {
+          "amenity": "bank",
+          "name:en": "HSBC Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6233043787,
+        "lat": 19.1162935,
+        "lon": 72.9099178,
+        "tags": {
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "name:en": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795334586,
+        "lat": 19.1195437,
+        "lon": 72.9116186,
+        "tags": {
+          "addr:housenumber": "193",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name:en": "Pepper"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795334587,
+        "lat": 19.1195357,
+        "lon": 72.9115492,
+        "tags": {
+          "addr:housenumber": "196",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name:en": "Paratha\u2019s"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795334588,
+        "lat": 19.1196307,
+        "lon": 72.9116904,
+        "tags": {
+          "addr:housenumber": "200",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name:en": "Peetuk"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795338489,
+        "lat": 19.1196048,
+        "lon": 72.9119147,
+        "tags": {
+          "addr:housenumber": "188",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "restaurant",
+          "cuisine": "indian;chinese",
+          "name:en": "Juicy rasoi",
+          "phone": "25797400"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795344486,
+        "lat": 19.1154646,
+        "lon": 72.9086828,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Subway",
+          "brand:wikidata": "Q244457",
+          "cuisine": "sandwich",
+          "name": "Subway",
+          "name:en": "Subway",
+          "opening_hours": "Mo-Su 09:00-23:00",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795379086,
+        "lat": 19.1195567,
+        "lon": 72.911713,
+        "tags": {
+          "addr:housenumber": "192",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "cuisine": "chinese;indian;thai",
+          "name:en": "Beijing\u2019s Shaolin"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795379087,
+        "lat": 19.1195545,
+        "lon": 72.9115758,
+        "tags": {
+          "addr:housenumber": "195",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name:en": "Achija Fast Food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795380485,
+        "lat": 19.119617,
+        "lon": 72.9114202,
+        "tags": {
+          "addr:housenumber": "191",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "cuisine": "lebanese",
+          "name:en": "Wraps junction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795380486,
+        "lat": 19.1196261,
+        "lon": 72.9117513,
+        "tags": {
+          "addr:housenumber": "199",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name:en": "Crrave N eat"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795380685,
+        "lat": 19.1195055,
+        "lon": 72.9115142,
+        "tags": {
+          "addr:housenumber": "197",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "cuisine": "indian",
+          "name:en": "Malawani Touch"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795434686,
+        "lat": 19.1165379,
+        "lon": 72.909736,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "restaurant",
+          "cuisine": "grill",
+          "name:en": "Sigree Global Grill above maple"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795446404,
+        "lat": 19.1163867,
+        "lon": 72.9094309,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "restaurant",
+          "brand": "Chili's",
+          "brand:wikidata": "Q1072948",
+          "cuisine": "tex-mex",
+          "name": "Chili's",
+          "name:en": "Chili\u2019s;Chili's",
+          "official_name": "Chili's Grill & Bar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795453789,
+        "lat": 19.1153837,
+        "lon": 72.908029,
+        "tags": {
+          "addr:housenumber": "10, Cypress CHS",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "pharmacy",
+          "name:en": "Life Panacea",
+          "opening_hours": "Mo-Su 09:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795453900,
+        "lat": 19.1154626,
+        "lon": 72.9080777,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "brand": "Jumbo King",
+          "brand:wikidata": "Q6310895",
+          "cuisine": "burger",
+          "name": "Jumbo King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795453901,
+        "lat": 19.1154449,
+        "lon": 72.9079594,
+        "tags": {
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "name:en": "Mohini Fast food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795453902,
+        "lat": 19.1153891,
+        "lon": 72.9077943,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "name:en": "Pick Pocket, El Rancho"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795455687,
+        "lat": 19.1168168,
+        "lon": 72.9098224,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name:en": "The Butter Kitchen above aromas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795476295,
+        "lat": 19.115198,
+        "lon": 72.9077358,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Jana Small Finance Bank",
+          "brand:wikidata": "Q65122274",
+          "name": "Jana Small Finance Bank",
+          "name:en": "Jana Small Finance Bank",
+          "opening_hours": "Mo-Su 10:00-18:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795476296,
+        "lat": 19.1152112,
+        "lon": 72.907777,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Jana Small Finance Bank",
+          "brand:wikidata": "Q65122274",
+          "opening_hours": "Mo-Su 09:00-22:00",
+          "operator": "Jana Small Finance Bank",
+          "operator:wikidata": "Q65122274"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795476387,
+        "lat": 19.115369,
+        "lon": 72.9079982,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "name:en": "Four Fountains De-stress Spa",
+          "opening_hours": "Mo-Su 10:00-23:00",
+          "shop": "massage"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795476388,
+        "lat": 19.1153637,
+        "lon": 72.9079704,
+        "tags": {
+          "addr:housenumber": "7 Cypress CHS",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "cuisine": "diner;indian",
+          "diet:vegetarian": "yes",
+          "name:en": "Mohini Fast Food",
+          "opening_hours": "Mo-Su 09:00-22:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795476390,
+        "lat": 19.115296,
+        "lon": 72.9077985,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "El Rancho",
+          "opening_hours": "Mo-Su 09:00-22:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795476392,
+        "lat": 19.1152838,
+        "lon": 72.9077444,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Trupti Farsan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795476406,
+        "lat": 19.1151201,
+        "lon": 72.9072553,
+        "tags": {
+          "addr:street": "Central Avenue",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name:en": "Great Punjab"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795481087,
+        "lat": 19.1154107,
+        "lon": 72.9078525,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "fast_food",
+          "name:en": "Doodh Sarita Dairy"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795512985,
+        "lat": 19.1150444,
+        "lon": 72.9073885,
+        "tags": {
+          "addr:street": "Central Avenue",
+          "amenity": "hospital",
+          "name:en": "Metropolis",
+          "phone": "+912233993939"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795540688,
+        "lat": 19.1151187,
+        "lon": 72.9071584,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue - from Tulip to Forest Street Junction",
+          "amenity": "cafe",
+          "name:en": "99 Pancakes",
+          "opening_hours": "Mo-Su 09:00-22:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795540689,
+        "lat": 19.1151114,
+        "lon": 72.9071199,
+        "tags": {
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue - from Tulip to Forest Street Junction",
+          "amenity": "cafe",
+          "cuisine": "cake;sandwich;coffee_shop",
+          "name:en": "Elementaria Bakery Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795540690,
+        "lat": 19.1151693,
+        "lon": 72.9071382,
+        "tags": {
+          "addr:street": "Central Avenue - from Tulip to Forest Street Junction",
+          "amenity": "fast_food",
+          "name:en": "SFC Frankie"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795540693,
+        "lat": 19.1149556,
+        "lon": 72.9068158,
+        "tags": {
+          "amenity": "atm",
+          "opening_hours": "24/7",
+          "operator": "Bharat Co-op Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795540695,
+        "lat": 19.115361,
+        "lon": 72.9069038,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Cheap and Best"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795540697,
+        "lat": 19.1153397,
+        "lon": 72.9069438,
+        "tags": {
+          "name:en": "Cheap & Best",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795540699,
+        "lat": 19.1154375,
+        "lon": 72.9074457,
+        "tags": {
+          "addr:street": "Central Avenue - from Tulip to Forest Street Junction",
+          "amenity": "fast_food",
+          "name:en": "Pot belly"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795551887,
+        "lat": 19.1151144,
+        "lon": 72.907089,
+        "tags": {
+          "addr:street": "Central Avenue - from Tulip to Forest Street Junction",
+          "amenity": "pharmacy",
+          "name:en": "Ashwin MEDICAL and General stores",
+          "opening_hours": "Mo-Su 09:00-23:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795551889,
+        "lat": 19.1150011,
+        "lon": 72.9068674,
+        "tags": {
+          "amenity": "atm",
+          "opening_hours": "24/7",
+          "operator": "Apna Sahakari Bank Ltd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795551894,
+        "lat": 19.1154307,
+        "lon": 72.9075164,
+        "tags": {
+          "addr:street": "Central Avenue - from Tulip to Forest Street Junction",
+          "amenity": "clinic",
+          "name:en": "Medic Aid Post",
+          "operator": "Dr. Jagjit Singh Suri",
+          "phone": "+912225706680"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795570385,
+        "lat": 19.1153848,
+        "lon": 72.9073569,
+        "tags": {
+          "addr:street": "Central Avenue - from Tulip to Forest Street Junction",
+          "amenity": "cafe",
+          "cuisine": "cake;coffee_shop",
+          "name:en": "Sweet house Mafia"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795570585,
+        "lat": 19.1154259,
+        "lon": 72.9075074,
+        "tags": {
+          "addr:street": "Central Avenue - from Tulip to Forest Street Junction",
+          "amenity": "hospital",
+          "name:en": "SRL Diagnostics"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6795659086,
+        "lat": 19.1158291,
+        "lon": 72.909414,
+        "tags": {
+          "amenity": "bank",
+          "name:en": "Credit Suisse"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6796939953,
+        "lat": 19.11559,
+        "lon": 72.9088465,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "brand:wikipedia": "en:Kotak Mahindra Bank",
+          "name": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6796939971,
+        "lat": 19.1191437,
+        "lon": 72.9118211,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "The Wadapav Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6796939976,
+        "lat": 19.1192134,
+        "lon": 72.9115491,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Mamaji's Medical Store",
+          "shop": "medical_supply"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6796939983,
+        "lat": 19.1191177,
+        "lon": 72.9112616,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Galleria Juice and Snacks"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6796939984,
+        "lat": 19.1191612,
+        "lon": 72.9112297,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Rainbow Juice Center"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6796952285,
+        "lat": 19.1191396,
+        "lon": 72.9111901,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Dosa Maker"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6796952286,
+        "lat": 19.1191102,
+        "lon": 72.9111901,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Bollyfood"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6802053484,
+        "lat": 19.1176428,
+        "lon": 72.9076284,
+        "tags": {
+          "amenity": "bank",
+          "brand": "Andhra Bank",
+          "brand:wikidata": "Q2003476",
+          "name": "Andhra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6802082688,
+        "lat": 19.118035,
+        "lon": 72.9065575,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "description": "Chinese Restaurant and Bar",
+          "name": "China Valley"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6802082689,
+        "lat": 19.1183331,
+        "lon": 72.9063902,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "Family Restaurant",
+          "name": "Utsav Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6802082694,
+        "lat": 19.1177464,
+        "lon": 72.9050418,
+        "tags": {
+          "amenity": "pharmacy",
+          "description": "Pharmacy, Chemist and Skin Care 24x7",
+          "healthcare": "pharmacy",
+          "name": "Noble Plus"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6802098681,
+        "lat": 19.1158805,
+        "lon": 72.9093316,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805177285,
+        "lat": 19.1178236,
+        "lon": 72.9048936,
+        "tags": {
+          "amenity": "cafe",
+          "name:en": "SanDoitchi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805301587,
+        "lat": 19.116857,
+        "lon": 72.9098143,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Powai",
+          "addr:housenumber": "1",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "amenity": "restaurant",
+          "cuisine": "coffee_shop;sandwich;fish_and_chips;burger;pasta;mediterranean;lebanese;chinese;cake;brunch;italian",
+          "diet:non-vegetarian": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Aromas",
+          "name:en": "Aromas",
+          "opening_hours": "Mo-Su 09:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805304885,
+        "lat": 19.1167488,
+        "lon": 72.9097739,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "The Butter Kitchen"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805332886,
+        "lat": 19.1156584,
+        "lon": 72.9089578,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Theobroma",
+          "brand:wikidata": "Q124374469",
+          "delivery": "yes",
+          "name": "Theobroma",
+          "name:en": "Theobroma",
+          "shop": "pastry",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805332890,
+        "lat": 19.1160248,
+        "lon": 72.9087522,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Red Olives"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805332891,
+        "lat": 19.1165776,
+        "lon": 72.909592,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "K3 snacks and sweets"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805332987,
+        "lat": 19.1166041,
+        "lon": 72.9096482,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Snacks and Sweet"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805333287,
+        "lat": 19.1161109,
+        "lon": 72.9088984,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Red Olives"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805333289,
+        "lat": 19.1165397,
+        "lon": 72.9097557,
+        "tags": {
+          "amenity": "atm",
+          "brand": "IDFC First Bank",
+          "brand:wikidata": "Q22031467",
+          "operator": "IDFC First Bank",
+          "operator:wikidata": "Q22031467"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805390986,
+        "lat": 19.1153424,
+        "lon": 72.9085796,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Mainland China"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805394485,
+        "lat": 19.1155043,
+        "lon": 72.9087633,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Chaayos",
+          "brand:wikidata": "Q117235235",
+          "cuisine": "tea",
+          "name": "Chaayos",
+          "name:en": "Chaayos",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805394585,
+        "lat": 19.1155296,
+        "lon": 72.9081751,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Jewels Food Court"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805446087,
+        "lat": 19.115253,
+        "lon": 72.9080263,
+        "tags": {
+          "amenity": "pharmacy",
+          "name:en": "Life Panacea"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805446089,
+        "lat": 19.1150679,
+        "lon": 72.9076952,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "El Rancho"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805446091,
+        "lat": 19.1152818,
+        "lon": 72.907826,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Pick pocket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805446092,
+        "lat": 19.1152902,
+        "lon": 72.9077818,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Trupti farsan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805447685,
+        "lat": 19.1155586,
+        "lon": 72.9088616,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "BusaGo"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805447786,
+        "lat": 19.1154571,
+        "lon": 72.9074165,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Pot Belly"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805447789,
+        "lat": 19.1153738,
+        "lon": 72.9078743,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Mohini"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805447885,
+        "lat": 19.1155662,
+        "lon": 72.9083009,
+        "tags": {
+          "amenity": "fast_food",
+          "name:en": "Santosh chaat corner"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805450185,
+        "lat": 19.1152669,
+        "lon": 72.9082663,
+        "tags": {
+          "amenity": "clinic",
+          "name:en": "Dr.. Ramesh Iyer's Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805450186,
+        "lat": 19.115458,
+        "lon": 72.9081103,
+        "tags": {
+          "name:en": "Touch to touch",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805465785,
+        "lat": 19.1154248,
+        "lon": 72.9080115,
+        "tags": {
+          "amenity": "pharmacy",
+          "name:en": "Ambaji Medicals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805465888,
+        "lat": 19.1151467,
+        "lon": 72.907336,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "The Great punjab"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805468987,
+        "lat": 19.1150616,
+        "lon": 72.9070531,
+        "tags": {
+          "amenity": "cafe",
+          "name:en": "Elementaria Bakery and Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805481585,
+        "lat": 19.11506,
+        "lon": 72.9070198,
+        "tags": {
+          "amenity": "pharmacy",
+          "name:en": "Ashwin Medical and General Stores"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6805962686,
+        "lat": 19.1178201,
+        "lon": 72.9049924,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name:en": "Noble Plus"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6807300786,
+        "lat": 19.1192921,
+        "lon": 72.9115592,
+        "tags": {
+          "name:en": "Hiranandani Galleria",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831551,
+        "lat": 19.1157038,
+        "lon": 72.9090406,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Poetry - By Love and Cheescake"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831552,
+        "lat": 19.1164632,
+        "lon": 72.9094298,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "italian;asian;grill;bistro;chinese;regional;fries",
+          "description": "North Indian Cuisine Restaurant, on the first floor",
+          "diet:chicken": "yes",
+          "diet:non-vegetarian": "yes",
+          "diet:seafood": "yes",
+          "name": "Sigree Global Grill"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831553,
+        "lat": 19.1170593,
+        "lon": 72.9095683,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Suzette Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831555,
+        "lat": 19.1185114,
+        "lon": 72.9116437,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Parabola Restaurant",
+          "opening_hours": "Mo-Su 07:00-23:30"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831561,
+        "lat": 19.1195029,
+        "lon": 72.911828,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Restaurant and Delivery, First Floor, Galleria",
+          "name": "Rolls Mania"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831562,
+        "lat": 19.1191422,
+        "lon": 72.9114777,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Smokin' Joe's",
+          "brand:wikidata": "Q7546011",
+          "cuisine": "pizza",
+          "description": "Restaurant and Delivery, First Floor, Galleria",
+          "name": "Smokin' Joe's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831563,
+        "lat": 19.1192914,
+        "lon": 72.9115669,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "First Floor Galleria",
+          "name": "Little Punjab Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831564,
+        "lat": 19.1192077,
+        "lon": 72.9114459,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Eatery on the first floor",
+          "name": "Kareem's"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831565,
+        "lat": 19.1194409,
+        "lon": 72.9114646,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "Eatery on the first floor",
+          "name": "Charpai - The Flavour"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831566,
+        "lat": 19.1194187,
+        "lon": 72.9114147,
+        "tags": {
+          "amenity": "fast_food",
+          "description": "Eatery on the first floor",
+          "name": "Faasos"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831567,
+        "lat": 19.1193864,
+        "lon": 72.9113547,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "Eatery on the first floor",
+          "name": "Juicy Stuff"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831568,
+        "lat": 19.1193569,
+        "lon": 72.911298,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "Eatery on the first floor",
+          "name": "China House"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831570,
+        "lat": 19.1193249,
+        "lon": 72.9113651,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "Indian Cuisine, Dum Biryani, Kebabs, First Floor",
+          "name": "Dum Matka"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831571,
+        "lat": 19.1193544,
+        "lon": 72.9114127,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "Shop number 153, Galleria, First Floor",
+          "name": "China Chilli"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831572,
+        "lat": 19.1193782,
+        "lon": 72.9114613,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "First Floor",
+          "name": "Hanglas - The Taste of Kolkata"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6810831573,
+        "lat": 19.1194007,
+        "lon": 72.9114985,
+        "tags": {
+          "amenity": "restaurant",
+          "description": "Chinese, Thai, Pan Asian Restaurant, First Floor",
+          "name": "Asian Wok"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6914500985,
+        "lat": 19.1182894,
+        "lon": 72.90506,
+        "tags": {
+          "amenity": "bank",
+          "name:en": "ICICI Prudential mutual funds"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7461870685,
+        "lat": 19.1179826,
+        "lon": 72.9065366,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "China Valley"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7461870785,
+        "lat": 19.1183707,
+        "lon": 72.9063383,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Utsav family restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9988195817,
+        "lat": 19.1162629,
+        "lon": 72.9091311,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "american",
+          "name:en": "Independence Brewing Company",
+          "opening_hours": "Mo-Su 11:00-01:30",
+          "website": "https://independencebrewco.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11615065763,
+        "lat": 19.1195464,
+        "lon": 72.911977,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11617857998,
+        "lat": 19.1185484,
+        "lon": 72.911426,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "thane",
+          "addr:postcode": "400076",
+          "addr:street": "High Street",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "outdoor_seating": "yes",
+          "phone": "1860 266 0010",
+          "takeaway": "yes",
+          "website": "https://www.starbucks.in/dashboard"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11617861153,
+        "lat": 19.1230971,
+        "lon": 72.9133496,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "thane",
+          "addr:postcode": "400076",
+          "addr:street": "Central Avenue",
+          "name": "bhakti",
+          "note": "family supermarkert",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "payment:cash": "yes",
+          "payment:coins": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:telephone_cards": "yes",
+          "phone": "996357365",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11617862179,
+        "lat": 19.1191483,
+        "lon": 72.9132017,
+        "tags": {
+          "access": "private",
+          "charge": "none",
+          "fee": "no",
+          "garden:type": "residential",
+          "leisure": "garden",
+          "name": "olympia gardern",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "operator": "yerevan heights",
+          "operator:type": "private",
+          "payment:none": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11617868277,
+        "lat": 19.1245264,
+        "lon": 72.9160425,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Mumbai Suburban",
+          "addr:postcode": "400076",
+          "addr:street": "Adi Sankaracharya Marg",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "otolaryngology",
+          "name": "dr.anjali's hospital",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "operator": "dr.anjali",
+          "operator:type": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11697785011,
+        "lat": 19.1198038,
+        "lon": 72.9033493,
+        "tags": {
+          "leisure": "garden",
+          "name": "Powai Lake Garden"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11697795359,
+        "lat": 19.1229385,
+        "lon": 72.9131293,
+        "tags": {
+          "name": "Powai Plaza",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11697823599,
+        "lat": 19.1224971,
+        "lon": 72.9136369,
+        "tags": {
+          "name": "Hakone",
+          "shop": "mall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11697857176,
+        "lat": 19.1167001,
+        "lon": 72.9103497,
+        "tags": {
+          "brand": "DMart",
+          "brand:wikidata": "Q5203271",
+          "name": "DMart",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698035536,
+        "lat": 19.1171079,
+        "lon": 72.9029746,
+        "tags": {
+          "leisure": "park",
+          "name": "Powai Vihar Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698053163,
+        "lat": 19.122422,
+        "lon": 72.9118156,
+        "tags": {
+          "leisure": "park",
+          "name": "Nirvana Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698053164,
+        "lat": 19.1225738,
+        "lon": 72.9115582,
+        "tags": {
+          "leisure": "park",
+          "name": "Calisthenics Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698060710,
+        "lat": 19.1194394,
+        "lon": 72.9065475,
+        "tags": {
+          "leisure": "garden",
+          "name": "Hiranandani Gardens"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12549457573,
+        "lat": 19.1206633,
+        "lon": 72.9093772,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Taftoon",
+          "phone": "+919619493100",
+          "website": "https://taftoon.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12551444380,
+        "lat": 19.11783,
+        "lon": 72.9109596,
+        "tags": {
+          "addr:street": "Central avenue",
+          "amenity": "restaurant",
+          "name": "Meluha The Fern",
+          "phone": "+912225755555",
+          "stars": "5",
+          "website": "https://www.fernhotels.com/meluha-the-fern-mumbai"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12594199242,
+        "lat": 19.1235827,
+        "lon": 72.9130941,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Eve Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12594220154,
+        "lat": 19.1234697,
+        "lon": 72.9124892,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Eve's Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12651982279,
+        "lat": 19.1245179,
+        "lon": 72.9158267,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Laxmi Next"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:45:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 619992025,
+        "lat": 19.1296868,
+        "lon": 72.9283701,
+        "tags": {
+          "internet_access": "no",
+          "name": "Kanjur Marg",
+          "name:hi": "\u0915\u093e\u0902\u091c\u0941\u0930 \u092e\u093e\u0930\u094d\u0917",
+          "name:ml": "\u0d15\u0d3e\u0d1e\u0d4d\u0d1c\u0d42\u0d7c\u0d2e\u0d3e\u0d7c\u0d17\u0d4d",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KJRD",
+          "wikidata": "Q6363526",
+          "wikipedia": "en:Kanjurmarg railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 620002682,
+        "lat": 19.1117831,
+        "lon": 72.9281186,
+        "tags": {
+          "name": "Vikhroli",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 668494241,
+        "lat": 19.1319441,
+        "lon": 72.9143666,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Convocation Hall"
+        }
+      },
+      {
+        "type": "node",
+        "id": 668494246,
+        "lat": 19.1322817,
+        "lon": 72.9158301,
+        "tags": {
+          "amenity": "theatre",
+          "name": "LT-PCSA",
+          "name:en": "PC Saxena Auditorium",
+          "toilets:wheelchair": "no",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1855825020,
+        "lat": 19.1051591,
+        "lon": 72.9224003,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Godrej Pump"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3602161437,
+        "lat": 19.1103576,
+        "lon": 72.9256263,
+        "tags": {
+          "amenity": "fuel",
+          "name": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4010213288,
+        "lat": 19.1285976,
+        "lon": 72.9282208,
+        "tags": {
+          "name": "Kanjur Marg",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4258411009,
+        "lat": 19.1117623,
+        "lon": 72.9283198,
+        "tags": {
+          "name": "Vikhroli",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4258411011,
+        "lat": 19.1117773,
+        "lon": 72.9281555,
+        "tags": {
+          "name": "Vikhroli",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4258411016,
+        "lat": 19.1117613,
+        "lon": 72.9282893,
+        "tags": {
+          "name": "Vikhroli",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4258411017,
+        "lat": 19.1117516,
+        "lon": 72.9284479,
+        "tags": {
+          "name": "Vikhroli",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4258411797,
+        "lat": 19.1114795,
+        "lon": 72.928021,
+        "tags": {
+          "internet_access": "no",
+          "name": "Vikhroli",
+          "name:hi": "\u0935\u093f\u0915\u094d\u0930\u094b\u0932\u0940",
+          "name:ml": "\u0d35\u0d3f\u0d15\u0d4d\u0d30\u0d4b\u0d33\u0d3f",
+          "network": "IR",
+          "operator": "CR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "VK",
+          "wikidata": "Q7929425",
+          "wikipedia": "en:Vikhroli railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4409168289,
+        "lat": 19.1242542,
+        "lon": 72.9150736,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil",
+          "name:en": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4625570571,
+        "lat": 19.1082752,
+        "lon": 72.9240782,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Asha & Usha Estates",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4625570579,
+        "lat": 19.1143057,
+        "lon": 72.9261236,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Cipla",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4625570581,
+        "lat": 19.1321171,
+        "lon": 72.9273332,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Dockyard kanjurmarg St",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4625570582,
+        "lat": 19.1244467,
+        "lon": 72.9252165,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Gandhi Nagar Vikhroli",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4625570585,
+        "lat": 19.1218513,
+        "lon": 72.925423,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Hindustan Company",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4625570586,
+        "lat": 19.1288065,
+        "lon": 72.9255023,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Huma Talkies",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4625570693,
+        "lat": 19.1177519,
+        "lon": 72.9259945,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Paper Mill",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4644026868,
+        "lat": 19.1222459,
+        "lon": 72.925463,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Hindustan Company",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4644026872,
+        "lat": 19.1177514,
+        "lon": 72.9261443,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Paper Mill",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4644026875,
+        "lat": 19.1143102,
+        "lon": 72.9262487,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Cipla",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4644026881,
+        "lat": 19.1083273,
+        "lon": 72.9241964,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Asha & Usha Estates",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4644026882,
+        "lat": 19.104766,
+        "lon": 72.9217791,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Godrej Company (W)",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4676916067,
+        "lat": 19.1292547,
+        "lon": 72.9256798,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Huma Talkies",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4676916085,
+        "lat": 19.1047986,
+        "lon": 72.921684,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Godrej Company (W)",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219518819,
+        "lat": 19.1262047,
+        "lon": 72.8905142,
+        "tags": {
+          "construction": "stop",
+          "name": "Saki Vihar Road Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219519239,
+        "lat": 19.1200084,
+        "lon": 72.9059687,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Lake Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899381,
+        "lat": 19.1328874,
+        "lon": 72.9277198,
+        "tags": {
+          "construction": "stop",
+          "name": "Naval Housing Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899386,
+        "lat": 19.1253912,
+        "lon": 72.9252519,
+        "tags": {
+          "construction": "stop",
+          "name": "Kanjurmarg Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899391,
+        "lat": 19.1176571,
+        "lon": 72.9260842,
+        "tags": {
+          "construction": "stop",
+          "name": "Surya Nagar Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899397,
+        "lat": 19.1090047,
+        "lon": 72.9245769,
+        "tags": {
+          "construction": "stop",
+          "name": "Vikhroli Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899401,
+        "lat": 19.1029081,
+        "lon": 72.9203552,
+        "tags": {
+          "construction": "stop",
+          "name": "Godrej Colony Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5225899404,
+        "lat": 19.0976316,
+        "lon": 72.9162042,
+        "tags": {
+          "construction": "stop",
+          "name": "Shreyas Cinema Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5471970021,
+        "lat": 19.095791,
+        "lon": 72.9148826,
+        "tags": {
+          "amenity": "fuel",
+          "compressed_air": "yes",
+          "name": "Bharat Petroleum Fuel Station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817543286,
+        "lat": 19.128639,
+        "lon": 72.9280951,
+        "tags": {
+          "name": "Kanjur Marg",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132708011,
+        "lat": 19.1215921,
+        "lon": 72.8989663,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Udyan Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132708012,
+        "lat": 19.1242338,
+        "lon": 72.9137395,
+        "tags": {
+          "construction": "stop",
+          "name": "IIT Powai Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10276589079,
+        "lat": 19.110694,
+        "lon": 72.9276887,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Vikhroli Station (W)",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11071531760,
+        "lat": 19.0995241,
+        "lon": 72.9176855,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587511,
+        "lat": 19.1262483,
+        "lon": 72.8905372,
+        "tags": {
+          "construction": "stop",
+          "name": "Saki Vihar Road Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587528,
+        "lat": 19.1216096,
+        "lon": 72.8990144,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Udyan Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587550,
+        "lat": 19.1200529,
+        "lon": 72.9059473,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Lake Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587586,
+        "lat": 19.1242806,
+        "lon": 72.9137252,
+        "tags": {
+          "construction": "stop",
+          "name": "IIT Powai Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587638,
+        "lat": 19.1254396,
+        "lon": 72.9252587,
+        "tags": {
+          "construction": "stop",
+          "name": "Kanjurmarg Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603132,
+        "lat": 19.1329084,
+        "lon": 72.9276763,
+        "tags": {
+          "construction": "stop",
+          "name": "Naval Housing Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12238603734,
+        "lat": 19.0976602,
+        "lon": 72.9161659,
+        "tags": {
+          "construction": "stop",
+          "name": "Shreyas Cinema Station",
+          "public_transport": "stop_position",
+          "railway": "construction"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12397216405,
+        "lat": 19.1249191,
+        "lon": 72.9250203,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12397216407,
+        "lat": 19.1265213,
+        "lon": 72.9211956,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Shell",
+          "brand:wikidata": "Q110716465",
+          "name": "Shell"
+        }
+      }
+    ]
+  }
+}

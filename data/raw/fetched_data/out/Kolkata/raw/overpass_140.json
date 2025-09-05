@@ -1,0 +1,363 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:57:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6544682487,
+        "lat": 22.5253984,
+        "lon": 88.3957737,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Red chilli"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7040037785,
+        "lat": 22.5153616,
+        "lon": 88.3934151,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Ozora"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11228752766,
+        "lat": 22.5153173,
+        "lon": 88.3932448,
+        "tags": {
+          "check_date": "2023-09-30",
+          "name": "Acropolis Mall",
+          "shop": "mall"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:57:01Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1865813499,
+        "lat": 22.5127692,
+        "lon": 88.401791,
+        "tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Ruby Hospital",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3641889608,
+        "lat": 22.5166073,
+        "lon": 88.3883991,
+        "tags": {
+          "bus": "yes",
+          "name": "Triborno Sangha",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5189264598,
+        "lat": 22.505295,
+        "lon": 88.4010276,
+        "tags": {
+          "alt_name": "Kalikapur",
+          "name": "Kavi Sukanta",
+          "name:bn": "\u0995\u09ac\u09bf \u09b8\u09c1\u0995\u09be\u09a8\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5189264654,
+        "lat": 22.5148584,
+        "lon": 88.4014626,
+        "tags": {
+          "alt_name": "Ruby Hospital",
+          "name": "Hemanta Mukhopadhyay",
+          "name:bn": "\u09b9\u09c7\u09ae\u09a8\u09cd\u09a4 \u09ae\u09c1\u0996\u09cb\u09aa\u09be\u09a7\u09cd\u09af\u09be\u09af\u09bc",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572069,
+        "lat": 22.5148457,
+        "lon": 88.4014013,
+        "tags": {
+          "alt_name": "Ruby Hospital",
+          "name": "Hemanta Mukhopadhyay",
+          "name:bn": "\u09b9\u09c7\u09ae\u09a8\u09cd\u09a4 \u09ae\u09c1\u0996\u09cb\u09aa\u09be\u09a7\u09cd\u09af\u09be\u09af\u09bc",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777572075,
+        "lat": 22.5053042,
+        "lon": 88.4009656,
+        "tags": {
+          "alt_name": "Kalikapur",
+          "name": "Kavi Sukanta",
+          "name:bn": "\u0995\u09ac\u09bf \u09b8\u09c1\u0995\u09be\u09a8\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7028874586,
+        "lat": 22.5153371,
+        "lon": 88.393238,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "Cinepolis",
+          "brand:wikidata": "Q5686673",
+          "name": "Cinepolis"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11447425091,
+        "lat": 22.5148514,
+        "lon": 88.4014276,
+        "tags": {
+          "name": "Hemanta Mukhopadhyay",
+          "name:bn": "\u09b9\u09c7\u09ae\u09a8\u09cd\u09a4 \u09ae\u09c1\u0996\u09cb\u09aa\u09be\u09a7\u09cd\u09af\u09be\u09af\u09bc",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632588",
+          "wikipedia": "en:Hemanta Mukhopadhyay metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11447425092,
+        "lat": 22.5053017,
+        "lon": 88.4009957,
+        "tags": {
+          "alt_name": "Kalikapur",
+          "name": "Kavi Sukanta",
+          "name:bn": "\u0995\u09ac\u09bf \u09b8\u09c1\u0995\u09be\u09a8\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632590",
+          "wikipedia": "en:Kavi Sukanta metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13020902787,
+        "lat": 22.5404381,
+        "lon": 88.3969042,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Space Theatre"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088459000,
+        "lat": 22.5438008,
+        "lon": 88.3993044,
+        "tags": {
+          "alt_name": "Science City",
+          "name": "Barun Sengupta",
+          "name:bn": "\u09ac\u09b0\u09c1\u09a3 \u09b8\u09c7\u09a8\u0997\u09c1\u09aa\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q30632591",
+          "wikipedia": "en:Barun Sengupta metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485701,
+        "lat": 22.5438072,
+        "lon": 88.3992762,
+        "tags": {
+          "alt_name": "Science City",
+          "name": "Barun Sengupta",
+          "name:bn": "\u09ac\u09b0\u09c1\u09a3 \u09b8\u09c7\u09a8\u0997\u09c1\u09aa\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632591",
+          "wikipedia": "en:Barun Sengupta metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485702,
+        "lat": 22.5438105,
+        "lon": 88.3992424,
+        "tags": {
+          "alt_name": "Science City",
+          "name": "Barun Sengupta",
+          "name:bn": "\u09ac\u09b0\u09c1\u09a3 \u09b8\u09c7\u09a8\u0997\u09c1\u09aa\u09cd\u09a4",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q30632591",
+          "wikipedia": "en:Barun Sengupta metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485703,
+        "lat": 22.5330009,
+        "lon": 88.3963939,
+        "tags": {
+          "alt_name": "Bantala Road",
+          "name": "Ritwik Ghatak",
+          "name:bn": "\u098b\u09a4\u09cd\u09ac\u09bf\u0995 \u0998\u099f\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q109524252",
+          "wikipedia": "en:Ritwik Ghatak metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485704,
+        "lat": 22.5329995,
+        "lon": 88.3964191,
+        "tags": {
+          "alt_name": "Bantala Road",
+          "name": "Ritwik Ghatak",
+          "name:bn": "\u098b\u09a4\u09cd\u09ac\u09bf\u0995 \u0998\u099f\u0995",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q109524252",
+          "wikipedia": "en:Ritwik Ghatak metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485705,
+        "lat": 22.5329913,
+        "lon": 88.396456,
+        "tags": {
+          "alt_name": "Bantala Road",
+          "name": "Ritwik Ghatak",
+          "name:bn": "\u098b\u09a4\u09cd\u09ac\u09bf\u0995 \u0998\u099f\u0995",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "wikidata": "Q109524252",
+          "wikipedia": "en:Ritwik Ghatak metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485706,
+        "lat": 22.5246738,
+        "lon": 88.3962115,
+        "tags": {
+          "name": "VIP Bazar",
+          "name:bn": "\u09ad\u09bf \u0986\u0987 \u09aa\u09bf \u09ac\u09be\u099c\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485707,
+        "lat": 22.5246847,
+        "lon": 88.3962331,
+        "tags": {
+          "name": "VIP Bazar",
+          "name:bn": "\u09ad\u09bf \u0986\u0987 \u09aa\u09bf \u09ac\u09be\u099c\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q30632589",
+          "wikipedia": "en:VIP Bazar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088485708,
+        "lat": 22.5246963,
+        "lon": 88.3962697,
+        "tags": {
+          "name": "VIP Bazar",
+          "name:bn": "\u09ad\u09bf \u0986\u0987 \u09aa\u09bf \u09ac\u09be\u099c\u09be\u09b0",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

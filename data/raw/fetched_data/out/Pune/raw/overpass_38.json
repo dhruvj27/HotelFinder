@@ -1,0 +1,587 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:14:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1534838245,
+        "lat": 18.4598826,
+        "lon": 73.8525927,
+        "tags": {
+          "garden:type": "botanical",
+          "leaf_type": "mixed",
+          "leisure": "garden",
+          "natural": "tree"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1597812485,
+        "lat": 18.4611908,
+        "lon": 73.8578931,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "fee": "no",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1597825767,
+        "lat": 18.4694397,
+        "lon": 73.8601477,
+        "tags": {
+          "name": "KK Market",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1597826957,
+        "lat": 18.4747312,
+        "lon": 73.8560171,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "internet_access": "yes",
+          "name": "Hotel Ravikant",
+          "phone": "+91 8668948654",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1709944517,
+        "lat": 18.4633503,
+        "lon": 73.8583829,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Khooshabu"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1795991228,
+        "lat": 18.4586483,
+        "lon": 73.8584426,
+        "tags": {
+          "amenity": "fast_food",
+          "name": "Dominoz Bharati Vidyapeeth",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043399090,
+        "lat": 18.4746632,
+        "lon": 73.8580583,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Ground floor,Plot No. 2 , Sadanand Society , Behind Vivekanand Statue , Satara Road",
+          "addr:postcode": "411037",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Bhagali Clinic and Nursing Home",
+          "source": "OpenGovernmentData",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7044577805,
+        "lat": 18.4658771,
+        "lon": 73.8601231,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Sr.No.22, Plot No.49,Balajinagar, Behind Ellora Palace, Dhankawadi",
+          "addr:postcode": "411043",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Pawar Hospital, Pune",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048975896,
+        "lat": 18.4705601,
+        "lon": 73.8643355,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Sarod Tulsi Nagar Society, Near Canara",
+          "addr:postcode": "411037",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Dr. Kashyap Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7053694071,
+        "lat": 18.464116,
+        "lon": 73.859008,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Dhankawde Patil Township,Balaji Nagar, Behind Balajinagar Petrol Pump,Dhankawadi",
+          "addr:postcode": "411043",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Siddhi Hospital and Laproscopy Centre Pvt Ltd",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062490984,
+        "lat": 18.4689649,
+        "lon": 73.8572026,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "No. 15/7, Bhuleshwar Society, Near Sankar Maharaj Math, Poona Satara Road, Dhanakawadi",
+          "addr:postcode": "411043",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Pai Hospital, Pune",
+          "source": "OpenGovernmentData",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7062592060,
+        "lat": 18.4653028,
+        "lon": 73.864194,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "OppositeChintaminagar,Bibvetwadi",
+          "addr:postcode": "411037",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Shree.J.Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7080269673,
+        "lat": 18.4664871,
+        "lon": 73.857691,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "30/3/8 Satara Road",
+          "addr:postcode": "411001",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Shatayu Hospital",
+          "source": "OpenGovernmentData",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453389,
+        "lat": 18.474694,
+        "lon": 73.858715,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Sitaram Aabaji Bibwe Path, Shree Sant Eknath Nagar, Bibwewadi, Pune",
+          "addr:postcode": "411037",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Parasnis Hospital",
+          "source": "Local Knowledge",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7651453395,
+        "lat": 18.4630743,
+        "lon": 73.8661551,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "B 13, Bansilal Path, Renuka Society, Upper Indira Nagar, Bibwewadi, Pune",
+          "addr:postcode": "411037",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "Anandi PolyClinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8813559775,
+        "lat": 18.4652208,
+        "lon": 73.8495579,
+        "tags": {
+          "addr:district": "Pune",
+          "addr:full": "Chandrabhaga Nagar, Dhankawadi, Pune",
+          "addr:postcode": "411043",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Government Hospital, Dhankawadi",
+          "source": "Local Knowledge",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9110718973,
+        "lat": 18.4711076,
+        "lon": 73.8633772,
+        "tags": {
+          "addr:city": "Bibvewadi, Pune- Maharashtra, India",
+          "addr:housenumber": "Shop No 12",
+          "addr:postcode": "411037",
+          "addr:street": "Ayodhya Commercial Complex",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "consultant_orthopedic_and_trauma_surgeon",
+          "name": "Ishaan Orthopedic Clinic",
+          "website": "https://www.ishaanorthoclinic.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9358123475,
+        "lat": 18.4734788,
+        "lon": 73.8626024,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411037",
+          "addr:street": "Sayar Clinic Bibwewadi Road, Canara Bank, Shree Sant Eknath Nagar, Bibwewadi",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "general_surgery",
+          "name": "Sayar Clinic",
+          "opening_hours": "24/7",
+          "operator": "Novosalus",
+          "operator:type": "private",
+          "website": "https://www.plasticsurgeonpune.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914045,
+        "lat": 18.474674,
+        "lon": 73.8580682,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "bhagali clinic and nursing home"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914046,
+        "lat": 18.4734893,
+        "lon": 73.8626065,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "sayar hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914047,
+        "lat": 18.4728083,
+        "lon": 73.8631451,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "isshan orthopedic hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914048,
+        "lat": 18.4705573,
+        "lon": 73.8643492,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "dr kashyab nursing home"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10172914049,
+        "lat": 18.4705532,
+        "lon": 73.8632764,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10683579347,
+        "lat": 18.4709814,
+        "lon": 73.8639075,
+        "tags": {
+          "addr:city": "Bibvewadi, Pune,Maharashtra, India",
+          "addr:postcode": "411037",
+          "addr:street": "Swami Vivekanand Marg",
+          "amenity": "bank",
+          "name": "SVC CO-OPERATIVE BANK LTD"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10683615965,
+        "lat": 18.4710381,
+        "lon": 73.8638799,
+        "tags": {
+          "addr:city": "Bibvewadi, Pune,Maharashtra, India",
+          "addr:postcode": "411037",
+          "addr:street": "Swami Vivekanand Marg",
+          "amenity": "bank",
+          "branch": "Bibwewadi Branch",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "name": "Canara Bank",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10687748754,
+        "lat": 18.4711327,
+        "lon": 73.8640525,
+        "tags": {
+          "addr:city": "Bibvewadi, Pune,Maharashtra, India",
+          "addr:postcode": "411037",
+          "addr:street": "Shelar Road",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "healthcare:speciality": "dermatology",
+          "name": "Siddhivinayak Skin Hair & Cosmetology Clinic"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10807153860,
+        "lat": 18.464428,
+        "lon": 73.8578646,
+        "tags": {
+          "amenity": "bank",
+          "name": "Rajashri Shahu Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11583993028,
+        "lat": 18.4576616,
+        "lon": 73.8585915,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "on pune satara road opp of bharti hospital",
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "diet:non-vegetarian": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Pizza Hut",
+          "opening_hours": "Mo-Su 10:00-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11609699355,
+        "lat": 18.4715657,
+        "lon": 73.8637805,
+        "tags": {
+          "addr:city": "Bibvewadi, Pune,Maharashtra, India",
+          "addr:district": "Pune",
+          "addr:postcode": "411037",
+          "amenity": "bank",
+          "atm": "yes",
+          "name": "Ramrajya Sahakari Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11609730480,
+        "lat": 18.4709976,
+        "lon": 73.8638845,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "currency:INR": "yes",
+          "name": "State Bank of India",
+          "operator": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11811108542,
+        "lat": 18.471522,
+        "lon": 73.8637956,
+        "tags": {
+          "amenity": "atm",
+          "cash_in": "no",
+          "currency:INR": "yes",
+          "operator": "Ramrajya Sahakari Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11939140549,
+        "lat": 18.4700002,
+        "lon": 73.8641346,
+        "tags": {
+          "addr:city": "Bibvewadi, Pune,Maharashtra, India",
+          "addr:district": "Pune",
+          "addr:postcode": "411037",
+          "addr:street": "Swami Vivekanand Marg",
+          "amenity": "bank",
+          "name": "Udyam Sahakari Bank Ltd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11939147052,
+        "lat": 18.4692892,
+        "lon": 73.8642415,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411037",
+          "addr:street": "Swami Vivekanand Marg",
+          "amenity": "hospital",
+          "emergency": "yes",
+          "healthcare": "hospital",
+          "name": "Vighanaharata Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12640154301,
+        "lat": 18.472498,
+        "lon": 73.8547115,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:housenumber": "Shop No. C-6",
+          "addr:postcode": "411043",
+          "addr:street": "Panchavati, Chavan Nagar, Dhankawadi",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "healthcare:speciality": "dentist",
+          "name": "Ivory Dental Clinic",
+          "operator": "Novosalus Technology",
+          "operator:type": "private"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:14:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1534841979,
+        "lat": 18.4686347,
+        "lon": 73.8580494,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum",
+          "operator": "Bharat Petroleum",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1709944514,
+        "lat": 18.4638412,
+        "lon": 73.8584177,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5100406179,
+        "lat": 18.4693722,
+        "lon": 73.8636469,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "672/11",
+          "addr:postcode": "411037",
+          "addr:street": "Swami Vivekanand Marg",
+          "addr:unit": "litre",
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "fuel:diesel": "yes",
+          "fuel:petrol": "yes",
+          "name": "Amrapali Service Station",
+          "official_name": "Hindustan Petroleum",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "operator": "HP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10097434144,
+        "lat": 18.4844962,
+        "lon": 73.8496753,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Ather Energy",
+          "capacity": "1",
+          "fee": "yes",
+          "operator": "Ather Energy"
+        }
+      }
+    ]
+  }
+}

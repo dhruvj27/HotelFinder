@@ -1,0 +1,933 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:15:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 312595359,
+        "lat": 12.9559416,
+        "lon": 77.6412371,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "name": "Pizza Hut",
+          "name:kn": "\u0caa\u0cbf\u0c9c\u0cbe \u0cb9\u0c9f\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 312595492,
+        "lat": 12.9558995,
+        "lon": 77.6411692,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Nandhana",
+          "name:kn": "\u0ca8\u0c82\u0ca6\u0ca8"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1473330316,
+        "lat": 12.9519422,
+        "lon": 77.6397478,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "international",
+          "name": "Barbeque Nation",
+          "name:kn": "\u0cac\u0cb0\u0ccd\u0cac\u0c95\u0ccd\u0caf\u0cc1 \u0ca8\u0cc7\u0cb6\u0ca8\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1473330341,
+        "lat": 12.9526958,
+        "lon": 77.640104,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "international",
+          "name": "Tandoori Hipple",
+          "name:kn": "\u0ca4\u0c82\u0ca6\u0cc2\u0cb0\u0cbf \u0cb9\u0cbf\u0caa\u0ccd\u0caa\u0cb2\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1473330359,
+        "lat": 12.9525546,
+        "lon": 77.6400289,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "international",
+          "name": "LoveShack",
+          "name:kn": "\u0cb2\u0cb5\u0ccd\u200c\u0cb6\u0c95\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1598949024,
+        "lat": 12.952399,
+        "lon": 77.6400371,
+        "tags": {
+          "amenity": "restaurant",
+          "diet:vegetarian": "only",
+          "name": "Mast Kalandar",
+          "name:kn": "\u0cae\u0cb8\u0ccd\u0ca4\u0ccd \u0c95\u0cb2\u0c82\u0ca6\u0cb0\u0ccd"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1902297692,
+        "lat": 12.9569217,
+        "lon": 77.6416898,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "name": "HDFC Bank",
+          "name:kn": "\u0c8e\u0c9a\u0ccd \u0ca1\u0cbf \u0c8e\u0cab\u0ccd \u0cb8\u0cbf",
+          "short_name": "HDFC",
+          "source": "survey",
+          "website": "https://www.hdfcbank.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3016052469,
+        "lat": 12.9520131,
+        "lon": 77.6398096,
+        "tags": {
+          "amenity": "bank",
+          "atm": "no",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank",
+          "name:en": "Punjab National Bank",
+          "name:kn": "\u0caa\u0c82\u0c9c\u0cbe\u0cac \u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0\u0cc0\u0caf \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "operator": "Punjab National Bank",
+          "short_name": "PNB",
+          "source": "survey",
+          "website": "https://www.pnbindia.in"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3016090363,
+        "lat": 12.956002,
+        "lon": 77.6416096,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian;regional",
+          "name": "Paramount",
+          "name:kn": "\u0c9a\u0cca\u0c95\u0cbf \u0ca6\u0cbe\u0ca8\u0cbf"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3340457186,
+        "lat": 12.953121,
+        "lon": 77.652908,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Status"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3340457188,
+        "lat": 12.9530588,
+        "lon": 77.652888,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Udipi Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3340457189,
+        "lat": 12.9533697,
+        "lon": 77.6525624,
+        "tags": {
+          "name": "Top in Town",
+          "shop": "supermarket",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3497321173,
+        "lat": 12.9548274,
+        "lon": 77.6415855,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian;regional",
+          "description": "Veg food from North India",
+          "name": "Mast Kalandar",
+          "name:kn": "\u0cae\u0cb8\u0ccd\u0ca4\u0ccd \u0c95\u0cb2\u0c82\u0ca6\u0cb0\u0ccd",
+          "opening_hours": "08:30-12:30,15:30-22:00",
+          "smoking": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3780780965,
+        "lat": 12.9545514,
+        "lon": 77.6526553,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "name": "ICICI Bank",
+          "operator": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3780780966,
+        "lat": 12.954539,
+        "lon": 77.6526273,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Punjabi Bites"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4445109845,
+        "lat": 12.9460433,
+        "lon": 77.6466659,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "name": "Punjab National Bank ATM",
+          "operator": "Punjab National Bank",
+          "operator:wikidata": "Q2743499"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4446329807,
+        "lat": 12.9552696,
+        "lon": 77.6428508,
+        "tags": {
+          "addr:city": "Bengaluru",
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "230, Amarjyothi Layout, Off.Intermediate Ring Road, Domlur Extension",
+          "addr:housenumber": "230",
+          "addr:postcode": "560071",
+          "addr:state": "Karnataka",
+          "addr:street": "Amarjyothi Layout, Off Intermediate Ring Road, Near Dell India/Millennium Motors, Domlur Extension, Amarjyoti Layout, Domlur, Karnataka",
+          "amenity": "hospital",
+          "email": "info@ayurvaid.com",
+          "name": "Ayurvaid Hospital",
+          "operator:type": "private",
+          "phone": "080 4092 5555",
+          "source": "OpenGovernmentData",
+          "website": "https://ayurvaid.com/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4447086337,
+        "lat": 12.9443025,
+        "lon": 77.6525847,
+        "tags": {
+          "addr:city": "BENGALURU",
+          "addr:postcode": "560037",
+          "addr:street": "Challaghatta",
+          "name": "Ideal Supermarket",
+          "phone": "+91 96865 99611",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4472344002,
+        "lat": 12.9544918,
+        "lon": 77.6490249,
+        "tags": {
+          "addr:housenumber": "9",
+          "addr:street": "3rd Cross Road",
+          "amenity": "restaurant",
+          "name": "Hitel Tadka",
+          "name:en": "Hitel Tadka"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5343197021,
+        "lat": 12.9534102,
+        "lon": 77.6528653,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7572526712,
+        "lat": 12.9548249,
+        "lon": 77.6493844,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Bellandur, Bengaluru",
+          "addr:postcode": "560017",
+          "addr:state": "Karnataka",
+          "amenity": "clinic",
+          "name": "Medivision Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7572526717,
+        "lat": 12.9555948,
+        "lon": 77.6418006,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Amarjyoti Layout, Domlur, Bengaluru",
+          "addr:postcode": "560071",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "Shree Sai Speciality Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7572526801,
+        "lat": 12.9544981,
+        "lon": 77.6401572,
+        "tags": {
+          "addr:district": "Bengaluru Urban",
+          "addr:full": "Amarjyoti Layout, Domlur, Bengaluru",
+          "addr:postcode": "560071",
+          "addr:state": "Karnataka",
+          "amenity": "hospital",
+          "name": "Swasthya Hospitals",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9950452463,
+        "lat": 12.953323,
+        "lon": 77.6498665,
+        "tags": {
+          "amenity": "food_court",
+          "name": "Canteen",
+          "operator": "IndiQube"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10600476810,
+        "lat": 12.9484649,
+        "lon": 77.6454771,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Seta"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10651879010,
+        "lat": 12.9553102,
+        "lon": 77.6486592,
+        "tags": {
+          "amenity": "cafe",
+          "name": "Madouk Cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10964514741,
+        "lat": 12.9535497,
+        "lon": 77.652907,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "chinese;japanese;asian",
+          "diet:non-vegetarian": "yes",
+          "diet:vegetarian": "yes",
+          "name": "Retro chinese cuisine"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11581391769,
+        "lat": 12.9547046,
+        "lon": 77.6486408,
+        "tags": {
+          "check_date": "2024-02-03",
+          "name": "Citi Food Centre",
+          "shop": "supermarket"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T08:15:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 298815411,
+        "lat": 12.9604628,
+        "lon": 77.6435762,
+        "tags": {
+          "bus": "yes",
+          "name": "Domlur Flyover",
+          "name:en": "Domlur Flyover",
+          "name:kn": "\u0ca6\u0cca\u0cae\u0ccd\u0cae\u0cb2\u0cc2\u0cb0\u0cc1 \u0cae\u0cc7\u0cb2\u0ccd\u0cb8\u0cc7\u0ca4\u0cc1\u0cb5\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1464896674,
+        "lat": 12.933506,
+        "lon": 77.6303939,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP Petrol Pump",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4559461283,
+        "lat": 12.9637741,
+        "lon": 77.6377518,
+        "tags": {
+          "amenity": "theatre",
+          "name": "TERI Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6545576539,
+        "lat": 12.9670947,
+        "lon": 77.6351897,
+        "tags": {
+          "alt_name": "BIC Auditorium",
+          "amenity": "theatre",
+          "check_date": "2025-03-14",
+          "level": "0;1",
+          "name": "Sarah Kailath Auditorium"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6631824071,
+        "lat": 12.9569623,
+        "lon": 77.641363,
+        "tags": {
+          "bus": "yes",
+          "name": "Domlur Flyover",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6645712421,
+        "lat": 12.9611004,
+        "lon": 77.6379709,
+        "tags": {
+          "bus": "yes",
+          "name": "Domlur (Towards HAL)",
+          "name:en": "Domlur (Towards HAL)",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132452580,
+        "lat": 12.9506229,
+        "lon": 77.624224,
+        "tags": {
+          "bus": "yes",
+          "name": "Shine Bakery",
+          "name:en": "Shine Bakery",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132452582,
+        "lat": 12.9496896,
+        "lon": 77.6265998,
+        "tags": {
+          "bus": "yes",
+          "name": "Fairland Shop",
+          "name:en": "Fairland Shop",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132452583,
+        "lat": 12.946733,
+        "lon": 77.6287391,
+        "tags": {
+          "bus": "yes",
+          "name": "Ejipura",
+          "name:en": "Ejipura",
+          "name:kn": "\u0c88\u0c9c\u0cbf\u0caa\u0cc1\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132452584,
+        "lat": 12.9427367,
+        "lon": 77.6307638,
+        "tags": {
+          "bus": "yes",
+          "name": "Ejipura School",
+          "name:en": "Ejipura School",
+          "name:kn": "\u0c88\u0c9c\u0cbf\u0caa\u0cc1\u0cb0 \u0cb6\u0cbe\u0cb2\u0cc6",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7132486285,
+        "lat": 12.9392351,
+        "lon": 77.6323159,
+        "tags": {
+          "bus": "yes",
+          "name": "Srinivagilu Ejipura",
+          "name:en": "Srinivagilu Ejipura",
+          "name:kn": "\u0cb6\u0ccd\u0cb0\u0cc0\u0ca8\u0cbf\u0cb5\u0cbe\u0c97\u0cbf\u0cb2\u0cc1 \u0c88\u0c9c\u0cbf\u0caa\u0cc1\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7133498147,
+        "lat": 12.9592332,
+        "lon": 77.6603143,
+        "tags": {
+          "bus": "yes",
+          "name": "Konena Agrahara",
+          "name:en": "Konena Agrahara",
+          "name:kn": "\u0c95\u0cca\u0ca8\u0cc6\u0ca8 \u0c85\u0c97\u0ccd\u0cb0\u0cb9\u0cbe\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7133498148,
+        "lat": 12.9592169,
+        "lon": 77.6580593,
+        "tags": {
+          "bus": "yes",
+          "name": "Murugeshpalaya",
+          "name:en": "Murugeshpalaya",
+          "name:kn": "\u0cae\u0cc1\u0cb0\u0cc1\u0c97\u0cc7\u0cb6\u0caa\u0cbe\u0cb3\u0ccd\u0caf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7133498149,
+        "lat": 12.95966,
+        "lon": 77.6505169,
+        "tags": {
+          "bus": "yes",
+          "name": "NAL Manipal Hospital",
+          "name:en": "NAL Manipal Hospital",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7133498150,
+        "lat": 12.9600451,
+        "lon": 77.6472248,
+        "tags": {
+          "bus": "yes",
+          "name": "Kodihalli",
+          "name:en": "Kodihalli",
+          "name:kn": "\u0c95\u0ccb\u0ca1\u0cbf\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140560430,
+        "lat": 12.946588,
+        "lon": 77.6288423,
+        "tags": {
+          "bus": "yes",
+          "name": "Ejipura",
+          "name:en": "Ejipura",
+          "name:kn": "\u0c88\u0c9c\u0cbf\u0caa\u0cc1\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140560432,
+        "lat": 12.9500222,
+        "lon": 77.6261783,
+        "tags": {
+          "bus": "yes",
+          "name": "Fairland Shop",
+          "name:en": "Fairland Shop",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7140560434,
+        "lat": 12.9506781,
+        "lon": 77.6239625,
+        "tags": {
+          "bus": "yes",
+          "name": "Shine Bakery",
+          "name:en": "Shine Bakery",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156942413,
+        "lat": 12.9686142,
+        "lon": 77.6495815,
+        "tags": {
+          "bus": "yes",
+          "name": "Kodihalli",
+          "name:en": "Kodihalli",
+          "name:kn": "\u0c95\u0ccb\u0ca1\u0cbf\u0cb9\u0cb3\u0ccd\u0cb3\u0cbf",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156942414,
+        "lat": 12.9674869,
+        "lon": 77.6559992,
+        "tags": {
+          "bus": "yes",
+          "name": "Petrol Bunk",
+          "name:en": "Petrol Bunk",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7156942416,
+        "lat": 12.9658273,
+        "lon": 77.6575968,
+        "tags": {
+          "bus": "yes",
+          "name": "Jeevanbheema Nagara",
+          "name:en": "Jeevanbheema Nagara",
+          "name:kn": "\u0c9c\u0cc0\u0cb5\u0ca8\u0cad\u0cc0\u0cae \u0ca8\u0c97\u0cb0",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9930197122,
+        "lat": 12.9384714,
+        "lon": 77.6317931,
+        "tags": {
+          "bus": "yes",
+          "name": "Ejipura Junction",
+          "name:en": "Ejipura Junction",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9930197124,
+        "lat": 12.9634978,
+        "lon": 77.6416701,
+        "tags": {
+          "bus": "yes",
+          "name": "HAL 2nd Stage",
+          "name:en": "HAL 2nd Stage",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9930197127,
+        "lat": 12.9509894,
+        "lon": 77.639535,
+        "tags": {
+          "alt_name": "Dell",
+          "bus": "yes",
+          "name": "Embassy Golf Links",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9930197147,
+        "lat": 12.9385691,
+        "lon": 77.6331222,
+        "tags": {
+          "bus": "yes",
+          "name": "Ejipura Junction",
+          "name:en": "Ejipura Junction",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10296978073,
+        "lat": 12.9664765,
+        "lon": 77.6414332,
+        "tags": {
+          "bus": "yes",
+          "name": "New Horizon School",
+          "name:en": "New Horizon School",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10873245761,
+        "lat": 12.9410649,
+        "lon": 77.6242298,
+        "tags": {
+          "bus": "yes",
+          "name": "Koramangala Depot",
+          "name:en": "Koramangala Depot",
+          "name:kn": "\u0c95\u0ccb\u0cb0\u0cae\u0c82\u0c97\u0cb2 \u0ca1\u0cc0\u0caa\u0ccb",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12328471500,
+        "lat": 12.9369729,
+        "lon": 77.6266664,
+        "tags": {
+          "bus": "yes",
+          "name": "Sony World Signal",
+          "name:en": "Sony World Signal",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12328481701,
+        "lat": 12.9673099,
+        "lon": 77.6414861,
+        "tags": {
+          "bus": "yes",
+          "name": "New Horizon School Indiranagar",
+          "name:en": "New Horizon School Indiranagar",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12328481702,
+        "lat": 12.9699165,
+        "lon": 77.6413516,
+        "tags": {
+          "bus": "yes",
+          "name": "Indiranagar 12th Main",
+          "name:en": "Indiranagar 12th Main",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12328481704,
+        "lat": 12.9674713,
+        "lon": 77.656111,
+        "tags": {
+          "bus": "yes",
+          "name": "Petrol Bunk",
+          "name:en": "Petrol Bunk",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12328483218,
+        "lat": 12.9673018,
+        "lon": 77.6575057,
+        "tags": {
+          "bus": "yes",
+          "name": "Jeevan Bheema Nagar",
+          "name:en": "Jeevan Bheema Nagar",
+          "network": "BMTC",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507390901,
+        "lat": 12.9617472,
+        "lon": 77.6387846,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 6",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507390902,
+        "lat": 12.9616185,
+        "lon": 77.6386457,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 5",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507390903,
+        "lat": 12.96183,
+        "lon": 77.6387312,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 4",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507390904,
+        "lat": 12.9616995,
+        "lon": 77.6385834,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 3",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507390905,
+        "lat": 12.9618927,
+        "lon": 77.638679,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 2",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12507390906,
+        "lat": 12.9617604,
+        "lon": 77.6385377,
+        "tags": {
+          "bus": "yes",
+          "name": "Platform 1",
+          "operator": "BMTC",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12560755497,
+        "lat": 12.9600064,
+        "lon": 77.6457581,
+        "tags": {
+          "addr:city": "Bengaluru, Karnataka",
+          "addr:district": "Bangalore",
+          "addr:postcode": "560008",
+          "addr:street": "HAL Old Airport Road",
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

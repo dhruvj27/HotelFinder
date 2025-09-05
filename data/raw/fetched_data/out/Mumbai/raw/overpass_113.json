@@ -1,0 +1,827 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:50:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3548939845,
+        "lat": 19.1129799,
+        "lon": 72.8791787,
+        "tags": {
+          "addr:city": "mumbai",
+          "addr:street": "Marol Village Rd",
+          "amenity": "fast_food",
+          "cuisine": "regional",
+          "name": "shivkrupa",
+          "opening_hours": "16hrs"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3877840963,
+        "lat": 19.1148108,
+        "lon": 72.8886648,
+        "tags": {
+          "name": "Saki vihar Dark store",
+          "operator": "Big basket",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4333491591,
+        "lat": 19.114089,
+        "lon": 72.887468,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Eva's Pizza"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5496408819,
+        "lat": 19.1172198,
+        "lon": 72.882342,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:postcode": "400059",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Marol"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7043397403,
+        "lat": 19.1242045,
+        "lon": 72.8906147,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Lake Bloom - 16, 17, 18, Opposite Solaris Estate, L.T. Gate No.6, Tunga Gaon, Sakivihar Road, Powai",
+          "addr:postcode": "400072",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "S B Nursing Home and Icu",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7048498776,
+        "lat": 19.113127,
+        "lon": 72.8810625,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "No.001, Aztec Appt.,Near Jalaram Store,Behind N.K.Foot Wear,Marol Maroshi Road,Andheri (East)",
+          "addr:postcode": "400069",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Dr. M.C.Desai Eye Clinic and Microsurgury Eye Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049756932,
+        "lat": 19.1212519,
+        "lon": 72.8799695,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "H-2, Vijay Tower,Vijay Nagar,Marol Maroshi Road Andheri(E)",
+          "addr:postcode": "400059",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Dr.Pintos Pathological Laboratory",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7051825616,
+        "lat": 19.1171996,
+        "lon": 72.8827469,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Plot No.236, Twin Arcade,Military Road,Marol,Andheri (East)",
+          "addr:postcode": "400059",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Sugun Hospital Multispeciality Diagnostic, Icu",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7055146206,
+        "lat": 19.1191878,
+        "lon": 72.880923,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Bhawani Tower, Plot No 18A, 101/102 , Bhawani Nagar, Near Marol Eduction SOC, Andheri East",
+          "addr:postcode": "400059",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Chiranjeevi Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7067540680,
+        "lat": 19.121366,
+        "lon": 72.8794867,
+        "tags": {
+          "addr:district": "mumbai",
+          "addr:full": "marol",
+          "addr:postcode": "400059",
+          "addr:state": "Maharashtra",
+          "addr:street": "Maroshi Village Road vijay nagar LT complex",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Gokul Maternity & Surgical Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961442,
+        "lat": 19.1173421,
+        "lon": 72.8841859,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Blue Fortuna, Military Road, Sankara Nagar, Marol, Andheri East, Mumbai",
+          "addr:postcode": "400059",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "Cuddles N Care Pediatric Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663961483,
+        "lat": 19.1226197,
+        "lon": 72.8900543,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Shiv Shakti Nagar, Raje Shivaji Nagar, Marol, Andheri East, Mumbai",
+          "addr:postcode": "400072",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "People's Clinic & Vaccinations Centre",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7944294397,
+        "lat": 19.1165789,
+        "lon": 72.8871518,
+        "tags": {
+          "name": "grocery store",
+          "shop": "supermarket"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8451877923,
+        "lat": 19.1168543,
+        "lon": 72.8826702,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:housenumber": "55",
+          "addr:postcode": "400059",
+          "addr:street": "Military Road",
+          "amenity": "cafe",
+          "cuisine": "chicken",
+          "internet_access": "no",
+          "name": "monica momos",
+          "opening_hours": "24/7",
+          "outdoor_seating": "yes",
+          "phone": "9198979704"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:50:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 623883811,
+        "lat": 19.1121886,
+        "lon": 72.867001,
+        "tags": {
+          "name": "Chakala - J.B. Nagar",
+          "name:mr": "\u091a\u0915\u093e\u0932\u093e - \u091c\u0947. \u092c\u0940. \u0928\u0917\u0930",
+          "name:ru": "\u0427\u0430\u043a\u0430\u043b\u0430 (\u0414\u0436\u0430\u043c\u043d\u0430\u043b\u0430\u043b \u0411\u0430\u0434\u0436\u0430\u0434\u0436 \u041d\u0430\u0433\u0430\u0440)",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 623884121,
+        "lat": 19.1038458,
+        "lon": 72.8874199,
+        "tags": {
+          "name": "Saki Naka",
+          "name:mr": "\u0938\u093e\u0915\u0940 \u0928\u093e\u0915\u093e",
+          "name:ru": "\u0421\u0430\u043a\u0438 \u041d\u0430\u043a\u0430",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1241793068,
+        "lat": 19.09544,
+        "lon": 72.8660044,
+        "tags": {
+          "aeroway": "terminal",
+          "ele": "15.747192",
+          "name": "Cargo Terminal",
+          "source": "GPS",
+          "sym": "Civil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1348867392,
+        "lat": 19.1179082,
+        "lon": 72.8657206,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Marol Depot",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1577876072,
+        "lat": 19.1346724,
+        "lon": 72.8745426,
+        "tags": {
+          "amenity": "fuel",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2188851345,
+        "lat": 19.1121647,
+        "lon": 72.8647228,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Sangam Big Cinema"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3175794769,
+        "lat": 19.1099146,
+        "lon": 72.8747968,
+        "tags": {
+          "name": "Airport Road",
+          "name:mr": "\u0935\u093f\u092e\u093e\u0928\u0924\u0933 \u0930\u0938\u094d\u0924\u093e",
+          "name:ru": "\u042d\u0439\u0440\u043f\u043e\u0440\u0442-\u0420\u043e\u0443\u0434",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3175794770,
+        "lat": 19.1103264,
+        "lon": 72.8735321,
+        "tags": {
+          "name": "Airport Road",
+          "name:mr": "\u0935\u093f\u092e\u093e\u0928\u0924\u0933 \u0930\u0938\u094d\u0924\u093e",
+          "name:ru": "\u042d\u0439\u0440\u043f\u043e\u0440\u0442-\u0420\u043e\u0443\u0434",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3175794775,
+        "lat": 19.1079463,
+        "lon": 72.8801094,
+        "tags": {
+          "name": "Marol Naka (Line 1)",
+          "name:mr": "\u092e\u0930\u094b\u0933 \u0928\u093e\u0915\u093e",
+          "name:ru": "\u041c\u0430\u0440\u043e\u043b \u041d\u0430\u043a\u0430",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3175794776,
+        "lat": 19.1083663,
+        "lon": 72.8788727,
+        "tags": {
+          "name": "Marol Naka (Line 1)",
+          "name:mr": "\u092e\u0930\u094b\u0933 \u0928\u093e\u0915\u093e",
+          "name:ru": "\u041c\u0430\u0440\u043e\u043b \u041d\u0430\u043a\u0430",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3389210700,
+        "lat": 19.1119069,
+        "lon": 72.8682423,
+        "tags": {
+          "name": "Chakala - J.B. Nagar",
+          "name:mr": "\u091a\u0915\u093e\u0932\u093e - \u091c\u0947. \u092c\u0940. \u0928\u0917\u0930",
+          "name:ru": "\u0427\u0430\u043a\u0430\u043b\u0430 (\u0414\u0436\u0430\u043c\u043d\u0430\u043b\u0430\u043b \u0411\u0430\u0434\u0436\u0430\u0434\u0436 \u041d\u0430\u0433\u0430\u0440)",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3389210701,
+        "lat": 19.1032172,
+        "lon": 72.8885094,
+        "tags": {
+          "name": "Saki Naka",
+          "name:mr": "\u0938\u093e\u0915\u0940 \u0928\u093e\u0915\u093e",
+          "name:ru": "\u0421\u0430\u043a\u0438 \u041d\u0430\u043a\u0430",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4339870699,
+        "lat": 19.105142,
+        "lon": 72.8876135,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4349254491,
+        "lat": 19.1083512,
+        "lon": 72.8782543,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219518799,
+        "lat": 19.1334914,
+        "lon": 72.8746782,
+        "tags": {
+          "construction": "stop",
+          "name": "Mahakali Caves Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219518806,
+        "lat": 19.1293634,
+        "lon": 72.8826453,
+        "tags": {
+          "construction": "stop",
+          "name": "SEEPZ Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219518819,
+        "lat": 19.1262047,
+        "lon": 72.8905142,
+        "tags": {
+          "construction": "stop",
+          "name": "Saki Vihar Road Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5219519239,
+        "lat": 19.1200084,
+        "lon": 72.9059687,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Lake Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5221297132,
+        "lat": 19.1023335,
+        "lon": 72.8744692,
+        "tags": {
+          "name": "CSMI Airport International T2",
+          "name:mr": "\u091b.\u0936\u093f.\u092e.\u0906\u0902.\u0935\u093f. \u091f-\u0968",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-10-05",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787704195,
+        "lat": 19.1259985,
+        "lon": 72.8737266,
+        "tags": {
+          "name": "SEEPZ",
+          "name:mr": "\u0938\u0940\u092a\u094d\u091d",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-10-05",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787704196,
+        "lat": 19.1173537,
+        "lon": 72.8735966,
+        "tags": {
+          "name": "MIDC - Andheri",
+          "name:mr": "\u090f\u092e.\u0906\u092f.\u0921\u0940.\u0938\u0940. - \u0905\u0902\u0927\u0947\u0930\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-10-05",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5787704197,
+        "lat": 19.1085041,
+        "lon": 72.878578,
+        "tags": {
+          "name": "Marol Naka L3",
+          "name:mr": "\u092e\u0930\u094b\u0933 \u0928\u093e\u0915\u093e",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "2024-10-05",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9132708011,
+        "lat": 19.1215921,
+        "lon": 72.8989663,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Udyan Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10102658120,
+        "lat": 19.1063277,
+        "lon": 72.8631392,
+        "tags": {
+          "addr:street": "Om Nagar Road",
+          "aeroway": "terminal",
+          "name": "transline air cargo servics pvt ltd unit no 17",
+          "name:en": "transline air cargo services pvt ltd unit no 17"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10767848891,
+        "lat": 19.1049951,
+        "lon": 72.8863622,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11445797934,
+        "lat": 19.1044002,
+        "lon": 72.8863288,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11698425211,
+        "lat": 19.1125194,
+        "lon": 72.8648858,
+        "tags": {
+          "amenity": "theatre",
+          "name": "Carnival Cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12070988878,
+        "lat": 19.1079313,
+        "lon": 72.8809709,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903231,
+        "lat": 19.1024452,
+        "lon": 72.8752595,
+        "tags": {
+          "name": "CSMIA International T2",
+          "name:mr": "\u091b.\u0936\u093f.\u092e.\u0906\u0902.\u0935\u093f. \u091f-\u0968",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903232,
+        "lat": 19.1021572,
+        "lon": 72.8736657,
+        "tags": {
+          "name": "CSMIA International T2",
+          "name:mr": "\u091b.\u0936\u093f.\u092e.\u0906\u0902.\u0935\u093f. \u091f-\u0968",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903233,
+        "lat": 19.1082762,
+        "lon": 72.8786939,
+        "tags": {
+          "name": "Marol Naka (Line 3)",
+          "name:mr": "\u092e\u0930\u094b\u0933 \u0928\u093e\u0915\u093e",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903234,
+        "lat": 19.1092629,
+        "lon": 72.8784321,
+        "tags": {
+          "name": "Marol Naka (Line 3)",
+          "name:mr": "\u092e\u0930\u094b\u0933 \u0928\u093e\u0915\u093e",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903235,
+        "lat": 19.1174293,
+        "lon": 72.873089,
+        "tags": {
+          "name": "MIDC - Andheri",
+          "name:mr": "\u090f\u092e.\u0906\u092f.\u0921\u0940.\u0938\u0940. - \u0905\u0902\u0927\u0947\u0930\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903236,
+        "lat": 19.1172867,
+        "lon": 72.8742053,
+        "tags": {
+          "name": "MIDC - Andheri",
+          "name:mr": "\u090f\u092e.\u0906\u092f.\u0921\u0940.\u0938\u0940. - \u0905\u0902\u0927\u0947\u0930\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903237,
+        "lat": 19.1262254,
+        "lon": 72.8737791,
+        "tags": {
+          "name": "SEEPZ",
+          "name:mr": "\u0938\u0940\u092a\u094d\u091d",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903238,
+        "lat": 19.1252898,
+        "lon": 72.8732698,
+        "tags": {
+          "name": "SEEPZ",
+          "name:mr": "\u0938\u0940\u092a\u094d\u091d",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903239,
+        "lat": 19.1310462,
+        "lon": 72.8841973,
+        "tags": {
+          "name": "Aarey JVLR",
+          "name:mr": "\u0906\u0930\u0947 \u0915\u0949\u0932\u0928\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12074903240,
+        "lat": 19.1310808,
+        "lon": 72.8842091,
+        "tags": {
+          "name": "Aarey JVLR",
+          "name:mr": "\u0906\u0930\u0947 \u0915\u0949\u0932\u0928\u0940",
+          "network": "Mumbai Metro",
+          "operator": "Mumbai Metro Rail Corporation Ltd",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587475,
+        "lat": 19.1334972,
+        "lon": 72.8747294,
+        "tags": {
+          "construction": "stop",
+          "name": "Mahakali Caves Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587493,
+        "lat": 19.129412,
+        "lon": 72.8826469,
+        "tags": {
+          "construction": "stop",
+          "name": "SEEPZ Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587511,
+        "lat": 19.1262483,
+        "lon": 72.8905372,
+        "tags": {
+          "construction": "stop",
+          "name": "Saki Vihar Road Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587528,
+        "lat": 19.1216096,
+        "lon": 72.8990144,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Udyan Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12219587550,
+        "lat": 19.1200529,
+        "lon": 72.9059473,
+        "tags": {
+          "construction": "stop",
+          "name": "Powai Lake Station",
+          "public_transport": "stop_position",
+          "railway": "construction",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2873 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:13:35Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 913325776,
+        "lat": 28.6630585,
+        "lon": 77.2206204,
+        "tags": {
+          "amenity": "atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2093531415,
+        "lat": 28.6563937,
+        "lon": 77.2316218,
+        "tags": {
+          "addr:postcode": "110006",
+          "alt_name": "Haldiram",
+          "amenity": "fast_food",
+          "brand": "Haldiram's",
+          "brand:wikidata": "Q17054442",
+          "cuisine": "indian",
+          "name": "Haldiram's",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2106110096,
+        "lat": 28.6560678,
+        "lon": 77.2303749,
+        "tags": {
+          "addr:city": "Delhi",
+          "addr:postcode": "110006",
+          "addr:street": "Paranthe Wali Gali",
+          "addr:suburb": "Chandni Chowk",
+          "addr:unit": "36",
+          "amenity": "restaurant",
+          "contact:mobile": "+91-99-7199-7140;+91-98916-64131;+91-93507-14662",
+          "cuisine": "indian;parantha",
+          "level": "0",
+          "name": "Pandit Kanhaiya Lal Durga Prashad Dixit Paranthe Wala",
+          "name:hi": "\u092a\u0902\u0921\u093f\u0924 \u0915\u0928\u094d\u0939\u0948\u092f\u093e \u0932\u093e\u0932 \u0926\u0941\u0930\u094d\u0917\u093e \u092a\u094d\u0930\u0936\u093e\u0926 \u0926\u0940\u0915\u094d\u0937\u093f\u0924 \u092a\u0930\u093e\u0902\u0920\u0947 \u0935\u093e\u0932\u093e",
+          "outdoor_seating": "no",
+          "start_date": "1875"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2591114290,
+        "lat": 28.6564538,
+        "lon": 77.2304966,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "fast_food",
+          "name": "Natraj Dahibhalla",
+          "opening_hours": "Mo-Su 11:30-21:00"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3245692760,
+        "lat": 28.657401,
+        "lon": 77.2231422,
+        "tags": {
+          "addr:city": "Old Delhi",
+          "addr:housenumber": "2,3,4",
+          "addr:postcode": "110006",
+          "addr:street": "Khari Baoli Road",
+          "amenity": "fast_food",
+          "name": "Gole Hatti"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3245909911,
+        "lat": 28.6563624,
+        "lon": 77.2310003,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "bank",
+          "brand": "Bank of India",
+          "brand:wikidata": "Q2004439",
+          "name": "Bank of India",
+          "name:en": "Bank of India",
+          "short_name": "BoI",
+          "website": "https://www.bankofindia.co.in/"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3249138802,
+        "lat": 28.6565694,
+        "lon": 77.2319328,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "atm",
+          "brand": "Citibank",
+          "brand:wikidata": "Q857063",
+          "name": "Citibank",
+          "operator": "Citibank",
+          "operator:wikidata": "Q857063",
+          "short_name": "Citi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3249138803,
+        "lat": 28.6565435,
+        "lon": 77.2319301,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "atm",
+          "name": "Kotak Bank ATM",
+          "operator": "Kotak Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4711581091,
+        "lat": 28.6562246,
+        "lon": 77.2305038,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "fast_food",
+          "name": "Natraj Dahi Bhalle Wala ( alao katalas)",
+          "name:en": "Natraj Dahi Bhalle Wala ( alao katalas)",
+          "phone": "+91-98112-08811"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5143628924,
+        "lat": 28.6579615,
+        "lon": 77.2233418,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "restaurant",
+          "cuisine": "local",
+          "diet:vegetarian": "only",
+          "name": "Ingerpuri",
+          "start_date": "1947"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5143628925,
+        "lat": 28.6580412,
+        "lon": 77.223216,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "restaurant",
+          "check_date": "2025-02-16",
+          "cuisine": "local",
+          "diet:vegetarian": "only",
+          "internet_access": "no",
+          "level": "0;1",
+          "name": "Kake di Hatti",
+          "name:en": "Kake di Hatti",
+          "name:hi": "\u0915\u093e\u0915\u0947 \u0926\u0940 \u0939\u091f\u094d\u091f\u0940",
+          "opening_hours": "08:00-01:00",
+          "phone": "+91 92058 17114; +91 99365 93140; +91 80106 95450",
+          "start_date": "1942",
+          "wheelchair": "limited"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5143642195,
+        "lat": 28.6565174,
+        "lon": 77.2246065,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:ur": "\u0627\u06cc\u0686 \u0688\u06cc \u0627\u06cc\u0641 \u0633\u06cc \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q631047",
+          "brand:wikipedia": "en:HDFC Bank",
+          "brand:wikipedia:ur": "\u0627\u06cc\u0686 \u0688\u06cc \u0627\u06cc\u0641 \u0633\u06cc \u0628\u06cc\u0646\u06a9",
+          "check_date": "2025-04-13",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "HDFC Bank",
+          "name:ur": "\u0627\u06cc\u0686 \u0688\u06cc \u0627\u06cc\u0641 \u0633\u06cc \u0628\u06cc\u0646\u06a9",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/02/19)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "operator:wikipedia": "en:HDFC Bank",
+          "operator:wikipedia:ur": "\u0627\u06cc\u0686 \u0688\u06cc \u0627\u06cc\u0641 \u0633\u06cc \u0628\u06cc\u0646\u06a9",
+          "short_name": "HDFC",
+          "short_name:ur": "\u0627\u06cc\u0686 \u0688\u06cc \u0627\u06cc\u0641 \u0633\u06cc"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5159969121,
+        "lat": 28.657558,
+        "lon": 77.2231804,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "restaurant",
+          "name": "Jagjit Restaurant",
+          "name:en": "Jagjit Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5247558821,
+        "lat": 28.6602944,
+        "lon": 77.228812,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5250302621,
+        "lat": 28.6563366,
+        "lon": 77.2318879,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "fast_food",
+          "name": "Shree Balaji Chaat Bhandar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6539125892,
+        "lat": 28.6577484,
+        "lon": 77.2152058,
+        "tags": {
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:en": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "ICICI Bank",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/02/19)",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:en": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6592980318,
+        "lat": 28.6520332,
+        "lon": 77.220882,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7044738885,
+        "lat": 28.6599133,
+        "lon": 77.2235649,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "diet:vegetarian": "only",
+          "name": "Vegetarian Restaurant",
+          "name:ur": "\u0633\u0628\u0632\u06cc \u062e\u0648\u0631 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138534324,
+        "lat": 28.6545609,
+        "lon": 77.2255581,
+        "tags": {
+          "addr:district": "Central",
+          "addr:full": "Chandani Chowk, Ballimaran, Gali Kasim Jahan",
+          "addr:postcode": "110006",
+          "addr:state": "Delhi",
+          "amenity": "clinic",
+          "contact:phone": "23971413",
+          "description": "Dispensaries",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "Unani Dispensary, Ballimaran",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7138534440,
+        "lat": 28.6598583,
+        "lon": 77.2157522,
+        "tags": {
+          "addr:district": "Central",
+          "addr:full": "6550, Main Qutab Road, Nabi Karim Paharganj, Paharganj",
+          "addr:postcode": "110017",
+          "addr:state": "Delhi",
+          "amenity": "hospital",
+          "contact:phone": "1123510770",
+          "description": "<100 Bedded Hospital",
+          "name": "Mahavir International Eye Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9162549280,
+        "lat": 28.6630786,
+        "lon": 77.232378,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "name": "Kotak Mahindra Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9162549281,
+        "lat": 28.6638459,
+        "lon": 77.2316323,
+        "tags": {
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Punjab & Sind Bank",
+          "brand:en": "Punjab & Sind Bank",
+          "brand:hi": "\u092a\u0902\u091c\u093e\u092c \u090f\u0923\u094d\u0921 \u0938\u093f\u0902\u0927 \u092c\u0948\u0902\u0915",
+          "brand:wikidata": "Q2003302",
+          "name": "Punjab & Sind Bank",
+          "name:en": "Punjab & Sind Bank",
+          "name:hi": "\u092a\u0902\u091c\u093e\u092c \u090f\u0923\u094d\u0921 \u0938\u093f\u0902\u0927 \u092c\u0948\u0902\u0915"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9162549288,
+        "lat": 28.6657534,
+        "lon": 77.229571,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Canara Bank",
+          "brand:en": "Canara Bank",
+          "brand:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "brand:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "brand:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "brand:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "brand:wikidata": "Q2003777",
+          "name:en": "Canara Bank",
+          "name:hi": "\u0915\u0947\u0928\u0930\u093e \u092c\u0948\u0902\u0915",
+          "name:kn": "\u0c95\u0cc6\u0ca8\u0cb0\u0cbe \u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+          "name:pa": "\u0a15\u0a47\u0a28\u0a30\u0a3e \u0a2c\u0a48\u0a02\u0a15",
+          "name:pnb": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "name:ur": "\u06a9\u06cc\u0646\u0631\u0627 \u0628\u06cc\u0646\u06a9",
+          "operator": "Canara Bank",
+          "operator:wikidata": "Q2003777"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9162549289,
+        "lat": 28.6661005,
+        "lon": 77.2295,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:en": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/02/19)",
+          "opening_hours": "24/7",
+          "operator": "HDFC Bank",
+          "operator:en": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9162549297,
+        "lat": 28.6663635,
+        "lon": 77.2293156,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Yes Bank",
+          "brand:wikidata": "Q2040394",
+          "operator": "Yes Bank",
+          "operator:wikidata": "Q2040394"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9941147019,
+        "lat": 28.6564863,
+        "lon": 77.224811,
+        "tags": {
+          "addr:postcode": "110006",
+          "addr:street": "Chandni Chowk",
+          "amenity": "bank",
+          "branch": "Chandni Chowk",
+          "brand": "Union Bank of India",
+          "brand:en": "Union Bank of India",
+          "check_date": "2025-04-13",
+          "name": "Union bank of India",
+          "name:en": "Union Bank of India",
+          "phone": "+91 96531 30770"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9941161319,
+        "lat": 28.6568518,
+        "lon": 77.2251484,
+        "tags": {
+          "addr:postcode": "110006",
+          "addr:street": "Chandni Chowk",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Chandni Chowk",
+          "brand": "Punjab National Bank",
+          "brand:wikidata": "Q2743499",
+          "check_date": "2025-04-13",
+          "level": "0",
+          "name": "Punjab National Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9941162817,
+        "lat": 28.6568022,
+        "lon": 77.2236461,
+        "tags": {
+          "addr:postcode": "110006",
+          "addr:street": "Chandni Chowk",
+          "amenity": "bank",
+          "atm": "yes",
+          "brand": "Axis Bank",
+          "brand:wikidata": "Q2003549",
+          "level": "0",
+          "name": "Axis Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969162383,
+        "lat": 28.6563989,
+        "lon": 77.2265968,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Chandni Chowk",
+          "brand": "South Indian Bank",
+          "brand:wikidata": "Q2044973",
+          "level": "1",
+          "name": "South Indian Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969162384,
+        "lat": 28.6568737,
+        "lon": 77.224514,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "bank",
+          "branch": "Chandni Chowk",
+          "brand": "Jammu and Kashmir Bank",
+          "brand:wikidata": "Q2040429",
+          "level": "0",
+          "name": "Jammu and Kashmir Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969162387,
+        "lat": 28.6568061,
+        "lon": 77.2238005,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "bank",
+          "atm": "no",
+          "branch": "Chandni Chowk",
+          "brand": "Bandhan Bank",
+          "brand:wikidata": "Q19882235",
+          "level": "0",
+          "name": "Bandhan Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969162389,
+        "lat": 28.6568221,
+        "lon": 77.2238605,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Chandni Chowk",
+          "brand": "Karur Vysya Bank",
+          "brand:wikidata": "Q6373724",
+          "level": "0",
+          "name": "Karur Vysya Bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969162396,
+        "lat": 28.6568118,
+        "lon": 77.225006,
+        "tags": {
+          "addr:city": "Delhi",
+          "addr:place": "Kucha Brij Nath",
+          "addr:postcode": "110006",
+          "addr:suburb": "Chandni Chowk",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Chandni Chowk",
+          "brand": "RBL Bank",
+          "brand:wikidata": "Q13120398",
+          "check_date": "2025-04-13",
+          "level": "0",
+          "name": "RBL Bank",
+          "opening_hours": "Mo-Fr 10:00-17:00; Sa[2,4] closed; Su closed PH closed",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969177989,
+        "lat": 28.656874,
+        "lon": 77.2244364,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "fast_food",
+          "check_date": "2025-04-13",
+          "cuisine": "indian",
+          "name": "Bikanervala",
+          "toilets:wheelchair": "no",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969186086,
+        "lat": 28.6563053,
+        "lon": 77.224223,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "restaurant",
+          "check_date": "2025-04-13",
+          "contact:phone": "+91-11-4151-6429;+91-11-4151-6731;+91-95998-73690",
+          "cuisine": "south_indian;punjabi;marwari",
+          "level": "0",
+          "name": "Hotel Adarsh Vegetarian",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969213838,
+        "lat": 28.6569038,
+        "lon": 77.2241443,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "fast_food",
+          "cuisine": "juice"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969232950,
+        "lat": 28.6561671,
+        "lon": 77.2277318,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "atm",
+          "brand": "Kotak Mahindra Bank",
+          "brand:wikidata": "Q2040404",
+          "level": "0",
+          "operator": "Kotak Mahindra Bank",
+          "operator:wikidata": "Q2040404"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969232955,
+        "lat": 28.6564251,
+        "lon": 77.2257507,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "Chandni Chowk",
+          "brand": "Indian Bank",
+          "brand:wikidata": "Q2003789",
+          "level": "0",
+          "name": "Indian Bank",
+          "operator": "Indian Bank",
+          "operator:wikidata": "Q2003789"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969232957,
+        "lat": 28.6564171,
+        "lon": 77.224138,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "atm",
+          "brand": "Union Bank of India",
+          "brand:wikidata": "Q2004078",
+          "level": "0",
+          "operator": "Union Bank of India",
+          "operator:wikidata": "Q2004078"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969310415,
+        "lat": 28.6564617,
+        "lon": 77.2303249,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "restaurant",
+          "level": "0;1",
+          "name": "Chaska Ram"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10969439010,
+        "lat": 28.6567781,
+        "lon": 77.2242219,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "restaurant",
+          "name": "The Brijwasi"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11243792107,
+        "lat": 28.6672972,
+        "lon": 77.2283946,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:wikidata": "Q177054",
+          "cuisine": "burger",
+          "level": "0",
+          "name": "Burger King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11398021716,
+        "lat": 28.6673402,
+        "lon": 77.2280857,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "roll",
+          "level": "0",
+          "name": "Rolls Bazzar"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11398021719,
+        "lat": 28.6675515,
+        "lon": 77.2283739,
+        "tags": {
+          "amenity": "fast_food",
+          "level": "0",
+          "name": "Food Track",
+          "operator": "IRCTC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11398021721,
+        "lat": 28.6678313,
+        "lon": 77.2286605,
+        "tags": {
+          "amenity": "fast_food",
+          "level": "-1",
+          "name": "Food Track",
+          "operator": "IRCTC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11398021722,
+        "lat": 28.6677851,
+        "lon": 77.2287062,
+        "tags": {
+          "amenity": "fast_food",
+          "level": "-1",
+          "name": "WHSmith"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11398021728,
+        "lat": 28.6673645,
+        "lon": 77.2280468,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Jumbo King",
+          "brand:wikidata": "Q6310895",
+          "cuisine": "burger",
+          "level": "0",
+          "name": "Jumbo King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11398021731,
+        "lat": 28.6673751,
+        "lon": 77.2283473,
+        "tags": {
+          "amenity": "fast_food",
+          "level": "0",
+          "name": "Hunger Point",
+          "operator": "SN Foods"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12161917588,
+        "lat": 28.6610786,
+        "lon": 77.2273116,
+        "tags": {
+          "amenity": "cafe",
+          "name": "cvsv"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12384421001,
+        "lat": 28.6562884,
+        "lon": 77.232749,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "bank",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12422168040,
+        "lat": 28.6673408,
+        "lon": 77.2273845,
+        "tags": {
+          "amenity": "fast_food",
+          "level": "1",
+          "name": "Samosa Singh",
+          "name:en": "Samosa Singh",
+          "name:hi": "\u0938\u092e\u094b\u0938\u093e \u0938\u093f\u0902\u0939"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12422168041,
+        "lat": 28.6672969,
+        "lon": 77.2273552,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Wow! Momo",
+          "brand:wikidata": "Q8037446",
+          "cuisine": "momo",
+          "level": "1",
+          "name": "Wow! Momo",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12422168042,
+        "lat": 28.6672967,
+        "lon": 77.2274117,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "sandwich;pizza;burger",
+          "level": "1",
+          "name": "Bistro 57"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12422168043,
+        "lat": 28.6672968,
+        "lon": 77.2273862,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "sandwich;pizza;burger;wrap;shawarma",
+          "level": "1",
+          "name": "Section-B"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12422168047,
+        "lat": 28.6673229,
+        "lon": 77.2273028,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Burger King",
+          "brand:wikidata": "Q177054",
+          "cuisine": "burger",
+          "level": "1",
+          "name": "Burger King",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12422168051,
+        "lat": 28.6673301,
+        "lon": 77.2273441,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Sub91",
+          "cuisine": "sandwich;salad",
+          "level": "1",
+          "name": "Sub91",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12488246869,
+        "lat": 28.667403,
+        "lon": 77.2291719,
+        "tags": {
+          "amenity": "fast_food",
+          "brand": "Jumbo King",
+          "brand:wikidata": "Q6310895",
+          "cuisine": "burger",
+          "drive_through": "no",
+          "indoor_seating": "no",
+          "level": "1",
+          "name": "Jumbo King",
+          "outdoor_seating": "no",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12588445775,
+        "lat": 28.6556885,
+        "lon": 77.2299899,
+        "tags": {
+          "addr:postcode": "110006",
+          "air_conditioning": "no",
+          "amenity": "fast_food",
+          "contact:email": "jbkachoriwala@gmail.com;kachoriwala@yahoo.com",
+          "contact:mobile": "+91-98916-98995;+91-79821-42903",
+          "diet:vegan": "yes",
+          "indoor_seating": "no",
+          "level": "0",
+          "name": "Jung Bahadur Kachori Wala",
+          "name:hi": "\u091c\u0902\u0917 \u092c\u0939\u093e\u0926\u0941\u0930 \u0915\u091a\u094c\u0921\u093c\u0940 \u0935\u093e\u0932\u093e",
+          "opening_hours": "Mo-Sa 10:30-20:00; Su 10:30-17:00",
+          "outdoor_seating": "no",
+          "short_name": "JB Kachori Wala",
+          "start_date": "1961",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12588445792,
+        "lat": 28.6551902,
+        "lon": 77.2318109,
+        "tags": {
+          "addr:city": "Delhi",
+          "addr:full": "Chailpuri, Kinari Bazar, Chandni Chowk, Delhi - 110006",
+          "addr:postcode": "110006",
+          "addr:street": "Kinari Bazar",
+          "addr:suburb": "Chandni Chowk",
+          "amenity": "fast_food",
+          "contact:mobile": "+91-99109-35197;+91-98108-56895",
+          "level": "0",
+          "name": "Ashok Chaat Corner",
+          "name:hi": "\u0905\u0936\u094b\u0915 \u091a\u093e\u091f \u0915\u0949\u0930\u094d\u0928\u0930"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12592985127,
+        "lat": 28.6559829,
+        "lon": 77.2304096,
+        "tags": {
+          "addr:postcode": "110006",
+          "air_conditioning": "no",
+          "amenity": "fast_food",
+          "cuisine": "indian;lassi",
+          "level": "0",
+          "name": "Pandit Gaya Prasad Madan Mohan",
+          "name:hi": "\u092a\u0902\u0921\u093f\u0924 \u0917\u092f\u093e \u092a\u094d\u0930\u0938\u093e\u0926 \u092e\u0926\u0928 \u092e\u094b\u0939\u0928",
+          "start_date": "1981"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12592985143,
+        "lat": 28.6560167,
+        "lon": 77.2303693,
+        "tags": {
+          "addr:postcode": "110006",
+          "air_conditioning": "no",
+          "amenity": "restaurant",
+          "capacity": "32",
+          "cuisine": "indian;parantha",
+          "level": "0",
+          "name": "Pandit Gaya Prashad Shiv Charan",
+          "name:hi": "\u092a\u0902\u0921\u093f\u0924 \u0917\u092f\u093e \u092a\u094d\u0930\u0936\u093e\u0926 \u0936\u093f\u0935 \u091a\u0930\u0923",
+          "outdoor_seating": "no",
+          "panoramax": "fddd6059-77fa-47f1-8b9f-889505d1a52a",
+          "payment:cash": "only",
+          "start_date": "1872",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12592985161,
+        "lat": 28.6564221,
+        "lon": 77.2253056,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "fast_food",
+          "check_date": "2025-04-13",
+          "cuisine": "tea;ice_cream;shake;chhole_bhature",
+          "level": "0",
+          "name": "Nagori Tea & Faluda"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12593250474,
+        "lat": 28.6568792,
+        "lon": 77.2249681,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "atm",
+          "branch": "Chandni Chowk",
+          "brand": "RBL Bank",
+          "brand:wikidata": "Q13120398",
+          "name": "RBL Bank",
+          "operator": "RBL Bank",
+          "operator:wikidata": "Q13120398",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12619062864,
+        "lat": 28.656215,
+        "lon": 77.230604,
+        "tags": {
+          "amenity": "fast_food",
+          "contact:mobile": "+91-96542-61219;+91-97171-94107",
+          "cuisine": "daulat_ki_chaat",
+          "indoor_seating": "no",
+          "level": "0",
+          "name": "Rakesh Kumar Akhilesh Kumar",
+          "name:hi": "\u0930\u093e\u0915\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0905\u0916\u093f\u0932\u0947\u0936 \u0915\u0941\u092e\u093e\u0930",
+          "note": "A seasonal confectionary only available during winter",
+          "outdoor_seating": "no",
+          "street_vendor": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12619085003,
+        "lat": 28.6560553,
+        "lon": 77.2304439,
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "fast_food",
+          "capacity": "4",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Sharma Sweets",
+          "outdoor_seating": "no",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12639638609,
+        "lat": 28.6560917,
+        "lon": 77.23067,
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "restaurant",
+          "cuisine": "parantha",
+          "level": "0",
+          "name": "Babu Ram Devi Dayal",
+          "name:en": "\u092c\u093e\u092c\u0942 \u0930\u093e\u092e \u0926\u0947\u0935\u0940 \u0926\u092f\u093e\u0932",
+          "start_date": "1889",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12639638627,
+        "lat": 28.6553976,
+        "lon": 77.2290256,
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "fast_food",
+          "contact:mobile": "+91-88104-14821",
+          "indoor_seating": "no",
+          "level": "0",
+          "name": "Rajesh Pakaude Wala",
+          "name:hi": "\u0930\u093e\u091c\u0947\u0936 \u092a\u0915\u094c\u0921\u093c\u0947 \u0935\u093e\u0932\u093e",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12639638632,
+        "lat": 28.6554802,
+        "lon": 77.229172,
+        "tags": {
+          "air_conditioning": "no",
+          "alt_name": "Shanti Tea Stal",
+          "amenity": "cafe",
+          "contact:mobile": "+91-99990-72278",
+          "cuisine": "tea;lassi",
+          "indoor_seating": "no",
+          "level": "0",
+          "name": "Sharma Milk Point",
+          "takeaway": "only"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12639638640,
+        "lat": 28.6554822,
+        "lon": 77.2293384,
+        "tags": {
+          "addr:city": "Delhi",
+          "addr:housenumber": "1218",
+          "addr:postcode": "110006",
+          "addr:street": "Maliwara",
+          "addr:suburb": "Chandni Chowk",
+          "air_conditioning": "no",
+          "amenity": "fast_food",
+          "contact:mobile": "+91-98100-69737",
+          "cuisine": "bedmi_puri;kulfi",
+          "indoor_seating": "bar_table",
+          "level": "0",
+          "name": "Rewari Mishthan Bhandar",
+          "payment:cash": "only",
+          "start_date": "1957",
+          "takeaway": "yes",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12639638641,
+        "lat": 28.6555667,
+        "lon": 77.2302182,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "tea",
+          "indoor_seating": "no",
+          "level": "0"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12718410801,
+        "lat": 28.6578403,
+        "lon": 77.230468,
+        "tags": {
+          "name": "Omaxe Mall",
+          "shop": "department_store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12741243371,
+        "lat": 28.6591068,
+        "lon": 77.2259293,
+        "tags": {
+          "amenity": "fast_food"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752242099,
+        "lat": 28.6567596,
+        "lon": 77.2256427,
+        "tags": {
+          "addr:housenumber": "829-B",
+          "addr:street": "Katra Neel",
+          "air_conditioning": "no",
+          "amenity": "cafe",
+          "bar": "no",
+          "level": "0",
+          "name": "Chillax And Relax",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752269135,
+        "lat": 28.6564446,
+        "lon": 77.2243483,
+        "tags": {
+          "amenity": "bank",
+          "name": "HDFC bank"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752276651,
+        "lat": 28.6567943,
+        "lon": 77.2250267,
+        "tags": {
+          "amenity": "atm",
+          "name": "RBL bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752277071,
+        "lat": 28.656878,
+        "lon": 77.2245555,
+        "tags": {
+          "amenity": "atm",
+          "name": "Canara bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752311326,
+        "lat": 28.6568226,
+        "lon": 77.2252891,
+        "tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "level": "0",
+          "name": "Shiv Pharmaceuticals"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752314014,
+        "lat": 28.6568238,
+        "lon": 77.2236487,
+        "tags": {
+          "amenity": "atm",
+          "name": "Axis bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752315479,
+        "lat": 28.6568822,
+        "lon": 77.223841,
+        "tags": {
+          "amenity": "atm",
+          "name": "Karur vysya bank atm"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752323507,
+        "lat": 28.6564271,
+        "lon": 77.2256782,
+        "tags": {
+          "amenity": "pharmacy",
+          "name": "Narang medical store"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752323708,
+        "lat": 28.6567809,
+        "lon": 77.2251102,
+        "tags": {
+          "amenity": "atm",
+          "name": "Punjab National Bank ATM"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12752568011,
+        "lat": 28.6564515,
+        "lon": 77.2307007,
+        "tags": {
+          "amenity": "atm",
+          "brand": "Central Bank of India",
+          "level": "0",
+          "operator": "Central Bank of India",
+          "operator:wikidata": "Q2007090",
+          "wheelchair": "no"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12753521538,
+        "lat": 28.6580636,
+        "lon": 77.2232946,
+        "tags": {
+          "amenity": "atm",
+          "brand": "AU Small Finance Bank",
+          "name": "AU Small Finance Bank",
+          "operator": "AU Small Finance Bank",
+          "operator:wikidata": "Q48729722"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12753521540,
+        "lat": 28.6587821,
+        "lon": 77.224527,
+        "tags": {
+          "addr:housenumber": "27",
+          "addr:unit": "1;2",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "name": "Rai Sahab Seth Girdhari Lal",
+          "opening_hours": "Mo-Su 10:00-12:00,17:00-19:30; PH closed"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12753521542,
+        "lat": 28.658102,
+        "lon": 77.2233002,
+        "tags": {
+          "amenity": "atm",
+          "brand": "IDFC First Bank",
+          "operator": "IDFC First Bank",
+          "operator:wikidata": "Q22031467"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:13:35Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 268381463,
+        "lat": 28.6664068,
+        "lon": 77.2074156,
+        "tags": {
+          "alt_name:ur": "\u067e\u0644 \u0628\u0646\u06af\u0634",
+          "name": "Pul Bangash",
+          "name:en": "Pul Bangash",
+          "name:hi": "\u092a\u0941\u0932 \u092c\u0902\u0917\u0936",
+          "name:ur": "\u067e\u064f\u0644 \u0628\u0646\u06af\u0634",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q7259157",
+          "wikipedia": "en:Pul Bangash metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 268381477,
+        "lat": 28.6674493,
+        "lon": 77.2282488,
+        "tags": {
+          "name": "Kashmere Gate",
+          "name:hi": "\u0915\u0936\u094d\u092e\u0940\u0930\u0940 \u0917\u0947\u091f",
+          "name:ks": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "name:pa": "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30\u0a40 \u0a17\u0a47\u0a1f",
+          "name:pnb": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u06af\u06cc\u0679",
+          "name:uk": "\u041a\u0430\u0448\u043c\u0456\u0440\u0441\u044c\u043a\u0430 \u0431\u0440\u0430\u043c\u0430",
+          "name:ur": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q4207344",
+          "wikipedia": "en:Kashmere Gate metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 395135114,
+        "lat": 28.6421531,
+        "lon": 77.2236285,
+        "tags": {
+          "bus": "yes",
+          "name": "New Delhi Railway Station Gate Number 2",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 554257841,
+        "lat": 28.6434826,
+        "lon": 77.2227421,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hi": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:ml": "\u0d28\u0d4d\u0d2f\u0d42 \u0d21\u0d46\u0d7d\u0d39\u0d3f",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NDLS",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q3634456",
+          "wikipedia": "en:New Delhi metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 554257842,
+        "lat": 28.6492513,
+        "lon": 77.2265435,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Chawri Bazaar",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CWBR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 554257862,
+        "lat": 28.6584207,
+        "lon": 77.230366,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Chandni Chowk",
+          "name:ur": "\u0686\u0627\u0646\u062f\u0646\u06cc \u0686\u0648\u06a9",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:ur": "\u062f\u06c1\u0644\u06cc \u0645\u06cc\u0679\u0631\u0648",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CHK",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 561300694,
+        "lat": 28.6768572,
+        "lon": 77.2250565,
+        "tags": {
+          "name": "Civil Lines",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CL",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 561316983,
+        "lat": 28.6671626,
+        "lon": 77.2166306,
+        "tags": {
+          "addr:housenumber": "Tis Hazari Metro Station",
+          "air_conditioning": "yes",
+          "name": "Tis Hazari",
+          "name:hi": "\u0924\u0940\u0938 \u0939\u091c\u093e\u0930\u0940 \u092e\u0947\u091f\u094d\u0930\u094b \u0938\u094d\u091f\u0947\u0936\u0928",
+          "name:ur": "\u062a\u06cc\u0633 \u06c1\u0632\u0627\u0631\u06cc",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.delhimetrorail.com/",
+          "wheelchair": "yes",
+          "wikidata": "Q3632416",
+          "wikipedia": "en:Tis Hazari metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 913081055,
+        "lat": 28.6685068,
+        "lon": 77.2004935,
+        "tags": {
+          "internet_access": "no",
+          "name": "Subzimandi",
+          "name:ur": "\u0633\u0628\u0632\u06cc \u0645\u0646\u0688\u06cc",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SZM",
+          "train": "yes",
+          "wikidata": "Q18386051",
+          "wikipedia": "en:Subzi Mandi railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 913095905,
+        "lat": 28.660932,
+        "lon": 77.2276494,
+        "tags": {
+          "alt_name": "Old Delhi Railway Station",
+          "alt_name:ur": "\u067e\u0631\u0627\u0646\u06cc \u062f\u06c1\u0644\u06cc \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646;\u062f\u0644\u06cc \u062c\u0646\u06a9\u0634\u0646;\u062f\u0650\u0644\u0651\u06cc \u062c\u0646\u06a9\u0634\u0646;\u067e\u0631\u0627\u0646\u06cc \u062f\u0644\u06cc",
+          "internet_access": "wlan",
+          "long_name": "\u062f\u06c1\u0644\u06cc \u062c\u0646\u06a9\u0634\u0646 \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646",
+          "long_name:ur": "\u062f\u06c1\u0644\u06cc \u062c\u0646\u06a9\u0634\u0646 \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646",
+          "name": "Delhi Junction",
+          "name:ur": "\u062f\u06c1\u0644\u06cc \u062c\u0646\u06a9\u0634\u0646",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DLI",
+          "wikidata": "Q3633132"
+        }
+      },
+      {
+        "type": "node",
+        "id": 913282201,
+        "lat": 28.6602409,
+        "lon": 77.2318743,
+        "tags": {
+          "bus": "yes",
+          "name": "Purani Dilhi Railway Station",
+          "name:ur": "\u067e\u0631\u0627\u0646\u06cc \u062f\u06c1\u0644\u06cc \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 913325870,
+        "lat": 28.6633196,
+        "lon": 77.2185803,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372433,
+        "lat": 28.6425708,
+        "lon": 77.2211342,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:14",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372444,
+        "lat": 28.6424872,
+        "lon": 77.2203479,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:7",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372462,
+        "lat": 28.6424665,
+        "lon": 77.2202063,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372468,
+        "lat": 28.6425562,
+        "lon": 77.2210249,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:13",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372479,
+        "lat": 28.642519,
+        "lon": 77.2206742,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:10",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372497,
+        "lat": 28.6424462,
+        "lon": 77.2201074,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372516,
+        "lat": 28.6425119,
+        "lon": 77.220615,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:9",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372520,
+        "lat": 28.6425435,
+        "lon": 77.2208925,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:12",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372538,
+        "lat": 28.6425995,
+        "lon": 77.2213817,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:16",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372549,
+        "lat": 28.6423739,
+        "lon": 77.2197333,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "electrified": "contact_line",
+          "frequency": "50",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:2",
+          "train": "yes",
+          "usage": "main",
+          "voltage": "25000"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372552,
+        "lat": 28.642417,
+        "lon": 77.2199605,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372557,
+        "lat": 28.6425394,
+        "lon": 77.2208372,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:11",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372570,
+        "lat": 28.642495,
+        "lon": 77.220482,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:8",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372576,
+        "lat": 28.6425934,
+        "lon": 77.2213173,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:15",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372581,
+        "lat": 28.6423596,
+        "lon": 77.2196366,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938372585,
+        "lat": 28.6424082,
+        "lon": 77.2199116,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS:3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938409458,
+        "lat": 28.6430709,
+        "lon": 77.2237077,
+        "tags": {
+          "bus": "yes",
+          "name": "New Delhi Railway Station Gate Number 2",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938409465,
+        "lat": 28.641256,
+        "lon": 77.2360463,
+        "tags": {
+          "addr:postcode": "110006",
+          "amenity": "cinema",
+          "name": "Delite Diamond"
+        }
+      },
+      {
+        "type": "node",
+        "id": 938409545,
+        "lat": 28.6424786,
+        "lon": 77.2231116,
+        "tags": {
+          "name": "New Delhi Airport Express Terminal",
+          "name:hi": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938 \u091f\u0930\u094d\u092e\u093f\u0928\u0932",
+          "network": "Delhi Metro",
+          "network:wikidata": "Q271195",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:wikidata": "Q1029339",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NDI",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q3634456",
+          "wikipedia": "en:New Delhi metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 943749501,
+        "lat": 28.6683615,
+        "lon": 77.2251757,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Mori Gate Bus Terminal",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 974361599,
+        "lat": 28.6411555,
+        "lon": 77.2108258,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Imperial"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1988668281,
+        "lat": 28.6500446,
+        "lon": 77.2376857,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Jama Masjid",
+          "name:hi": "\u091c\u093e\u092e\u093e \u092e\u0938\u094d\u091c\u093f\u0926",
+          "name:ur": "\u062c\u0627\u0645\u0639 \u0645\u0633\u062c\u062f",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "JAMD",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2722924227,
+        "lat": 28.65748,
+        "lon": 77.2367275,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Lal Quila",
+          "name:hi": "\u0932\u093e\u0932 \u0915\u093f\u0932\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "toilets:wheelchair": "no",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5537643921,
+        "lat": 28.6483622,
+        "lon": 77.213419,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5637100896,
+        "lat": 28.6415227,
+        "lon": 77.2258674,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5732609883,
+        "lat": 28.6597807,
+        "lon": 77.2314477,
+        "tags": {
+          "bus": "yes",
+          "name": "Purani Dilhi Railway Station",
+          "name:ur": "\u067e\u0631\u0627\u0646\u06cc \u062f\u06c1\u0644\u06cc \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5737167170,
+        "lat": 28.6424706,
+        "lon": 77.2231333,
+        "tags": {
+          "name": "New Delhi Airport Express Terminal",
+          "name:hi": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938 \u091f\u0930\u094d\u092e\u093f\u0928\u0932",
+          "network": "Delhi Metro",
+          "network:wikidata": "Q271195",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:wikidata": "Q1029339",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDI",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5743508489,
+        "lat": 28.6673165,
+        "lon": 77.2201688,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5745227186,
+        "lat": 28.6676608,
+        "lon": 77.2244427,
+        "tags": {
+          "bus": "yes",
+          "name": "Mori Gate Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5745228092,
+        "lat": 28.6682764,
+        "lon": 77.2249714,
+        "tags": {
+          "bus": "yes",
+          "name": "Mori Gate Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5746144321,
+        "lat": 28.6661644,
+        "lon": 77.2217512,
+        "tags": {
+          "bus": "yes",
+          "name": "Mori Gate Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777601978,
+        "lat": 28.6768422,
+        "lon": 77.224998,
+        "tags": {
+          "name": "Civil Lines",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CL",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777601989,
+        "lat": 28.6675033,
+        "lon": 77.228162,
+        "tags": {
+          "name": "Kashmere Gate",
+          "name:ks": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "name:pa": "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30\u0a40 \u0a17\u0a47\u0a1f",
+          "name:pnb": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u06af\u06cc\u0679",
+          "name:uk": "\u041a\u0430\u0448\u043c\u0456\u0440\u0441\u044c\u043a\u0430 \u0431\u0440\u0430\u043c\u0430",
+          "name:ur": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777601993,
+        "lat": 28.6584232,
+        "lon": 77.2303051,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Chandni Chowk",
+          "name:ur": "\u0686\u0627\u0646\u062f\u0646\u06cc \u0686\u0648\u06a9",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:ur": "\u062f\u06c1\u0644\u06cc \u0645\u06cc\u0679\u0631\u0648",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CHK",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777601996,
+        "lat": 28.6492758,
+        "lon": 77.2264893,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Chawri Bazaar",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "CWBR",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777602033,
+        "lat": 28.6434908,
+        "lon": 77.2227137,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hi": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777614260,
+        "lat": 28.6674784,
+        "lon": 77.2282467,
+        "tags": {
+          "name": "Kashmere Gate",
+          "name:ks": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "name:pa": "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30\u0a40 \u0a17\u0a47\u0a1f",
+          "name:pnb": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u06af\u06cc\u0679",
+          "name:uk": "\u041a\u0430\u0448\u043c\u0456\u0440\u0441\u044c\u043a\u0430 \u0431\u0440\u0430\u043c\u0430",
+          "name:ur": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777629203,
+        "lat": 28.6500172,
+        "lon": 77.2376384,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Jama Masjid",
+          "name:hi": "\u091c\u093e\u092e\u093e \u092e\u0938\u094d\u091c\u093f\u0926",
+          "name:ur": "\u062c\u0627\u0645\u0639 \u0645\u0633\u062c\u062f",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "JAMD",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777629211,
+        "lat": 28.6574739,
+        "lon": 77.2365223,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Lal Quila",
+          "name:hi": "\u0932\u093e\u0932 \u0915\u093f\u0932\u093e",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes",
+          "toilets:wheelchair": "no",
+          "wheelchair": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5777629220,
+        "lat": 28.6686596,
+        "lon": 77.2280269,
+        "tags": {
+          "name": "Kashmere Gate",
+          "name:hi": "\u0915\u0936\u094d\u092e\u0940\u0930\u0940 \u0917\u0947\u091f",
+          "name:ks": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "name:pa": "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30\u0a40 \u0a17\u0a47\u0a1f",
+          "name:pnb": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u06af\u06cc\u0679",
+          "name:uk": "\u041a\u0430\u0448\u043c\u0456\u0440\u0441\u044c\u043a\u0430 \u0431\u0440\u0430\u043c\u0430",
+          "name:ur": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5854161857,
+        "lat": 28.658087,
+        "lon": 77.2170087,
+        "tags": {
+          "internet_access": "no",
+          "name": "Sadar Bazar",
+          "name:hi": "\u0938\u0926\u0930 \u092c\u093e\u091c\u093c\u093e\u0930",
+          "name:ur": "\u0635\u062f\u0631 \u0628\u0627\u0632\u0627\u0631",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DSB",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q24947943",
+          "wikipedia": "en:Sadar Bazar railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6131069513,
+        "lat": 28.6419258,
+        "lon": 77.2217499,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc;\u0646\u0626\u06cc \u062f\u0650\u0644\u0651\u06cc",
+          "internet_access": "wlan",
+          "long_name": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646",
+          "long_name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hi": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:ml": "\u0d28\u0d4d\u0d2f\u0d42 \u0d21\u0d46\u0d7d\u0d39\u0d3f",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "network": "IR",
+          "operator": "NR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NDLS",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikimedia_commons": "File:New Delhi railway station from Ajmeri Gate side.jpg",
+          "wikipedia": "en:New Delhi railway station",
+          "wikipedia:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6264851923,
+        "lat": 28.6661586,
+        "lon": 77.2216985,
+        "tags": {
+          "bus": "yes",
+          "name": "Mori Gate Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6405278623,
+        "lat": 28.6674173,
+        "lon": 77.2282496,
+        "tags": {
+          "name": "Kashmere Gate",
+          "name:ks": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "name:pa": "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30\u0a40 \u0a17\u0a47\u0a1f",
+          "name:pnb": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u06af\u06cc\u0679",
+          "name:uk": "\u041a\u0430\u0448\u043c\u0456\u0440\u0441\u044c\u043a\u0430 \u0431\u0440\u0430\u043c\u0430",
+          "name:ur": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772096,
+        "lat": 28.64249,
+        "lon": 77.2230952,
+        "tags": {
+          "name": "New Delhi Airport Express Terminal",
+          "name:hi": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938 \u091f\u0930\u094d\u092e\u093f\u0928\u0932",
+          "network": "Delhi Metro",
+          "network:wikidata": "Q271195",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:wikidata": "Q1029339",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDI",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772097,
+        "lat": 28.6434707,
+        "lon": 77.2227708,
+        "tags": {
+          "alt_name:ar": "\u0646\u064a\u0648\u062f\u0644\u0647\u064a",
+          "alt_name:ks": "\u0646\u0654\u0648 \u062f\u0650\u0644",
+          "alt_name:ur": "\u0646\u0626\u06cc \u062f\u0644\u06cc",
+          "name": "New Delhi",
+          "name:ar": "\u062f\u0644\u0647\u064a \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+          "name:az-Arab": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:azb": "\u06cc\u0626\u0646\u06cc \u062f\u0647\u0644\u06cc",
+          "name:de": "Neu-Delhi",
+          "name:el": "\u039d\u03ad\u03bf \u0394\u03b5\u03bb\u03c7\u03af",
+          "name:es": "Nueva Delhi",
+          "name:grc": "\u039d\u03b5\u03bf\u03b4\u03b5\u03bb\u03af\u03c2",
+          "name:hi": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940",
+          "name:hy": "\u0546\u0575\u0578\u0582 \u0534\u0565\u056c\u056b",
+          "name:hyw": "\u0546\u056b\u0582 \u054f\u0565\u056c\u0570\u056b",
+          "name:ks": "\u0646\u0654\u0648 \u062f\u0644\u06be\u06cc",
+          "name:pa": "\u0a28\u0a35\u0a40\u0a02 \u0a26\u0a3f\u0a71\u0a32\u0a40",
+          "name:ug": "\u064a\u06d0\u06ad\u0649 \u062f\u06d0\u06be\u0644\u0649",
+          "name:ur": "\u0646\u0626\u06cc \u062f\u06c1\u0644\u06cc",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "NDLS",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772099,
+        "lat": 28.6675256,
+        "lon": 77.2282174,
+        "tags": {
+          "name": "Kashmere Gate",
+          "name:ks": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "name:pa": "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30\u0a40 \u0a17\u0a47\u0a1f",
+          "name:pnb": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u06af\u06cc\u0679",
+          "name:uk": "\u041a\u0430\u0448\u043c\u0456\u0440\u0441\u044c\u043a\u0430 \u0431\u0440\u0430\u043c\u0430",
+          "name:ur": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6547772100,
+        "lat": 28.668686,
+        "lon": 77.228075,
+        "tags": {
+          "name": "Kashmere Gate",
+          "name:hi": "\u0915\u0936\u094d\u092e\u0940\u0930\u0940 \u0917\u0947\u091f",
+          "name:ks": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "name:pa": "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30\u0a40 \u0a17\u0a47\u0a1f",
+          "name:pnb": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u06af\u06cc\u0679",
+          "name:uk": "\u041a\u0430\u0448\u043c\u0456\u0440\u0441\u044c\u043a\u0430 \u0431\u0440\u0430\u043c\u0430",
+          "name:ur": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/23)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7018316586,
+        "lat": 28.6768508,
+        "lon": 77.2250299,
+        "tags": {
+          "name": "Civil Lines",
+          "name:hi": "\u0938\u093f\u0935\u093f\u0932 \u0932\u093e\u0907\u0928\u094d\u0938",
+          "name:ur": "\u0633\u0648\u0644 \u0644\u0627\u0626\u0646\u0632",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CL",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q5124512",
+          "wikipedia": "en:Civil Lines metro station (Delhi)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7018886724,
+        "lat": 28.6584227,
+        "lon": 77.2303375,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Chandni Chowk",
+          "name:hi": "\u091a\u093e\u0901\u0926\u0928\u0940 \u091a\u094c\u0915",
+          "name:ur": "\u0686\u0627\u0646\u062f\u0646\u06cc \u0686\u0648\u06a9",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "operator:ur": "\u062f\u06c1\u0644\u06cc \u0645\u06cc\u0679\u0631\u0648",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CHK",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5071227",
+          "wikipedia": "en:Chandni Chowk metro station (Delhi)"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7018886725,
+        "lat": 28.6492649,
+        "lon": 77.2265153,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Chawri Bazaar",
+          "name:hi": "\u091a\u093e\u0935\u0921\u093c\u0940 \u092c\u093e\u091c\u093c\u093e\u0930",
+          "name:ur": "\u0686\u0627\u0624\u0691\u06cc \u0628\u0627\u0632\u0627\u0631",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CWBR",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q5088577",
+          "wikipedia": "en:Chawri Bazar metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7083972066,
+        "lat": 28.6393711,
+        "lon": 77.2239559,
+        "tags": {
+          "bus": "yes",
+          "name": "Minto Road Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7086574353,
+        "lat": 28.6394999,
+        "lon": 77.2237176,
+        "tags": {
+          "bus": "yes",
+          "name": "Minto Road Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7282286730,
+        "lat": 28.657483,
+        "lon": 77.2366607,
+        "tags": {
+          "addr:postcode": "110006",
+          "name": "Lal Quila",
+          "name:hi": "\u0932\u093e\u0932 \u0915\u093f\u0932\u093e",
+          "name:ur": "\u0644\u0627\u0644 \u0642\u0644\u0639\u06c1",
+          "network": "Delhi Metro",
+          "note": "Contributors are requested to not edit the \"network\" and the \"operator\" tags. (2023/06/22)",
+          "operator": "Delhi Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "toilets:wheelchair": "no",
+          "wheelchair": "yes",
+          "wikidata": "Q19581000",
+          "wikipedia": "en:Lal Qila metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9048339562,
+        "lat": 28.6417754,
+        "lon": 77.2338061,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9052026091,
+        "lat": 28.6446605,
+        "lon": 77.2237611,
+        "tags": {
+          "alt_name": "Kamla Market",
+          "bus": "yes",
+          "name": "Kamala Market",
+          "name:hi": "\u0915\u092e\u0932\u093e \u092e\u093e\u0930\u094d\u0915\u093f\u091f",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9052026101,
+        "lat": 28.6441445,
+        "lon": 77.2239601,
+        "tags": {
+          "alt_name": "Kamla Market",
+          "bus": "yes",
+          "name": "Kamala Market",
+          "name:hi": "\u0915\u092e\u0932\u093e \u092e\u093e\u0930\u094d\u0915\u093f\u091f",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9052026102,
+        "lat": 28.6452425,
+        "lon": 77.2240232,
+        "tags": {
+          "alt_name": "Kamla Market",
+          "bus": "yes",
+          "name": "Kamala Market",
+          "name:hi": "\u0915\u092e\u0932\u093e \u092e\u093e\u0930\u094d\u0915\u093f\u091f",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9087190282,
+        "lat": 28.667679,
+        "lon": 77.2289537,
+        "tags": {
+          "bus": "yes",
+          "name": "Kashmere Gate",
+          "name:ks": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "name:pa": "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30\u0a40 \u0a17\u0a47\u0a1f",
+          "name:pnb": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u06af\u06cc\u0679",
+          "name:uk": "\u041a\u0430\u0448\u043c\u0456\u0440\u0441\u044c\u043a\u0430 \u0431\u0440\u0430\u043c\u0430",
+          "name:ur": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9103577589,
+        "lat": 28.6665557,
+        "lon": 77.2261392,
+        "tags": {
+          "bus": "yes",
+          "name": "Mori Gate Terminal",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9162635057,
+        "lat": 28.6601979,
+        "lon": 77.2262655,
+        "tags": {
+          "bus": "yes",
+          "name": "Old Delhi Railway Station",
+          "name:ur": "\u067e\u0631\u0627\u0646\u06cc \u062f\u06c1\u0644\u06cc \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9868227337,
+        "lat": 28.6709608,
+        "lon": 77.226134,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9868261347,
+        "lat": 28.6700559,
+        "lon": 77.2263858,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "Hindustan Petroleum",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11017150571,
+        "lat": 28.6618882,
+        "lon": 77.2279088,
+        "tags": {
+          "alt_name": "Old Delhi",
+          "name": "Delhi Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "15",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11174317216,
+        "lat": 28.6686728,
+        "lon": 77.228051,
+        "tags": {
+          "name": "Kashmere Gate",
+          "name:hi": "\u0915\u0936\u094d\u092e\u0940\u0930\u0940 \u0917\u0947\u091f",
+          "name:ks": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "name:pa": "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30\u0a40 \u0a17\u0a47\u0a1f",
+          "name:pnb": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u06af\u06cc\u0679",
+          "name:uk": "\u041a\u0430\u0448\u043c\u0456\u0440\u0441\u044c\u043a\u0430 \u0431\u0440\u0430\u043c\u0430",
+          "name:ur": "\u06a9\u0634\u0645\u06cc\u0631\u06cc \u062f\u0631\u0648\u0627\u0632\u06c1",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11778344680,
+        "lat": 28.6795004,
+        "lon": 77.2120304,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "check_date": "2025-09-01",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11823656860,
+        "lat": 28.6417761,
+        "lon": 77.2259725,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "IGL",
+          "brand:wikidata": "Q125553945",
+          "construction": "yes",
+          "name": "IGL"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11833042043,
+        "lat": 28.6512729,
+        "lon": 77.2046862,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11875814624,
+        "lat": 28.6775315,
+        "lon": 77.2080457,
+        "tags": {
+          "amenity": "charging_station",
+          "fee": "yes",
+          "name": "Ganpati Smart Point"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12194497185,
+        "lat": 28.6617448,
+        "lon": 77.2279026,
+        "tags": {
+          "alt_name": "Old Delhi",
+          "name": "Delhi Junction",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "14",
+          "train": "yes"
+        }
+      }
+    ]
+  }
+}

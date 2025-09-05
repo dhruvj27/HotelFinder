@@ -1,0 +1,682 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:04:43Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2725299208,
+        "lat": 26.8880625,
+        "lon": 75.8091472,
+        "tags": {
+          "leisure": "park",
+          "name": "Savitri Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2725302272,
+        "lat": 26.8894783,
+        "lon": 75.8123403,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Prakritik Chikitsalaya"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2725536808,
+        "lat": 26.8935138,
+        "lon": 75.813656,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Santokba Durlabhji Memorial Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083726939,
+        "lat": 26.8906056,
+        "lon": 75.8145243,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:country": "IN",
+          "addr:state": "Rajasthan",
+          "addr:street": "JLN Road",
+          "amenity": "atm",
+          "brand": "ICICI Bank",
+          "brand:en": "ICICI Bank",
+          "brand:wikidata": "Q1653258",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "ICICI Bank",
+          "operator:en": "ICICI Bank",
+          "operator:wikidata": "Q1653258",
+          "short_name": "ICICI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4466633244,
+        "lat": 26.893253,
+        "lon": 75.812105,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "SDMH"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4466634118,
+        "lat": 26.8951673,
+        "lon": 75.8149318,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "soni hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4706796989,
+        "lat": 26.8978763,
+        "lon": 75.8147386,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Bar palladio"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4959487622,
+        "lat": 26.8978423,
+        "lon": 75.8079481,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Suvarna Mahal"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4959540921,
+        "lat": 26.9056742,
+        "lon": 75.8111596,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:state": "Rajasthan",
+          "amenity": "cafe",
+          "name": "Tapri Central , JAIPUR",
+          "name:en": "Tapri"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5582501185,
+        "lat": 26.8918721,
+        "lon": 75.8101422,
+        "tags": {
+          "addr:city": "Jaipur",
+          "addr:housenumber": "B-134, Pearl Pleasure Apartments",
+          "addr:postcode": "302015",
+          "addr:street": "Rajendra Marg",
+          "amenity": "hospital",
+          "description": "Best Orthodontist in Bapu nagar, Jaipur. Provides best dental braces in jaipur.",
+          "healthcare": "dentist",
+          "healthcare:speciality": "orthodontist;dentist;orthodontics;dentistry",
+          "name": "Dr. Ramani's Dental Practice",
+          "operator": "Dr. Arun Ramani",
+          "phone": "097838 11114",
+          "website": "http://dentalpracticejaipur.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6964126501,
+        "lat": 26.8962498,
+        "lon": 75.8103297,
+        "tags": {
+          "amenity": "bank",
+          "name": "Reserve Bank of India",
+          "phone": "+91 141 2563794"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7027685279,
+        "lat": 26.9014055,
+        "lon": 75.8177174,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Adarsh Nagar",
+          "addr:postcode": "302004",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "J. K. Loan Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7027690433,
+        "lat": 26.8973018,
+        "lon": 75.8109118,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "456 Dr.Garg Tower,Near RBI",
+          "addr:postcode": "303103",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "fertility",
+          "name": "International Fertility and Health Care Centre",
+          "source": "OpenGovernmentData",
+          "website": "fertilitytreatmentindia.com"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7027786380,
+        "lat": 26.8979427,
+        "lon": 75.8178108,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "20 Uniara Garden, J.N.L. Road",
+          "addr:postcode": "302004",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Uniara Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030319486,
+        "lat": 26.8954188,
+        "lon": 75.8150476,
+        "tags": {
+          "amenity": "atm",
+          "brand": "State Bank of India",
+          "brand:en": "State Bank of India",
+          "brand:wikidata": "Q1340361",
+          "currency:INR": "yes",
+          "drive_through": "no",
+          "indoor": "yes",
+          "name": "SBI",
+          "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+          "opening_hours": "24/7",
+          "operator": "State Bank of India",
+          "operator:en": "State Bank of India",
+          "operator:wikidata": "Q1340361",
+          "short_name": "SBI"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7030319488,
+        "lat": 26.902255,
+        "lon": 75.8167071,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "J.L.N Marg Jaipur",
+          "addr:postcode": "302017",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "hospital",
+          "name": "Getwell Poly Clinic and Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7035249224,
+        "lat": 26.8957806,
+        "lon": 75.8146733,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "38, Kanota Bagh, J.L.N.Marg",
+          "addr:postcode": "302004",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Soni Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7036728296,
+        "lat": 26.889592,
+        "lon": 75.8037262,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Mall,Lal Kothi,Tonk Road",
+          "addr:postcode": "302006",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "otolaryngology",
+          "name": "Global Advanced Ent Surgery Centre",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7113996999,
+        "lat": 26.8978764,
+        "lon": 75.8150251,
+        "tags": {
+          "amenity": "restaurant",
+          "name:en": "Shikaar Bagh"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409958,
+        "lat": 26.8909671,
+        "lon": 75.8021812,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Vidhayak Nagar, Lalkothi",
+          "addr:postcode": "302005",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "ophthalmology",
+          "name": "Anupam Eye Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409994,
+        "lat": 26.8887114,
+        "lon": 75.8080238,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Bapu Nagar, Jaipur",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "healthcare:speciality": "urology",
+          "name": "KKS Urology and General Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698409995,
+        "lat": 26.8900481,
+        "lon": 75.806823,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Krishna Marg, Bapu Nagar",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. Jain's Bone and Joint Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410017,
+        "lat": 26.8917421,
+        "lon": 75.8081261,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Piyush Marg, Bapu Nagar",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Puneet Bhargav",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410022,
+        "lat": 26.889832,
+        "lon": 75.808309,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Bapu Nagar",
+          "addr:postcode": "302015",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dhruv Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698410049,
+        "lat": 26.8884773,
+        "lon": 75.8129801,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Jawahar Lal Nehru Marg, Bapu Nagar",
+          "addr:postcode": "302007",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Pankaj Bohra",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698578029,
+        "lat": 26.8949388,
+        "lon": 75.8162226,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Moti Doongri Road, Tilak Nagar",
+          "addr:postcode": "302004",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Baldwa Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698578075,
+        "lat": 26.9021006,
+        "lon": 75.8160988,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Sangram Colony, Ashok Nagar",
+          "addr:postcode": "302004",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr.Sudrania Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698578078,
+        "lat": 26.8935766,
+        "lon": 75.8125166,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Rambagh, Jaipur",
+          "addr:postcode": "302004",
+          "addr:state": "Rajasthan",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Santokba Durlabhji Memorial Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698578081,
+        "lat": 26.8961491,
+        "lon": 75.8192599,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Jawahar Nagar, Jaipur",
+          "addr:postcode": "302004",
+          "addr:state": "Rajasthan",
+          "amenity": "doctors",
+          "healthcare": "doctor",
+          "name": "Dr. Ritu Joshi",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7698578099,
+        "lat": 26.9004328,
+        "lon": 75.8188149,
+        "tags": {
+          "addr:district": "Jaipur",
+          "addr:full": "Gangawal Park, Adarsh Nagar, Jaipur",
+          "addr:postcode": "302004",
+          "addr:state": "Rajasthan",
+          "amenity": "clinic",
+          "healthcare": "clinic",
+          "name": "Dr. R.M. Mathur Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11443262471,
+        "lat": 26.8923028,
+        "lon": 75.81363,
+        "tags": {
+          "amenity": "atm",
+          "name": "ATM SBI",
+          "opening_hours": "24/7"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T13:05:45Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1946919383,
+        "lat": 26.9017919,
+        "lon": 75.7895065,
+        "tags": {
+          "internet_access": "no",
+          "name": "Bais Godam",
+          "network": "IR",
+          "operator": "NWR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BSGD",
+          "train": "no",
+          "wikidata": "Q24949515",
+          "wikipedia": "en:Bais Godam railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2690970281,
+        "lat": 26.9026493,
+        "lon": 75.7923721,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3083894933,
+        "lat": 26.9169424,
+        "lon": 75.8169212,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3677353031,
+        "lat": 26.9169156,
+        "lon": 75.8063152,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3862442972,
+        "lat": 26.9033655,
+        "lon": 75.7924281,
+        "tags": {
+          "amenity": "cinema",
+          "brand": "INOX Leisure",
+          "brand:wikidata": "Q5972349",
+          "name": "Inox",
+          "short_name": "INOX"
+        }
+      },
+      {
+        "type": "node",
+        "id": 6976254817,
+        "lat": 26.8994995,
+        "lon": 75.8132041,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "RSRTC/Roadways Bus Stand",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7079400604,
+        "lat": 26.8998345,
+        "lon": 75.8129319,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Volvo Stand",
+          "operator": "RSRTC",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8084157103,
+        "lat": 26.9020437,
+        "lon": 75.7930168,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "22 Godam Public Bus Stop",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8665176577,
+        "lat": 26.91708,
+        "lon": 75.8006737,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10904794879,
+        "lat": 26.9154253,
+        "lon": 75.8100827,
+        "tags": {
+          "addr:housenumber": "C-16, Bhagwan Das Rd, Panch Batti, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",
+          "amenity": "cinema",
+          "name": "raj mandir cinemas"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10936787897,
+        "lat": 26.9167126,
+        "lon": 75.8048644,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11586819554,
+        "lat": 26.8959825,
+        "lon": 75.8093318,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Hindustan Petroleum",
+          "brand:wikidata": "Q1619375",
+          "name": "HP",
+          "official_name": "Hindustan Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11747571769,
+        "lat": 26.9027002,
+        "lon": 75.7903837,
+        "tags": {
+          "amenity": "fuel",
+          "name:en": "BPCL BAIS GODAM PETROL PUMP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11747573469,
+        "lat": 26.9035483,
+        "lon": 75.7887016,
+        "tags": {
+          "amenity": "fuel",
+          "name:en": "BPCL BAIS GODAM PETROL PUMP"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11763619972,
+        "lat": 26.8892423,
+        "lon": 75.8043641,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11765964116,
+        "lat": 26.8988076,
+        "lon": 75.7935498,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil"
+        }
+      }
+    ]
+  }
+}

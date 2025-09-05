@@ -1,0 +1,76 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:03:11Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": []
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:04:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 3898183127,
+        "lat": 23.1614522,
+        "lon": 72.6973521,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "IOC",
+          "name": "IOC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121918,
+        "lat": 23.153345,
+        "lon": 72.6855844,
+        "tags": {
+          "name": "GIFT City",
+          "name:gu": "\u0a97\u0abf\u0aab\u0acd\u0a9f \u0ab8\u0abf\u0a9f\u0ac0",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11115121919,
+        "lat": 23.1533672,
+        "lon": 72.6855201,
+        "tags": {
+          "name": "GIFT City",
+          "name:gu": "\u0a97\u0abf\u0aab\u0acd\u0a9f \u0ab8\u0abf\u0a9f\u0ac0",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12196641357,
+        "lat": 23.1533555,
+        "lon": 72.6855536,
+        "tags": {
+          "name": "GIFT City",
+          "name:gu": "\u0a97\u0abf\u0aab\u0acd\u0a9f \u0ab8\u0abf\u0a9f\u0ac0",
+          "network": "Ahmedabad Metro",
+          "operator": "Gujarat Metro Rail Corporation Limited",
+          "operator:wikidata": "Q113158873",
+          "operator:wikipedia": "en:Gujarat Metro Rail Corporation Limited",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    ]
+  }
+}

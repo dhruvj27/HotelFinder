@@ -1,0 +1,731 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:35:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 2308149391,
+        "lat": 19.1782548,
+        "lon": 72.8558799,
+        "tags": {
+          "amenity": "atm",
+          "brand": "HDFC Bank",
+          "brand:wikidata": "Q631047",
+          "name": "HDFC Bank",
+          "operator": "HDFC Bank",
+          "operator:wikidata": "Q631047",
+          "short_name": "HDFC"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2411660992,
+        "lat": 19.1806805,
+        "lon": 72.8630713,
+        "tags": {
+          "amenity": "hospital",
+          "emergency": "yes",
+          "name": "Hyat Hosptal"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2562637541,
+        "lat": 19.174647,
+        "lon": 72.8679049,
+        "tags": {
+          "amenity": "restaurant",
+          "brand": "Pizza Hut",
+          "brand:wikidata": "Q191615",
+          "cuisine": "pizza",
+          "name": "Pizza Hut"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3469153682,
+        "lat": 19.1726378,
+        "lon": 72.8676047,
+        "tags": {
+          "leisure": "park",
+          "name": "Ganesh Maidan"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4607431886,
+        "lat": 19.1715961,
+        "lon": 72.8636339,
+        "tags": {
+          "access": "permissive",
+          "leisure": "garden",
+          "name": "oberoi exquisite garden"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7047423152,
+        "lat": 19.1743945,
+        "lon": 72.8613845,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Goregaon",
+          "addr:postcode": "400051",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Tushar Maternity and Surgical Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7047494525,
+        "lat": 19.1745824,
+        "lon": 72.8623071,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "A Padmavati Nagar Film City Road Gurgaon East",
+          "addr:postcode": "400097",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Suresh Eye Clinic",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7047813835,
+        "lat": 19.1813262,
+        "lon": 72.8634739,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "4, Neelam Appartment, Near Triveni Nagar, Kokani Pada, Kurar, Malad East",
+          "addr:postcode": "400097",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Suvidha Hospital and Iccu",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049156405,
+        "lat": 19.1748509,
+        "lon": 72.8681155,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Rajnigandha Shoping Centre, Gokuldham, Filmcity Road, Goregaon E, Mumbai 63",
+          "addr:postcode": "400063",
+          "addr:state": "Maharashtra",
+          "amenity": "clinic",
+          "name": "Kanchi Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7049374148,
+        "lat": 19.1745533,
+        "lon": 72.8640358,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "54 Yashodham Enclave Opp Royal Challenge Hotel Film City Road Goregaon East",
+          "addr:postcode": "400063",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Enclave Maternity Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7050410994,
+        "lat": 19.1812375,
+        "lon": 72.8573692,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "1-2 Ashish Chs, Raheja Township, Rani Sati Road, Near Sai Baba Temple, Malad East",
+          "addr:postcode": "400097",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Sai Krupa Hospital, Mumbai",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7225067156,
+        "lat": 19.1720375,
+        "lon": 72.8517554,
+        "tags": {
+          "addr:district": "Mumbai",
+          "addr:full": "Road Number 4, C-WING, Subhash Nagar, Goregaon",
+          "addr:postcode": "400063",
+          "addr:state": "Maharashtra",
+          "amenity": "hospital",
+          "name": "Pandurangawadi Health Post",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663833094,
+        "lat": 19.172692,
+        "lon": 72.868019,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Sai Road, Gokuldham Colony, Goregaon, Mumbai",
+          "addr:postcode": "400063",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "Dr. Nitin Pandit's Family Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663833096,
+        "lat": 19.1740701,
+        "lon": 72.8671134,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Yashodham, Goregaon, Mumbai",
+          "addr:postcode": "400063",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "Dr. Nirmal Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663833116,
+        "lat": 19.1800226,
+        "lon": 72.8597488,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Shop No. 5, Tapovan - B, Pathanwadi Road, Malad, Tapovan Housing Complex, Pathan Wadi, Malad East, Mumbai",
+          "addr:postcode": "400097",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "Bittoo Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663833125,
+        "lat": 19.1794965,
+        "lon": 72.8606797,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Pathanwadi Road, Malad, Tapovan Housing Complex, Pathan Wadi, Malad East, Mumbai",
+          "addr:postcode": "400097",
+          "addr:state": "Maharastra",
+          "amenity": "hospital",
+          "name": "New Nari Hospital",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7663833157,
+        "lat": 19.17209,
+        "lon": 72.86824,
+        "tags": {
+          "addr:district": "Mumbai Suburban",
+          "addr:full": "Opp Lifeline Hospital, Near Gokuldham Temple, Dindoshi, Goregaon, Mumbai",
+          "addr:postcode": "400063",
+          "addr:state": "Maharastra",
+          "amenity": "clinic",
+          "name": "Dr. Fulia's Homoeopathic Clinic",
+          "source": "Local Knowledge"
+        }
+      },
+      {
+        "type": "node",
+        "id": 8938995268,
+        "lat": 19.1757507,
+        "lon": 72.8534476,
+        "tags": {
+          "leisure": "park",
+          "name": "Giri pushpa Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10567965615,
+        "lat": 19.172676,
+        "lon": 72.860395,
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Starbucks",
+          "brand:wikidata": "Q37158",
+          "cuisine": "coffee_shop",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Starbucks",
+          "official_name": "Starbucks Coffee",
+          "opening_hours": "Mo-Su 09:00-23:00",
+          "outdoor_seating": "yes",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11915121006,
+        "lat": 19.1777161,
+        "lon": 72.8632299,
+        "tags": {
+          "addr:city": "Malad",
+          "addr:district": "Mumbai Subarban",
+          "addr:postcode": "400097",
+          "leisure": "park",
+          "name": "Pathanwadi Muncipal Park"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11915129391,
+        "lat": 19.1742788,
+        "lon": 72.8634134,
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Royal Challenge Restaurant"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12477833891,
+        "lat": 19.1728904,
+        "lon": 72.8553686,
+        "tags": {
+          "addr:city": "Mumbai",
+          "addr:district": "Goregaon",
+          "addr:housenumber": "901,B-wing",
+          "addr:postcode": "400063",
+          "addr:street": "LOTUS CORPORATE PARK, gram firth steel compound",
+          "brand": "Albino Lifestyle",
+          "name": "Albino Lifestyle",
+          "opening_hours": "24/7",
+          "operator": "Albino Lifestyle",
+          "phone": "+918108037000",
+          "shop": "supermarket",
+          "website": "https://albinolifestyle.com/"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T07:35:15Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 213030688,
+        "lat": 19.1868093,
+        "lon": 72.8487584,
+        "tags": {
+          "name": "Malad",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 213030694,
+        "lat": 19.1648571,
+        "lon": 72.8494067,
+        "tags": {
+          "name": "Goregaon",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "3",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 984287752,
+        "lat": 19.1549228,
+        "lon": 72.8562728,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Movietime Hub",
+          "name:en": "Movietime Hub"
+        }
+      },
+      {
+        "type": "node",
+        "id": 985121048,
+        "lat": 19.1655121,
+        "lon": 72.8512018,
+        "tags": {
+          "amenity": "theatre",
+          "construction": "yes",
+          "name": "Anupam"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1169476028,
+        "lat": 19.1661306,
+        "lon": 72.8458433,
+        "tags": {
+          "amenity": "fuel",
+          "brand": "Bharat Petroleum",
+          "brand:wikidata": "Q854826",
+          "name": "Bharat Petroleum"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3347034598,
+        "lat": 19.1867193,
+        "lon": 72.8485884,
+        "tags": {
+          "internet_access": "no",
+          "name": "Malad",
+          "name:hi": "\u092e\u093e\u0932\u093e\u0921",
+          "name:mr": "\u092e\u093e\u0932\u093e\u0921",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MDD",
+          "train": "yes",
+          "wikidata": "Q6740940",
+          "wikipedia": "en:Malad railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3347034961,
+        "lat": 19.1648688,
+        "lon": 72.8495492,
+        "tags": {
+          "internet_access": "no",
+          "name": "Goregaon",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935",
+          "network": "Mumbai Suburban Railway",
+          "network:wikidata": "Q3273422",
+          "operator": "WR",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "GMN",
+          "train": "yes",
+          "wikidata": "Q5586150",
+          "wikipedia": "en:Goregaon railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5220954738,
+        "lat": 19.1797568,
+        "lon": 72.8583213,
+        "tags": {
+          "name": "Dindoshi",
+          "name:mr": "\u0926\u093f\u0902\u0921\u094b\u0936\u0940",
+          "name:ru": "\u0414\u0438\u043d\u0434\u043e\u0448\u0438",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5220954741,
+        "lat": 19.1695334,
+        "lon": 72.8588365,
+        "tags": {
+          "name": "Aarey",
+          "name:mr": "\u0906\u0930\u0947 \u0930\u094b\u0921 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:ru": "\u0410\u0430\u0440\u0435\u0439",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5220954742,
+        "lat": 19.1524116,
+        "lon": 72.8566221,
+        "tags": {
+          "name": "Goregaon (East)",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935 (\u092a\u0942\u0930\u094d\u0935)",
+          "name:ru": "\u0413\u043e\u0440\u0435\u0433\u0430\u043e\u043d-\u0418\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7552167806,
+        "lat": 19.186812,
+        "lon": 72.8488116,
+        "tags": {
+          "name": "Malad",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817951291,
+        "lat": 19.1648661,
+        "lon": 72.8496929,
+        "tags": {
+          "name": "Goregaon",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "6",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817951292,
+        "lat": 19.1648668,
+        "lon": 72.8496487,
+        "tags": {
+          "name": "Goregaon",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "5",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817951293,
+        "lat": 19.1648578,
+        "lon": 72.8494518,
+        "tags": {
+          "name": "Goregaon",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "4",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7817951294,
+        "lat": 19.1648617,
+        "lon": 72.8492877,
+        "tags": {
+          "name": "Goregaon",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "2",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9130397819,
+        "lat": 19.1871009,
+        "lon": 72.85854,
+        "tags": {
+          "alt_name": "Pushpa Park",
+          "name": "Kurar",
+          "name:mr": "\u0915\u0941\u0930\u093e\u0930",
+          "name:ru": "\u041a\u0443\u0440\u0430\u0440",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9156468960,
+        "lat": 19.1648593,
+        "lon": 72.8492418,
+        "tags": {
+          "name": "Goregaon",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "ref": "1",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9629564097,
+        "lat": 19.1693242,
+        "lon": 72.8587918,
+        "tags": {
+          "name": "Aarey",
+          "name:mr": "\u0906\u0930\u0947 \u0930\u094b\u0921 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q116271881"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9629564098,
+        "lat": 19.1797579,
+        "lon": 72.8582976,
+        "tags": {
+          "name": "Dindoshi",
+          "name:mr": "\u0926\u093f\u0902\u0921\u094b\u0936\u0940",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9629564099,
+        "lat": 19.1872999,
+        "lon": 72.8584547,
+        "tags": {
+          "alt_name": "Pushpa Park",
+          "name": "Kurar",
+          "name:mr": "\u0915\u0941\u0930\u093e\u0930",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9630758737,
+        "lat": 19.1871005,
+        "lon": 72.8584924,
+        "tags": {
+          "alt_name": "Pushpa Park",
+          "name": "Kurar",
+          "name:mr": "\u0915\u0941\u0930\u093e\u0930",
+          "name:ru": "\u041a\u0443\u0440\u0430\u0440",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9630758744,
+        "lat": 19.1797562,
+        "lon": 72.8582737,
+        "tags": {
+          "name": "Dindoshi",
+          "name:mr": "\u0926\u093f\u0902\u0921\u094b\u0936\u0940",
+          "name:ru": "\u0414\u0438\u043d\u0434\u043e\u0448\u0438",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 9630758755,
+        "lat": 19.1695389,
+        "lon": 72.8587902,
+        "tags": {
+          "name": "Aarey",
+          "name:mr": "\u0906\u0930\u0947 \u0930\u094b\u0921 \u091c\u0902\u0915\u094d\u0936\u0928",
+          "name:ru": "\u0410\u0430\u0440\u0435\u0439",
+          "network": "Mumbai Metro",
+          "operator": "MMRDA",
+          "public_transport": "stop_position",
+          "public_transport:version": "2",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10553764693,
+        "lat": 19.1597944,
+        "lon": 72.858293,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Tata power",
+          "charge": "\u20b921/kWh + GST",
+          "covered": "no",
+          "fee": "yes",
+          "manufacturer": "Delta",
+          "note": "25kW"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576622722,
+        "lat": 19.1524492,
+        "lon": 72.8565966,
+        "tags": {
+          "name": "Goregaon (East)",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935 (\u092a\u0942\u0930\u094d\u0935)",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10576622726,
+        "lat": 19.1524194,
+        "lon": 72.8565586,
+        "tags": {
+          "name": "Goregaon (East)",
+          "name:mr": "\u0917\u094b\u0930\u0947\u0917\u093e\u0935 (\u092a\u0942\u0930\u094d\u0935)",
+          "name:ru": "\u0413\u043e\u0440\u0435\u0433\u0430\u043e\u043d-\u0418\u0441\u0442",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11915100519,
+        "lat": 19.1754346,
+        "lon": 72.8662359,
+        "tags": {
+          "addr:postcode": "400063",
+          "amenity": "fuel",
+          "brand": "Indian Oil",
+          "brand:wikidata": "Q1289348",
+          "name": "Indian Oil Petrol Pump",
+          "self_service": "no"
+        }
+      }
+    ]
+  }
+}

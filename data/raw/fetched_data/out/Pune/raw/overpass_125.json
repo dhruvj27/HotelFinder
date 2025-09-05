@@ -1,0 +1,77 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:31:31Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 4067965460,
+        "lat": 18.5029247,
+        "lon": 73.7610515,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Hotel Surabhi",
+          "source": "gps"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10242046218,
+        "lat": 18.5079589,
+        "lon": 73.7719722,
+        "tags": {
+          "addr:city": "Pune",
+          "addr:housename": "Mantri Lavendula",
+          "addr:locality": "Bavdhan",
+          "addr:street": "Paud Road",
+          "amenity": "restaurant",
+          "cuisine": "italian;asian;indian",
+          "name": "Anthem",
+          "opening_hours": "Mo-Su 16:00-01:00"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T11:31:31Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 10097434143,
+        "lat": 18.5105681,
+        "lon": 73.781902,
+        "tags": {
+          "amenity": "charging_station",
+          "brand": "Ather Energy",
+          "capacity": "1",
+          "operator": "Ather Energy",
+          "scooter": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10615755147,
+        "lat": 18.5114349,
+        "lon": 73.7770341,
+        "tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "Bolt",
+          "capacity": "1",
+          "operator": "Trimurti Motors",
+          "scooter": "yes"
+        }
+      }
+    ]
+  }
+}

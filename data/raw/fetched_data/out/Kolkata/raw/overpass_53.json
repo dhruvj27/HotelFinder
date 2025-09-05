@@ -1,0 +1,377 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:40:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 7050952687,
+        "lat": 22.6349407,
+        "lon": 88.4386834,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "V.I.P.Road, Kaikhali, P.S.Airport",
+          "addr:postcode": "700052",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Maa Sarada Nursing Home",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074312616,
+        "lat": 22.6346479,
+        "lon": 88.4348881,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "1, Kaikhali Road, Kaikhali, Rajarhat Gopalpur",
+          "addr:postcode": "700136",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "25734303",
+          "healthcare": "hospital",
+          "name": "Little Hut Nirikshan Kendra",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074329148,
+        "lat": 22.6257664,
+        "lon": 88.4350772,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Teghoria, Rajarhat & Vip Road Junction, Vip Road",
+          "addr:postcode": "700157",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "3340500500",
+          "healthcare": "hospital",
+          "name": "Charnock Hospital Pvt Ltd",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7074329162,
+        "lat": 22.6393342,
+        "lon": 88.4310385,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "AIR-PORT, New Qrts., Dum Dum",
+          "addr:postcode": "700052",
+          "addr:state": "West Bengal",
+          "amenity": "clinic",
+          "contact:phone": "3325119442",
+          "health_facility:type": "dispensary",
+          "healthcare": "centre",
+          "name": "CGHS Wellness Centre Airport Dispensary",
+          "operator:type": "government",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 7079023527,
+        "lat": 22.6248726,
+        "lon": 88.433718,
+        "tags": {
+          "addr:district": "Kolkata",
+          "addr:full": "Nazrul Islam Avenue Teghoria Vip Road",
+          "addr:postcode": "700059",
+          "addr:state": "West Bengal",
+          "amenity": "hospital",
+          "contact:phone": "03340144014;40144022",
+          "healthcare": "hospital",
+          "name": "Renaissance Hospital",
+          "source": "OpenGovernmentData"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10960407381,
+        "lat": 22.6262926,
+        "lon": 88.43144,
+        "tags": {
+          "leisure": "park"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-06T09:40:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 664465170,
+        "lat": 22.6471121,
+        "lon": 88.4376386,
+        "tags": {
+          "public_transport": "stop_position",
+          "ref": "BNBA",
+          "train": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 1074606326,
+        "lat": 22.6364899,
+        "lon": 88.4120228,
+        "tags": {
+          "name": "Dum Dum Cantonment",
+          "network": "IR",
+          "operator": "ER",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DDC",
+          "train": "yes",
+          "wikidata": "Q31294236",
+          "wikipedia": "en:Dum Dum Cantonment railway station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 2212830728,
+        "lat": 22.622181,
+        "lon": 88.4444798,
+        "tags": {
+          "amenity": "fuel"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4834788521,
+        "lat": 22.6447563,
+        "lon": 88.438729,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Airport Bus Stand (lines VS1, VS2, AC37A, AC39, AC43, AC49A)",
+          "name:en": "Airport Bus Stand (lines VS1, VS2, AC37A, AC39, AC43, AC49A)",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5567031301,
+        "lat": 22.6416991,
+        "lon": 88.4311967,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 5567031302,
+        "lat": 22.641663,
+        "lon": 88.431454,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10137972517,
+        "lat": 22.6230567,
+        "lon": 88.4140265,
+        "tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Nagerbazar Bus Station",
+          "public_transport": "station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10554040909,
+        "lat": 22.6308074,
+        "lon": 88.4217376,
+        "tags": {
+          "addr:housenumber": "111a",
+          "addr:postcode": "700028",
+          "addr:street": "RBC Road",
+          "amenity": "charging_station",
+          "name": "Electric Vehicle Charging Station",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 10564291409,
+        "lat": 22.6256458,
+        "lon": 88.4131756,
+        "tags": {
+          "addr:housenumber": "292",
+          "addr:postcode": "700028",
+          "addr:street": "R N Guha Road",
+          "amenity": "charging_station",
+          "name": "Electric Vehicle Charging Station",
+          "opening_hours": "24/7"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088491840,
+        "lat": 22.6473058,
+        "lon": 88.4373029,
+        "tags": {
+          "alt_name": "Biman Bandar",
+          "name": "Jai Hind",
+          "name:bn": "\u099c\u09af\u09bc \u09b9\u09bf\u09a8\u09cd\u09a6",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q65090394",
+          "wikipedia": "en:Jai Hind metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088491841,
+        "lat": 22.6472996,
+        "lon": 88.4373305,
+        "tags": {
+          "alt_name": "Biman Bandar",
+          "name": "Jai Hind",
+          "name:bn": "\u099c\u09af\u09bc \u09b9\u09bf\u09a8\u09cd\u09a6",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088491842,
+        "lat": 22.6473072,
+        "lon": 88.4372747,
+        "tags": {
+          "alt_name": "Biman Bandar",
+          "name": "Jai Hind",
+          "name:bn": "\u099c\u09af\u09bc \u09b9\u09bf\u09a8\u09cd\u09a6",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088491869,
+        "lat": 22.6392844,
+        "lon": 88.429756,
+        "tags": {
+          "name": "Jessore Road",
+          "name:bn": "\u09af\u09b6\u09cb\u09b9\u09b0 \u09b0\u09cb\u09a1",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088491870,
+        "lat": 22.6392435,
+        "lon": 88.4297906,
+        "tags": {
+          "name": "Jessore Road",
+          "name:bn": "\u09af\u09b6\u09cb\u09b9\u09b0 \u09b0\u09cb\u09a1",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088491871,
+        "lat": 22.6392646,
+        "lon": 88.4297701,
+        "tags": {
+          "name": "Jessore Road",
+          "name:bn": "\u09af\u09b6\u09cb\u09b9\u09b0 \u09b0\u09cb\u09a1",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q76741320",
+          "wikipedia": "en:Jessore Road metro station"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088491872,
+        "lat": 22.6376036,
+        "lon": 88.4121414,
+        "tags": {
+          "name": "Dum Dum Cantonment",
+          "name:bn": "\u09a6\u09ae\u09a6\u09ae \u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09a8\u09ae\u09c7\u09a8\u09cd\u099f",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088491873,
+        "lat": 22.6375869,
+        "lon": 88.4121876,
+        "tags": {
+          "name": "Dum Dum Cantonment",
+          "name:bn": "\u09a6\u09ae\u09a6\u09ae \u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09a8\u09ae\u09c7\u09a8\u09cd\u099f",
+          "network": "Kolkata Metro",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        }
+      },
+      {
+        "type": "node",
+        "id": 13088491874,
+        "lat": 22.6375936,
+        "lon": 88.4121618,
+        "tags": {
+          "name": "Dum Dum Cantonment",
+          "name:bn": "\u09a6\u09ae\u09a6\u09ae \u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09a8\u09ae\u09c7\u09a8\u09cd\u099f",
+          "network": "Kolkata Metro",
+          "network:wikidata": "Q1048849",
+          "operator": "Metro Railway, Kolkata",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q31725714",
+          "wikipedia": "en:Dum Dum Cantonment metro station"
+        }
+      }
+    ]
+  }
+}

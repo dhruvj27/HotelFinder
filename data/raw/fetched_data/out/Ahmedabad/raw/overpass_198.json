@@ -1,0 +1,79 @@
+{
+  "pois_1km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:37:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 6979173508,
+        "lat": 23.0993792,
+        "lon": 72.6285593,
+        "tags": {
+          "addr:district": "Gandhinagar",
+          "addr:full": "Hansol- Highway Village Bhat",
+          "addr:postcode": "382428",
+          "addr:state": "Gujarat",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kanoria Hospital And Research Centre, Gandhinagar",
+          "source": "OpenGovernmentData"
+        }
+      }
+    ]
+  },
+  "pois_2_5km": {
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+      "timestamp_osm_base": "2025-09-07T12:37:00Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "node",
+        "id": 1234846882,
+        "lat": 23.1053991,
+        "lon": 72.6308627,
+        "tags": {
+          "amenity": "fuel",
+          "ele": "56.12",
+          "source:ele": "gpx"
+        }
+      },
+      {
+        "type": "node",
+        "id": 3306683648,
+        "lat": 23.0804623,
+        "lon": 72.6171044,
+        "tags": {
+          "bus": "yes",
+          "public_transport": "stop_position"
+        }
+      },
+      {
+        "type": "node",
+        "id": 4488103325,
+        "lat": 23.0810593,
+        "lon": 72.6415185,
+        "tags": {
+          "amenity": "cinema",
+          "name": "Maya CINEMA -CLOSED"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11991899052,
+        "lat": 23.0710381,
+        "lon": 72.6208273,
+        "tags": {
+          "aeroway": "terminal",
+          "name": "Terminal 4 Building"
+        }
+      }
+    ]
+  }
+}

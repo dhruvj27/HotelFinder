@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Header from './components/Header'
@@ -8,8 +7,8 @@ import Home from './pages/Home'
 import Team from './pages/Team'
 import Footer from './components/Footer'
 import BookingPage from './pages/BookingPage';
-// import HotelDetails from './pages/HotelDetails';
-// import SearchResults from './pages/SearchResults';
+import HotelDetails from './pages/HotelDetails';
+import SearchResults from './pages/SearchResults';
 import NotFound from './pages/NotFound'
 
 function App() {
@@ -22,22 +21,16 @@ function App() {
             {/* Main Pages */}
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
-            {/* <Route path="/services" element={<Services />} />
-            <Route path="/facilities" element={<Facilities />} />
-            <Route path="/membership" element={<Membership />} /> */}
             <Route path="/contact" element={<Contact />} />
             <Route path="/team" element={<Team />} />
             
-            {/* Hotel & Booking Pages */}
-            {/* <Route path="/search" element={<SearchResults />} /> */}
-            
-            {/* Dynamic hotel routes - supports both ID and slug */}
-            {/* <Route path="/hotel/:id" element={<HotelDetails />} />
-            <Route path="/hotels/:slug" element={<HotelDetails />} /> */}
+            {/* Hotel & Search Pages */}
+            <Route path="/results" element={<SearchResults />} />
+            <Route path="/hotel/:id" element={<HotelDetails />} />
             
             {/* Booking routes */}
-            {/* <Route path="/booking" element={<BookingPage />} />
-            <Route path="/booking/:hotelId" element={<BookingPage />} /> */}
+            <Route path="/booking" element={<BookingPage />} />
+            <Route path="/booking/:hotelId" element={<BookingPage />} />
             
             {/* 404 Page */}
             <Route path="/404" element={<NotFound />} />

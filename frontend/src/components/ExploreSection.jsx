@@ -8,7 +8,7 @@ const ExploreSection = () => {
     preferred_amenities: [],
     budget_min_inr: 1000,
     budget_max_inr: 10000,
-    min_star_rating: 2,
+    min_star_rating: 3,
     top_n: 5
   });
   
@@ -18,19 +18,6 @@ const ExploreSection = () => {
   const [error, setError] = useState('');
   
   const navigate = useNavigate();
-
-  const destinations = [
-    { name: 'Mumbai', value: 'Mumbai' },
-    { name: 'Udaipur', value: 'Udaipur' },
-    { name: 'New Delhi', value: 'New Delhi' },
-    { name: 'Goa', value: 'Goa' },
-    { name: 'Panaji', value: 'Panaji' },
-    { name: 'Chennai', value: 'Chennai' },
-    { name: 'Bengaluru', value: 'Bengaluru' },
-    { name: 'Kolkata', value: 'Kolkata' },
-    { name: 'Hyderabad', value: 'Hyderabad' },
-    { name: 'Pune', value: 'Pune' }
-  ];
 
   const amenitiesOptions = [
     { name: 'Pool', value: 'pool', icon: Waves },
@@ -59,8 +46,8 @@ const ExploreSection = () => {
 
   const handleSearch = async () => {
     // Basic validation
-    if (!formData.city) {
-      setError('Please select a destination');
+    if (!formData.city.trim()) {
+      setError('Please enter a destination city');
       return;
     }
 
@@ -76,7 +63,7 @@ const ExploreSection = () => {
       const requestBody = {
         user_id: 1,
         user_preferences: {
-          city: formData.city,
+          city: formData.city.trim(),
           preferred_amenities: formData.preferred_amenities,
           budget_min_inr: formData.budget_min_inr,
           budget_max_inr: formData.budget_max_inr,
@@ -149,23 +136,20 @@ const ExploreSection = () => {
             </div>
           )}
 
-          {/* City Selection */}
+          {/* City Input Field */}
           <div className="space-y-2">
             <label className="text-sm font-semibold text-gray-700 flex items-center">
               <MapPin className="w-4 h-4 mr-2 text-blue-600" />
               Destination City*
             </label>
-            <select 
+            <input
+              type="text"
               value={formData.city}
               onChange={(e) => handleInputChange('city', e.target.value)}
-              className="w-full px-4 py-4 border border-gray-200 rounded-2xl focus:ring-4 focus:ring-blue-100 focus:border-blue-500 transition-all bg-gray-50 hover:bg-white text-gray-900"
+              placeholder="Enter city name (e.g., Mumbai, Delhi, Goa)"
+              className="w-full px-4 py-4 border border-gray-200 rounded-2xl focus:ring-4 focus:ring-blue-100 focus:border-blue-500 transition-all bg-gray-50 hover:bg-white text-gray-900 placeholder-gray-400"
               disabled={isLoading}
-            >
-              <option value="">Select destination city</option>
-              {destinations.map((dest, index) => (
-                <option key={index} value={dest.value}>{dest.name}</option>
-              ))}
-            </select>
+            />
           </div>
 
           {/* Preferred Amenities */}
@@ -249,8 +233,6 @@ const ExploreSection = () => {
                 className="w-full px-4 py-4 border border-gray-200 rounded-2xl focus:ring-4 focus:ring-blue-100 focus:border-blue-500 transition-all bg-gray-50 hover:bg-white"
                 disabled={isLoading}
               >
-                <option value={1}>1 Star & above</option>
-                <option value={2}>2 Stars & above</option>
                 <option value={3}>3 Stars & above</option>
                 <option value={4}>4 Stars & above</option>
                 <option value={5}>5 Stars only</option>
@@ -268,10 +250,9 @@ const ExploreSection = () => {
                 className="w-full px-4 py-4 border border-gray-200 rounded-2xl focus:ring-4 focus:ring-blue-100 focus:border-blue-500 transition-all bg-gray-50 hover:bg-white"
                 disabled={isLoading}
               >
+                <option value={2}>2 Hotels</option>
                 <option value={3}>3 Hotels</option>
                 <option value={5}>5 Hotels</option>
-                <option value={10}>10 Hotels</option>
-                <option value={15}>15 Hotels</option>
               </select>
             </div>
           </div>
@@ -331,7 +312,7 @@ const ExploreSection = () => {
           <div className="flex justify-center pt-4">
             <button
               onClick={handleSearch}
-              disabled={isLoading || !formData.city}
+              disabled={isLoading || !formData.city.trim()}
               className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-12 py-4 rounded-2xl text-lg font-bold hover:from-blue-700 hover:to-purple-700 transition-all transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none"
             >
               {isLoading ? (
@@ -352,7 +333,7 @@ const ExploreSection = () => {
           <div className="bg-gray-50 rounded-xl p-4 text-sm">
             <h4 className="font-semibold text-gray-700 mb-2">Search Summary:</h4>
             <div className="text-gray-600 space-y-1">
-              <p><strong>City:</strong> {formData.city || 'Not selected'}</p>
+              <p><strong>City:</strong> {formData.city || 'Not entered'}</p>
               <p><strong>Amenities:</strong> {formData.preferred_amenities.length > 0 ? formData.preferred_amenities.join(', ') : 'None selected'}</p>
               <p><strong>Budget:</strong> ₹{formData.budget_min_inr.toLocaleString()} - ₹{formData.budget_max_inr.toLocaleString()} per night</p>
               <p><strong>Min Rating:</strong> {formData.min_star_rating} star{formData.min_star_rating > 1 ? 's' : ''} & above</p>

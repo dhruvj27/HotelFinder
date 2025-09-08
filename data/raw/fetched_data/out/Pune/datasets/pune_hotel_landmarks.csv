@@ -1,0 +1,751 @@
+hotel_id,landmark_type,landmark_name,distance_km,travel_time_minutes,traffic_aware
+pun001,airport,Pune International Airport,9.46,,False
+pun001,railway,Pune Junction,2.83,,False
+pun001,bus,Shivajinagar Bus Stand,0.05,,False
+pun001,business,Hinjawadi IT Park,15.43,,False
+pun001,swargate,Swargate,3.69,,False
+pun002,airport,Pune International Airport,3.41,,False
+pun002,railway,Pune Junction,4.32,,False
+pun002,bus,Shivajinagar Bus Stand,6.63,,False
+pun002,business,Hinjawadi IT Park,20.22,,False
+pun002,swargate,Swargate,7.27,,False
+pun003,airport,Pune International Airport,5.95,,False
+pun003,railway,Pune Junction,1.68,,False
+pun003,bus,Shivajinagar Bus Stand,4.19,,False
+pun003,business,Hinjawadi IT Park,18.81,,False
+pun003,swargate,Swargate,4.72,,False
+pun004,airport,Pune International Airport,16.4,,False
+pun004,railway,Pune Junction,12.46,,False
+pun004,bus,Shivajinagar Bus Stand,9.77,,False
+pun004,business,Hinjawadi IT Park,5.66,,False
+pun004,swargate,Swargate,12.96,,False
+pun005,airport,Pune International Airport,5.73,,False
+pun005,railway,Pune Junction,1.9,,False
+pun005,bus,Shivajinagar Bus Stand,4.41,,False
+pun005,business,Hinjawadi IT Park,18.95,,False
+pun005,swargate,Swargate,4.92,,False
+pun006,airport,Pune International Airport,5.8,,False
+pun006,railway,Pune Junction,4.12,,False
+pun006,bus,Shivajinagar Bus Stand,6.97,,False
+pun006,business,Hinjawadi IT Park,21.85,,False
+pun006,swargate,Swargate,6.07,,False
+pun007,airport,Pune International Airport,7.49,,False
+pun007,railway,Pune Junction,0.28,,False
+pun007,bus,Shivajinagar Bus Stand,3.14,,False
+pun007,business,Hinjawadi IT Park,18.36,,False
+pun007,swargate,Swargate,3.21,,False
+pun008,airport,Pune International Airport,2.8,,False
+pun008,railway,Pune Junction,5.73,,False
+pun008,bus,Shivajinagar Bus Stand,7.08,,False
+pun008,business,Hinjawadi IT Park,18.6,,False
+pun008,swargate,Swargate,8.9,,False
+pun009,airport,Pune International Airport,7.37,,False
+pun009,railway,Pune Junction,0.25,,False
+pun009,bus,Shivajinagar Bus Stand,2.9,,False
+pun009,business,Hinjawadi IT Park,18.02,,False
+pun009,swargate,Swargate,3.42,,False
+pun010,airport,Pune International Airport,9.46,,False
+pun010,railway,Pune Junction,2.83,,False
+pun010,bus,Shivajinagar Bus Stand,0.05,,False
+pun010,business,Hinjawadi IT Park,15.43,,False
+pun010,swargate,Swargate,3.69,,False
+pun011,airport,Pune International Airport,7.31,,False
+pun011,railway,Pune Junction,0.32,,False
+pun011,bus,Shivajinagar Bus Stand,2.92,,False
+pun011,business,Hinjawadi IT Park,18.02,,False
+pun011,swargate,Swargate,3.49,,False
+pun012,airport,Pune International Airport,5.23,,False
+pun012,railway,Pune Junction,2.57,,False
+pun012,bus,Shivajinagar Bus Stand,5.15,,False
+pun012,business,Hinjawadi IT Park,19.61,,False
+pun012,swargate,Swargate,5.44,,False
+pun013,airport,Pune International Airport,6.04,,False
+pun013,railway,Pune Junction,1.55,,False
+pun013,bus,Shivajinagar Bus Stand,3.93,,False
+pun013,business,Hinjawadi IT Park,18.5,,False
+pun013,swargate,Swargate,4.68,,False
+pun014,airport,Pune International Airport,7.16,,False
+pun014,railway,Pune Junction,0.43,,False
+pun014,bus,Shivajinagar Bus Stand,3.13,,False
+pun014,business,Hinjawadi IT Park,18.2,,False
+pun014,swargate,Swargate,3.58,,False
+pun015,airport,Pune International Airport,5.5,,False
+pun015,railway,Pune Junction,3.88,,False
+pun015,bus,Shivajinagar Bus Stand,6.7,,False
+pun015,business,Hinjawadi IT Park,21.47,,False
+pun015,swargate,Swargate,6.02,,False
+pun016,airport,Pune International Airport,9.42,,False
+pun016,railway,Pune Junction,2.36,,False
+pun016,bus,Shivajinagar Bus Stand,0.71,,False
+pun016,business,Hinjawadi IT Park,16.1,,False
+pun016,swargate,Swargate,3.0,,False
+pun017,airport,Pune International Airport,4.12,,False
+pun017,railway,Pune Junction,3.97,,False
+pun017,bus,Shivajinagar Bus Stand,6.52,,False
+pun017,business,Hinjawadi IT Park,20.62,,False
+pun017,swargate,Swargate,6.73,,False
+pun018,airport,Pune International Airport,7.43,,False
+pun018,railway,Pune Junction,0.51,,False
+pun018,bus,Shivajinagar Bus Stand,3.35,,False
+pun018,business,Hinjawadi IT Park,18.58,,False
+pun018,swargate,Swargate,3.23,,False
+pun019,airport,Pune International Airport,9.39,,False
+pun019,railway,Pune Junction,2.4,,False
+pun019,bus,Shivajinagar Bus Stand,4.11,,False
+pun019,business,Hinjawadi IT Park,19.48,,False
+pun019,swargate,Swargate,1.54,,False
+pun020,airport,Pune International Airport,10.27,,False
+pun020,railway,Pune Junction,3.17,,False
+pun020,bus,Shivajinagar Bus Stand,0.95,,False
+pun020,business,Hinjawadi IT Park,15.67,,False
+pun020,swargate,Swargate,3.05,,False
+pun021,airport,Pune International Airport,2.15,,False
+pun021,railway,Pune Junction,6.08,,False
+pun021,bus,Shivajinagar Bus Stand,8.41,,False
+pun021,business,Hinjawadi IT Park,21.56,,False
+pun021,swargate,Swargate,8.93,,False
+pun022,airport,Pune International Airport,2.48,,False
+pun022,railway,Pune Junction,5.17,,False
+pun022,bus,Shivajinagar Bus Stand,7.31,,False
+pun022,business,Hinjawadi IT Park,20.36,,False
+pun022,swargate,Swargate,8.17,,False
+pun023,airport,Pune International Airport,2.07,,False
+pun023,railway,Pune Junction,6.36,,False
+pun023,bus,Shivajinagar Bus Stand,8.7,,False
+pun023,business,Hinjawadi IT Park,21.82,,False
+pun023,swargate,Swargate,9.19,,False
+pun024,airport,Pune International Airport,2.32,,False
+pun024,railway,Pune Junction,5.3,,False
+pun024,bus,Shivajinagar Bus Stand,7.41,,False
+pun024,business,Hinjawadi IT Park,20.36,,False
+pun024,swargate,Swargate,8.32,,False
+pun025,airport,Pune International Airport,10.1,,False
+pun025,railway,Pune Junction,4.18,,False
+pun025,bus,Shivajinagar Bus Stand,1.44,,False
+pun025,business,Hinjawadi IT Park,13.99,,False
+pun025,swargate,Swargate,4.99,,False
+pun026,airport,Pune International Airport,13.07,,False
+pun026,railway,Pune Junction,8.65,,False
+pun026,bus,Shivajinagar Bus Stand,10.66,,False
+pun026,business,Hinjawadi IT Park,25.85,,False
+pun026,swargate,Swargate,7.24,,False
+pun027,airport,Pune International Airport,10.72,,False
+pun027,railway,Pune Junction,3.47,,False
+pun027,bus,Shivajinagar Bus Stand,1.47,,False
+pun027,business,Hinjawadi IT Park,15.79,,False
+pun027,swargate,Swargate,2.83,,False
+pun028,airport,Pune International Airport,2.52,,False
+pun028,railway,Pune Junction,5.37,,False
+pun028,bus,Shivajinagar Bus Stand,7.66,,False
+pun028,business,Hinjawadi IT Park,20.93,,False
+pun028,swargate,Swargate,8.28,,False
+pun029,airport,Pune International Airport,10.94,,False
+pun029,railway,Pune Junction,4.7,,False
+pun029,bus,Shivajinagar Bus Stand,1.84,,False
+pun029,business,Hinjawadi IT Park,13.75,,False
+pun029,swargate,Swargate,4.94,,False
+pun030,airport,Pune International Airport,5.78,,False
+pun030,railway,Pune Junction,4.02,,False
+pun030,bus,Shivajinagar Bus Stand,6.86,,False
+pun030,business,Hinjawadi IT Park,21.73,,False
+pun030,swargate,Swargate,5.99,,False
+pun031,airport,Pune International Airport,11.58,,False
+pun031,railway,Pune Junction,4.37,,False
+pun031,bus,Shivajinagar Bus Stand,2.17,,False
+pun031,business,Hinjawadi IT Park,15.35,,False
+pun031,swargate,Swargate,3.31,,False
+pun032,airport,Pune International Airport,10.91,,False
+pun032,railway,Pune Junction,3.81,,False
+pun032,bus,Shivajinagar Bus Stand,1.47,,False
+pun032,business,Hinjawadi IT Park,15.34,,False
+pun032,swargate,Swargate,3.28,,False
+pun033,airport,Pune International Airport,3.66,,False
+pun033,railway,Pune Junction,7.28,,False
+pun033,bus,Shivajinagar Bus Stand,9.91,,False
+pun033,business,Hinjawadi IT Park,23.64,,False
+pun033,swargate,Swargate,9.71,,False
+pun034,airport,Pune International Airport,8.57,,False
+pun034,railway,Pune Junction,1.07,,False
+pun034,bus,Shivajinagar Bus Stand,2.01,,False
+pun034,business,Hinjawadi IT Park,17.41,,False
+pun034,swargate,Swargate,2.53,,False
+pun035,airport,Pune International Airport,10.44,,False
+pun035,railway,Pune Junction,3.19,,False
+pun035,bus,Shivajinagar Bus Stand,1.3,,False
+pun035,business,Hinjawadi IT Park,15.94,,False
+pun035,swargate,Swargate,2.73,,False
+pun036,airport,Pune International Airport,4.93,,False
+pun036,railway,Pune Junction,3.56,,False
+pun036,bus,Shivajinagar Bus Stand,6.28,,False
+pun036,business,Hinjawadi IT Park,20.79,,False
+pun036,swargate,Swargate,6.08,,False
+pun037,airport,Pune International Airport,9.44,,False
+pun037,railway,Pune Junction,2.41,,False
+pun037,bus,Shivajinagar Bus Stand,0.64,,False
+pun037,business,Hinjawadi IT Park,16.04,,False
+pun037,swargate,Swargate,3.05,,False
+pun038,airport,Pune International Airport,11.56,,False
+pun038,railway,Pune Junction,7.09,,False
+pun038,bus,Shivajinagar Bus Stand,9.24,,False
+pun038,business,Hinjawadi IT Park,24.55,,False
+pun038,swargate,Swargate,5.99,,False
+pun039,airport,Pune International Airport,14.38,,False
+pun039,railway,Pune Junction,7.16,,False
+pun039,bus,Shivajinagar Bus Stand,7.3,,False
+pun039,business,Hinjawadi IT Park,20.72,,False
+pun039,swargate,Swargate,4.02,,False
+pun040,airport,Pune International Airport,15.85,,False
+pun040,railway,Pune Junction,13.64,,False
+pun040,bus,Shivajinagar Bus Stand,11.33,,False
+pun040,business,Hinjawadi IT Park,5.58,,False
+pun040,swargate,Swargate,14.88,,False
+pun041,airport,Pune International Airport,6.01,,False
+pun041,railway,Pune Junction,7.88,,False
+pun041,bus,Shivajinagar Bus Stand,10.71,,False
+pun041,business,Hinjawadi IT Park,25.22,,False
+pun041,swargate,Swargate,9.67,,False
+pun042,airport,Pune International Airport,5.63,,False
+pun042,railway,Pune Junction,1.98,,False
+pun042,bus,Shivajinagar Bus Stand,4.39,,False
+pun042,business,Hinjawadi IT Park,18.84,,False
+pun042,swargate,Swargate,5.04,,False
+pun043,airport,Pune International Airport,8.81,,False
+pun043,railway,Pune Junction,6.47,,False
+pun043,bus,Shivajinagar Bus Stand,9.19,,False
+pun043,business,Hinjawadi IT Park,24.55,,False
+pun043,swargate,Swargate,6.89,,False
+pun044,airport,Pune International Airport,1.68,,False
+pun044,railway,Pune Junction,6.29,,False
+pun044,bus,Shivajinagar Bus Stand,8.51,,False
+pun044,business,Hinjawadi IT Park,21.37,,False
+pun044,swargate,Swargate,9.22,,False
+pun045,airport,Pune International Airport,11.21,,False
+pun045,railway,Pune Junction,4.12,,False
+pun045,bus,Shivajinagar Bus Stand,1.74,,False
+pun045,business,Hinjawadi IT Park,15.18,,False
+pun045,swargate,Swargate,3.44,,False
+pun046,airport,Pune International Airport,4.48,,False
+pun046,railway,Pune Junction,3.14,,False
+pun046,bus,Shivajinagar Bus Stand,5.16,,False
+pun046,business,Hinjawadi IT Park,18.8,,False
+pun046,swargate,Swargate,6.28,,False
+pun047,airport,Pune International Airport,2.39,,False
+pun047,railway,Pune Junction,5.23,,False
+pun047,bus,Shivajinagar Bus Stand,7.34,,False
+pun047,business,Hinjawadi IT Park,20.29,,False
+pun047,swargate,Swargate,8.26,,False
+pun048,airport,Pune International Airport,13.2,,False
+pun048,railway,Pune Junction,8.51,,False
+pun048,bus,Shivajinagar Bus Stand,10.44,,False
+pun048,business,Hinjawadi IT Park,25.56,,False
+pun048,swargate,Swargate,6.96,,False
+pun049,airport,Pune International Airport,6.39,,False
+pun049,railway,Pune Junction,1.24,,False
+pun049,bus,Shivajinagar Bus Stand,3.87,,False
+pun049,business,Hinjawadi IT Park,18.69,,False
+pun049,swargate,Swargate,4.28,,False
+pun050,airport,Pune International Airport,1.9,,False
+pun050,railway,Pune Junction,5.79,,False
+pun050,bus,Shivajinagar Bus Stand,7.61,,False
+pun050,business,Hinjawadi IT Park,19.85,,False
+pun050,swargate,Swargate,8.91,,False
+pun051,airport,Pune International Airport,8.53,,False
+pun051,railway,Pune Junction,1.2,,False
+pun051,bus,Shivajinagar Bus Stand,3.24,,False
+pun051,business,Hinjawadi IT Park,18.66,,False
+pun051,swargate,Swargate,2.11,,False
+pun052,airport,Pune International Airport,15.64,,False
+pun052,railway,Pune Junction,11.21,,False
+pun052,bus,Shivajinagar Bus Stand,8.45,,False
+pun052,business,Hinjawadi IT Park,7.07,,False
+pun052,swargate,Swargate,11.54,,False
+pun053,airport,Pune International Airport,7.66,,False
+pun053,railway,Pune Junction,0.32,,False
+pun053,bus,Shivajinagar Bus Stand,2.57,,False
+pun053,business,Hinjawadi IT Park,17.76,,False
+pun053,swargate,Swargate,3.23,,False
+pun054,airport,Pune International Airport,10.63,,False
+pun054,railway,Pune Junction,4.69,,False
+pun054,bus,Shivajinagar Bus Stand,1.88,,False
+pun054,business,Hinjawadi IT Park,13.56,,False
+pun054,swargate,Swargate,5.25,,False
+pun055,airport,Pune International Airport,3.6,,False
+pun055,railway,Pune Junction,7.04,,False
+pun055,bus,Shivajinagar Bus Stand,9.67,,False
+pun055,business,Hinjawadi IT Park,23.42,,False
+pun055,swargate,Swargate,9.48,,False
+pun056,airport,Pune International Airport,7.13,,False
+pun056,railway,Pune Junction,0.65,,False
+pun056,bus,Shivajinagar Bus Stand,3.49,,False
+pun056,business,Hinjawadi IT Park,18.63,,False
+pun056,swargate,Swargate,3.53,,False
+pun057,airport,Pune International Airport,6.91,,False
+pun057,railway,Pune Junction,0.75,,False
+pun057,bus,Shivajinagar Bus Stand,3.08,,False
+pun057,business,Hinjawadi IT Park,17.97,,False
+pun057,swargate,Swargate,3.93,,False
+pun058,airport,Pune International Airport,9.63,,False
+pun058,railway,Pune Junction,2.66,,False
+pun058,bus,Shivajinagar Bus Stand,0.48,,False
+pun058,business,Hinjawadi IT Park,15.81,,False
+pun058,swargate,Swargate,3.19,,False
+pun059,airport,Pune International Airport,14.87,,False
+pun059,railway,Pune Junction,10.61,,False
+pun059,bus,Shivajinagar Bus Stand,7.9,,False
+pun059,business,Hinjawadi IT Park,7.53,,False
+pun059,swargate,Swargate,11.12,,False
+pun060,airport,Pune International Airport,8.24,,False
+pun060,railway,Pune Junction,1.28,,False
+pun060,bus,Shivajinagar Bus Stand,3.65,,False
+pun060,business,Hinjawadi IT Park,19.06,,False
+pun060,swargate,Swargate,2.43,,False
+pun061,airport,Pune International Airport,17.91,,False
+pun061,railway,Pune Junction,10.76,,False
+pun061,bus,Shivajinagar Bus Stand,10.71,,False
+pun061,business,Hinjawadi IT Park,22.78,,False
+pun061,swargate,Swargate,7.62,,False
+pun062,airport,Pune International Airport,5.23,,False
+pun062,railway,Pune Junction,2.71,,False
+pun062,bus,Shivajinagar Bus Stand,5.35,,False
+pun062,business,Hinjawadi IT Park,19.87,,False
+pun062,swargate,Swargate,5.48,,False
+pun063,airport,Pune International Airport,2.66,,False
+pun063,railway,Pune Junction,5.15,,False
+pun063,bus,Shivajinagar Bus Stand,7.43,,False
+pun063,business,Hinjawadi IT Park,20.73,,False
+pun063,swargate,Swargate,8.08,,False
+pun064,airport,Pune International Airport,10.52,,False
+pun064,railway,Pune Junction,3.35,,False
+pun064,bus,Shivajinagar Bus Stand,1.22,,False
+pun064,business,Hinjawadi IT Park,15.7,,False
+pun064,swargate,Swargate,2.96,,False
+pun065,airport,Pune International Airport,26.98,,False
+pun065,railway,Pune Junction,19.39,,False
+pun065,bus,Shivajinagar Bus Stand,17.79,,False
+pun065,business,Hinjawadi IT Park,22.13,,False
+pun065,swargate,Swargate,16.5,,False
+pun066,airport,Pune International Airport,5.41,,False
+pun066,railway,Pune Junction,2.26,,False
+pun066,bus,Shivajinagar Bus Stand,4.78,,False
+pun066,business,Hinjawadi IT Park,19.23,,False
+pun066,swargate,Swargate,5.23,,False
+pun067,airport,Pune International Airport,5.96,,False
+pun067,railway,Pune Junction,1.68,,False
+pun067,bus,Shivajinagar Bus Stand,4.23,,False
+pun067,business,Hinjawadi IT Park,18.87,,False
+pun067,swargate,Swargate,4.7,,False
+pun068,airport,Pune International Airport,9.24,,False
+pun068,railway,Pune Junction,2.54,,False
+pun068,bus,Shivajinagar Bus Stand,0.32,,False
+pun068,business,Hinjawadi IT Park,15.69,,False
+pun068,swargate,Swargate,3.55,,False
+pun069,airport,Pune International Airport,8.09,,False
+pun069,railway,Pune Junction,6.14,,False
+pun069,bus,Shivajinagar Bus Stand,8.93,,False
+pun069,business,Hinjawadi IT Park,24.21,,False
+pun069,swargate,Swargate,6.89,,False
+pun070,airport,Pune International Airport,7.38,,False
+pun070,railway,Pune Junction,7.19,,False
+pun070,bus,Shivajinagar Bus Stand,10.04,,False
+pun070,business,Hinjawadi IT Park,25.07,,False
+pun070,swargate,Swargate,8.39,,False
+pun071,airport,Pune International Airport,8.57,,False
+pun071,railway,Pune Junction,1.05,,False
+pun071,bus,Shivajinagar Bus Stand,2.83,,False
+pun071,business,Hinjawadi IT Park,18.25,,False
+pun071,swargate,Swargate,2.13,,False
+pun072,airport,Pune International Airport,18.17,,False
+pun072,railway,Pune Junction,15.04,,False
+pun072,bus,Shivajinagar Bus Stand,12.45,,False
+pun072,business,Hinjawadi IT Park,3.14,,False
+pun072,swargate,Swargate,15.76,,False
+pun073,airport,Pune International Airport,5.26,,False
+pun073,railway,Pune Junction,2.79,,False
+pun073,bus,Shivajinagar Bus Stand,5.47,,False
+pun073,business,Hinjawadi IT Park,20.03,,False
+pun073,swargate,Swargate,5.49,,False
+pun074,airport,Pune International Airport,19.04,,False
+pun074,railway,Pune Junction,15.5,,False
+pun074,bus,Shivajinagar Bus Stand,12.82,,False
+pun074,business,Hinjawadi IT Park,2.62,,False
+pun074,swargate,Swargate,15.99,,False
+pun075,airport,Pune International Airport,2.57,,False
+pun075,railway,Pune Junction,5.28,,False
+pun075,bus,Shivajinagar Bus Stand,7.56,,False
+pun075,business,Hinjawadi IT Park,20.83,,False
+pun075,swargate,Swargate,8.19,,False
+pun076,airport,Pune International Airport,4.03,,False
+pun076,railway,Pune Junction,4.22,,False
+pun076,bus,Shivajinagar Bus Stand,6.79,,False
+pun076,business,Hinjawadi IT Park,20.88,,False
+pun076,swargate,Swargate,6.92,,False
+pun077,airport,Pune International Airport,8.53,,False
+pun077,railway,Pune Junction,0.98,,False
+pun077,bus,Shivajinagar Bus Stand,2.15,,False
+pun077,business,Hinjawadi IT Park,17.56,,False
+pun077,swargate,Swargate,2.48,,False
+pun078,airport,Pune International Airport,17.48,,False
+pun078,railway,Pune Junction,14.83,,False
+pun078,bus,Shivajinagar Bus Stand,12.36,,False
+pun078,business,Hinjawadi IT Park,3.86,,False
+pun078,swargate,Swargate,15.8,,False
+pun079,airport,Pune International Airport,4.33,,False
+pun079,railway,Pune Junction,6.88,,False
+pun079,bus,Shivajinagar Bus Stand,9.6,,False
+pun079,business,Hinjawadi IT Park,23.69,,False
+pun079,swargate,Swargate,9.13,,False
+pun080,airport,Pune International Airport,17.87,,False
+pun080,railway,Pune Junction,15.49,,False
+pun080,bus,Shivajinagar Bus Stand,13.07,,False
+pun080,business,Hinjawadi IT Park,3.73,,False
+pun080,swargate,Swargate,16.54,,False
+pun081,airport,Pune International Airport,12.64,,False
+pun081,railway,Pune Junction,7.78,,False
+pun081,bus,Shivajinagar Bus Stand,5.06,,False
+pun081,business,Hinjawadi IT Park,10.37,,False
+pun081,swargate,Swargate,8.34,,False
+pun082,airport,Pune International Airport,6.31,,False
+pun082,railway,Pune Junction,1.35,,False
+pun082,bus,Shivajinagar Bus Stand,4.0,,False
+pun082,business,Hinjawadi IT Park,18.81,,False
+pun082,swargate,Swargate,4.35,,False
+pun083,airport,Pune International Airport,10.69,,False
+pun083,railway,Pune Junction,3.5,,False
+pun083,bus,Shivajinagar Bus Stand,1.36,,False
+pun083,business,Hinjawadi IT Park,15.65,,False
+pun083,swargate,Swargate,2.98,,False
+pun084,airport,Pune International Airport,7.81,,False
+pun084,railway,Pune Junction,0.42,,False
+pun084,bus,Shivajinagar Bus Stand,3.06,,False
+pun084,business,Hinjawadi IT Park,18.38,,False
+pun084,swargate,Swargate,2.87,,False
+pun085,airport,Pune International Airport,6.93,,False
+pun085,railway,Pune Junction,0.8,,False
+pun085,bus,Shivajinagar Bus Stand,3.0,,False
+pun085,business,Hinjawadi IT Park,17.85,,False
+pun085,swargate,Swargate,3.96,,False
+pun086,airport,Pune International Airport,9.21,,False
+pun086,railway,Pune Junction,1.63,,False
+pun086,bus,Shivajinagar Bus Stand,2.58,,False
+pun086,business,Hinjawadi IT Park,17.96,,False
+pun086,swargate,Swargate,1.61,,False
+pun087,airport,Pune International Airport,9.97,,False
+pun087,railway,Pune Junction,2.48,,False
+pun087,bus,Shivajinagar Bus Stand,1.69,,False
+pun087,business,Hinjawadi IT Park,16.82,,False
+pun087,swargate,Swargate,1.99,,False
+pun088,airport,Pune International Airport,7.81,,False
+pun088,railway,Pune Junction,0.42,,False
+pun088,bus,Shivajinagar Bus Stand,3.06,,False
+pun088,business,Hinjawadi IT Park,18.38,,False
+pun088,swargate,Swargate,2.87,,False
+pun089,airport,Pune International Airport,6.02,,False
+pun089,railway,Pune Junction,1.58,,False
+pun089,bus,Shivajinagar Bus Stand,3.96,,False
+pun089,business,Hinjawadi IT Park,18.53,,False
+pun089,swargate,Swargate,4.69,,False
+pun090,airport,Pune International Airport,5.38,,False
+pun090,railway,Pune Junction,2.24,,False
+pun090,bus,Shivajinagar Bus Stand,4.39,,False
+pun090,business,Hinjawadi IT Park,18.54,,False
+pun090,swargate,Swargate,5.38,,False
+pun091,airport,Pune International Airport,11.57,,False
+pun091,railway,Pune Junction,4.27,,False
+pun091,bus,Shivajinagar Bus Stand,2.25,,False
+pun091,business,Hinjawadi IT Park,15.61,,False
+pun091,swargate,Swargate,3.06,,False
+pun092,airport,Pune International Airport,19.48,,False
+pun092,railway,Pune Junction,13.67,,False
+pun092,bus,Shivajinagar Bus Stand,10.84,,False
+pun092,business,Hinjawadi IT Park,8.34,,False
+pun092,swargate,Swargate,12.86,,False
+pun093,airport,Pune International Airport,6.0,,False
+pun093,railway,Pune Junction,1.73,,False
+pun093,bus,Shivajinagar Bus Stand,4.39,,False
+pun093,business,Hinjawadi IT Park,19.13,,False
+pun093,swargate,Swargate,4.64,,False
+pun094,airport,Pune International Airport,10.92,,False
+pun094,railway,Pune Junction,3.69,,False
+pun094,bus,Shivajinagar Bus Stand,1.6,,False
+pun094,business,Hinjawadi IT Park,15.65,,False
+pun094,swargate,Swargate,2.96,,False
+pun095,airport,Pune International Airport,17.39,,False
+pun095,railway,Pune Junction,14.55,,False
+pun095,bus,Shivajinagar Bus Stand,12.05,,False
+pun095,business,Hinjawadi IT Park,3.9,,False
+pun095,swargate,Swargate,15.45,,False
+pun096,airport,Pune International Airport,15.34,,False
+pun096,railway,Pune Junction,13.08,,False
+pun096,bus,Shivajinagar Bus Stand,10.78,,False
+pun096,business,Hinjawadi IT Park,6.03,,False
+pun096,swargate,Swargate,14.35,,False
+pun097,airport,Pune International Airport,4.39,,False
+pun097,railway,Pune Junction,3.47,,False
+pun097,bus,Shivajinagar Bus Stand,5.97,,False
+pun097,business,Hinjawadi IT Park,20.1,,False
+pun097,swargate,Swargate,6.32,,False
+pun098,airport,Pune International Airport,18.11,,False
+pun098,railway,Pune Junction,14.97,,False
+pun098,bus,Shivajinagar Bus Stand,12.39,,False
+pun098,business,Hinjawadi IT Park,3.21,,False
+pun098,swargate,Swargate,15.7,,False
+pun099,airport,Pune International Airport,9.87,,False
+pun099,railway,Pune Junction,2.7,,False
+pun099,bus,Shivajinagar Bus Stand,0.86,,False
+pun099,business,Hinjawadi IT Park,16.02,,False
+pun099,swargate,Swargate,2.84,,False
+pun100,airport,Pune International Airport,11.59,,False
+pun100,railway,Pune Junction,9.91,,False
+pun100,bus,Shivajinagar Bus Stand,12.53,,False
+pun100,business,Hinjawadi IT Park,27.95,,False
+pun100,swargate,Swargate,9.81,,False
+pun101,airport,Pune International Airport,11.94,,False
+pun101,railway,Pune Junction,4.48,,False
+pun101,bus,Shivajinagar Bus Stand,4.54,,False
+pun101,business,Hinjawadi IT Park,18.83,,False
+pun101,swargate,Swargate,1.31,,False
+pun102,airport,Pune International Airport,4.52,,False
+pun102,railway,Pune Junction,3.46,,False
+pun102,bus,Shivajinagar Bus Stand,6.02,,False
+pun102,business,Hinjawadi IT Park,20.25,,False
+pun102,swargate,Swargate,6.24,,False
+pun103,airport,Pune International Airport,7.77,,False
+pun103,railway,Pune Junction,0.18,,False
+pun103,bus,Shivajinagar Bus Stand,2.78,,False
+pun103,business,Hinjawadi IT Park,18.06,,False
+pun103,swargate,Swargate,3.0,,False
+pun104,airport,Pune International Airport,9.54,,False
+pun104,railway,Pune Junction,2.49,,False
+pun104,bus,Shivajinagar Bus Stand,0.64,,False
+pun104,business,Hinjawadi IT Park,16.0,,False
+pun104,swargate,Swargate,3.03,,False
+pun105,airport,Pune International Airport,18.98,,False
+pun105,railway,Pune Junction,12.09,,False
+pun105,bus,Shivajinagar Bus Stand,12.28,,False
+pun105,business,Hinjawadi IT Park,24.53,,False
+pun105,swargate,Swargate,9.01,,False
+pun106,airport,Pune International Airport,9.23,,False
+pun106,railway,Pune Junction,1.67,,False
+pun106,bus,Shivajinagar Bus Stand,2.7,,False
+pun106,business,Hinjawadi IT Park,18.08,,False
+pun106,swargate,Swargate,1.54,,False
+pun107,airport,Pune International Airport,2.26,,False
+pun107,railway,Pune Junction,5.35,,False
+pun107,bus,Shivajinagar Bus Stand,7.42,,False
+pun107,business,Hinjawadi IT Park,20.27,,False
+pun107,swargate,Swargate,8.39,,False
+pun108,airport,Pune International Airport,8.41,,False
+pun108,railway,Pune Junction,0.81,,False
+pun108,bus,Shivajinagar Bus Stand,2.51,,False
+pun108,business,Hinjawadi IT Park,17.91,,False
+pun108,swargate,Swargate,2.41,,False
+pun109,airport,Pune International Airport,3.17,,False
+pun109,railway,Pune Junction,8.49,,False
+pun109,bus,Shivajinagar Bus Stand,10.98,,False
+pun109,business,Hinjawadi IT Park,24.1,,False
+pun109,swargate,Swargate,11.09,,False
+pun110,airport,Pune International Airport,7.75,,False
+pun110,railway,Pune Junction,6.43,,False
+pun110,bus,Shivajinagar Bus Stand,9.25,,False
+pun110,business,Hinjawadi IT Park,24.45,,False
+pun110,swargate,Swargate,7.38,,False
+pun111,airport,Pune International Airport,15.92,,False
+pun111,railway,Pune Junction,8.32,,False
+pun111,bus,Shivajinagar Bus Stand,6.99,,False
+pun111,business,Hinjawadi IT Park,17.55,,False
+pun111,swargate,Swargate,5.5,,False
+pun112,airport,Pune International Airport,7.67,,False
+pun112,railway,Pune Junction,0.22,,False
+pun112,bus,Shivajinagar Bus Stand,2.99,,False
+pun112,business,Hinjawadi IT Park,18.26,,False
+pun112,swargate,Swargate,3.04,,False
+pun113,airport,Pune International Airport,7.27,,False
+pun113,railway,Pune Junction,0.33,,False
+pun113,bus,Shivajinagar Bus Stand,3.02,,False
+pun113,business,Hinjawadi IT Park,18.13,,False
+pun113,swargate,Swargate,3.5,,False
+pun114,airport,Pune International Airport,12.97,,False
+pun114,railway,Pune Junction,8.12,,False
+pun114,bus,Shivajinagar Bus Stand,10.01,,False
+pun114,business,Hinjawadi IT Park,25.13,,False
+pun114,swargate,Swargate,6.53,,False
+pun115,airport,Pune International Airport,17.58,,False
+pun115,railway,Pune Junction,10.01,,False
+pun115,bus,Shivajinagar Bus Stand,8.96,,False
+pun115,business,Hinjawadi IT Park,19.2,,False
+pun115,swargate,Swargate,6.97,,False
+pun116,airport,Pune International Airport,18.42,,False
+pun116,railway,Pune Junction,13.69,,False
+pun116,bus,Shivajinagar Bus Stand,10.86,,False
+pun116,business,Hinjawadi IT Park,5.57,,False
+pun116,swargate,Swargate,13.63,,False
+pun117,airport,Pune International Airport,2.32,,False
+pun117,railway,Pune Junction,6.96,,False
+pun117,bus,Shivajinagar Bus Stand,9.38,,False
+pun117,business,Hinjawadi IT Park,22.56,,False
+pun117,swargate,Swargate,9.69,,False
+pun118,airport,Pune International Airport,4.5,,False
+pun118,railway,Pune Junction,3.57,,False
+pun118,bus,Shivajinagar Bus Stand,6.15,,False
+pun118,business,Hinjawadi IT Park,20.41,,False
+pun118,swargate,Swargate,6.31,,False
+pun119,airport,Pune International Airport,3.55,,False
+pun119,railway,Pune Junction,4.65,,False
+pun119,bus,Shivajinagar Bus Stand,7.15,,False
+pun119,business,Hinjawadi IT Park,21.01,,False
+pun119,swargate,Swargate,7.41,,False
+pun120,airport,Pune International Airport,11.11,,False
+pun120,railway,Pune Junction,3.55,,False
+pun120,bus,Shivajinagar Bus Stand,3.49,,False
+pun120,business,Hinjawadi IT Park,18.11,,False
+pun120,swargate,Swargate,0.69,,False
+pun121,airport,Pune International Airport,9.22,,False
+pun121,railway,Pune Junction,1.65,,False
+pun121,bus,Shivajinagar Bus Stand,2.68,,False
+pun121,business,Hinjawadi IT Park,18.07,,False
+pun121,swargate,Swargate,1.55,,False
+pun122,airport,Pune International Airport,11.31,,False
+pun122,railway,Pune Junction,3.72,,False
+pun122,bus,Shivajinagar Bus Stand,3.04,,False
+pun122,business,Hinjawadi IT Park,17.37,,False
+pun122,swargate,Swargate,1.39,,False
+pun123,airport,Pune International Airport,7.88,,False
+pun123,railway,Pune Junction,0.63,,False
+pun123,bus,Shivajinagar Bus Stand,3.22,,False
+pun123,business,Hinjawadi IT Park,18.57,,False
+pun123,swargate,Swargate,2.77,,False
+pun124,airport,Pune International Airport,9.16,,False
+pun124,railway,Pune Junction,1.56,,False
+pun124,bus,Shivajinagar Bus Stand,2.49,,False
+pun124,business,Hinjawadi IT Park,17.88,,False
+pun124,swargate,Swargate,1.7,,False
+pun125,airport,Pune International Airport,4.66,,False
+pun125,railway,Pune Junction,4.28,,False
+pun125,bus,Shivajinagar Bus Stand,5.19,,False
+pun125,business,Hinjawadi IT Park,17.18,,False
+pun125,swargate,Swargate,7.4,,False
+pun126,airport,Pune International Airport,18.54,,False
+pun126,railway,Pune Junction,11.92,,False
+pun126,bus,Shivajinagar Bus Stand,9.25,,False
+pun126,business,Hinjawadi IT Park,11.4,,False
+pun126,swargate,Swargate,10.51,,False
+pun127,airport,Pune International Airport,8.75,,False
+pun127,railway,Pune Junction,1.18,,False
+pun127,bus,Shivajinagar Bus Stand,2.18,,False
+pun127,business,Hinjawadi IT Park,17.6,,False
+pun127,swargate,Swargate,2.24,,False
+pun128,airport,Pune International Airport,3.79,,False
+pun128,railway,Pune Junction,9.71,,False
+pun128,bus,Shivajinagar Bus Stand,12.18,,False
+pun128,business,Hinjawadi IT Park,25.01,,False
+pun128,swargate,Swargate,12.31,,False
+pun129,airport,Pune International Airport,14.75,,False
+pun129,railway,Pune Junction,7.57,,False
+pun129,bus,Shivajinagar Bus Stand,7.73,,False
+pun129,business,Hinjawadi IT Park,21.04,,False
+pun129,swargate,Swargate,4.44,,False
+pun130,airport,Pune International Airport,16.98,,False
+pun130,railway,Pune Junction,9.41,,False
+pun130,bus,Shivajinagar Bus Stand,8.41,,False
+pun130,business,Hinjawadi IT Park,19.06,,False
+pun130,swargate,Swargate,6.37,,False
+pun131,airport,Pune International Airport,4.92,,False
+pun131,railway,Pune Junction,4.03,,False
+pun131,bus,Shivajinagar Bus Stand,6.79,,False
+pun131,business,Hinjawadi IT Park,21.33,,False
+pun131,swargate,Swargate,6.4,,False
+pun132,airport,Pune International Airport,12.61,,False
+pun132,railway,Pune Junction,7.83,,False
+pun132,bus,Shivajinagar Bus Stand,5.12,,False
+pun132,business,Hinjawadi IT Park,10.3,,False
+pun132,swargate,Swargate,8.43,,False
+pun133,airport,Pune International Airport,8.5,,False
+pun133,railway,Pune Junction,1.47,,False
+pun133,bus,Shivajinagar Bus Stand,3.66,,False
+pun133,business,Hinjawadi IT Park,19.09,,False
+pun133,swargate,Swargate,2.19,,False
+pun134,airport,Pune International Airport,6.02,,False
+pun134,railway,Pune Junction,7.86,,False
+pun134,bus,Shivajinagar Bus Stand,10.69,,False
+pun134,business,Hinjawadi IT Park,25.21,,False
+pun134,swargate,Swargate,9.64,,False
+pun135,airport,Pune International Airport,5.49,,False
+pun135,railway,Pune Junction,2.22,,False
+pun135,bus,Shivajinagar Bus Stand,4.77,,False
+pun135,business,Hinjawadi IT Park,19.29,,False
+pun135,swargate,Swargate,5.15,,False
+pun136,airport,Pune International Airport,2.33,,False
+pun136,railway,Pune Junction,5.3,,False
+pun136,bus,Shivajinagar Bus Stand,7.41,,False
+pun136,business,Hinjawadi IT Park,20.37,,False
+pun136,swargate,Swargate,8.32,,False
+pun137,airport,Pune International Airport,4.05,,False
+pun137,railway,Pune Junction,7.4,,False
+pun137,bus,Shivajinagar Bus Stand,10.07,,False
+pun137,business,Hinjawadi IT Park,23.94,,False
+pun137,swargate,Swargate,9.73,,False
+pun138,airport,Pune International Airport,10.33,,False
+pun138,railway,Pune Junction,3.24,,False
+pun138,bus,Shivajinagar Bus Stand,0.98,,False
+pun138,business,Hinjawadi IT Park,15.62,,False
+pun138,swargate,Swargate,3.09,,False
+pun139,airport,Pune International Airport,11.06,,False
+pun139,railway,Pune Junction,3.5,,False
+pun139,bus,Shivajinagar Bus Stand,3.5,,False
+pun139,business,Hinjawadi IT Park,18.16,,False
+pun139,swargate,Swargate,0.61,,False
+pun140,airport,Pune International Airport,4.57,,False
+pun140,railway,Pune Junction,3.02,,False
+pun140,bus,Shivajinagar Bus Stand,5.19,,False
+pun140,business,Hinjawadi IT Park,19.03,,False
+pun140,swargate,Swargate,6.12,,False
+pun141,airport,Pune International Airport,1.1,,False
+pun141,railway,Pune Junction,6.5,,False
+pun141,bus,Shivajinagar Bus Stand,8.47,,False
+pun141,business,Hinjawadi IT Park,20.74,,False
+pun141,swargate,Swargate,9.55,,False
+pun142,airport,Pune International Airport,1.12,,False
+pun142,railway,Pune Junction,6.47,,False
+pun142,bus,Shivajinagar Bus Stand,8.44,,False
+pun142,business,Hinjawadi IT Park,20.7,,False
+pun142,swargate,Swargate,9.53,,False
+pun143,airport,Pune International Airport,1.78,,False
+pun143,railway,Pune Junction,5.86,,False
+pun143,bus,Shivajinagar Bus Stand,7.74,,False
+pun143,business,Hinjawadi IT Park,20.07,,False
+pun143,swargate,Swargate,8.95,,False
+pun144,airport,Pune International Airport,1.89,,False
+pun144,railway,Pune Junction,5.8,,False
+pun144,bus,Shivajinagar Bus Stand,7.62,,False
+pun144,business,Hinjawadi IT Park,19.85,,False
+pun144,swargate,Swargate,8.92,,False
+pun145,airport,Pune International Airport,2.06,,False
+pun145,railway,Pune Junction,5.7,,False
+pun145,bus,Shivajinagar Bus Stand,7.46,,False
+pun145,business,Hinjawadi IT Park,19.64,,False
+pun145,swargate,Swargate,8.83,,False
+pun146,airport,Pune International Airport,2.32,,False
+pun146,railway,Pune Junction,5.3,,False
+pun146,bus,Shivajinagar Bus Stand,7.4,,False
+pun146,business,Hinjawadi IT Park,20.33,,False
+pun146,swargate,Swargate,8.33,,False
+pun147,airport,Pune International Airport,2.54,,False
+pun147,railway,Pune Junction,5.11,,False
+pun147,bus,Shivajinagar Bus Stand,7.26,,False
+pun147,business,Hinjawadi IT Park,20.34,,False
+pun147,swargate,Swargate,8.12,,False
+pun148,airport,Pune International Airport,2.28,,False
+pun148,railway,Pune Junction,5.32,,False
+pun148,bus,Shivajinagar Bus Stand,7.38,,False
+pun148,business,Hinjawadi IT Park,20.23,,False
+pun148,swargate,Swargate,8.36,,False
+pun149,airport,Pune International Airport,1.79,,False
+pun149,railway,Pune Junction,5.86,,False
+pun149,bus,Shivajinagar Bus Stand,7.72,,False
+pun149,business,Hinjawadi IT Park,20.01,,False
+pun149,swargate,Swargate,8.96,,False
+pun150,airport,Pune International Airport,2.56,,False
+pun150,railway,Pune Junction,6.03,,False
+pun150,bus,Shivajinagar Bus Stand,7.4,,False
+pun150,business,Hinjawadi IT Park,18.78,,False
+pun150,swargate,Swargate,9.2,,False

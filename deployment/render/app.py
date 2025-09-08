@@ -5,8 +5,18 @@ from pydantic import BaseModel
 from typing import Optional, Dict, Any
 import threading
 import time
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="Hotel Finder NextStay")
+
+# CORS middleware (allow all origins)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all HTTP methods
+    allow_headers=["*"],  # Allows all headers
+)
 
 # Global variables to track loading state
 models_loaded = False

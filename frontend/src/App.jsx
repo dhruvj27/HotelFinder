@@ -9,7 +9,9 @@ import Footer from './components/Footer'
 import BookingPage from './pages/BookingPage';
 import HotelDetails from './pages/HotelDetails';
 import SearchResults from './pages/SearchResults';
+
 import NotFound from './pages/NotFound'
+import Recommend from './pages/Recommend';
 
 function App() {
   return (
@@ -26,6 +28,7 @@ function App() {
             
             {/* Hotel & Search Pages */}
             <Route path="/results" element={<SearchResults />} />
+            <Route path="/recommend" element={<Recommend/>} />
             <Route path="/hotel/:id" element={<HotelDetails />} />
             
             {/* Booking routes */}

@@ -1,0 +1,14 @@
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+joblib>=1.5.0
+scikit-surprise>=1.1.0
+gunicorn>=21.0.0
+
+# LLM and Google API dependencies (flexible versions)
+langchain
+langchain-google-genai
+google-api-core

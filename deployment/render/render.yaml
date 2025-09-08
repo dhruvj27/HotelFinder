@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: hotel-recommender
+    env: docker
+    healthCheckPath: /healthz
+    plan: starter  # or whatever plan you're using
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: GEMINI_API_KEY
+        sync: false  # Set this in Render dashboard
+    # Increase build timeout
+    buildCommand: echo "Build complete"

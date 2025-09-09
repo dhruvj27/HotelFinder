@@ -6,7 +6,6 @@ import requests
 import pandas as pd
 import time
 import random
-from bs4 import BeautifulSoup
 import json
 import re
 from urllib.parse import quote, urljoin
@@ -228,302 +227,6 @@ class HotelDataCollector:
         if state:
             logger.info(f"Got state for {city_name}: {state}")
         return state
-
-    def scrape_makemytrip_robust(self, city_name: str) -> List[Dict]:
-        """Enhanced MakeMyTrip scraper with better error handling and alternative approaches"""
-        hotels = []
-        
-        # Try multiple URL patterns for MakeMyTrip
-        url_patterns = [
-            f"https://www.makemytrip.com/hotels/{city_name.replace(' ', '-').lower()}-hotels.html",
-            f"https://www.makemytrip.com/hotels/city-{city_name.replace(' ', '-').lower()}.html",
-            f"https://www.makemytrip.com/hotels/india/{city_name.replace(' ', '-').lower()}"
-        ]
-        
-        for url_pattern in url_patterns:
-            try:
-                logger.info(f"Trying MakeMyTrip URL: {url_pattern}")
-                
-                # Add additional headers specific to MakeMyTrip
-                original_headers = self.session.headers.copy()
-                self.session.headers.update({
-                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-                    'Accept-Language': 'en-US,en;q=0.9,hi;q=0.8',
-                    'Sec-Ch-Ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
-                    'Sec-Ch-Ua-Mobile': '?0',
-                    'Sec-Ch-Ua-Platform': '"Windows"',
-                    'Sec-Fetch-Dest': 'document',
-                    'Sec-Fetch-Mode': 'navigate',
-                    'Sec-Fetch-Site': 'none',
-                    'Sec-Fetch-User': '?1'
-                })
-                
-                response = self.safe_request(url_pattern, timeout=90, max_retries=2)
-                
-                # Restore original headers
-                self.session.headers = original_headers
-                
-                if response and response.status_code == 200:
-                    soup = BeautifulSoup(response.content, 'html.parser')
-                    
-                    # Multiple selector strategies for MakeMyTrip
-                    hotel_selectors = [
-                        {'tag': 'div', 'attrs': {'data-cy': 'property-card'}},
-                        {'tag': 'div', 'class_': re.compile(r'hotel.*card|property.*card|listing.*card')},
-                        {'tag': 'div', 'class_': re.compile(r'makeFlex.*card|hotel.*item')},
-                        {'tag': 'section', 'class_': re.compile(r'hotel|property')},
-                        {'tag': 'div', 'attrs': {'id': re.compile(r'hotel|property')}}
-                    ]
-                    
-                    hotel_cards = []
-                    for selector in hotel_selectors:
-                        if 'attrs' in selector:
-                            cards = soup.find_all(selector['tag'], attrs=selector['attrs'])
-                        else:
-                            cards = soup.find_all(selector['tag'], class_=selector['class_'])
-                        
-                        if cards:
-                            hotel_cards = cards
-                            logger.info(f"Found {len(cards)} hotel cards using selector {selector}")
-                            break
-                    
-                    if not hotel_cards:
-                        # Fallback: look for any div containing hotel-related text
-                        hotel_cards = soup.find_all('div', string=re.compile(r'hotel|Hotel', re.I))
-                        logger.info(f"Fallback: found {len(hotel_cards)} potential hotel elements")
-                    
-                    # Process hotel cards
-                    for card in hotel_cards[:25]:  # Limit to prevent overload
-                        try:
-                            hotel_data = self._extract_makemytrip_hotel_data(card, city_name)
-                            if hotel_data and hotel_data['hotel_name']:
-                                hotels.append(hotel_data)
-                                
-                        except Exception as e:
-                            logger.debug(f"Error processing MakeMyTrip hotel card: {str(e)}")
-                            continue
-                    
-                    if hotels:
-                        logger.info(f"Successfully scraped {len(hotels)} hotels from MakeMyTrip for {city_name}")
-                        break  # Success, no need to try other URL patterns
-                    else:
-                        logger.warning(f"No hotels extracted from {url_pattern}")
-                        
-                else:
-                    logger.warning(f"Failed to get valid response from {url_pattern}")
-                    
-            except Exception as e:
-                logger.warning(f"MakeMyTrip scraping attempt failed for {url_pattern}: {str(e)}")
-                continue
-        
-        if not hotels:
-            logger.error(f"All MakeMyTrip scraping attempts failed for {city_name}")
-        
-        return hotels
-
-    def _extract_makemytrip_hotel_data(self, card, city_name: str) -> Dict:
-        """Extract hotel data from MakeMyTrip card element"""
-        hotel_data = {
-            'hotel_name': '',
-            'city': city_name,
-            'address': '',
-            'star_rating': '',
-            'price_per_night': '',
-            'guest_rating': '',
-            'amenities': '',
-            'data_source': 'MakeMyTrip'
-        }
-        
-        # Multiple strategies to extract hotel name
-        name_selectors = [
-            {'tag': 'h3', 'attrs': {'data-cy': 'property-title'}},
-            {'tag': 'h4', 'class_': re.compile(r'name|title')},
-            {'tag': 'span', 'class_': re.compile(r'hotel.*name|property.*name')},
-            {'tag': 'a', 'class_': re.compile(r'hotel.*link|property.*link')},
-            {'tag': '*', 'string': re.compile(r'^[A-Z][a-zA-Z\s&,.-]{5,50}$')}  # Pattern match
-        ]
-        
-        for selector in name_selectors:
-            try:
-                if 'attrs' in selector:
-                    elem = card.find(selector['tag'], attrs=selector['attrs'])
-                elif 'class_' in selector:
-                    elem = card.find(selector['tag'], class_=selector['class_'])
-                elif 'string' in selector:
-                    elem = card.find(selector['tag'], string=selector['string'])
-                else:
-                    elem = card.find(selector['tag'])
-                
-                if elem:
-                    name = elem.get_text(strip=True)
-                    if len(name) > 5 and len(name) < 100:  # Reasonable name length
-                        hotel_data['hotel_name'] = name
-                        break
-            except:
-                continue
-        
-        # Extract price with multiple strategies
-        price_selectors = [
-            {'tag': 'span', 'class_': re.compile(r'price|rate|cost|amount')},
-            {'tag': 'div', 'class_': re.compile(r'price|rate')},
-            {'tag': '*', 'string': re.compile(r'₹\s*[\d,]+')}
-        ]
-        
-        for selector in price_selectors:
-            try:
-                if 'attrs' in selector:
-                    elem = card.find(selector['tag'], attrs=selector['attrs'])
-                elif 'class_' in selector:
-                    elem = card.find(selector['tag'], class_=selector['class_'])
-                elif 'string' in selector:
-                    elem = card.find(selector['tag'], string=selector['string'])
-                
-                if elem:
-                    price_text = elem.get_text(strip=True)
-                    price_match = re.search(r'₹\s*([\d,]+)', price_text)
-                    if price_match:
-                        hotel_data['price_per_night'] = price_match.group(1).replace(',', '')
-                        break
-            except:
-                continue
-        
-        # Extract rating
-        rating_selectors = [
-            {'tag': 'span', 'class_': re.compile(r'rating|score|review')},
-            {'tag': 'div', 'class_': re.compile(r'rating|score')},
-            {'tag': '*', 'string': re.compile(r'\d\.\d')}
-        ]
-        
-        for selector in rating_selectors:
-            try:
-                if 'class_' in selector:
-                    elem = card.find(selector['tag'], class_=selector['class_'])
-                elif 'string' in selector:
-                    elem = card.find(selector['tag'], string=selector['string'])
-                
-                if elem:
-                    rating_text = elem.get_text(strip=True)
-                    rating_match = re.search(r'(\d\.\d)', rating_text)
-                    if rating_match:
-                        hotel_data['guest_rating'] = rating_match.group(1)
-                        break
-            except:
-                continue
-        
-        return hotel_data
-
-    def scrape_alternative_booking_sites(self, city_name: str) -> List[Dict]:
-        """Scrape from alternative, more reliable booking sites"""
-        hotels = []
-        
-        # Try Cleartrip (often more accessible)
-        try:
-            logger.info(f"Trying Cleartrip for {city_name}")
-            city_encoded = city_name.replace(' ', '+')
-            url = f"https://www.cleartrip.com/hotels/search?q={city_encoded}"
-            
-            response = self.safe_request(url, timeout=45)
-            if response:
-                soup = BeautifulSoup(response.content, 'html.parser')
-                
-                # Look for hotel cards
-                cards = soup.find_all('div', class_=re.compile(r'hotel|property|card'))
-                
-                for card in cards[:15]:
-                    try:
-                        name_elem = card.find(['h3', 'h4', 'span'], class_=re.compile(r'name|title'))
-                        if name_elem:
-                            hotel_data = {
-                                'hotel_name': name_elem.get_text(strip=True),
-                                'city': city_name,
-                                'data_source': 'Cleartrip'
-                            }
-                            
-                            # Extract other data
-                            price_elem = card.find('span', string=re.compile(r'₹'))
-                            if price_elem:
-                                price_match = re.search(r'₹\s*([\d,]+)', price_elem.get_text())
-                                if price_match:
-                                    hotel_data['price_per_night'] = price_match.group(1).replace(',', '')
-                            
-                            hotels.append(hotel_data)
-                            
-                    except Exception as e:
-                        continue
-                
-                logger.info(f"Collected {len(hotels)} hotels from Cleartrip for {city_name}")
-                
-        except Exception as e:
-            logger.error(f"Cleartrip scraping failed for {city_name}: {str(e)}")
-        
-        return hotels
-
-    def scrape_oyo_hotels_enhanced(self, city_name: str) -> List[Dict]:
-        """Enhanced OYO scraper with better reliability"""
-        hotels = []
-        
-        try:
-            # Multiple OYO URL patterns
-            url_patterns = [
-                f"https://www.oyorooms.com/search?location={quote(city_name)}",
-                f"https://www.oyorooms.com/hotels-in-{city_name.replace(' ', '-').lower()}",
-                f"https://www.oyorooms.com/{city_name.replace(' ', '-').lower()}"
-            ]
-            
-            for url in url_patterns:
-                try:
-                    logger.info(f"Trying OYO URL: {url}")
-                    response = self.safe_request(url, timeout=45)
-                    
-                    if response:
-                        soup = BeautifulSoup(response.content, 'html.parser')
-                        
-                        # Look for OYO-specific elements
-                        hotel_cards = soup.find_all(['div'], class_=re.compile(r'hotel|property|listingCard'))
-                        
-                        if not hotel_cards:
-                            # Alternative: look for elements containing "OYO"
-                            hotel_cards = soup.find_all(string=re.compile(r'OYO \d+', re.I))
-                            hotel_cards = [elem.parent for elem in hotel_cards if elem.parent]
-                        
-                        for card in hotel_cards[:20]:
-                            try:
-                                hotel_data = {
-                                    'hotel_name': '',
-                                    'city': city_name,
-                                    'hotel_type': 'Budget',
-                                    'data_source': 'OYO'
-                                }
-                                
-                                # Extract OYO hotel name
-                                name_text = card.get_text()
-                                oyo_match = re.search(r'(OYO \d+ [^,\n]+)', name_text, re.I)
-                                if oyo_match:
-                                    hotel_data['hotel_name'] = oyo_match.group(1).strip()
-                                
-                                # Extract price
-                                price_match = re.search(r'₹\s*([\d,]+)', name_text)
-                                if price_match:
-                                    hotel_data['price_per_night'] = price_match.group(1).replace(',', '')
-                                
-                                if hotel_data['hotel_name']:
-                                    hotels.append(hotel_data)
-                                    
-                            except Exception as e:
-                                continue
-                        
-                        if hotels:
-                            logger.info(f"Successfully collected {len(hotels)} OYO hotels for {city_name}")
-                            break
-                        
-                except Exception as e:
-                    logger.warning(f"OYO URL failed {url}: {str(e)}")
-                    continue
-            
-        except Exception as e:
-            logger.error(f"OYO scraping failed for {city_name}: {str(e)}")
-        
-        return hotels
 
     def search_overpass_hotels(self, city_name: str, lat: float, lon: float) -> List[Dict]:
         """Search hotels using Overpass API (OpenStreetMap data) with enhanced error handling"""
@@ -771,49 +474,6 @@ class HotelDataCollector:
         state = self.get_state_from_city(city_name)
         all_hotels = []
         
-        # 1. Try OpenStreetMap first (most reliable)
-        try:
-            logger.info(f"Collecting from OpenStreetMap for {city_name}")
-            osm_hotels = self.search_overpass_hotels(city_name, lat, lon)
-            if osm_hotels:
-                all_hotels.extend(osm_hotels)
-                logger.info(f"✓ OpenStreetMap: {len(osm_hotels)} hotels")
-            else:
-                logger.warning(f"✗ OpenStreetMap: No hotels found")
-        except Exception as e:
-            logger.error(f"OpenStreetMap collection failed: {str(e)}")
-        
-        # 2. Try alternative booking sites (more reliable than MakeMyTrip)
-        try:
-            logger.info(f"Collecting from alternative booking sites for {city_name}")
-            alt_hotels = self.scrape_alternative_booking_sites(city_name)
-            if alt_hotels:
-                all_hotels.extend(alt_hotels)
-                logger.info(f"✓ Alternative sites: {len(alt_hotels)} hotels")
-        except Exception as e:
-            logger.error(f"Alternative booking sites failed: {str(e)}")
-        
-        # 3. Try enhanced OYO scraping
-        try:
-            logger.info(f"Collecting from OYO for {city_name}")
-            oyo_hotels = self.scrape_oyo_hotels_enhanced(city_name)
-            if oyo_hotels:
-                all_hotels.extend(oyo_hotels)
-                logger.info(f"✓ OYO: {len(oyo_hotels)} hotels")
-        except Exception as e:
-            logger.error(f"OYO collection failed: {str(e)}")
-        
-        # 4. Try MakeMyTrip with enhanced error handling (optional)
-        try:
-            logger.info(f"Attempting MakeMyTrip for {city_name} (with timeout protection)")
-            mmt_hotels = self.scrape_makemytrip_robust(city_name)
-            if mmt_hotels:
-                all_hotels.extend(mmt_hotels)
-                logger.info(f"✓ MakeMyTrip: {len(mmt_hotels)} hotels")
-            else:
-                logger.warning(f"✗ MakeMyTrip: No hotels collected (may be blocked)")
-        except Exception as e:
-            logger.warning(f"MakeMyTrip collection failed (expected): {str(e)}")
         
         # Remove duplicates
         unique_hotels = self.deduplicate_hotels(all_hotels)
@@ -850,7 +510,7 @@ class HotelDataCollector:
         
         # Assign hotel type based on name and price
         hotel_name = enriched_hotel.get('hotel_name', '').lower()
-        price_str = enriched_hotel.get('price_per_night', '0')
+        price_str = enrichxed_hotel.get('price_per_night', '0')
         
         try:
             price = int(price_str.replace(',', '')) if price_str else 0
@@ -1322,9 +982,7 @@ print(f"Target hotels per city: 60")
 print(f"Total target hotels: {len(collector.all_cities) * 60}")
 print(f"Data fields per hotel: {len(collector.hotel_fields)}")
 print("\nIMPROVEMENTS:")
-print("✓ Enhanced error handling for MakeMyTrip timeouts")
 print("✓ Robust retry mechanisms with progressive delays")
-print("✓ Alternative booking site sources")
 print("✓ Fallback coordinate system")
 print("✓ Better synthetic data generation")
 
@@ -1348,7 +1006,6 @@ def run_test_robust():
     setup_directories()
     
     print("Starting test collection with robust error handling...")
-    print("This should work even if MakeMyTrip times out!")
     
     # Run enhanced test collection
     test_files = collector.run_test_collection_robust(test_cities)
